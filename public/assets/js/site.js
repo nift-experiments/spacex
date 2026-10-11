@@ -91,6 +91,10 @@ for (const carousel of document.querySelectorAll('.sx-carousel')) {
       slide.setAttribute('aria-hidden', String(position !== index));
       slide.inert = position !== index;
     });
+    carousel.querySelectorAll('[data-carousel-index]').forEach(button => {
+      const active = Number(button.dataset.carouselIndex) === index;
+      button.classList.toggle('swiper-pagination-bullet-active',active); button.setAttribute('aria-current',String(active));
+    });
     const caption = family?.querySelector('.caption');
     if (caption && slides[index].dataset.caption !== undefined) caption.textContent = slides[index].dataset.caption;
     if (previous) { previous.disabled = index === 0; previous.setAttribute('aria-label', 'Previous slide'); }
@@ -99,6 +103,10 @@ for (const carousel of document.querySelectorAll('.sx-carousel')) {
   wrapper.style.transition = 'transform 300ms ease';
   previous?.addEventListener('click', () => show(index - 1));
   next?.addEventListener('click', () => show(index + 1));
+  for (const button of carousel.querySelectorAll('[data-carousel-index]')) {
+    button.addEventListener('click', () => show(Number(button.dataset.carouselIndex)));
+    button.addEventListener('keydown', event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); show(Number(button.dataset.carouselIndex)); } });
+  }
   carousel.tabIndex = 0;
   carousel.addEventListener('keydown', event => {
     if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {

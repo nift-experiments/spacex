@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "identity": "7de441480ddb8b4d4a26abcbbed98a029c818de15d90c9e37e7e47179545e660",
+  "scope": "Maintained playback, image and document assets only; download-only MP4 catalogue excluded",
+  "releaseRepository": "nift-experiments/spacex",
+  "releaseTag": "maintained-responsive-7de441480ddb8b4d",
+  "files": [
+    {
+      "path": "public/assets/recovered/content.spacex.com/cms-assets/sites-assets/community-sponsorships-outreach.jpg.webp",
+      "bytes": 3748368,
+      "sha256": "0160cbf4848436e0866e66f26e5381461bf27942ae230310d1a3a315b23f7334"
+    }
+  ],
+  "parts": [
+    {
+      "name": "assets-64m-000.tar.part",
+      "bytes": 3758080,
+      "sha256": "530215b61c7240f889948a6286f90701e19d13e27ec0f2bc81c0723c43bc6e57",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-responsive-7de441480ddb8b4d/assets-64m-000.tar.part"
+    }
+  ]
+}

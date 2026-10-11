@@ -1,0 +1,16 @@
+{
+  "scope": "Representative Starship native selection; final pixel and whole-site parity remain open",
+  "authoredDesktop": {
+    "paginationSlide": 4,
+    "rvacSelected": true,
+    "thrust": "275 tf / 606 klbf"
+  },
+  "renderedMobile": {
+    "paginationSlide": 4,
+    "rvacSelected": true,
+    "thrust": "275 tf / 606 klbf"
+  },
+  "contentChecks": 38,
+  "contentChecksPassed": 38,
+  "browserParityAccepted": false
+}

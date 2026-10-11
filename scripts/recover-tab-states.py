@@ -4,11 +4,14 @@ No framework runtime is interpreted or shipped. This is explicit migration tooli
 from pathlib import Path
 from urllib.parse import urlsplit,unquote
 from bs4 import BeautifulSoup,Comment
-import json,re,hashlib
+import json,re,hashlib,argparse
 W=Path(__file__).resolve().parents[2];B=W/'spacex-baseline';H=W/'spacex';A=W/'spacex-agent'
 plans=json.loads((H/'investigation/evidence/tab-state-plan.json').read_text())
-records=[]
+parser=argparse.ArgumentParser();parser.add_argument('--routes',nargs='*');args=parser.parse_args()
+existing=json.loads((H/'investigation/evidence/tab-state-recovery.json').read_text()) if (H/'investigation/evidence/tab-state-recovery.json').exists() else []
+records=[row for row in existing if args.routes and row['route'] not in args.routes]
 for plan in plans:
+ if args.routes and plan['route'] not in args.routes:continue
  key=plan['route'].replace('/','-')+'-'+plan['key'];fragments=[]
  for label,ending in zip(plan['labels'],plan['captures']):
   capture=next((B/'browser-captures').glob(plan['route'].replace('/','-')+'.1280x720.'+ending+'.json'));record=json.loads(capture.read_text());dom=BeautifulSoup(record['html'],'html.parser')

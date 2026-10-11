@@ -134,5 +134,21 @@
     "capture": "vehicles-dragon.1280x720.b4af6c21e003.json",
     "captureSha256": "b4af6c21e00351c5efeffd069a2cf289ccc9ec0b0f08fc63c041d570eac366c9",
     "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/starship",
+    "family": "vehicles-starship-raptor",
+    "state": "Raptor",
+    "capture": "vehicles-starship.1280x720.10903ce02148.json",
+    "captureSha256": "10903ce02148fd8b51dc7b293afd9b6184e2475ae09a77d24fcc6c3767dac3d2",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/starship",
+    "family": "vehicles-starship-raptor",
+    "state": "Raptor vacuum (RVAC)",
+    "capture": "vehicles-starship.1280x720.718b90cda621.json",
+    "captureSha256": "718b90cda621eb7db86a76f95546961bb2c9d97199259fe8a3f3a84680c708fd",
+    "browserParityAccepted": false
   }
 ]

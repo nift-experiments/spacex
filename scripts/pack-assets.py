@@ -1,5 +1,6 @@
 from pathlib import Path
-import hashlib,json,tarfile
+import hashlib,json,tarfile,argparse
+parser=argparse.ArgumentParser();parser.add_argument('--files-json',type=Path);parser.add_argument('--manifest-name',default='asset-manifest.json');parser.add_argument('--label',default='maintained-assets-');args=parser.parse_args()
 PART_BYTES=64*1024*1024
 W=Path(__file__).resolve().parents[2];P=Path(__file__).resolve().parents[1];rows=[];objects={}
 def digest(path):
@@ -7,8 +8,8 @@ def digest(path):
  with path.open('rb') as f:
   for chunk in iter(lambda:f.read(1024*1024),b''):h.update(chunk)
  return h.hexdigest()
-for folder in ('media','recovered'):
- for f in sorted((P/'public/assets'/folder).rglob('*')):
+files=[P/relative for relative in json.loads(args.files_json.read_text())] if args.files_json else [f for folder in ('media','recovered') for f in (P/'public/assets'/folder).rglob('*')]
+for f in sorted(files):
   if not f.is_file() or f.suffix=='.m3u8':continue
   sha=digest(f);relative=str(f.relative_to(P));other=W/'spacex-agent'/relative
   if other.exists():assert digest(other)==sha,relative
@@ -31,8 +32,8 @@ with tarfile.open(fileobj=writer,mode='w|',format=tarfile.USTAR_FORMAT) as archi
  for sha,f in sorted(objects.items()):
   info=tarfile.TarInfo('objects/'+sha);info.size=f.stat().st_size;info.mode=0o444
   with f.open('rb') as source:archive.addfile(info,source)
-writer.close();tag='maintained-assets-'+identity[:16]
+writer.close();tag=args.label+identity[:16]
 manifest={'schema':1,'identity':identity,'scope':'Maintained playback, image and document assets only; download-only MP4 catalogue excluded','releaseRepository':'nift-experiments/spacex','releaseTag':tag,'files':rows,'parts':[{'name':f.name,'bytes':f.stat().st_size,'sha256':digest(f),'url':f'https://github.com/nift-experiments/spacex/releases/download/{tag}/{f.name}'} for f in writer.paths]}
 (out/'asset-manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
-for name in ('spacex','spacex-agent'):(W/name/'asset-manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+for name in ('spacex','spacex-agent'):(W/name/args.manifest_name).write_text(json.dumps(manifest,indent=2)+'\n')
 print(json.dumps({'files':len(rows),'uniqueObjects':len(objects),'publicationBytes':sum(x['bytes'] for x in rows),'bundleBytes':sum(x['bytes'] for x in manifest['parts']),'parts':len(writer.paths),'bundleDirectory':str(out),'releaseTag':tag}),flush=True)

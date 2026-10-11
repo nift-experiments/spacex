@@ -94,5 +94,17 @@
       "21ccd200ec41",
       "b4af6c21e003"
     ]
+  },
+  {
+    "route": "vehicles/starship",
+    "key": "raptor",
+    "labels": [
+      "Raptor",
+      "Raptor vacuum (RVAC)"
+    ],
+    "captures": [
+      "10903ce02148",
+      "718b90cda621"
+    ]
   }
 ]

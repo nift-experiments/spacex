@@ -147,9 +147,8 @@ for capture in sorted(value[1] for value in latest.values()):
                 if not target.exists():
                     shutil.copy2(source, target)
         elif host == 'www.spacex.com' and not Path(path).suffix:
-            destination = 'public/' + path.strip('/') + '/'
-            for project in projects:
-                (project / destination).mkdir(parents=True, exist_ok=True)
+            destination = path.strip('/') + '/' if path.strip('/') else '/'
+            if destination == 'undefined/':return "@path('/')undefined/"
         else:
             # Preserve uncertain or downloadable URLs; classify before parity.
             return 'https://' + host + path + ('?' + parsed.query if parsed.query else '') + ('#' + parsed.fragment if parsed.fragment else '')

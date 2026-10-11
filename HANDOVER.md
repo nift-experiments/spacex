@@ -353,3 +353,11 @@ The literal mobile-media inventory yields 345 @path bindings across both project
 ### Supplier conditional-editing checkpoint
 
 Native NAICS and CSI repeat fields now use observed public field structures. The authored project composes two maintained row partials; the rendered project maintains their HTML inline. Public source and browser state establish the one-row NAICS deletion floor, conditional industry-specialization requirement, construction options and complete CSI select list. Representative desktop authored and mobile rendered add/condition checks pass. Hidden controls are disabled for native validity checks; acknowledgement boxes remain untouched and no submission is performed. Complete validation/pixel parity remains open.
+
+### Starship native selection checkpoint
+
+Two additional Raptor variants bring the maintained tab inventory to 19 captured states. Four Starship pagination groups are recovered from public open shadow DOM as native controls, with only their presentation CSS retained. Representative authored direct selection of slide 4 and RVac content (275 tf / 606 klbf) passes. Final responsive/pixel parity remains open.
+
+### Clean-checkout portability correction
+
+A fresh GitHub clone exposed internal @path arguments using `public/<route>/`, which had depended on pre-existing output directories. Maintained internal route references now use tracked names. Captured srcset references to the local reference server are converted to native @path asset references; the publication audit now checks srcset and rejects local reference-server dependencies. One 3,748,368-byte responsive image is transported separately, and small responsive images are maintained Git assets. The two documented inherited source defects remain visible. This is a migration-source correction; no Nift core changes were made. Clean-checkout completion is still being verified, and final parity/benchmark acceptance remains open.

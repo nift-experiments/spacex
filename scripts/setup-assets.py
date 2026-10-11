@@ -70,8 +70,7 @@ print('Verified maintained assets:',len(manifest['files']))
 
 # Mobile supplement acquisition is still setup-only; normal nift builds do not run this.
 if args.manifest.resolve() == (project/'asset-manifest.json').resolve():
- supplement=project/'mobile-asset-manifest.json'
- if supplement.exists():
+ for supplement in sorted(project.glob('*-asset-manifest.json')):
   command=[sys.executable,str(Path(__file__).resolve()),'--manifest',str(supplement),'--cache',str(args.cache)]
   if args.bundle_dir:
    mobile=json.loads(supplement.read_text());command.extend(['--bundle-dir',str(args.bundle_dir.parent/mobile['identity'])])

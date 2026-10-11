@@ -5,22 +5,22 @@
     "links": [
       {
         "label": "Starship",
-        "url": "public/vehicles/starship/",
+        "url": "vehicles/starship/",
         "external": false
       },
       {
         "label": "Dragon",
-        "url": "public/vehicles/dragon/",
+        "url": "vehicles/dragon/",
         "external": false
       },
       {
         "label": "Falcon 9",
-        "url": "public/vehicles/falcon-9/",
+        "url": "vehicles/falcon-9/",
         "external": false
       },
       {
         "label": "Falcon Heavy",
-        "url": "public/vehicles/falcon-heavy/",
+        "url": "vehicles/falcon-heavy/",
         "external": false
       }
     ],
@@ -34,27 +34,27 @@
     "links": [
       {
         "label": "Overview",
-        "url": "public/humanspaceflight/overview/",
+        "url": "humanspaceflight/overview/",
         "external": false
       },
       {
         "label": "Space Station",
-        "url": "public/humanspaceflight/iss/",
+        "url": "humanspaceflight/iss/",
         "external": false
       },
       {
         "label": "Earth Orbit",
-        "url": "public/humanspaceflight/earth/",
+        "url": "humanspaceflight/earth/",
         "external": false
       },
       {
         "label": "The Moon",
-        "url": "public/humanspaceflight/moon/",
+        "url": "humanspaceflight/moon/",
         "external": false
       },
       {
         "label": "Mars & Beyond",
-        "url": "public/humanspaceflight/mars/",
+        "url": "humanspaceflight/mars/",
         "external": false
       }
     ],
@@ -72,7 +72,7 @@
   },
   {
     "label": "Starshield",
-    "url": "public/starshield/",
+    "url": "starshield/",
     "external": false,
     "group": false,
     "id": "",
@@ -84,7 +84,7 @@
     "links": [
       {
         "label": "STARMIND",
-        "url": "public/spacexai/starmind/",
+        "url": "spacexai/starmind/",
         "external": false
       },
       {
@@ -121,27 +121,27 @@
     "links": [
       {
         "label": "Mission",
-        "url": "public/mission/",
+        "url": "mission/",
         "external": false
       },
       {
         "label": "Careers",
-        "url": "public/careers/",
+        "url": "careers/",
         "external": false
       },
       {
         "label": "Sites",
-        "url": "public/sites/",
+        "url": "sites/",
         "external": false
       },
       {
         "label": "Updates",
-        "url": "public/updates/",
+        "url": "updates/",
         "external": false
       },
       {
         "label": "Content",
-        "url": "public/content/",
+        "url": "content/",
         "external": false
       },
       {
