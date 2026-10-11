@@ -134,28 +134,39 @@ const alignHomepage = () => {
 homepageBreakpoint.addEventListener('change', alignHomepage);
 alignHomepage();
 
-// Public Sites reveal behavior, bounded to the two observed element families.
-for (const [selector, className, rootMargin, threshold] of [
+// Public Sites reveal behavior, including maintained component replacements.
+const revealFamilies = [
   ['.sx-reveal', 'sx-reveal--in', '0px 0px -12% 0px', 0.12],
   ['.la-year', 'la-year--in', '0px 0px -8% 0px', 0.45],
-]) {
-  const elements = document.querySelectorAll(selector);
-  if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
-    elements.forEach(element => element.classList.add(className));
-    continue;
-  }
-  const observer = new IntersectionObserver(entries => {
+].map(([selector, className, rootMargin, threshold]) => ({
+  selector, className,
+  observer: new IntersectionObserver(entries => {
     for (const entry of entries) {
       if (!entry.isIntersecting) continue;
       entry.target.classList.add(className);
-      observer.unobserve(entry.target);
+      entry.target.dataset.nativeRevealObserved = 'complete';
+      revealFamilies.find(family => family.className === className).observer.unobserve(entry.target);
     }
-  }, {root: null, rootMargin, threshold});
-  elements.forEach(element => {
-    element.classList.remove(className);
-    observer.observe(element);
-  });
-}
+  }, {root: null, rootMargin, threshold}),
+}));
+const observeReveals = (root = document) => {
+  for (const {selector, className, observer} of revealFamilies) {
+    const elements = [...root.querySelectorAll(selector)];
+    if (root.matches?.(selector)) elements.unshift(root);
+    for (const element of elements) {
+      if (element.dataset.nativeRevealObserved) continue;
+      if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        element.classList.add(className);
+        element.dataset.nativeRevealObserved = 'complete';
+      } else {
+        element.classList.remove(className);
+        element.dataset.nativeRevealObserved = 'pending';
+        observer.observe(element);
+      }
+    }
+  }
+};
+observeReveals();
 
 // Public header onScroll: reveal upward/below 50px/or while mobile navigation is expanded.
 let currentPageYOffset = 0;

@@ -5,7 +5,9 @@ const applyState = (root, value, focus = true) => {
   if (!source) return;
   const next = source.content.firstElementChild.cloneNode(true);
   root.querySelectorAll('video').forEach(video=>video.pause());
+  root.querySelectorAll('.sx-reveal,.la-year').forEach(element=>revealFamilies.forEach(family=>family.observer.unobserve(element)));
   root.replaceWith(next);
+  observeReveals(next);
   selectMobileMedia(next);
   if (focus) next.querySelector(`[data-native-state-value="${CSS.escape(value)}"]`)?.focus();
 };
