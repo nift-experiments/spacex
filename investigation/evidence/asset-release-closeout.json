@@ -34,7 +34,8 @@
   "remoteAssetSizesAndDigestsVerified": true,
   "emptyCacheNetworkBaseMobileResponsivePassed": true,
   "storageFailureRetained": true,
-  "allSupplementNetworkAcquisitionPending": true,
+  "allSupplementNetworkAcquisitionPending": false,
   "downloadOnlyCatalogueExcluded": true,
-  "browserParityAccepted": false
+  "browserParityAccepted": false,
+  "emptyCacheNetworkAllFiveBundlesPassed": true
 }

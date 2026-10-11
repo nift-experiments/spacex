@@ -1,0 +1,27 @@
+{
+  "source": "4646.234dfcf044c04d03.js",
+  "sha256": "91ecf6eec15f9cba1c62dc30b7debfc44a3f5d78750c23a51cf33ba226031031",
+  "rules": [
+    {
+      "selector": ".sx-reveal",
+      "class": "sx-reveal--in",
+      "rootMargin": "0px 0px -12% 0px",
+      "threshold": 0.12
+    },
+    {
+      "selector": ".la-year",
+      "class": "la-year--in",
+      "rootMargin": "0px 0px -8% 0px",
+      "threshold": 0.45
+    }
+  ],
+  "oneShot": true,
+  "reducedMotionImmediate": true,
+  "authoredBrowserObserved": {
+    "route": "/sites/",
+    "initialFeatureOpacity": 0,
+    "afterScrollRevealClass": true,
+    "afterScrollTransitionOpacity": 0.950002
+  },
+  "fullBrowserParityAccepted": false
+}
