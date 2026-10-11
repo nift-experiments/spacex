@@ -1,0 +1,29 @@
+{
+  "sourceModules": [
+    {
+      "file": "3281.3e3e1cd8dab2f5a8.js",
+      "sha256": "6d9d36554203dbee4273c5d610c0eb4380522381e25d0e9f6c6853346285f635"
+    },
+    {
+      "file": "7043.ee28305f780d9b98.js",
+      "sha256": "87c8a0a0ba944894dceb1240f75cf9df6b60876b5514503fbb6342c8e9c4b6c7"
+    }
+  ],
+  "authoredChecks": {
+    "optionalRevenueEmptyValid": true,
+    "revenueCurrencyCommaDecimalValid": true,
+    "longTldRejectedByPublicGrammar": true,
+    "ordinaryEmailValid": true,
+    "contactBranchVisible": true,
+    "validIndicatorsHidden": true
+  },
+  "renderedChecks": {
+    "actualViewportWidth": 390,
+    "revenueValid": true,
+    "noWebsiteDisablesWebsite": true,
+    "submitDisabled": true,
+    "legalAcknowledgementsUntouched": true
+  },
+  "privateSubmissionPerformed": false,
+  "fullParityAccepted": false
+}

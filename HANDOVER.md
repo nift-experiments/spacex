@@ -439,3 +439,7 @@ All published titles, locations, disciplines, program memberships and applicatio
 ### Replacement reveal lifecycle correction
 
 Mid-South environment state replacement now registers new reveal elements with the captured intersection observers and detaches old targets. Thresholds/root margins and reduced-motion behavior remain unchanged. Desktop authored Air and rendered Power retain registered replacement elements and reveal the visible pin; actual 390x844 retains the source-hidden environment tabs. JavaScript cache keys were refreshed so existing previews receive the corrected controllers. Complete viewport/interaction parity remains open.
+
+### Source-derived supplier validation correction
+
+The delivered public supplier module establishes optional revenue, seven required selection groups, a bounded email grammar, numeric input constraints, and dynamic required indicators. Native validation now uses those rules rather than requiring every captured asterisk or accepting the browser email grammar alone. Valid $1,000.50 and empty optional revenue pass; test@example.technology fails the public email grammar while test@example.com passes. Authored visible contact and revenue indicators hide after valid values. Rendered mobile at actual 390x844 accepts valid revenue and disables the website when No Official Website is selected. Submit remains disabled; legal acknowledgements were untouched and no submission/CAPTCHA was attempted. Full validation/conditional/viewport matrix remains open; source confirmation-presence edge behavior is not claimed.

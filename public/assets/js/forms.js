@@ -1,3 +1,21 @@
+/* Delivered public numeric directive semantics; no private service implementation. */
+const publicNumericText = (value, options = {}) => {
+  if (!value) return false;
+  const {allowCommas,allowDecimal,allowNegative,allowCurrency,liveTypingMode} = options;
+  let commas=0,decimals=0,negatives=0,currency=0,digits=false;
+  for (const char of value) {
+    if (/\d/.test(char)) digits=true;
+    else if (char===',') commas++;
+    else if (char==='.') decimals++;
+    else if (char==='-') negatives++;
+    else if (char==='$') currency++;
+    else return false;
+  }
+  if (!digits) return !!liveTypingMode && ['.', '-', '$', '-.', '$.', '-$', '-$.'].includes(value) && (!value.includes('.') || allowDecimal) && (!value.includes('-') || allowNegative) && (!value.includes('$') || allowCurrency);
+  if (commas && !allowCommas || decimals && !allowDecimal || negatives && !allowNegative || currency && !allowCurrency || decimals>1 || negatives>1 || currency>1) return false;
+  if (negatives && !value.startsWith('-') || currency && !value.startsWith('$') && !value.startsWith('-$') || /\..*,/.test(value) || /,,/.test(value)) return false;
+  return liveTypingMode || !value.endsWith(',');
+};
 /* Native form UI only. Private submission services are not reproduced. */
 for (const host of document.querySelectorAll('supplier-submit-page, lead-submit-page, research-submit-page')) {
   const root = host.shadowRoot || host;
@@ -54,21 +72,55 @@ for (const host of document.querySelectorAll('supplier-submit-page, lead-submit-
       const sub = row.querySelector('input'); sub.pattern = '[0-9]{6}';
     }
     const available = controls().filter(input => !input.closest('[hidden]') && !input.disabled);
+    const revenue = field('approxRevenue');
+    if (revenue) revenue.setCustomValidity(!revenue.value || publicNumericText(revenue.value, {allowCommas:true,allowDecimal:true,allowCurrency:true}) ? '' : 'Revenue must be a valid number.');
+    if (host.tagName === 'SUPPLIER-SUBMIT-PAGE') {
+      for (const name of ['spacexEmail','pocEmail']) {
+        const input = field(name);
+        if (input) input.setCustomValidity(!input.value || /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(input.value) ? '' : 'Enter a valid email address.');
+      }
+    }
+    if (host.tagName === 'SUPPLIER-SUBMIT-PAGE') {
+      for (const name of ['companyLegalName','companyAddress','country','companyWebsite','approxRevenue','spacexEmail','specializationDescription','pocJobTitle','pocGivenName','pocFamilyName','pocEmail','pocPhone']) {
+        const input=field(name);const indicator=input?.closest('.epdk-form-field')?.querySelector('epdk-asterisk');
+        if (indicator) indicator.style.display=(name==='approxRevenue' ? input.validity.valid : !!input.value && input.validity.valid) ? 'none' : '';
+      }
+      for (const group of form.querySelectorAll('mat-radio-group[data-field]')) {
+        const indicator=group.closest('.epdk-form-field')?.querySelector('epdk-asterisk');
+        if (indicator) indicator.style.display=group.querySelector('input:checked') ? 'none' : '';
+      }
+    }
     if (submit) submit.disabled = !available.every(input => input.validity.valid);
   };
   for (const input of controls()) {
     if (input.tagName === 'TEXTAREA' && !input.value.trim()) input.value = '';
     const container = input.closest('.epdk-form-field');
-    if (container?.querySelector('.epdk-asterisk') && !['checkbox','radio'].includes(input.type)) input.required = true;
+    if (host.tagName === 'SUPPLIER-SUBMIT-PAGE') {
+      input.required = ['companyLegalName','companyAddress','country','companyWebsite','spacexEmail','specializationDescription','pocJobTitle','pocGivenName','pocFamilyName','pocEmail','pocPhone'].includes(input.dataset.field);
+    } else if (container?.querySelector('.epdk-asterisk') && !['checkbox','radio'].includes(input.type)) input.required = true;
     if (/email/i.test(input.dataset.field || input.id)) input.type = 'email';
 
   }
   for (const group of form.querySelectorAll('mat-radio-group')) {
-    if (group.closest('.epdk-form-field')?.querySelector('.epdk-asterisk') || (host.tagName === 'SUPPLIER-SUBMIT-PAGE' && group.dataset.field)) group.querySelector('input').required = true;
+    const required = host.tagName === 'SUPPLIER-SUBMIT-PAGE'
+      ? ['spacexPoc','isSmallBusiness','isHbcu','isIsoCert','isAsCert','naicsCodes','providesConstructionServices'].includes(group.dataset.field)
+      : !!group.closest('.epdk-form-field')?.querySelector('.epdk-asterisk');
+    if (required) group.querySelector('input').required = true;
   }
   for (const name of ['confirmedInfoChecked','itarChecked','confirmedInformationAccuracy']) {
     const input = field(name)?.querySelector('input'); if (input) input.required = true;
   }
+  const numericFields = [...form.querySelectorAll('[constraintonumber]')];
+  const lastGoodNumber = new WeakMap();
+  numericFields.forEach(input => {
+    lastGoodNumber.set(input,input.value);
+    input.addEventListener('beforeinput',()=>lastGoodNumber.set(input,input.value));
+    input.addEventListener('input',()=>{
+      const options={liveTypingMode:true,allowDecimal:input.getAttribute('allowdecimal')==='true',allowCommas:input.getAttribute('allowcommas')==='true',allowCurrency:input.getAttribute('allowcurrency')==='true'};
+      if (input.value && !publicNumericText(input.value,options)) input.value=lastGoodNumber.get(input) || '';
+      else lastGoodNumber.set(input,input.value);
+    });
+  });
   form.addEventListener('input', event => {
     if (event.target.matches('[data-code-field="naics"]')) event.target.value = event.target.value.replace(/[^0-9]/g,'');
     synchronize();
