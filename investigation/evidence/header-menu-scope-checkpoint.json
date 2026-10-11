@@ -1,0 +1,50 @@
+{
+  "desktop": {
+    "viewport": [
+      1440,
+      1000
+    ],
+    "bothModelsMatchReference": true,
+    "navigationHeight": 74,
+    "dropdown": {
+      "x": 1118.828125,
+      "y": 20.5,
+      "width": 263.421875,
+      "height": 33
+    }
+  },
+  "mobileMenu": {
+    "viewport": [
+      390,
+      844
+    ],
+    "bothModelsMatchReference": true,
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 375,
+      "height": 892
+    },
+    "links": {
+      "x": 16,
+      "y": 86,
+      "width": 209.84375,
+      "height": 380.375
+    },
+    "upcoming": {
+      "x": 0,
+      "y": 486.375,
+      "width": 360,
+      "height": 377
+    },
+    "bodyOverflow": "visible"
+  },
+  "corrections": [
+    "Preserve captured pull-right class and its existing responsive positioning rules.",
+    "Apply black-overlay to nav as the source does; nav owns menu scrolling.",
+    "Remove body scroll lock absent from the public source.",
+    "Remove header-scoped widget margin that never reaches the upstream inner component."
+  ],
+  "readiness": "Open mobile menu before waiting for its lazy-mounted populated launch dropdown.",
+  "fullParityAccepted": false
+}

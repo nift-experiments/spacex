@@ -5,7 +5,7 @@ toggle.addEventListener('click', () => {
   const open = toggle.getAttribute('aria-expanded') !== 'true';
   toggle.setAttribute('aria-expanded', String(open));
   header.classList.toggle('menu-open', open);
-  document.body.classList.toggle('menu-open', open);
+  header.querySelector('nav').classList.toggle('black-overlay', open);
 });
 const submenuTriggers = [...header.querySelectorAll('.sub-menu-header')];
 const backdrop = header.querySelector('.menu-backdrop');
