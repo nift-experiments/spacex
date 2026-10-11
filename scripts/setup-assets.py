@@ -1,12 +1,16 @@
 """One-time acquisition of pinned maintained assets; never a routine build step."""
 from pathlib import Path
-import argparse,hashlib,io,json,re,shutil,tarfile,urllib.request
+import argparse,hashlib,io,json,re,shutil,tarfile,urllib.request,subprocess,sys,fcntl
 project=Path(__file__).resolve().parents[1]
 parser=argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--manifest',type=Path,default=project/'asset-manifest.json')
 parser.add_argument('--bundle-dir',type=Path,help='Use already-acquired bundle parts, without network access')
 parser.add_argument('--cache',type=Path,default=Path.home()/'.cache/nift-spacex-assets')
-args=parser.parse_args();manifest=json.loads((project/'asset-manifest.json').read_text())
+args=parser.parse_args();manifest=json.loads(args.manifest.read_text())
 cache=args.cache/manifest['identity'];cache.mkdir(parents=True,exist_ok=True)
+# Serialize acquisition into a shared immutable cache across projects.
+cache_lock=(cache/'.acquisition.lock').open('a')
+fcntl.flock(cache_lock,fcntl.LOCK_EX)
 def sha(path):
  h=hashlib.sha256()
  with path.open('rb') as f:
@@ -63,3 +67,12 @@ for row in manifest['files']:
  # Independent writable maintained files: editing one project cannot mutate the cache or its sibling.
  shutil.copyfile(source,destination);destination.chmod(0o644)
 print('Verified maintained assets:',len(manifest['files']))
+
+# Mobile supplement acquisition is still setup-only; normal nift builds do not run this.
+if args.manifest.resolve() == (project/'asset-manifest.json').resolve():
+ supplement=project/'mobile-asset-manifest.json'
+ if supplement.exists():
+  command=[sys.executable,str(Path(__file__).resolve()),'--manifest',str(supplement),'--cache',str(args.cache)]
+  if args.bundle_dir:
+   mobile=json.loads(supplement.read_text());command.extend(['--bundle-dir',str(args.bundle_dir.parent/mobile['identity'])])
+  subprocess.run(command,check=True)

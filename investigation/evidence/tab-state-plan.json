@@ -1,0 +1,98 @@
+[
+  {
+    "route": "vehicles/falcon-9",
+    "key": "first-stage",
+    "labels": [
+      "Overview",
+      "Engines",
+      "Landing legs"
+    ],
+    "captures": [
+      "06ec7481a789",
+      "dc6de82d46ae",
+      "2c728aa46644"
+    ]
+  },
+  {
+    "route": "vehicles/falcon-9",
+    "key": "payload",
+    "labels": [
+      "Fairing",
+      "Dragon"
+    ],
+    "captures": [
+      "06ec7481a789",
+      "d83ecdad8c22"
+    ]
+  },
+  {
+    "route": "vehicles/falcon-9",
+    "key": "merlin",
+    "labels": [
+      "Sea level",
+      "Vacuum"
+    ],
+    "captures": [
+      "06ec7481a789",
+      "c25fc4eaa0ca"
+    ]
+  },
+  {
+    "route": "vehicles/falcon-heavy",
+    "key": "first-stage",
+    "labels": [
+      "Overview",
+      "Engines",
+      "Landing legs"
+    ],
+    "captures": [
+      "c98fe77fd5f5",
+      "e0b228504b81",
+      "8f241e632043"
+    ]
+  },
+  {
+    "route": "vehicles/falcon-heavy",
+    "key": "merlin",
+    "labels": [
+      "Sea level",
+      "Vacuum"
+    ],
+    "captures": [
+      "c98fe77fd5f5",
+      "f8cb787541c1"
+    ]
+  },
+  {
+    "route": "vehicles/dragon",
+    "aliases": [
+      "vehicles"
+    ],
+    "key": "capsule",
+    "labels": [
+      "Overview",
+      "Launch abort",
+      "Altitude control"
+    ],
+    "captures": [
+      "21ccd200ec41",
+      "559bdb035629",
+      "4dd7ffd7132b"
+    ]
+  },
+  {
+    "route": "vehicles/dragon",
+    "aliases": [
+      "vehicles"
+    ],
+    "key": "engines",
+    "labels": [
+      "Draco",
+      "Superdraco"
+    ],
+    "captures": [
+      "21ccd200ec41",
+      "b4af6c21e003"
+    ]
+  }
+]

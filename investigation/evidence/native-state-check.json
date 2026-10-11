@@ -1,0 +1,38 @@
+{
+  "scope": "Representative native-controller checks, not final whole-site browser parity",
+  "authored": {
+    "falcon9FlightOverlay": {
+      "canonicalUrl": "https://www.youtube.com/embed/Z4TXCZG_NEY?enablejsapi=1&version=3",
+      "open": true,
+      "escapeCloses": true,
+      "focusReturns": true,
+      "externalPlayback": "blocked by explicit offline-service CSP"
+    },
+    "falcon9Gallery": {
+      "secondSlide": "2 / 11",
+      "caption": "Falcon 9 first and second stages after separating in flight"
+    }
+  },
+  "rendered": {
+    "dragonLaunchAbort": {
+      "selected": true,
+      "engines": 8,
+      "escapeThrust": "71 kN / 16,000 lbs"
+    },
+    "dragonSuperdraco": {
+      "selected": true,
+      "engines": 8,
+      "escapeThrust": "73 kN / 16,400 lbs"
+    },
+    "mobile": {
+      "viewport": [
+        390,
+        844
+      ],
+      "trunkMobileImageLoaded": true,
+      "spacecraftMobileImageLoaded": true,
+      "launchAbortMobileImageLoaded": true
+    }
+  },
+  "browserParityAccepted": false
+}

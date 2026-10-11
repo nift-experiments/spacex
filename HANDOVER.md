@@ -341,3 +341,11 @@ There are now 829 page/redirect outputs and 89 HLS manifests (918 tracked output
 Webcast controllers cover maintained metadata for 661 mission pages; representative authored/rendered Flight 14 opening, canonical external embed URL and dismissal/focus checks pass in explicit offline-service previews. No external service success is fabricated. Mobile header checks now run in the selected 390×844 tab. The mobile homepage alignment and missing upcoming block are corrected; final viewport/pixel parity remains open.
 
 Asset transport is now 50 parts of at most 64 MiB, with unchanged content identity and publication bytes. The smaller-part upload is in progress; clean-network setup is not yet accepted.
+
+### Bounded vehicle-state and mobile-media checkpoint
+
+Seventeen captured variants cover seven Falcon 9/Falcon Heavy/Dragon tab groups (22 template instances including the Dragon alias). Authored variants are maintained partials; rendered variants are inline maintained HTML. The native controller replaces only the affected component and preserves tab focus. Thirty-four normalized content comparisons against the public captures pass; representative Falcon 9 and rendered Dragon switching checks pass. This does not close final visual parity.
+
+Captured runtime properties restore 424 muted assignments across both projects while preserving the three unmuted public capture exceptions. The native flight-video overlay opens the original embed URL and closes with Escape/focus return in the offline-service preview. Sixty-two maintained slide caption assignments now update the gallery caption on navigation.
+
+The literal mobile-media inventory yields 345 @path bindings across both projects. A separate shared supplement contains 108 frozen mobile assets (329,265,903 bytes), including two newly verified Dragon gallery images. The original base identity remains unchanged. Both release transport and clean-network acquisition remain open; routine Nift builds never run asset acquisition or migration recipes. Remaining component families, complete form conditions, mission galleries/tracker/crew and final parity/lifecycle/benchmarks remain open.

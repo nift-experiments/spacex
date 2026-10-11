@@ -1,0 +1,138 @@
+[
+  {
+    "route": "vehicles/falcon-9",
+    "family": "vehicles-falcon-9-first-stage",
+    "state": "Overview",
+    "capture": "vehicles-falcon-9.1280x720.06ec7481a789.json",
+    "captureSha256": "06ec7481a789a84b806c67cd5e3e7e6ddbaf25d028b0dd540de3475f99c979c9",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-9",
+    "family": "vehicles-falcon-9-first-stage",
+    "state": "Engines",
+    "capture": "vehicles-falcon-9.1280x720.dc6de82d46ae.json",
+    "captureSha256": "dc6de82d46aedc11184b90d4f112c461e072da2c5c667bb80a38f7a746128fc1",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-9",
+    "family": "vehicles-falcon-9-first-stage",
+    "state": "Landing legs",
+    "capture": "vehicles-falcon-9.1280x720.2c728aa46644.json",
+    "captureSha256": "2c728aa46644da644c9f29b76c3ec899708183ff7a24376cc52ec5b2212d907b",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-9",
+    "family": "vehicles-falcon-9-payload",
+    "state": "Fairing",
+    "capture": "vehicles-falcon-9.1280x720.06ec7481a789.json",
+    "captureSha256": "06ec7481a789a84b806c67cd5e3e7e6ddbaf25d028b0dd540de3475f99c979c9",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-9",
+    "family": "vehicles-falcon-9-payload",
+    "state": "Dragon",
+    "capture": "vehicles-falcon-9.1280x720.d83ecdad8c22.json",
+    "captureSha256": "d83ecdad8c221a910ca145a55609dfeb76588589b59ec7836940250b863d0206",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-9",
+    "family": "vehicles-falcon-9-merlin",
+    "state": "Sea level",
+    "capture": "vehicles-falcon-9.1280x720.06ec7481a789.json",
+    "captureSha256": "06ec7481a789a84b806c67cd5e3e7e6ddbaf25d028b0dd540de3475f99c979c9",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-9",
+    "family": "vehicles-falcon-9-merlin",
+    "state": "Vacuum",
+    "capture": "vehicles-falcon-9.1280x720.c25fc4eaa0ca.json",
+    "captureSha256": "c25fc4eaa0ca8443349e5d8f6f07d612aa1c401506b2d7ed68e86695ff54cd0a",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-heavy",
+    "family": "vehicles-falcon-heavy-first-stage",
+    "state": "Overview",
+    "capture": "vehicles-falcon-heavy.1280x720.c98fe77fd5f5.json",
+    "captureSha256": "c98fe77fd5f584e5e65ce413e15a8508ef8f1f2b97246bd0c1fcffec587aa49f",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-heavy",
+    "family": "vehicles-falcon-heavy-first-stage",
+    "state": "Engines",
+    "capture": "vehicles-falcon-heavy.1280x720.e0b228504b81.json",
+    "captureSha256": "e0b228504b81d73f92c5ab228d3470a9e52be84fcb9b263ccefc479de915e271",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-heavy",
+    "family": "vehicles-falcon-heavy-first-stage",
+    "state": "Landing legs",
+    "capture": "vehicles-falcon-heavy.1280x720.8f241e632043.json",
+    "captureSha256": "8f241e632043dba86f00545cc016772ef7478bf8a75fb9c268c6350c18565256",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-heavy",
+    "family": "vehicles-falcon-heavy-merlin",
+    "state": "Sea level",
+    "capture": "vehicles-falcon-heavy.1280x720.c98fe77fd5f5.json",
+    "captureSha256": "c98fe77fd5f584e5e65ce413e15a8508ef8f1f2b97246bd0c1fcffec587aa49f",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/falcon-heavy",
+    "family": "vehicles-falcon-heavy-merlin",
+    "state": "Vacuum",
+    "capture": "vehicles-falcon-heavy.1280x720.f8cb787541c1.json",
+    "captureSha256": "f8cb787541c19863595f4c9c5b0a4a477d8f326362e977904440da55eb0a77b4",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/dragon",
+    "family": "vehicles-dragon-capsule",
+    "state": "Overview",
+    "capture": "vehicles-dragon.1280x720.21ccd200ec41.json",
+    "captureSha256": "21ccd200ec4182e1bd026fd757742bb01910ba0e386e1bfe24e55a6b52af3a5a",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/dragon",
+    "family": "vehicles-dragon-capsule",
+    "state": "Launch abort",
+    "capture": "vehicles-dragon.1280x720.559bdb035629.json",
+    "captureSha256": "559bdb035629eadd0500ce8961968b82edb59c5081bcac63f8704890e67ffa5d",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/dragon",
+    "family": "vehicles-dragon-capsule",
+    "state": "Altitude control",
+    "capture": "vehicles-dragon.1280x720.4dd7ffd7132b.json",
+    "captureSha256": "4dd7ffd7132b3517f7a8ef660a2acb1469a839d5fc555fdbb5eb1bea9eade218",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/dragon",
+    "family": "vehicles-dragon-engines",
+    "state": "Draco",
+    "capture": "vehicles-dragon.1280x720.21ccd200ec41.json",
+    "captureSha256": "21ccd200ec4182e1bd026fd757742bb01910ba0e386e1bfe24e55a6b52af3a5a",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "vehicles/dragon",
+    "family": "vehicles-dragon-engines",
+    "state": "Superdraco",
+    "capture": "vehicles-dragon.1280x720.b4af6c21e003.json",
+    "captureSha256": "b4af6c21e00351c5efeffd069a2cf289ccc9ec0b0f08fc63c041d570eac366c9",
+    "browserParityAccepted": false
+  }
+]

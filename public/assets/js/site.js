@@ -36,12 +36,20 @@ document.addEventListener('keydown', event => {
   if (toggle.getAttribute('aria-expanded') === 'true') { toggle.click(); toggle.focus(); }
   else expanded?.focus();
 });
-if (matchMedia('(max-width:961px)').matches) {
-  for (const video of document.querySelectorAll('video[data-mobile]')) {
-    video.querySelector('source').src = video.dataset.mobile;
-    video.load();
+// Frozen mobile variants are maintained assets, selected without service requests.
+const mediaBreakpoint = matchMedia('(max-width:961px)');
+function selectMobileMedia(root = document) {
+  for (const element of root.querySelectorAll('img[data-mobile],video[data-mobile]')) {
+    const source = element.tagName === 'VIDEO' ? (element.querySelector('source') || element) : element;
+    element.dataset.desktop ??= source.getAttribute('src');
+    const target = mediaBreakpoint.matches ? element.dataset.mobile : element.dataset.desktop;
+    if (source.getAttribute('src') === target) continue;
+    source.setAttribute('src', target);
+    if (element.tagName === 'VIDEO') element.load();
   }
 }
+mediaBreakpoint.addEventListener('change', () => selectMobileMedia());
+selectMobileMedia();
 
 // Public CMS statistics are maintained build inputs, not runtime API requests.
 const counters = new IntersectionObserver(entries => {
@@ -83,6 +91,8 @@ for (const carousel of document.querySelectorAll('.sx-carousel')) {
       slide.setAttribute('aria-hidden', String(position !== index));
       slide.inert = position !== index;
     });
+    const caption = family?.querySelector('.caption');
+    if (caption && slides[index].dataset.caption !== undefined) caption.textContent = slides[index].dataset.caption;
     if (previous) { previous.disabled = index === 0; previous.setAttribute('aria-label', 'Previous slide'); }
     if (next) { next.disabled = index === slides.length - 1; next.setAttribute('aria-label', 'Next slide'); }
   };

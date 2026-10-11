@@ -1,0 +1,2072 @@
+[
+  {
+    "project": "spacex",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/STARSHIP_CAPABILITIES_INTERPLANETARYDESTINATIONS_Mars_01_2023_01_Desktop_Darkerv2.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/STARSHIP_CAPABILITIES_INTERPLANETARYDESTINATIONS_Mars_01_2023_01_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_MOBILE.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_MOBILE.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel4_card1_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card1_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/careers/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/Advancing_Human_Spaceflight_Desktop_61c8ba1c67.jpg",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/Advancing_Human_Spaceflight_Mobile_af242fde31.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/careers/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/careers/Careers_slideshow3.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/Careers_slideshow3_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/careers/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/careers/Careers_slideshow4.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/Careers_slideshow4_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/careers/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/careers/Careers_slideshow5.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/Careers_slideshow5_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/careers/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/careers/careers_inspiration.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/careers_inspiration_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Trunk_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Trunk_Render_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/dragon_humans.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/dragon_humans-mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Draco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/SuperDraco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DRAGON_DM2_LC39A_3840x2560.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_DM2_LC39A_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_CRS-22_3840x2560_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DR_6.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DR_6_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/rideshare/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/videos/Rideshare_Stack_2022.mp4",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/videos/Rideshare_Stack_2022_mobile_02.mp4"
+  },
+  {
+    "project": "spacex",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/hero.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/hero-mobile.webp"
+  },
+  {
+    "project": "spacex",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/modular-design.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/modular-design-mobile.webp"
+  },
+  {
+    "project": "spacex",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/interoperability.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/interoperability-mobile-cropped.webp"
+  },
+  {
+    "project": "spacex",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/rapid-development.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/rapid-development-mobile-cropped.webp"
+  },
+  {
+    "project": "spacex",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/resilient.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/resilient-mobile.webp"
+  },
+  {
+    "project": "spacex",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/proven-partnerships.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/proven-partnerships-mobile-cropped.webp"
+  },
+  {
+    "project": "spacex",
+    "source": "content/updates/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/updates/UPDATES_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/updates/UPDATES_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/home/HS-hero.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/home/HS-hero-mobile.webp"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_hero_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_hero_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_carousel2_card1_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card1_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_whymars_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_whymars_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_FS_WEB.mp4",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_FS_MOBILE.mp4"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_feature2_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_feature2_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_feature1_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_feature1_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel2_card4_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel2_card4_v2_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_carousel1_card2_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel1_card2_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_carousel2_card5_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card5_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_carousel2_card2_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card2_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_carousel2_card4_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card4_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/moon_why.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/mobile/moon_why-mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel2_card3_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel2_card3_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_surface_elevator_down.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_surface_elevator_down_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/hls_launch.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_launch_mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_in_space_refilling.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_in_space_refilling_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_rendezvous.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_rendezvous_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_cabin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_cabin_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_lander.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_lander_mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_depot.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_depot_mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_tanker.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_tanker_mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_capability.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_capability_mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/earth/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/earth_feature.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/mobile/earth_feature_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/earth/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/earth_orbit.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/earth_orbit-mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/earth/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonTrunk_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonTrunk_Render_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/earth/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/STARSHIP_CAPABILITIES_EARTHTOEARTH_Clouds_Starship_2023_01_Desktop_Darkerv2.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/mobile/STARSHIP_CAPABILITIES_EARTHTOEARTH_Clouds_Starship_2023_01_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/earth/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/earth_video.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/mobile/earth_video-mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_feature.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_feature-mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/DRAGON_CRS-22_3840x2560_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_crew.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/iss_crew-mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonTrunk_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonTrunk_Render_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/iss_infographic_mobile.svg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/HS_ISS_DM2_3840x2560.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/HS_ISS_DM2_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/HelmetShot_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/HelmetShot_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_game.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/iss_game_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/humanspaceflight/overview/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/home/HS-hero.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/home/HS-hero-mobile.webp"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-engines/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Draco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-engines/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/SuperDraco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-engines/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Draco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-engines/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/SuperDraco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-first-stage/2.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-first-stage/2.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHEngines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHEngines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-first-stage/2.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-first-stage/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-first-stage/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHEngines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHEngines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-first-stage/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-first-stage/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-first-stage/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHEngines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHEngines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-first-stage/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-capsule/2.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-capsule/2.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-capsule/2.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-capsule/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-capsule/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-capsule/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-capsule/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-capsule/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-dragon-capsule/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-payload/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloFairings_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloFairings_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-payload/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloDragon_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloDragon_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-payload/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloFairings_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloFairings_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-payload/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloDragon_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloDragon_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-first-stage/2.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-first-stage/2.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9Engines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Engines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-first-stage/2.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-first-stage/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-first-stage/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9Engines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Engines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-first-stage/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-first-stage/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-first-stage/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9Engines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Engines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-first-stage/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-merlin/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-merlin/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-merlin/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-heavy-merlin/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-merlin/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-merlin/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-merlin/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/vehicles-falcon-9-merlin/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_FS_WEB.mp4",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_FS_MOBILE.mp4"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_SHIP_WEB.mp4",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_SHIP_MOBILE.mp4"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_BOOSTER_WEB.mp4",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_BOOSTER_MOBILE.mp4"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/starship_playload_delivery.mp4",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/starship_playload_delivery_m.mp4"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel2_card3_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel2_card3_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel2_card4_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel2_card4_v2_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel3_card1_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel3_card1_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel4_card1_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card1_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel4_card2_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card2_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel4_card3_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card3_m.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/fh_feature.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/fh_feature-mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHEngines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHEngines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHInterstage_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHInterstage_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS2_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS2_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHSoloFairings_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHSoloFairings_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_1.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_1_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_2.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_2_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_3.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_3_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_4.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_4_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_5.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_5_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_6.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_6_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_7.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_7_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_8.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_8_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_9.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_9_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_10.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_10_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9Engines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Engines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9Interstage_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Interstage_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S2_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S2_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloFairings_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloFairings_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloDragon_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloDragon_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_DM2_LAUNCH_3840x2560.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_DM2_LAUNCH_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_1.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_1_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_2.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_2_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_3.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_3_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_4.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_4_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_5.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_5_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_6.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_6_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_7.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_7_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_8.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_8_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_9.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_9_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_10.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_10_mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Trunk_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Trunk_Render_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/dragon_humans.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/dragon_humans-mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Draco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/SuperDraco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DRAGON_DM2_LC39A_3840x2560.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_DM2_LC39A_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_CRS-22_3840x2560_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DR_6.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DR_6_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/STARSHIP_CAPABILITIES_INTERPLANETARYDESTINATIONS_Mars_01_2023_01_Desktop_Darkerv2.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/STARSHIP_CAPABILITIES_INTERPLANETARYDESTINATIONS_Mars_01_2023_01_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_MOBILE.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_MOBILE.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel4_card1_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card1_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/careers/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/Advancing_Human_Spaceflight_Desktop_61c8ba1c67.jpg",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/Advancing_Human_Spaceflight_Mobile_af242fde31.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/careers/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/careers/Careers_slideshow3.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/Careers_slideshow3_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/careers/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/careers/Careers_slideshow4.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/Careers_slideshow4_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/careers/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/careers/Careers_slideshow5.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/Careers_slideshow5_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/careers/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/careers/careers_inspiration.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/careers_inspiration_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Trunk_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Trunk_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/dragon_humans.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/dragon_humans-mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Draco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/SuperDraco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DRAGON_DM2_LC39A_3840x2560.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_DM2_LC39A_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_CRS-22_3840x2560_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DR_6.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DR_6_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Draco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/SuperDraco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Draco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/SuperDraco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/rideshare/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/videos/Rideshare_Stack_2022.mp4",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/videos/Rideshare_Stack_2022_mobile_02.mp4"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/hero.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/hero-mobile.webp"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/modular-design.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/modular-design-mobile.webp"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/interoperability.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/interoperability-mobile-cropped.webp"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/rapid-development.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/rapid-development-mobile-cropped.webp"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/resilient.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/resilient-mobile.webp"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/starshield/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/starshield/proven-partnerships.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/starshield/proven-partnerships-mobile-cropped.webp"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/updates/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/updates/UPDATES_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/updates/UPDATES_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/home/HS-hero.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/home/HS-hero-mobile.webp"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_hero_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_hero_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_carousel2_card1_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card1_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_whymars_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_whymars_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_FS_WEB.mp4",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_FS_MOBILE.mp4"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_feature2_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_feature2_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_feature1_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_feature1_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel2_card4_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel2_card4_v2_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_carousel1_card2_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel1_card2_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_carousel2_card5_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card5_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_carousel2_card2_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card2_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/mars/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mars_carousel2_card4_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card4_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/moon_why.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/mobile/moon_why-mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel2_card3_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel2_card3_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_surface_elevator_down.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_surface_elevator_down_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/hls_launch.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_launch_mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_in_space_refilling.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_in_space_refilling_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_rendezvous.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_rendezvous_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_cabin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_cabin_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_lander.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_lander_mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_depot.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_depot_mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_tanker.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_tanker_mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/moon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_capability.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_capability_mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/earth/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/earth_feature.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/mobile/earth_feature_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/earth/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/earth_orbit.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/earth_orbit-mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/earth/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonTrunk_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonTrunk_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/earth/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/STARSHIP_CAPABILITIES_EARTHTOEARTH_Clouds_Starship_2023_01_Desktop_Darkerv2.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/mobile/STARSHIP_CAPABILITIES_EARTHTOEARTH_Clouds_Starship_2023_01_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/earth/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/earth_video.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/mobile/earth_video-mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_feature.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_feature-mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/DRAGON_CRS-22_3840x2560_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_crew.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/iss_crew-mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonTrunk_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonTrunk_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/iss_infographic_mobile.svg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/HS_ISS_DM2_3840x2560.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/HS_ISS_DM2_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/HelmetShot_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/HelmetShot_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/iss/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_game.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/iss_game_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/humanspaceflight/overview/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/home/HS-hero.webp",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/home/HS-hero-mobile.webp"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_FS_WEB.mp4",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_FS_MOBILE.mp4"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_SHIP_WEB.mp4",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_SHIP_MOBILE.mp4"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_BOOSTER_WEB.mp4",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_BOOSTER_MOBILE.mp4"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/content.spacex.com/cms-assets/assets/starship_playload_delivery.mp4",
+    "mobile": "public/assets/recovered/content.spacex.com/cms-assets/assets/starship_playload_delivery_m.mp4"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel2_card3_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel2_card3_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel2_card4_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel2_card4_v2_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel3_card1_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel3_card1_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel4_card1_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card1_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel4_card2_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card2_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/starship/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel4_card3_d.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card3_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/fh_feature.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/fh_feature-mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHEngines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHEngines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHInterstage_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHInterstage_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS2_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS2_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHSoloFairings_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHSoloFairings_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_1.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_1_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_2.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_2_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_3.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_3_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_4.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_4_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_5.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_5_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_6.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_6_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_7.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_7_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_8.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_8_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_9.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_9_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/FH_10.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_10_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHEngines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHEngines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHEngines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHEngines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHEngines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHEngines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/WebsiteFHS1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-heavy/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9Engines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Engines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9Interstage_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Interstage_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S2_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S2_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloFairings_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloFairings_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloDragon_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloDragon_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_DM2_LAUNCH_3840x2560.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_DM2_LAUNCH_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_1.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_1_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_2.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_2_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_3.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_3_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_4.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_4_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_5.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_5_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_6.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_6_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_7.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_7_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_8.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_8_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_9.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_9_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/F9_10.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_10_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9Engines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Engines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9Engines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Engines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9Engines_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Engines_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9S1Legs_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1Legs_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloFairings_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloFairings_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloDragon_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloDragon_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloFairings_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloFairings_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/WebsiteF9SoloDragon_Render_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloDragon_Render_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/falcon-9/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/MerlinVac.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Trunk_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Trunk_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/dragon_humans.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/dragon_humans-mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Draco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/SuperDraco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DRAGON_DM2_LC39A_3840x2560.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_DM2_LC39A_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_CRS-22_3840x2560_800x1200_Mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DR_6.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DR_6_mobile.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Draco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/SuperDraco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/Draco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/vehicles/dragon/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/SuperDraco.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+  }
+]

@@ -1,0 +1,1163 @@
+{
+  "scope": "Literal public media configuration only; explicit migration inventory, never routine builds",
+  "inputs": [
+    {
+      "file": "1165.26b1bf78cd83af99.js",
+      "sha256": "b574435e421fa0e7484645abb1acdaafa6e30c3404b855d4cc97c2eb25bffbfb"
+    },
+    {
+      "file": "1534.6a0782e7e44f8418.js",
+      "sha256": "51bbada67a7395fdfc1388af479b175275eef2dc808a3f1594dc16c81b16492a"
+    },
+    {
+      "file": "1686.75fc6f79a3d581a7.js",
+      "sha256": "1239ecc3fda6c95b0170a8945064b1c34a48479928f4626be523684785f4c4b4"
+    },
+    {
+      "file": "1755.4eda17d7c30d7ee5.js",
+      "sha256": "73285585c77bd8deea88299577f83083d1a937d984fc999150533857ea082c04"
+    },
+    {
+      "file": "1871.cdd9545f484927b8.js",
+      "sha256": "43cf629066ef70c84876142a6f7b3faca1045c90e92864b1cd089635f4ac2698"
+    },
+    {
+      "file": "2206.2c572892decfdc74.js",
+      "sha256": "c7f3bf418c55d55c5fbea68838c7dc97e6076941fafe61b6be95a8e378106e24"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "sha256": "077152eb9177b33c40e6eb961d951a58d8ff699b7df65ac2810b3a8ea2753bdd"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "sha256": "487458d68fb6455429f7deb12d8dbb4c5887e478dd291cd0bff9dc4e6888c543"
+    },
+    {
+      "file": "2601.3173a78bd9bd1e7e.js",
+      "sha256": "92f40835c53a9d8aff2e113872dcb902c5bd2532f072ac3cdb44f3f7d6c4238a"
+    },
+    {
+      "file": "2826.05af52617dc9f9eb.js",
+      "sha256": "633c212a1f19db9bbb6b7f8ab86ff15459e160ddf407b37630cfba883cc2c5c5"
+    },
+    {
+      "file": "3021.b79b508566ce1ead.js",
+      "sha256": "e8d48552f69cc9708059e6abc55567ee892850e54dd33f1584b52cb20bc9b6ac"
+    },
+    {
+      "file": "3025.acf6e47904bf31c2.js",
+      "sha256": "56189f84a5df009f19631d77e544dd058352b5847cda5151222838dc2ba45e20"
+    },
+    {
+      "file": "3075.9e82f8fd7035aa8b.js",
+      "sha256": "ac7398f009c6f32b78472415d693ceaf41a77f29ed8764c6f6af5e4b6e11c47b"
+    },
+    {
+      "file": "3095.0a6eca5813d7c3d6.js",
+      "sha256": "f7e23ac172f3a734c102d049a50e2bc2394067c28c87a5452ee6cced87d20346"
+    },
+    {
+      "file": "3194.b9f6e4adacd0d8ea.js",
+      "sha256": "ca2653babeb29cbc65a0eb5d11c6a2e94f8c7dc31f6fbf73ac1c344fe58dc6f9"
+    },
+    {
+      "file": "3281.3e3e1cd8dab2f5a8.js",
+      "sha256": "6d9d36554203dbee4273c5d610c0eb4380522381e25d0e9f6c6853346285f635"
+    },
+    {
+      "file": "3580.e2925644994989f7.js",
+      "sha256": "06281fd6843eab4c2e143689241f42240d526b0455ea21e114ef7b695baaa233"
+    },
+    {
+      "file": "3720.91c5df0207099672.js",
+      "sha256": "289cc688097e838dc7959fdc835141092906887ca03742f77cc32609deaa431d"
+    },
+    {
+      "file": "3721.2205da10ca7ee491.js",
+      "sha256": "c9a693bdf86f6b95429fd2c40da10868bdda66da57f5d677916c6757e122bee3"
+    },
+    {
+      "file": "3848.5763fb092b15651a.js",
+      "sha256": "711e59e6de62f837c71ca198972c83405efb0e8d129727d7de484b71e17fc9d1"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "sha256": "8d27640c613f82d81ae7942d1c41d76cf6a64202a96bbf4fa46ab83d202d9114"
+    },
+    {
+      "file": "3973.26bc62a70a9c7ff8.js",
+      "sha256": "ea21281d735f1c6993e5c6abd097908ac2efe2cba7186ae334907b9a6a9f2e71"
+    },
+    {
+      "file": "4116.c83f68e3050ccee4.js",
+      "sha256": "0406b912114e746391856060c46afbc1e0b56753ce6a21110b7b221875ec2ee5"
+    },
+    {
+      "file": "4236.09147a7b759c2bf9.js",
+      "sha256": "3bd0af3a8abc4d7d198e50903fbc5b01b5bb10bcda73b345727ee64b1b63306d"
+    },
+    {
+      "file": "4435.6a27bfbe6d5b8ab8.js",
+      "sha256": "7d63dd61bdb9fecd8326fcfdf1b287b85eb98f4fd6c55e5d174a90c6144193b1"
+    },
+    {
+      "file": "4646.234dfcf044c04d03.js",
+      "sha256": "91ecf6eec15f9cba1c62dc30b7debfc44a3f5d78750c23a51cf33ba226031031"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "sha256": "8eddcb99b85eb6730abe11530d3441b4a70c0103a3e7b640f14bcfd772c08c02"
+    },
+    {
+      "file": "5008.1dff26e46957ee0c.js",
+      "sha256": "4e863da4051a6ee83ec57b534c149a1ecc16efc309fc6ef8f9b55dc314dab978"
+    },
+    {
+      "file": "5422.1b30c9f333ebe936.js",
+      "sha256": "b648f8f9db8bd4de5e911db7819f61ae7a6c1a29900a18aebd281689ef5b95cf"
+    },
+    {
+      "file": "5508.0ad2e36f0dfe3088.js",
+      "sha256": "2de290d3a70807e5d403e8e8c07626b041e59e616c4a3e0ab7bd13be521be795"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "sha256": "7bd9776ced62196294b96c9975473d131083b79a09b98f5d3c97aeb85bf63737"
+    },
+    {
+      "file": "5789.9045c8d86dbeff0c.js",
+      "sha256": "58d044a9ed30225dd7f73ca78f86e580e67b93bf34c74c4787bac0ee41c5031c"
+    },
+    {
+      "file": "6082.1ae0e1f7aa866180.js",
+      "sha256": "75d06827fd63dda311fc290249995abd8f06d47e2def55633f0fdf0e097e171b"
+    },
+    {
+      "file": "6188.29f8045d3e582b7c.js",
+      "sha256": "f4fd8e0625506c563efa2f475beb3bb78ff422e4d452992773c5ea3953fd6c0f"
+    },
+    {
+      "file": "623.f251ea81dd05ee1b.js",
+      "sha256": "fa2c2d2faacf39489bfdc563b0f3708f2c2e44ad1a24e6babacba8245ea21076"
+    },
+    {
+      "file": "6307.4350438f45ede5be.js",
+      "sha256": "91548a7687b593cb85ebd76a16a30055254b46de5efcdd3872fd6e2d3975efee"
+    },
+    {
+      "file": "6444.ffb542e654cd21eb.js",
+      "sha256": "fdadef433381c961e51a1ba27ee6e8925867d02311befad4475d928a4b789acc"
+    },
+    {
+      "file": "6543.b709ea243764f7ad.js",
+      "sha256": "29e43505a55cb9bcc298d4379fbe0816ddb323d2b43531b32cb8ccc5cce3a597"
+    },
+    {
+      "file": "6870.a9084dcd58e9e33d.js",
+      "sha256": "4eabfd7678a43f5b4621c3fda07aaef649582da8a7740f509642634302e3bf6b"
+    },
+    {
+      "file": "6901.bbd63ee39042479b.js",
+      "sha256": "2bd790519e9e14a3ed501bd904255a94fce8b6a3cdfdbd88c782a0043883352e"
+    },
+    {
+      "file": "6969.fd17761ebcc13972.js",
+      "sha256": "4acf3948537cd71f69709f93b2df3b39f168a19b6b4609b079e4c20b68f6125b"
+    },
+    {
+      "file": "7.13034f48ed956b13.js",
+      "sha256": "2d86b03219587325e00ffc58d0166a9ac52ec85713863698dcc04b6d157b11f8"
+    },
+    {
+      "file": "7043.ee28305f780d9b98.js",
+      "sha256": "87c8a0a0ba944894dceb1240f75cf9df6b60876b5514503fbb6342c8e9c4b6c7"
+    },
+    {
+      "file": "7064.65d197d49625321e.js",
+      "sha256": "fcb505818146abafe65bef5156c8e2f4d9b807d5406c9ec18670cf7f4da8a44b"
+    },
+    {
+      "file": "7083.2b7745f5bcfb7d6d.js",
+      "sha256": "c029580e2a489631a0a7a3832dcf97838d526675b092fd11a81ecf26db831ddb"
+    },
+    {
+      "file": "7382.11cde0b1d7e2fdc1.js",
+      "sha256": "189f4cb6aec181e3ebb223c31cd786319303002d9c0cf3257ae5f81ce602d82c"
+    },
+    {
+      "file": "742.006e108f419951f0.js",
+      "sha256": "f1a7973162c53ee2116802a4bfc4dafbbac548ee651afa2da27c000fd9560c8c"
+    },
+    {
+      "file": "7428.158cf00c2e2da1d2.js",
+      "sha256": "4d524734c1f89d09f80160a8361bbefe2c4d0d48cd427eb2352d6b8dae6953a6"
+    },
+    {
+      "file": "7442.f524631894b7eb61.js",
+      "sha256": "272917169e6e2471c509f55335c021fe7e1e729fdd7ed1461e71b7626547d138"
+    },
+    {
+      "file": "7753.d06892e686646758.js",
+      "sha256": "8eb20d887d943e95403ec90d368affd4bd70be0359150bd9d71b024156be1a60"
+    },
+    {
+      "file": "7904.e4797272a9e62ecf.js",
+      "sha256": "e4faf8a94558fa3c920b06fa1e6857a7e4ac186da1e777d690ba64a427a93dbc"
+    },
+    {
+      "file": "7913.55e6ffcf0a499e33.js",
+      "sha256": "01ac5807be51878211c8ebc064c32db8ceb74e50bea2d8982348ca49cef81759"
+    },
+    {
+      "file": "8209.38776e0e49c58259.js",
+      "sha256": "e504c78de28118372b7470807299faf3bb54de04bbba5b7ec7ce5a354a9255ea"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "sha256": "3661d4d49350a6e13c6b7a4673f0ca10136a2069aa4b7e7c4ab1213366c690d3"
+    },
+    {
+      "file": "8516.80f777325017dfdd.js",
+      "sha256": "f910b79f63ea15b6da1d2e15d2caeea42f0adfb9fc8760d48eba860c20a17334"
+    },
+    {
+      "file": "8800.85e5c607ebe65b77.js",
+      "sha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+    },
+    {
+      "file": "8832.193bf299ae4d5092.js",
+      "sha256": "8fee8c5f9e393ec837dbeaeb4fee3fddea76ce579305bcd178ac5e876899d63e"
+    },
+    {
+      "file": "8846.175b2e03102814c7.js",
+      "sha256": "eb96d29b16178e03a44c774db3399653e85146ba529654aa74ab9b6f089c2cdc"
+    },
+    {
+      "file": "9300.9362ca6c869de9a5.js",
+      "sha256": "db88b3104801351d09e2ba33c7609ad5580de9bd3295aae1d6f20f15d1460d9b"
+    },
+    {
+      "file": "9512.a0cfe5197dc3d02c.js",
+      "sha256": "718529dfede7d645bd2fdb278ee7473be52f78ced79841e62f264cb3477fdf45"
+    },
+    {
+      "file": "9523.bb9b4496d9c980a9.js",
+      "sha256": "59f9bffa54377c30d7c4fd6cf18f74cd6e390222a80673cdff11d3a70836c270"
+    },
+    {
+      "file": "9592.9f2a34c1a1f0fc24.js",
+      "sha256": "a67a4361c42d6d7296314a3f95ea76b1a9c9c2a544ae126aa9bafc2eabdbf24f"
+    },
+    {
+      "file": "991.4a7fcc5c4ce7c398.js",
+      "sha256": "059e548dd3ddda5f499f06b8dd9d27f571f18a88bdc212db98c9bd5d85e421df"
+    },
+    {
+      "file": "9917.f17017d0fb2f0cc3.js",
+      "sha256": "f47060f3724fdbbb117dc1e67fced9a2000daeb7649b9063186bbbd316618142"
+    },
+    {
+      "file": "993.54c06990f5832028.js",
+      "sha256": "bc36e083fdf21d65c2d2f9ca4f51d0bf2639db9af8a815d877fcdb0029df8d72"
+    },
+    {
+      "file": "9957.07207afe6ec3fb2d.js",
+      "sha256": "02f641ee3ab2b69db7924689cb63700cd17c1f9606c3b68c7b5e8400ee295414"
+    },
+    {
+      "file": "common.23c283755bfacce5.js",
+      "sha256": "8d92458f474cf9fd654d3132f25a58cdabe8bff341da01f17aabc2c07ad2648d"
+    },
+    {
+      "file": "environment.js",
+      "sha256": "2eb0af4eb60699fac25ba39576695b93b4df238b95c0521a2613bf9b0d33bd6a"
+    },
+    {
+      "file": "main.38aaaafc31bc4ec8.js",
+      "sha256": "e8748c9d512f76be7677c7074987010e9f71e04c11fda41c198b83f6972b72bf"
+    },
+    {
+      "file": "polyfills.08b6611321d68f0c.js",
+      "sha256": "efd3a1d21ebb18e77eca107e1e685f419299d0fe752149b3ce0552657b94cfe6"
+    },
+    {
+      "file": "runtime.56febfaf067bbae1.js",
+      "sha256": "65b8d29702729ca689a9ba9539f5960052f2bc6158276891c6540b274f5e55a8"
+    },
+    {
+      "file": "scripts.01b0f11147816cbb.js",
+      "sha256": "631569882f1b3215d09f90959e323579bf6b86497d7d3c301622e6637387e0e1"
+    },
+    {
+      "file": "vendor.469388b3334d0625.js",
+      "sha256": "f1a387deb59071a2bbd5fb1e48a13f5e1c6bbe53902f98cd0364eec6e13465b2"
+    }
+  ],
+  "pairs": [
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "video",
+      "desktop": "https://content.spacex.com/cms-assets/assets/V3_FS_WEB.mp4",
+      "mobile": "https://content.spacex.com/cms-assets/assets/V3_FS_MOBILE.mp4"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "video",
+      "desktop": "https://content.spacex.com/cms-assets/assets/V3_SHIP_WEB.mp4",
+      "mobile": "https://content.spacex.com/cms-assets/assets/V3_SHIP_MOBILE.mp4"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "video",
+      "desktop": "https://content.spacex.com/cms-assets/assets/V3_BOOSTER_WEB.mp4",
+      "mobile": "https://content.spacex.com/cms-assets/assets/V3_BOOSTER_MOBILE.mp4"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "video",
+      "desktop": "https://content.spacex.com/cms-assets/assets/RAPTOR_SEA.mp4",
+      "mobile": "https://content.spacex.com/cms-assets/assets/RAPTOR_SEA.mp4"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "video",
+      "desktop": "https://content.spacex.com/cms-assets/assets/RAPTOR_VACUUM.mp4",
+      "mobile": "https://content.spacex.com/cms-assets/assets/RAPTOR_VACUUM.mp4"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "video",
+      "desktop": "https://content.spacex.com/cms-assets/assets/starship_playload_delivery.mp4",
+      "mobile": "https://content.spacex.com/cms-assets/assets/starship_playload_delivery_m.mp4"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/starship/starship_carousel2_card3_d.jpg",
+      "mobile": "assets/images/vehicles/starship/mobile/starship_carousel2_card3_m.jpg"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/starship/starship_carousel2_card4_d.jpg",
+      "mobile": "assets/images/vehicles/starship/mobile/starship_carousel2_card4_v2_m.jpg"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/starship/starship_carousel3_card1_d.jpg",
+      "mobile": "assets/images/vehicles/starship/mobile/starship_carousel3_card1_m.jpg"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/starship/starship_carousel4_card1_d.jpg",
+      "mobile": "assets/images/vehicles/starship/mobile/starship_carousel4_card1_m.jpg"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/starship/starship_carousel4_card2_d.jpg",
+      "mobile": "assets/images/vehicles/starship/mobile/starship_carousel4_card2_m.jpg"
+    },
+    {
+      "file": "2337.c79c2132bc6aff75.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/starship/starship_carousel4_card3_d.jpg",
+      "mobile": "assets/images/vehicles/starship/mobile/starship_carousel4_card3_m.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/WebsiteF9S1_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/WebsiteF9S1_Render_Mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/WebsiteF9Engines_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/WebsiteF9Engines_Render_Mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/WebsiteF9S1Legs_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/WebsiteF9S1Legs_Render_Mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/WebsiteF9Interstage_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/WebsiteF9Interstage_Render_Mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/WebsiteF9S2_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/WebsiteF9S2_Render_Mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/WebsiteF9SoloFairings_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloFairings_Render_Mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/WebsiteF9SoloDragon_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloDragon_Render_Mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "video",
+      "desktop": "https://content.spacex.com/cms-assets/assets/Bandwagon-4_PayloadDeploy3.mp4",
+      "mobile": "https://content.spacex.com/cms-assets/assets/Bandwagon-4_PayloadDeploy3.mp4"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/Merlin.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/MerlinVac.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_DM2_LAUNCH_3840x2560.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_DM2_LAUNCH_800x1200_Mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_1.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_1_mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_2.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_2_mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_3.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_3_mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_4.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_4_mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_5.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_5_mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_6.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_6_mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_7.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_7_mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_8.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_8_mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_9.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_9_mobile.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-9/F9_10.jpg",
+      "mobile": "assets/images/vehicles/falcon-9/mobile/F9_10_mobile.jpg"
+    },
+    {
+      "file": "2826.05af52617dc9f9eb.js",
+      "kind": "image",
+      "desktop": "assets/images/starshield/hero.webp",
+      "mobile": "assets/images/starshield/hero-mobile.webp"
+    },
+    {
+      "file": "2826.05af52617dc9f9eb.js",
+      "kind": "image",
+      "desktop": "assets/images/starshield/modular-design.webp",
+      "mobile": "assets/images/starshield/modular-design-mobile.webp"
+    },
+    {
+      "file": "2826.05af52617dc9f9eb.js",
+      "kind": "image",
+      "desktop": "assets/images/starshield/interoperability.webp",
+      "mobile": "assets/images/starshield/interoperability-mobile-cropped.webp"
+    },
+    {
+      "file": "2826.05af52617dc9f9eb.js",
+      "kind": "image",
+      "desktop": "assets/images/starshield/rapid-development.webp",
+      "mobile": "assets/images/starshield/rapid-development-mobile-cropped.webp"
+    },
+    {
+      "file": "2826.05af52617dc9f9eb.js",
+      "kind": "image",
+      "desktop": "assets/images/starshield/resilient.webp",
+      "mobile": "assets/images/starshield/resilient-mobile.webp"
+    },
+    {
+      "file": "2826.05af52617dc9f9eb.js",
+      "kind": "image",
+      "desktop": "assets/images/starshield/proven-partnerships.webp",
+      "mobile": "assets/images/starshield/proven-partnerships-mobile-cropped.webp"
+    },
+    {
+      "file": "3721.2205da10ca7ee491.js",
+      "kind": "image",
+      "desktop": "assets/images/updates/UPDATES_Desktop.png",
+      "mobile": "assets/images/updates/UPDATES_Mobile.png"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/Trunk_Render_Desktop.png",
+      "mobile": "assets/images/vehicles/dragon/mobile/Trunk_Render_Mobile.png"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/Dragon_Render_Desktop.png",
+      "mobile": "assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/DragonEscape_Desktop.png",
+      "mobile": "assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/DragonDraco_Desktop.png",
+      "mobile": "assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/dragon_humans.jpg",
+      "mobile": "assets/images/vehicles/dragon/mobile/dragon_humans-mobile.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/Draco.jpg",
+      "mobile": "assets/images/vehicles/dragon/mobile/Draco.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/SuperDraco.jpg",
+      "mobile": "assets/images/vehicles/dragon/mobile/SuperDraco.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/DRAGON_DM2_LC39A_3840x2560.jpg",
+      "mobile": "assets/images/vehicles/dragon/mobile/DRAGON_DM2_LC39A_800x1200_Mobile.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/DRAGON_DRAGON+F9_3840x2560.jpg",
+      "mobile": "assets/images/vehicles/dragon/mobile/DRAGON_DRAGON+F9_800x1200_Mobile.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/DRAGON_DRAGON+ISS_3840x2025.jpg",
+      "mobile": "assets/images/vehicles/dragon/mobile/DRAGON_DRAGON+ISS_800x1200_Mobile.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+      "mobile": "assets/images/vehicles/dragon/mobile/DRAGON_CRS-22_3840x2560_800x1200_Mobile.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/DR_6.jpg",
+      "mobile": "assets/images/vehicles/dragon/mobile/DR_6_mobile.jpg"
+    },
+    {
+      "file": "4116.c83f68e3050ccee4.js",
+      "kind": "image",
+      "desktop": "assets/images/mission/STARSHIP_CAPABILITIES_INTERPLANETARYDESTINATIONS_Mars_01_2023_01_Desktop_Darkerv2.jpg",
+      "mobile": "assets/images/mission/STARSHIP_CAPABILITIES_INTERPLANETARYDESTINATIONS_Mars_01_2023_01_Mobile.jpg"
+    },
+    {
+      "file": "4116.c83f68e3050ccee4.js",
+      "kind": "image",
+      "desktop": "assets/images/mission/F9_AUTONOMOUS_DRONESHIP_DESKTOP.jpg",
+      "mobile": "assets/images/mission/F9_AUTONOMOUS_DRONESHIP_MOBILE.jpg"
+    },
+    {
+      "file": "4116.c83f68e3050ccee4.js",
+      "kind": "image",
+      "desktop": "assets/images/mission/F9_LANDING_ZONE_DESKTOP.jpg",
+      "mobile": "assets/images/mission/F9_LANDING_ZONE_MOBILE.jpg"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/moon/moon_feature.jpg",
+      "mobile": "assets/images/human-spaceflight/moon/mobile/moon_feature_mobile.jpg"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/moon/moon_why.jpg",
+      "mobile": "assets/images/human-spaceflight/moon/mobile/moon_why-mobile.jpg"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/starship/starship_carousel2_card3_d.jpg",
+      "mobile": "assets/images/vehicles/starship/mobile/starship_carousel2_card3_m.jpg"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/moon/hls_surface_elevator_down.jpg",
+      "mobile": "assets/images/human-spaceflight/moon/hls_surface_elevator_down_mobile.jpg"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "https://content.spacex.com/cms-assets/assets/hls_launch.png",
+      "mobile": "assets/images/human-spaceflight/moon/hls_launch_mobile.png"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/moon/hls_in_space_refilling.jpg",
+      "mobile": "assets/images/human-spaceflight/moon/hls_in_space_refilling_mobile.jpg"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/moon/hls_rendezvous.jpg",
+      "mobile": "assets/images/human-spaceflight/moon/hls_rendezvous_mobile.jpg"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/moon/hls_cabin.jpg",
+      "mobile": "assets/images/human-spaceflight/moon/hls_cabin_mobile.jpg"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/moon/hls_lander.jpg",
+      "mobile": "assets/images/human-spaceflight/moon/hls_lander_mobile.png"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/moon/hls_depot.jpg",
+      "mobile": "assets/images/human-spaceflight/moon/hls_depot_mobile.png"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/moon/hls_tanker.jpg",
+      "mobile": "assets/images/human-spaceflight/moon/hls_tanker_mobile.png"
+    },
+    {
+      "file": "4831.a9d444ed7b0e4d98.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/moon/hls_capability.png",
+      "mobile": "assets/images/human-spaceflight/moon/hls_capability_mobile.png"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/fh_feature.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/fh_feature-mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/WebsiteFHS1_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1_Render_Mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/WebsiteFHEngines_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/WebsiteFHEngines_Render_Mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/WebsiteFHS1Legs_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1Legs_Render_Mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/WebsiteFHInterstage_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/WebsiteFHInterstage_Render_Mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/WebsiteFHS2_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS2_Render_Mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/WebsiteFHSoloFairings_Render_Desktop.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/WebsiteFHSoloFairings_Render_Mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/FH_1.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/FH_1_mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/FH_2.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/FH_2_mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/FH_3.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/FH_3_mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/FH_4.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/FH_4_mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/FH_5.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/FH_5_mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/FH_6.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/FH_6_mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/FH_7.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/FH_7_mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/FH_8.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/FH_8_mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/FH_9.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/FH_9_mobile.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/falcon-heavy/FH_10.jpg",
+      "mobile": "assets/images/vehicles/falcon-heavy/mobile/FH_10_mobile.jpg"
+    },
+    {
+      "file": "7064.65d197d49625321e.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/home/HS-hero.webp",
+      "mobile": "assets/images/human-spaceflight/home/HS-hero-mobile.webp"
+    },
+    {
+      "file": "7064.65d197d49625321e.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/home/Our_Mission_01.jpg",
+      "mobile": "assets/images/human-spaceflight/home/Our_Mission_01.jpg"
+    },
+    {
+      "file": "7064.65d197d49625321e.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/home/Our_Mission_01.jpg",
+      "mobile": "assets/images/human-spaceflight/home/Our_Mission_01.jpg"
+    },
+    {
+      "file": "7064.65d197d49625321e.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/home/Our_Mission_01.jpg",
+      "mobile": "assets/images/human-spaceflight/home/Our_Mission_01.jpg"
+    },
+    {
+      "file": "7064.65d197d49625321e.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/home/Our_Mission_01.jpg",
+      "mobile": "assets/images/human-spaceflight/home/Our_Mission_01.jpg"
+    },
+    {
+      "file": "7064.65d197d49625321e.js",
+      "kind": "video",
+      "desktop": "assets/videos/human-spaceflight/DriftingDragon_Render_2.mp4",
+      "mobile": "assets/videos/human-spaceflight/DriftingDragon_Render_2.mp4"
+    },
+    {
+      "file": "7382.11cde0b1d7e2fdc1.js",
+      "kind": "image",
+      "desktop": "https://content.spacex.com/cms-assets/assets/earth_feature.jpg",
+      "mobile": "assets/images/human-spaceflight/earth/mobile/earth_feature_mobile.jpg"
+    },
+    {
+      "file": "7382.11cde0b1d7e2fdc1.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/earth/earth_humans.jpg",
+      "mobile": "assets/images/human-spaceflight/earth/earth_humans.jpg"
+    },
+    {
+      "file": "7382.11cde0b1d7e2fdc1.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/dragon/DragonTrunk_Render_Desktop.png",
+      "mobile": "assets/images/vehicles/dragon/mobile/DragonTrunk_Render_Mobile.png"
+    },
+    {
+      "file": "7382.11cde0b1d7e2fdc1.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/earth/STARSHIP_CAPABILITIES_EARTHTOEARTH_Clouds_Starship_2023_01_Desktop_Darkerv2.jpg",
+      "mobile": "assets/images/human-spaceflight/earth/mobile/STARSHIP_CAPABILITIES_EARTHTOEARTH_Clouds_Starship_2023_01_Mobile.jpg"
+    },
+    {
+      "file": "7382.11cde0b1d7e2fdc1.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/earth/earth_orbit.jpg",
+      "mobile": "assets/images/human-spaceflight/earth/earth_orbit-mobile.jpg"
+    },
+    {
+      "file": "7382.11cde0b1d7e2fdc1.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/earth/earth_video.jpg",
+      "mobile": "assets/images/human-spaceflight/earth/mobile/earth_video-mobile.jpg"
+    },
+    {
+      "file": "7904.e4797272a9e62ecf.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/iss/iss_feature.jpg",
+      "mobile": "assets/images/human-spaceflight/iss/iss_feature-mobile.jpg"
+    },
+    {
+      "file": "7904.e4797272a9e62ecf.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/iss/iss_humans.jpg",
+      "mobile": "assets/images/human-spaceflight/iss/iss_humans.jpg"
+    },
+    {
+      "file": "7904.e4797272a9e62ecf.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/iss/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+      "mobile": "assets/images/human-spaceflight/iss/mobile/DRAGON_CRS-22_3840x2560_800x1200_Mobile.jpg"
+    },
+    {
+      "file": "7904.e4797272a9e62ecf.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/iss/iss_crew.jpg",
+      "mobile": "assets/images/human-spaceflight/iss/mobile/iss_crew-mobile.jpg"
+    },
+    {
+      "file": "7904.e4797272a9e62ecf.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/iss/HS_ISS_DM2_3840x2560.jpg",
+      "mobile": "assets/images/human-spaceflight/iss/mobile/HS_ISS_DM2_800x1200_Mobile.jpg"
+    },
+    {
+      "file": "7904.e4797272a9e62ecf.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/iss/HelmetShot_Desktop.jpg",
+      "mobile": "assets/images/human-spaceflight/iss/mobile/HelmetShot_Mobile.jpg"
+    },
+    {
+      "file": "7904.e4797272a9e62ecf.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/iss/iss_infographic.svg",
+      "mobile": "assets/images/human-spaceflight/iss/mobile/iss_infographic_mobile.svg"
+    },
+    {
+      "file": "7904.e4797272a9e62ecf.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/iss/iss_game.jpg",
+      "mobile": "assets/images/human-spaceflight/iss/mobile/iss_game_mobile.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/mars/mars_hero_d.jpg",
+      "mobile": "assets/images/human-spaceflight/mars/mobile/mars_hero_m.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/mars/mars_carousel2_card1_d.jpg",
+      "mobile": "assets/images/human-spaceflight/mars/mobile/mars_carousel2_card1_m.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/mars/mars_whymars_d.jpg",
+      "mobile": "assets/images/human-spaceflight/mars/mobile/mars_whymars_m.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/mars/mars_carousel1_card2_d.jpg",
+      "mobile": "assets/images/human-spaceflight/mars/mobile/mars_carousel1_card2_m.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/mars/mars_carousel2_card5_d.jpg",
+      "mobile": "assets/images/human-spaceflight/mars/mobile/mars_carousel2_card5_m.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/mars/mars_carousel2_card2_d.jpg",
+      "mobile": "assets/images/human-spaceflight/mars/mobile/mars_carousel2_card2_m.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/mars/mars_carousel2_card4_d.jpg",
+      "mobile": "assets/images/human-spaceflight/mars/mobile/mars_carousel2_card4_m.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/mars/mars_feature2_d.jpg",
+      "mobile": "assets/images/human-spaceflight/mars/mobile/mars_feature2_m.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "image",
+      "desktop": "assets/images/human-spaceflight/mars/mars_feature1_d.jpg",
+      "mobile": "assets/images/human-spaceflight/mars/mobile/mars_feature1_m.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "image",
+      "desktop": "assets/images/vehicles/starship/starship_carousel2_card4_d.jpg",
+      "mobile": "assets/images/vehicles/starship/mobile/starship_carousel2_card4_v2_m.jpg"
+    },
+    {
+      "file": "8252.3e143bba7982a4ec.js",
+      "kind": "video",
+      "desktop": "https://content.spacex.com/cms-assets/assets/V3_FS_WEB.mp4",
+      "mobile": "https://content.spacex.com/cms-assets/assets/V3_FS_MOBILE.mp4"
+    },
+    {
+      "file": "8516.80f777325017dfdd.js",
+      "kind": "video",
+      "desktop": "assets/videos/Rideshare_Stack_2022.mp4",
+      "mobile": "assets/videos/Rideshare_Stack_2022_mobile_02.mp4"
+    },
+    {
+      "file": "9300.9362ca6c869de9a5.js",
+      "kind": "image",
+      "desktop": "assets/images/careers/careers_inspiration.webp",
+      "mobile": "assets/images/careers/mobile/careers_inspiration_mobile.jpg"
+    },
+    {
+      "file": "main.38aaaafc31bc4ec8.js",
+      "kind": "image",
+      "desktop": "https://content.spacex.com/cms-assets/assets/Advancing_Human_Spaceflight_Desktop_61c8ba1c67.jpg",
+      "mobile": "https://content.spacex.com/cms-assets/assets/Advancing_Human_Spaceflight_Mobile_af242fde31.jpg"
+    },
+    {
+      "file": "main.38aaaafc31bc4ec8.js",
+      "kind": "image",
+      "desktop": "assets/images/careers/careers-slider-02.jpg",
+      "mobile": "assets/images/careers/careers-slider-02.jpg"
+    },
+    {
+      "file": "main.38aaaafc31bc4ec8.js",
+      "kind": "image",
+      "desktop": "assets/images/careers/Careers_slideshow3.jpg",
+      "mobile": "assets/images/careers/mobile/Careers_slideshow3_mobile.jpg"
+    },
+    {
+      "file": "main.38aaaafc31bc4ec8.js",
+      "kind": "image",
+      "desktop": "assets/images/careers/Careers_slideshow4.jpg",
+      "mobile": "assets/images/careers/mobile/Careers_slideshow4_mobile.jpg"
+    },
+    {
+      "file": "main.38aaaafc31bc4ec8.js",
+      "kind": "image",
+      "desktop": "assets/images/careers/Careers_slideshow5.jpg",
+      "mobile": "assets/images/careers/mobile/Careers_slideshow5_mobile.jpg"
+    }
+  ],
+  "captions": [
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Falcon 9 launches Dragon to the International Space Station from Launch Complex 39A",
+      "image": "assets/images/vehicles/falcon-9/F9_DM2_LAUNCH_3840x2560.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Falcon 9 first and second stages after separating in flight",
+      "image": "assets/images/vehicles/falcon-9/F9_1.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Falcon 9 lifts off with its Iridium-5 payload",
+      "image": "assets/images/vehicles/falcon-9/F9_2.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Falcon 9 lands on the droneship Just Read the Instructions",
+      "image": "assets/images/vehicles/falcon-9/F9_3.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Close-up of Falcon 9's Merlin engines during liftoff",
+      "image": "assets/images/vehicles/falcon-9/F9_4.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Falcon 9 leaves a trail of light as it lifts off from Vandenberg Air Force Base",
+      "image": "assets/images/vehicles/falcon-9/F9_5.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Falcon 9 lifts off with Dragon for an in-flight test of the Crew Dragon abort system",
+      "image": "assets/images/vehicles/falcon-9/F9_6.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Falcon 9 lifts off with its Iridium-8 payload",
+      "image": "assets/images/vehicles/falcon-9/F9_7.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Falcon 9 with its Radarsat payload at sunset before launch",
+      "image": "assets/images/vehicles/falcon-9/F9_8.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Falcon 9 lands at Cape Canaveral",
+      "image": "assets/images/vehicles/falcon-9/F9_9.jpg"
+    },
+    {
+      "file": "2343.25ddd7bb77e7b318.js",
+      "caption": "Falcon 9 vertical with its Iridium payload at moonrise",
+      "image": "assets/images/vehicles/falcon-9/F9_10.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "caption": "Dragon on pad at Launch Complex 39A",
+      "image": "assets/images/vehicles/dragon/DRAGON_DM2_LC39A_3840x2560.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "caption": "Dragon and Falcon 9 ready for launch at Launch Complex 39A",
+      "image": "assets/images/vehicles/dragon/DRAGON_DRAGON+F9_3840x2560.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "caption": "Dragon approaching the International Space Station",
+      "image": "assets/images/vehicles/dragon/DRAGON_DRAGON+ISS_3840x2025.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "caption": "CRS-22 approaching the International Space Station",
+      "image": "assets/images/vehicles/dragon/DRAGON_CRS-22_3840x2560_Desktop.jpg"
+    },
+    {
+      "file": "3850.6a270eb20a4c2080.js",
+      "caption": "Dragon is seen against the Earth's atmosphere",
+      "image": "assets/images/vehicles/dragon/DR_6.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "caption": "Falcon Heavy vertical at Kennedy Space Center",
+      "image": "assets/images/vehicles/falcon-heavy/FH_1.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "caption": "Falcon Heavy takes off from Pad 39A at Kennedy Space Center",
+      "image": "assets/images/vehicles/falcon-heavy/FH_2.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "caption": "Falcon Heavy carries Arabsat-6A to orbit",
+      "image": "assets/images/vehicles/falcon-heavy/FH_3.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "caption": "Falcon Heavy's side boosters land at LZ-1 and LZ-2 at Cape Canaveral",
+      "image": "assets/images/vehicles/falcon-heavy/FH_4.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center",
+      "image": "assets/images/vehicles/falcon-heavy/FH_5.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center",
+      "image": "assets/images/vehicles/falcon-heavy/FH_6.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "caption": "All 27 Merlin engines lit on Falcon Heavy",
+      "image": "assets/images/vehicles/falcon-heavy/FH_7.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center",
+      "image": "assets/images/vehicles/falcon-heavy/FH_8.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center",
+      "image": "assets/images/vehicles/falcon-heavy/FH_9.jpg"
+    },
+    {
+      "file": "5767.5b4a8d45f1daeb84.js",
+      "caption": "Falcon Heavy's side boosters land at LZ-1 and LZ-2 at Cape Canaveral",
+      "image": "assets/images/vehicles/falcon-heavy/FH_10.jpg"
+    }
+  ]
+}

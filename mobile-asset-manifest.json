@@ -1,0 +1,581 @@
+{
+  "schema": 1,
+  "identity": "475f33c99faf2ee3c009fff3646c4ce6f6399b0d434d7188aa75481119e99dcb",
+  "scope": "Frozen playback and image mobile variants; supplement to unchanged base bundle",
+  "releaseRepository": "nift-experiments/spacex",
+  "releaseTag": "maintained-mobile-475f33c99faf2ee3",
+  "files": [
+    {
+      "path": "public/assets/recovered/content.spacex.com/cms-assets/assets/Advancing_Human_Spaceflight_Mobile_af242fde31.jpg",
+      "bytes": 58042,
+      "sha256": "d59bcd7d4c461a7fc6cbee289e61e4991e2fc807b1d484357dda130ac39560dc"
+    },
+    {
+      "path": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_BOOSTER_MOBILE.mp4",
+      "bytes": 46684845,
+      "sha256": "688dbd3ccb28f45376ed82e83c405d91c49106b818d5a0904d88a00aab5b89e9"
+    },
+    {
+      "path": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_FS_MOBILE.mp4",
+      "bytes": 46402655,
+      "sha256": "db24d379886d85e6ea1d5b8a370d78241fd450d48018af594f2ca96a035aee74"
+    },
+    {
+      "path": "public/assets/recovered/content.spacex.com/cms-assets/assets/V3_SHIP_MOBILE.mp4",
+      "bytes": 71348503,
+      "sha256": "d8a148999a27e8cc31668cb3c1d962e7b04d40b152e89520fb77e8257a15a726"
+    },
+    {
+      "path": "public/assets/recovered/content.spacex.com/cms-assets/assets/starship_playload_delivery_m.mp4",
+      "bytes": 114752726,
+      "sha256": "014b71abc0d7ed349af1353e146cdf603f9af26f0e8f2d60914771527d941bc7"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/Careers_slideshow3_mobile.jpg",
+      "bytes": 1539399,
+      "sha256": "3234f2089c6ca1e64bcb91005162dee32c46fdd9e848c3c3c611a904dcdb5440"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/Careers_slideshow4_mobile.jpg",
+      "bytes": 1595775,
+      "sha256": "e5eac9b765f3bf79d874b359f45774f729f8edd13fd9a34f5dbdf196d41e1333"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/Careers_slideshow5_mobile.jpg",
+      "bytes": 950646,
+      "sha256": "f550c7dc973cb19a57944c291b5b3bf1d3df194a6209b66aa237d9a677f80eaf"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/careers/mobile/careers_inspiration_mobile.jpg",
+      "bytes": 160721,
+      "sha256": "4808b91e45ac0304a6ed5044614649b682978c97cff53b025adb26206d56ba4c"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/earth_orbit-mobile.jpg",
+      "bytes": 641449,
+      "sha256": "4b93b84782d07e71e81d131403ba41b250b69617bfaeaef938ff164dd0f3bbd8"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/mobile/STARSHIP_CAPABILITIES_EARTHTOEARTH_Clouds_Starship_2023_01_Mobile.jpg",
+      "bytes": 764194,
+      "sha256": "bb0708db8e1a70878a835bcb7ae56ac9ef4c648cd87a3670e239da3efd947b45"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/mobile/earth_feature_mobile.jpg",
+      "bytes": 1368653,
+      "sha256": "fe5c7c04c9383d9e4f5b57b4a6c81227ffdcf49544150098b29d7c75143f6bae"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/earth/mobile/earth_video-mobile.jpg",
+      "bytes": 469298,
+      "sha256": "ec0406f06169eded3b37bdfe24f8f25a89fb1f2eda19fa16f623e9e6dfce9298"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/home/HS-hero-mobile.webp",
+      "bytes": 110366,
+      "sha256": "4c81bc8a150f301db9b11c1b3b302d0b21f37b3312c17bff45248897d25f41d8"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/iss_feature-mobile.jpg",
+      "bytes": 814650,
+      "sha256": "089c194c1a2548b6a3b53d3cf76ee3f5ecf9f85f423a00fe177fd439fcc7ffec"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/DRAGON_CRS-22_3840x2560_800x1200_Mobile.jpg",
+      "bytes": 18209,
+      "sha256": "4f0a6888bf359628cf2062d1d0b81705f46268e499d5157a88c33c1c125ca328"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/HS_ISS_DM2_800x1200_Mobile.jpg",
+      "bytes": 27592,
+      "sha256": "5473465d2c33760dc4851e9b8136381a7d5af4206744f8df5637d9ad96738d03"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/HelmetShot_Mobile.jpg",
+      "bytes": 634079,
+      "sha256": "54a19977f9d18bd8a69830fc865a2a162045d8f147d02aad76292cb1d925bc0e"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/iss_crew-mobile.jpg",
+      "bytes": 193308,
+      "sha256": "8793970ea7eb77a2cf075d4aaec25817250014abfb0f1e35d6c080fc2cca1dd4"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/iss_game_mobile.jpg",
+      "bytes": 306399,
+      "sha256": "d9adae823a64e1af297c51b5054f39aeeff63ee2abc4ea11e83b6918b92181de"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/iss/mobile/iss_infographic_mobile.svg",
+      "bytes": 21422,
+      "sha256": "1da7ae8f0bc16fab13b5e9f47379919a1b8d4c7582cafd38e46205636e9d85e6"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel1_card2_m.jpg",
+      "bytes": 90011,
+      "sha256": "accc0e0ffd7df07ea971fc2fe4a9920f80ee209617364d1a3555b785d86468ab"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card1_m.jpg",
+      "bytes": 88648,
+      "sha256": "95393d1a0295b3fe54f7cceb0e0d2d31f7d24a2ccf328b3fd0606d1ce0237d08"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card2_m.jpg",
+      "bytes": 136454,
+      "sha256": "f2e576cce38b8104f951416f20b0135f5221796dc046a508cce69286c0252ee5"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card4_m.jpg",
+      "bytes": 114806,
+      "sha256": "f5f37079260354e3c37f3d40f7bd080287a5bf4692d662aec70c1e0d820169ba"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_carousel2_card5_m.jpg",
+      "bytes": 166523,
+      "sha256": "6ca74faf497162790c31bb3f60c51eee983b72d4a785da9dbc68a060d45acb3d"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_feature1_m.jpg",
+      "bytes": 96409,
+      "sha256": "40503b33b7fe99617c300f0b2dd56c92bfaf1131c945287bdc405dc0a25e9904"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_feature2_m.jpg",
+      "bytes": 95520,
+      "sha256": "5a1c0722d5c0973a4cd24e16e0a73bba3d66926fe81832621dab3a1e572a269d"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_hero_m.jpg",
+      "bytes": 134834,
+      "sha256": "eb11ab71efe1230651128726867afe5ecea4cceb75a1441367ace8cc3fdf61ff"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/mars/mobile/mars_whymars_m.jpg",
+      "bytes": 54824,
+      "sha256": "27099035af0ecf3bca1f3942f90576176db5bea282913ebcdc87b48398a10ac2"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_cabin_mobile.jpg",
+      "bytes": 342647,
+      "sha256": "ddca98172cde01f56b4e94e3243aa9c29fef6214978ed1996435a15da2d8cdbe"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_capability_mobile.png",
+      "bytes": 944416,
+      "sha256": "36a95d510b0836dca35a4ad059719a3147454984888f149a26845dae413ef011"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_depot_mobile.png",
+      "bytes": 1066038,
+      "sha256": "96b3e927ab1455be0f71e022c53c649c85ee3c8703c3052868b8b0bc6690ac6f"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_in_space_refilling_mobile.jpg",
+      "bytes": 555336,
+      "sha256": "cdcdc6e254b9a56aaef05597e73de347c75f522c3c482b3da908e1b2c1e0c0be"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_lander_mobile.png",
+      "bytes": 1071937,
+      "sha256": "f6dc245bd700c9d91439707a4901698def34c59bbdd8cd63e2cf5902fe58f584"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_launch_mobile.png",
+      "bytes": 1859712,
+      "sha256": "f7cd36b42c6cc2f8225dc189cd5fcf35a2862bb004265c5e93d2df679f45b8a7"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_rendezvous_mobile.jpg",
+      "bytes": 564040,
+      "sha256": "0dfadbeb3be19c2dab3ffe9fae9247881366bb5d8773bef776b2b762189b6748"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_surface_elevator_down_mobile.jpg",
+      "bytes": 213061,
+      "sha256": "0e47f5d68094294f53c08bd135770c2b650c5f21983e76454bb79d5c3c14a9ba"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/hls_tanker_mobile.png",
+      "bytes": 1075136,
+      "sha256": "1c03ca9800191d2881cb2b0d877ba73ae299fae1e64e55a1d0dd5c38fe8dfc94"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/mobile/moon_feature_mobile.jpg",
+      "bytes": 412686,
+      "sha256": "d0eb1bcada51c54a9cb0cfa0727f6a32fc2393354d08013c3e88d7ed304323b6"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/human-spaceflight/moon/mobile/moon_why-mobile.jpg",
+      "bytes": 287639,
+      "sha256": "86e55550173be7ebb28c957f2ff37990680a37f313a7949bbe84b0aa7fcad463"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_MOBILE.jpg",
+      "bytes": 278800,
+      "sha256": "d79662fb88682238362f1169ac3cc2e9e1ba2c302d88e68b64e789de7329ce96"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_MOBILE.jpg",
+      "bytes": 278634,
+      "sha256": "767944f651be64bd3c4def72bf1370083938158a2613028ffd5a055229b9211e"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/mission/STARSHIP_CAPABILITIES_INTERPLANETARYDESTINATIONS_Mars_01_2023_01_Mobile.jpg",
+      "bytes": 540016,
+      "sha256": "dc5fb534ca08357ead0680a4650a4b132d822376eab62d706ac17a16cc10a2da"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/starshield/hero-mobile.webp",
+      "bytes": 67430,
+      "sha256": "b844ea448391567463cedecbc9eda56c6b9ccc7f5c4860c039e853958868b6d9"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/starshield/interoperability-mobile-cropped.webp",
+      "bytes": 34954,
+      "sha256": "895f6b5674cb0025537015f76eb38b7daa406c0f867b64dbf14b8ab7a19f10d1"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/starshield/modular-design-mobile.webp",
+      "bytes": 21668,
+      "sha256": "31c8c8c2fb2c4cde1ff158c3d247f6b14081326ee7813227a06e86f969f11130"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/starshield/proven-partnerships-mobile-cropped.webp",
+      "bytes": 59732,
+      "sha256": "9902b568f661ba69b242d10ad0c5b73168da4213679f55addb68e9083934bad3"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/starshield/rapid-development-mobile-cropped.webp",
+      "bytes": 41940,
+      "sha256": "5900c35b557e17c48be89967007db87c152462e06068c932cfaf434741c503e0"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/starshield/resilient-mobile.webp",
+      "bytes": 18712,
+      "sha256": "50af2d40df6af640d49a9584ea8d4f359537d900d0948a3fc3183ecfa58fab18"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/updates/UPDATES_Mobile.png",
+      "bytes": 1185062,
+      "sha256": "32a11ae4ba57eaf7d15598098157a65c18d68c1b363110a3ffc509638e7f820b"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_CRS-22_3840x2560_800x1200_Mobile.jpg",
+      "bytes": 18209,
+      "sha256": "4f0a6888bf359628cf2062d1d0b81705f46268e499d5157a88c33c1c125ca328"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_DM2_LC39A_800x1200_Mobile.jpg",
+      "bytes": 69761,
+      "sha256": "f5a73b63ee4d4662c16df3793055626c58fa0bc1e3e0f1c8a9013c78ea690bc9"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_DRAGON+F9_800x1200_Mobile.jpg",
+      "bytes": 83728,
+      "sha256": "fb4c8dccb73191f4e5e3fd9e8eef15a827f1c99d8f6a3e858efe44481190657b"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DRAGON_DRAGON+ISS_800x1200_Mobile.jpg",
+      "bytes": 27592,
+      "sha256": "5473465d2c33760dc4851e9b8136381a7d5af4206744f8df5637d9ad96738d03"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DR_6_mobile.jpg",
+      "bytes": 222662,
+      "sha256": "c71ece7db2ef48e7cd5b8e149f453352f9585ea6b92ae7689202bd4e59ad4c86"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Draco.jpg",
+      "bytes": 287238,
+      "sha256": "2d8ee71773cd6449c3afb2e39a24714eab2540389bb0e29d5e0870c217895448"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonDraco_Mobile.png",
+      "bytes": 1364190,
+      "sha256": "08eb4809bfbc6626dcabc7d745aae314991cf86f5cd760b1c5c3e09f42bb9e8f"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonEscape_Mobile.png",
+      "bytes": 1367291,
+      "sha256": "06d3eb273ab7c3ad1330fa105ff492d53490522114c2298b726aabd9fd72ac76"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/DragonTrunk_Render_Mobile.png",
+      "bytes": 1329605,
+      "sha256": "a96732fd370fd5a31d3805b0382ecca5a25fd2d5ab0fb723e388072854c719e7"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Dragon_Render_Mobile.png",
+      "bytes": 1325598,
+      "sha256": "9edc80961180c9dc2e14292e1e7ac596530d40a318776b08177e1e31fd5bce95"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/SuperDraco.jpg",
+      "bytes": 368683,
+      "sha256": "7415a28166a1962a4de26df0c9976c6dbaab3c35c3bca3199b99661fb793afed"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/Trunk_Render_Mobile.png",
+      "bytes": 1299928,
+      "sha256": "954b8394b285712a13287320eb571327f86cf749d779fce11c285c3f5a18ef4e"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/dragon/mobile/dragon_humans-mobile.jpg",
+      "bytes": 67000,
+      "sha256": "3b85bd0aa83b6e53360e9c843e6d3c6369163594e8174a36f146671f3f58fac8"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_10_mobile.jpg",
+      "bytes": 188078,
+      "sha256": "db3067bc2db5d8d2892db557fccdfb8157041f478d73fc03d904f6d1c17d61b1"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_1_mobile.jpg",
+      "bytes": 117924,
+      "sha256": "9275197f0f804dd5d695a64f6712a948cba061b2ccc91b2583e933a23b45e255"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_2_mobile.jpg",
+      "bytes": 684970,
+      "sha256": "31fbb463d631d1551f191f0c500cd13f375671664d680fe7128c6c53a11d88e8"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_3_mobile.jpg",
+      "bytes": 357183,
+      "sha256": "d5aff41ae77c9aa7402cdb7857f9a728fd75aaca3943aaeea4f656ae8065e760"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_4_mobile.jpg",
+      "bytes": 208075,
+      "sha256": "06598d0b1aee099d8e9e07e9567fe467f16042442b7599858db0457b2df0897f"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_5_mobile.jpg",
+      "bytes": 374000,
+      "sha256": "434594e65184f13b5f0735c09072a1c37dd023852405893b8a5b5bd1ed808f25"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_6_mobile.jpg",
+      "bytes": 169401,
+      "sha256": "650ea135ffdd53d2d2344e67f2eb9b27899753839582c5ff327739c91e81e2b2"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_7_mobile.jpg",
+      "bytes": 723500,
+      "sha256": "53499a4c14d5a3cdef07b3aae0522cd36ea132c9313c678396c949a3746a6609"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_8_mobile.jpg",
+      "bytes": 610990,
+      "sha256": "cfa2866b5dd593ba9151e0ee7e266fda1181000bf03f7222620565dba372bdd3"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_9_mobile.jpg",
+      "bytes": 62359,
+      "sha256": "79f17266623b46aeec2f1fc60233d28269a9e94f4865a33b0a3987977ad9528b"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/F9_DM2_LAUNCH_800x1200_Mobile.jpg",
+      "bytes": 511327,
+      "sha256": "87ba4933e91069d28e71073bc43686a0383c57088a88ea53596f86df2e333fa8"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg",
+      "bytes": 315737,
+      "sha256": "bd707fd4bad3dcbd869fd61992dffe8e05a513dbb712eb2cbfb4e986df46f149"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/MerlinVac.jpg",
+      "bytes": 306978,
+      "sha256": "e138078f25322fcda210c935fb9df006e50c342b86c696915db10c1b8a0b9785"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Engines_Render_Mobile.jpg",
+      "bytes": 307589,
+      "sha256": "4441365575c8ce828d2d6a69968f6de22fa9f4163fbd398b11212a3808b677ac"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9Interstage_Render_Mobile.jpg",
+      "bytes": 293371,
+      "sha256": "9e6a30994543b8227a4b483d67b4d08458e8e5cc20d0e9cf976c6b56ddd1a826"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1Legs_Render_Mobile.jpg",
+      "bytes": 218761,
+      "sha256": "4ffef98fdb430e6436561e3535064c391d7774281fbad3898bb89f2cbc6a9dd0"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S1_Render_Mobile.jpg",
+      "bytes": 216025,
+      "sha256": "09102c10b62b005cabf6d20db5291580eefaff870a1c9edb8ae92bc5b329f5cf"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9S2_Render_Mobile.jpg",
+      "bytes": 247448,
+      "sha256": "ea5ce3bea39f3b7d0b09686276b3ddc526d273b2fed035ec06004da47672f280"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloDragon_Render_Mobile.jpg",
+      "bytes": 309383,
+      "sha256": "8aa4c12d5df3494313c0a5cd37f4458a43bcf4934fda4a786bb98612b1eb4e93"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/WebsiteF9SoloFairings_Render_Mobile.jpg",
+      "bytes": 287783,
+      "sha256": "9ec15a3518140df7bf7fe07d82595dbf0896aab5f02f656a5167156290bef3d6"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_10_mobile.jpg",
+      "bytes": 392530,
+      "sha256": "078275d19a42903756aa878c35d543565b9ece354316973950ce89d5c0346779"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_1_mobile.jpg",
+      "bytes": 473687,
+      "sha256": "20011d373b999aabd1f2b8b171cd99dcd1be91f2fd81ea5e04bc26b60fdb5ec1"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_2_mobile.jpg",
+      "bytes": 610460,
+      "sha256": "0e5e3a90ed4fd47cf3132b577f37d9612dd730a5b7cf00fab8cbac445610d413"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_3_mobile.jpg",
+      "bytes": 73496,
+      "sha256": "6c1279c355670a732917f1d1d9dee78d9647d655724b378dc97011c58a9057be"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_4_mobile.jpg",
+      "bytes": 804480,
+      "sha256": "7be9a2834c207271a0fa840363195b9453011daabacf084701b518bdbc7f17c8"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_5_mobile.jpg",
+      "bytes": 642197,
+      "sha256": "23e20bf45de1a13f0fd3b43daed6238b18dfc2153f228dfab65034d956d4fd56"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_6_mobile.jpg",
+      "bytes": 766547,
+      "sha256": "ea9ad6ed185bf5d49f38279cf62a80e4a200e74749619df88b0c0f5c61c416b8"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_7_mobile.jpg",
+      "bytes": 1108444,
+      "sha256": "69fb7158445875a699356de0e97519d6fd804eb9e80fccf498c4655d03855442"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_8_mobile.jpg",
+      "bytes": 164279,
+      "sha256": "1caae877efaea02e696ddbf5c4e896d7ee25912cc13f4f8c4293685e35ea5224"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/FH_9_mobile.jpg",
+      "bytes": 129603,
+      "sha256": "b5f3b80204d3b9708eb0b241ab2f9850b3110c15b68494f441330e3f99cafe4f"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHEngines_Render_Mobile.jpg",
+      "bytes": 335002,
+      "sha256": "08a2c8dc25bb3f72835bbf25e766eee6d4a577d728d15fa6ed5c1831510468b8"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHInterstage_Render_Mobile.jpg",
+      "bytes": 301983,
+      "sha256": "7748e070841a5f0841063c99e07abe20cc413292b9385663b980dbd5908b8f5d"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1Legs_Render_Mobile.jpg",
+      "bytes": 290343,
+      "sha256": "5475d4ed160d09f2c8a856f22543d5eea629bc81a7e1633b5ae561deada1d1a4"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS1_Render_Mobile.jpg",
+      "bytes": 225105,
+      "sha256": "435673341591fdc8565a0cf636b25cac345d72b7726d8a5abb4630b920641b54"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHS2_Render_Mobile.jpg",
+      "bytes": 219257,
+      "sha256": "67d17a71f252c8072cbd21d85299a95cfafb3f854d814c4434b958786185ba9e"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/WebsiteFHSoloFairings_Render_Mobile.jpg",
+      "bytes": 218136,
+      "sha256": "d251977e5455d33fb273cb35c972c5f15446256a1c832c09c9b7df28e4f113dc"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-heavy/mobile/fh_feature-mobile.jpg",
+      "bytes": 938387,
+      "sha256": "0eeba4fadb73ccd48b6c98b5c870857ede0f8f601cbb812d8f8e47c05a520010"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel2_card3_m.jpg",
+      "bytes": 317028,
+      "sha256": "1609bfd7178441df45b9b0c492afc7fb3e181684ebce9db8b7e77532ff31b54c"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel2_card4_v2_m.jpg",
+      "bytes": 1284383,
+      "sha256": "21ebb203b7519075ebb55ae0d5879c7709365654bafe7accc9ca81b1d6a225ed"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel3_card1_m.jpg",
+      "bytes": 114343,
+      "sha256": "aaf13b27d1cd0ff8057e286c26f72a08929be0b57e69bba60b44c045869aa54c"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card1_m.jpg",
+      "bytes": 286232,
+      "sha256": "a0857b91dbf24719097411467a7e8770cff826c8e5557633d41394e821589a61"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card2_m.jpg",
+      "bytes": 106088,
+      "sha256": "92b8d768bee6b6f1878e894fbbd752a35f9d2adaeddf1c07f147d5efbf54e9e6"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card3_m.jpg",
+      "bytes": 93152,
+      "sha256": "3a69682014853712bcb3e412bfdf921c1ecd7663b19e08b74ee9aa32e6a7b06a"
+    },
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/videos/Rideshare_Stack_2022_mobile_02.mp4",
+      "bytes": 4267818,
+      "sha256": "8a58f521ac43b3040af8bfceab6e975dda5911ef14c84931a5c899e62d3e4b36"
+    }
+  ],
+  "parts": [
+    {
+      "name": "mobile-64m-000.tar.part",
+      "bytes": 67108864,
+      "sha256": "f27906c2d06e850a028aff38acd41f0a66840595492a9a325d5d4fadfe64ab08",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-mobile-475f33c99faf2ee3/mobile-64m-000.tar.part"
+    },
+    {
+      "name": "mobile-64m-001.tar.part",
+      "bytes": 67108864,
+      "sha256": "ca86f00899dd4ec87878f998ff94af6d835385854ca265285d0976309691d223",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-mobile-475f33c99faf2ee3/mobile-64m-001.tar.part"
+    },
+    {
+      "name": "mobile-64m-002.tar.part",
+      "bytes": 67108864,
+      "sha256": "aa01f83d5d9f168a614a8f44b49c09da97633327112715627568a8a80abff242",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-mobile-475f33c99faf2ee3/mobile-64m-002.tar.part"
+    },
+    {
+      "name": "mobile-64m-003.tar.part",
+      "bytes": 67108864,
+      "sha256": "cdd81682d2a4a4b8b208b09723f5a1c3bc1d5739781cee1c58b3a423ec5522f5",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-mobile-475f33c99faf2ee3/mobile-64m-003.tar.part"
+    },
+    {
+      "name": "mobile-64m-004.tar.part",
+      "bytes": 60872704,
+      "sha256": "7661c454210d349e23c59c6117589796b768dd99b864d9c0f2b63a9d922e6fbf",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-mobile-475f33c99faf2ee3/mobile-64m-004.tar.part"
+    }
+  ]
+}

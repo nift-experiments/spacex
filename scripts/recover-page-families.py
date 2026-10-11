@@ -33,6 +33,11 @@ for capture in sorted(value[1] for value in latest.values()):
     if not route or route.startswith('launches/'):
         continue
     dom = BeautifulSoup(record['html'], 'html.parser')
+    videos = dom.select('video')
+    if len(videos) == len(record.get('media', [])):
+        for video, properties in zip(videos, record['media']):
+            if properties.get('autoplay') and properties.get('muted'):
+                video['muted'] = ''
     container = dom.select_one('.page-content-inner')
     if not container:
         continue

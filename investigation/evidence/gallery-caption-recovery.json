@@ -1,0 +1,374 @@
+[
+  {
+    "project": "spacex",
+    "page": "content/vehicles/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DM2_LC39A_3840x2560.jpg",
+    "caption": "Dragon on pad at Launch Complex 39A"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DRAGON+F9_3840x2560.jpg",
+    "caption": "Dragon and Falcon 9 ready for launch at Launch Complex 39A"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DRAGON+ISS_3840x2025.jpg",
+    "caption": "Dragon approaching the International Space Station"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+    "caption": "CRS-22 approaching the International Space Station"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/index.html",
+    "image": "assets/images/vehicles/dragon/DR_6.jpg",
+    "caption": "Dragon is seen against the Earth's atmosphere"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_1.jpg",
+    "caption": "Falcon Heavy vertical at Kennedy Space Center"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_2.jpg",
+    "caption": "Falcon Heavy takes off from Pad 39A at Kennedy Space Center"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_3.jpg",
+    "caption": "Falcon Heavy carries Arabsat-6A to orbit"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_4.jpg",
+    "caption": "Falcon Heavy's side boosters land at LZ-1 and LZ-2 at Cape Canaveral"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_5.jpg",
+    "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_6.jpg",
+    "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_7.jpg",
+    "caption": "All 27 Merlin engines lit on Falcon Heavy"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_8.jpg",
+    "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_9.jpg",
+    "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_10.jpg",
+    "caption": "Falcon Heavy's side boosters land at LZ-1 and LZ-2 at Cape Canaveral"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_DM2_LAUNCH_3840x2560.jpg",
+    "caption": "Falcon 9 launches Dragon to the International Space Station from Launch Complex 39A"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_1.jpg",
+    "caption": "Falcon 9 first and second stages after separating in flight"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_2.jpg",
+    "caption": "Falcon 9 lifts off with its Iridium-5 payload"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_3.jpg",
+    "caption": "Falcon 9 lands on the droneship Just Read the Instructions"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_4.jpg",
+    "caption": "Close-up of Falcon 9's Merlin engines during liftoff"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_5.jpg",
+    "caption": "Falcon 9 leaves a trail of light as it lifts off from Vandenberg Air Force Base"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_6.jpg",
+    "caption": "Falcon 9 lifts off with Dragon for an in-flight test of the Crew Dragon abort system"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_7.jpg",
+    "caption": "Falcon 9 lifts off with its Iridium-8 payload"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_8.jpg",
+    "caption": "Falcon 9 with its Radarsat payload at sunset before launch"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_9.jpg",
+    "caption": "Falcon 9 lands at Cape Canaveral"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_10.jpg",
+    "caption": "Falcon 9 vertical with its Iridium payload at moonrise"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/dragon/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DM2_LC39A_3840x2560.jpg",
+    "caption": "Dragon on pad at Launch Complex 39A"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/dragon/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DRAGON+F9_3840x2560.jpg",
+    "caption": "Dragon and Falcon 9 ready for launch at Launch Complex 39A"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/dragon/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DRAGON+ISS_3840x2025.jpg",
+    "caption": "Dragon approaching the International Space Station"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/dragon/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+    "caption": "CRS-22 approaching the International Space Station"
+  },
+  {
+    "project": "spacex",
+    "page": "content/vehicles/dragon/index.html",
+    "image": "assets/images/vehicles/dragon/DR_6.jpg",
+    "caption": "Dragon is seen against the Earth's atmosphere"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DM2_LC39A_3840x2560.jpg",
+    "caption": "Dragon on pad at Launch Complex 39A"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DRAGON+F9_3840x2560.jpg",
+    "caption": "Dragon and Falcon 9 ready for launch at Launch Complex 39A"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DRAGON+ISS_3840x2025.jpg",
+    "caption": "Dragon approaching the International Space Station"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+    "caption": "CRS-22 approaching the International Space Station"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/index.html",
+    "image": "assets/images/vehicles/dragon/DR_6.jpg",
+    "caption": "Dragon is seen against the Earth's atmosphere"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_1.jpg",
+    "caption": "Falcon Heavy vertical at Kennedy Space Center"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_2.jpg",
+    "caption": "Falcon Heavy takes off from Pad 39A at Kennedy Space Center"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_3.jpg",
+    "caption": "Falcon Heavy carries Arabsat-6A to orbit"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_4.jpg",
+    "caption": "Falcon Heavy's side boosters land at LZ-1 and LZ-2 at Cape Canaveral"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_5.jpg",
+    "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_6.jpg",
+    "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_7.jpg",
+    "caption": "All 27 Merlin engines lit on Falcon Heavy"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_8.jpg",
+    "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_9.jpg",
+    "caption": "Falcon Heavy lifts off from Pad 39A at Kennedy Space Center"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-heavy/index.html",
+    "image": "assets/images/vehicles/falcon-heavy/FH_10.jpg",
+    "caption": "Falcon Heavy's side boosters land at LZ-1 and LZ-2 at Cape Canaveral"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_DM2_LAUNCH_3840x2560.jpg",
+    "caption": "Falcon 9 launches Dragon to the International Space Station from Launch Complex 39A"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_1.jpg",
+    "caption": "Falcon 9 first and second stages after separating in flight"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_2.jpg",
+    "caption": "Falcon 9 lifts off with its Iridium-5 payload"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_3.jpg",
+    "caption": "Falcon 9 lands on the droneship Just Read the Instructions"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_4.jpg",
+    "caption": "Close-up of Falcon 9's Merlin engines during liftoff"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_5.jpg",
+    "caption": "Falcon 9 leaves a trail of light as it lifts off from Vandenberg Air Force Base"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_6.jpg",
+    "caption": "Falcon 9 lifts off with Dragon for an in-flight test of the Crew Dragon abort system"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_7.jpg",
+    "caption": "Falcon 9 lifts off with its Iridium-8 payload"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_8.jpg",
+    "caption": "Falcon 9 with its Radarsat payload at sunset before launch"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_9.jpg",
+    "caption": "Falcon 9 lands at Cape Canaveral"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/falcon-9/index.html",
+    "image": "assets/images/vehicles/falcon-9/F9_10.jpg",
+    "caption": "Falcon 9 vertical with its Iridium payload at moonrise"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/dragon/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DM2_LC39A_3840x2560.jpg",
+    "caption": "Dragon on pad at Launch Complex 39A"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/dragon/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DRAGON+F9_3840x2560.jpg",
+    "caption": "Dragon and Falcon 9 ready for launch at Launch Complex 39A"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/dragon/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_DRAGON+ISS_3840x2025.jpg",
+    "caption": "Dragon approaching the International Space Station"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/dragon/index.html",
+    "image": "assets/images/vehicles/dragon/DRAGON_CRS-22_3840x2560_Desktop.jpg",
+    "caption": "CRS-22 approaching the International Space Station"
+  },
+  {
+    "project": "spacex-agent",
+    "page": "content/vehicles/dragon/index.html",
+    "image": "assets/images/vehicles/dragon/DR_6.jpg",
+    "caption": "Dragon is seen against the Earth's atmosphere"
+  }
+]

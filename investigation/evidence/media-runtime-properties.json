@@ -1,0 +1,242 @@
+[
+  {
+    "project": "spacex",
+    "route": "/careers",
+    "mutedPropertiesRecovered": 6,
+    "referenceCapture": "careers.1280x720.450fabc73ffd.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/content",
+    "mutedPropertiesRecovered": 1,
+    "referenceCapture": "content.1280x720.08b417074282.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/humanspaceflight/earth",
+    "mutedPropertiesRecovered": 5,
+    "referenceCapture": "humanspaceflight-earth.1280x720.1673f8e9707f.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/humanspaceflight/iss",
+    "mutedPropertiesRecovered": 7,
+    "referenceCapture": "humanspaceflight-iss.1280x720.0cadea268ca5.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/humanspaceflight/mars",
+    "mutedPropertiesRecovered": 9,
+    "referenceCapture": "humanspaceflight-mars.1280x720.a2c692abe2ea.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/humanspaceflight/moon",
+    "mutedPropertiesRecovered": 12,
+    "referenceCapture": "humanspaceflight-moon.1280x720.8bd3dc9a9668.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/humanspaceflight/overview",
+    "mutedPropertiesRecovered": 20,
+    "referenceCapture": "humanspaceflight-overview.1280x720.7f8782c1bba9.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/humanspaceflight/research/submit",
+    "mutedPropertiesRecovered": 1,
+    "referenceCapture": "humanspaceflight-research-submit.1280x720.52a12768eeb9.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/humanspaceflight/research",
+    "mutedPropertiesRecovered": 1,
+    "referenceCapture": "humanspaceflight-research.1280x720.2ef96960b2a3.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/humanspaceflight",
+    "mutedPropertiesRecovered": 20,
+    "referenceCapture": "humanspaceflight.1280x720.1c52279f9197.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/mission",
+    "mutedPropertiesRecovered": 12,
+    "referenceCapture": "mission.1280x720.fce046b679df.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/rideshare",
+    "mutedPropertiesRecovered": 4,
+    "referenceCapture": "rideshare.1280x720.864822d4d95e.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/spacexai/starmind",
+    "mutedPropertiesRecovered": 5,
+    "referenceCapture": "spacexai-starmind.1280x720.3052fe1e58dc.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/starshield",
+    "mutedPropertiesRecovered": 6,
+    "referenceCapture": "starshield.1280x720.9291ab07930d.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/updates",
+    "mutedPropertiesRecovered": 7,
+    "referenceCapture": "updates.1280x720.ec49633a54c2.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/vehicles/dragon",
+    "mutedPropertiesRecovered": 15,
+    "referenceCapture": "vehicles-dragon.1280x720.21ccd200ec41.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/vehicles/falcon-9",
+    "mutedPropertiesRecovered": 25,
+    "referenceCapture": "vehicles-falcon-9.1280x720.06ec7481a789.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/vehicles/falcon-heavy",
+    "mutedPropertiesRecovered": 21,
+    "referenceCapture": "vehicles-falcon-heavy.1280x720.c98fe77fd5f5.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/vehicles/starship",
+    "mutedPropertiesRecovered": 20,
+    "referenceCapture": "vehicles-starship.1280x720.85cdc5fd2ed0.json"
+  },
+  {
+    "project": "spacex",
+    "route": "/vehicles",
+    "mutedPropertiesRecovered": 15,
+    "referenceCapture": "vehicles.1280x720.55da3d0e37c7.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/careers",
+    "mutedPropertiesRecovered": 6,
+    "referenceCapture": "careers.1280x720.450fabc73ffd.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/content",
+    "mutedPropertiesRecovered": 1,
+    "referenceCapture": "content.1280x720.08b417074282.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/humanspaceflight/earth",
+    "mutedPropertiesRecovered": 5,
+    "referenceCapture": "humanspaceflight-earth.1280x720.1673f8e9707f.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/humanspaceflight/iss",
+    "mutedPropertiesRecovered": 7,
+    "referenceCapture": "humanspaceflight-iss.1280x720.0cadea268ca5.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/humanspaceflight/mars",
+    "mutedPropertiesRecovered": 9,
+    "referenceCapture": "humanspaceflight-mars.1280x720.a2c692abe2ea.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/humanspaceflight/moon",
+    "mutedPropertiesRecovered": 12,
+    "referenceCapture": "humanspaceflight-moon.1280x720.8bd3dc9a9668.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/humanspaceflight/overview",
+    "mutedPropertiesRecovered": 20,
+    "referenceCapture": "humanspaceflight-overview.1280x720.7f8782c1bba9.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/humanspaceflight/research/submit",
+    "mutedPropertiesRecovered": 1,
+    "referenceCapture": "humanspaceflight-research-submit.1280x720.52a12768eeb9.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/humanspaceflight/research",
+    "mutedPropertiesRecovered": 1,
+    "referenceCapture": "humanspaceflight-research.1280x720.2ef96960b2a3.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/humanspaceflight",
+    "mutedPropertiesRecovered": 20,
+    "referenceCapture": "humanspaceflight.1280x720.1c52279f9197.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/mission",
+    "mutedPropertiesRecovered": 12,
+    "referenceCapture": "mission.1280x720.fce046b679df.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/rideshare",
+    "mutedPropertiesRecovered": 4,
+    "referenceCapture": "rideshare.1280x720.864822d4d95e.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/spacexai/starmind",
+    "mutedPropertiesRecovered": 5,
+    "referenceCapture": "spacexai-starmind.1280x720.3052fe1e58dc.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/starshield",
+    "mutedPropertiesRecovered": 6,
+    "referenceCapture": "starshield.1280x720.9291ab07930d.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/updates",
+    "mutedPropertiesRecovered": 7,
+    "referenceCapture": "updates.1280x720.ec49633a54c2.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/vehicles/dragon",
+    "mutedPropertiesRecovered": 15,
+    "referenceCapture": "vehicles-dragon.1280x720.21ccd200ec41.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/vehicles/falcon-9",
+    "mutedPropertiesRecovered": 25,
+    "referenceCapture": "vehicles-falcon-9.1280x720.06ec7481a789.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/vehicles/falcon-heavy",
+    "mutedPropertiesRecovered": 21,
+    "referenceCapture": "vehicles-falcon-heavy.1280x720.c98fe77fd5f5.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/vehicles/starship",
+    "mutedPropertiesRecovered": 20,
+    "referenceCapture": "vehicles-starship.1280x720.85cdc5fd2ed0.json"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/vehicles",
+    "mutedPropertiesRecovered": 15,
+    "referenceCapture": "vehicles.1280x720.55da3d0e37c7.json"
+  }
+]

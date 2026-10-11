@@ -15,3 +15,5 @@ Open http://127.0.0.1:4173/ for the actual homepage. Normal builds and preview s
 For an existing local bundle, use `python3 scripts/setup-assets.py --bundle-dir /path/to/bundle`. Maintained assets with local changes are never overwritten. Asset publication currently awaits its checkpoint release; see `investigation/STATUS.md`.
 
 See MIGRATION.md, investigation/BASELINE.md, investigation/PARITY-CONTRACT.md and HANDOVER.md for the method, frozen-reference scope, limitations and remaining work.
+
+Mobile media is supplied by the separately pinned `mobile-asset-manifest.json` supplement. The setup command acquires and verifies both bundles once; ordinary `nift build` commands use maintained assets already present under `public/assets`. Shared acquisition is locked to prevent concurrent projects from writing the same cache objects. The source keeps all internal media paths in `@path`; the native viewport adapter selects the frozen mobile variants. Release transport remains in progress.

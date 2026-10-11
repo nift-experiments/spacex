@@ -1,0 +1,209 @@
+{
+  "checks": [
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-9-first-stage",
+      "state": "Overview",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-9-first-stage",
+      "state": "Overview",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-9-first-stage",
+      "state": "Engines",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-9-first-stage",
+      "state": "Engines",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-9-first-stage",
+      "state": "Landing legs",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-9-first-stage",
+      "state": "Landing legs",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-9-payload",
+      "state": "Fairing",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-9-payload",
+      "state": "Fairing",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-9-payload",
+      "state": "Dragon",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-9-payload",
+      "state": "Dragon",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-9-merlin",
+      "state": "Sea level",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-9-merlin",
+      "state": "Sea level",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-9-merlin",
+      "state": "Vacuum",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-9-merlin",
+      "state": "Vacuum",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-heavy-first-stage",
+      "state": "Overview",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-heavy-first-stage",
+      "state": "Overview",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-heavy-first-stage",
+      "state": "Engines",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-heavy-first-stage",
+      "state": "Engines",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-heavy-first-stage",
+      "state": "Landing legs",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-heavy-first-stage",
+      "state": "Landing legs",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-heavy-merlin",
+      "state": "Sea level",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-heavy-merlin",
+      "state": "Sea level",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-falcon-heavy-merlin",
+      "state": "Vacuum",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-falcon-heavy-merlin",
+      "state": "Vacuum",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-dragon-capsule",
+      "state": "Overview",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-dragon-capsule",
+      "state": "Overview",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-dragon-capsule",
+      "state": "Launch abort",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-dragon-capsule",
+      "state": "Launch abort",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-dragon-capsule",
+      "state": "Altitude control",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-dragon-capsule",
+      "state": "Altitude control",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-dragon-engines",
+      "state": "Draco",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-dragon-engines",
+      "state": "Draco",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "vehicles-dragon-engines",
+      "state": "Superdraco",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "vehicles-dragon-engines",
+      "state": "Superdraco",
+      "textAndValuesMatchReference": true
+    }
+  ],
+  "scope": "All 17 captured component variants in both built projects; whole-site visual and behavioral parity remains open"
+}
