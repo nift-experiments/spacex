@@ -22,6 +22,22 @@ for (const host of document.querySelectorAll('supplier-submit-page, lead-submit-
   const form = root.querySelector('form');
   if (!form) continue;
   const controls = () => [...form.querySelectorAll('input, select, textarea')];
+  const isLead = host.tagName === 'LEAD-SUBMIT-PAGE';
+  const leadFields = ['givenName','familyName','email','countryOfPrimaryResidence','countryOfPassport','destination','missionYear','missionObjectivesDescription'];
+  const objectives = form.querySelector('[data-field="missionObjectivesDescription"]');
+  let characterCount;
+  if (isLead && objectives) {
+    objectives.maxLength = 500;
+    characterCount = document.createElement('div');
+    characterCount.className = 'flex flex-1 justify-end';
+    characterCount.hidden = true;
+    objectives.parentElement.after(characterCount);
+    const years = form.querySelector('[data-field="missionYear"]');
+    if (years) {
+      const currentYear = new Date().getFullYear();
+      years.replaceChildren(...['',...Array.from({length:5}, (_,index) => String(currentYear+index)), 'Beyond'].map(value => new Option(value,value)));
+    }
+  }
   let repeatIdentity = 0;
   const identifyRow = row => {
     for (const input of row.querySelectorAll('input,select')) {
@@ -90,6 +106,23 @@ for (const host of document.querySelectorAll('supplier-submit-page, lead-submit-
         if (indicator) indicator.style.display=group.querySelector('input:checked') ? 'none' : '';
       }
     }
+    if (isLead) {
+      const email = field('email');
+      email.setCustomValidity(!email.value || /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,})+$/.test(email.value) ? '' : 'Enter a valid email address.');
+      for (const name of leadFields) {
+        const input = field(name);
+        const indicator = input?.closest('.epdk-form-field')?.querySelector('.required-asterisk');
+        if (indicator) indicator.hidden = !!input.value && input.validity.valid;
+      }
+      for (const group of form.querySelectorAll('mat-radio-group[data-field],mat-checkbox[data-field]')) {
+        const indicator = group.closest('.epdk-form-field')?.querySelector('.required-asterisk');
+        if (indicator) indicator.hidden = !!group.querySelector('input:checked');
+      }
+      if (characterCount) {
+        characterCount.hidden = objectives.value.length < 450;
+        characterCount.textContent = ` ${objectives.value.length} / 500 `;
+      }
+    }
     if (submit) submit.disabled = !available.every(input => input.validity.valid);
   };
   for (const input of controls()) {
@@ -97,13 +130,15 @@ for (const host of document.querySelectorAll('supplier-submit-page, lead-submit-
     const container = input.closest('.epdk-form-field');
     if (host.tagName === 'SUPPLIER-SUBMIT-PAGE') {
       input.required = ['companyLegalName','companyAddress','country','companyWebsite','spacexEmail','specializationDescription','pocJobTitle','pocGivenName','pocFamilyName','pocEmail','pocPhone'].includes(input.dataset.field);
-    } else if (container?.querySelector('.epdk-asterisk') && !['checkbox','radio'].includes(input.type)) input.required = true;
-    if (/email/i.test(input.dataset.field || input.id)) input.type = 'email';
+    } else if (isLead) input.required = leadFields.includes(input.dataset.field);
+    else if (container?.querySelector('.epdk-asterisk') && !['checkbox','radio'].includes(input.type)) input.required = true;
+    if (/email/i.test(input.dataset.field || input.id)) input.type = isLead ? 'text' : 'email';
 
   }
   for (const group of form.querySelectorAll('mat-radio-group')) {
     const required = host.tagName === 'SUPPLIER-SUBMIT-PAGE'
       ? ['spacexPoc','isSmallBusiness','isHbcu','isIsoCert','isAsCert','naicsCodes','providesConstructionServices'].includes(group.dataset.field)
+      : isLead ? ['atLeastEighteenYearsOld','openToFinancialQualification'].includes(group.dataset.field)
       : !!group.closest('.epdk-form-field')?.querySelector('.epdk-asterisk');
     if (required) group.querySelector('input').required = true;
   }

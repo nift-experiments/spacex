@@ -1,0 +1,26 @@
+{
+  "sourceModule": "6444.ffb542e654cd21eb.js",
+  "sourceSha256": "fdadef433381c961e51a1ba27ee6e8925867d02311befad4475d928a4b789acc",
+  "referenceAuthoredChecks": {
+    "plusAliasRejected": true,
+    "longTldAccepted": true,
+    "counter449Hidden": true,
+    "counter450Visible": true
+  },
+  "referenceAndBothProjects": {
+    "counter500": "500 / 500",
+    "years": [
+      "",
+      "2026",
+      "2027",
+      "2028",
+      "2029",
+      "2030",
+      "Beyond"
+    ],
+    "submitDisabled": true
+  },
+  "privateSubmissionPerformed": false,
+  "ageAndAcknowledgementUntouched": true,
+  "fullParityAccepted": false
+}
