@@ -50,7 +50,7 @@ for plan in plans:
   root['data-native-state-key']=key
   for button in root.select('[role="tab"]'):
    button['data-native-state-value']=button.get_text(' ',strip=True);button['aria-selected']=str(button.get_text(' ',strip=True)==label).lower();button['tabindex']='0' if button.get_text(' ',strip=True)==label else '-1'
-  fragment=str(root);fragments.append((label,fragment))
+  fragment=re.sub(r'[ \t]+\n','\n',str(root));fragments.append((label,fragment))
   records.append({'route':plan['route'],'family':key,'state':label,'capture':capture.name,'captureSha256':hashlib.sha256(capture.read_bytes()).hexdigest(),'browserParityAccepted':False})
  for project in (H,A):
   for target_route in [plan['route'], *plan.get('aliases', [])]:
