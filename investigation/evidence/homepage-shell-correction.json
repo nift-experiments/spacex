@@ -1,0 +1,13 @@
+{
+  "headerSource": "main.38aaaafc31bc4ec8.js onScroll",
+  "thresholdPx": 50,
+  "downwardHidden": true,
+  "upwardVisible": true,
+  "footerHeightDesktopPx": 72,
+  "footerHeightMobilePx": 132,
+  "actualMobileViewport": [
+    390,
+    844
+  ],
+  "fullBrowserParityAccepted": false
+}

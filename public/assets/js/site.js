@@ -156,3 +156,12 @@ for (const [selector, className, rootMargin, threshold] of [
     observer.observe(element);
   });
 }
+
+// Public header onScroll: reveal upward/below 50px/or while mobile navigation is expanded.
+let currentPageYOffset = 0;
+window.addEventListener('scroll', () => {
+  const offset = window.pageYOffset;
+  const visible = offset < currentPageYOffset || offset < 50 || toggle.getAttribute('aria-expanded') === 'true';
+  header.classList.toggle('header-hide', !visible);
+  currentPageYOffset = offset;
+}, {passive:true});
