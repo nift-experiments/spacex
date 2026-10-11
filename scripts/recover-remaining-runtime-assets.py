@@ -14,10 +14,11 @@ for name in ['spacex','spacex-agent']:
  for folder in ['content','prose','templates']:
   for path in (project/folder).rglob('*.html'):
    source=path.read_text();dom=BeautifulSoup(source,'html.parser');new=source
-   for tag in dom.select('img[src],video[src],source[src],audio[src]'):
-    old=str(tag);url=tag['src']
-    if url not in mapping:continue
-    assert old in new,path;tag['src']="@path('"+mapping[url]+"')";new=new.replace(old,str(tag),1);count+=1
+   for tag in dom.select('img[src],video[src],source[src],audio[src],video[poster]'):
+    for attribute in ['src', 'poster']:
+     old=str(tag);url=tag.get(attribute)
+     if url not in mapping:continue
+     assert old in new,path;tag[attribute]="@path('"+mapping[url]+"')";new=new.replace(old,str(tag),1);count+=1
    if new!=source:path.write_text(new)
  (project/'investigation/evidence/runtime-asset-completion.json').write_text(json.dumps({'scope':'Captured runtime images/audio/video only; downloadable archive remains remote','assets':evidence,'sourceBindingsUpdated':count,'browserParityAccepted':False},indent=2)+'\n')
  print(name,count,'native runtime bindings')
