@@ -455,7 +455,9 @@
         "documentId": "aybzl3eztnjhm1ikk3ihaajj",
         "locale": null,
         "publishedAt": "2025-03-09T02:50:51.273Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/2abb8cea1b2a949ccf46d2342d56a111aba4d71e7cbcd529152e3ac0aace6499.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/anne-c-mcclain/"
     },
     {
       "id": 986,
@@ -533,7 +535,9 @@
         "documentId": "pbbv6z7k8sfy3ky2uuioyfmp",
         "locale": null,
         "publishedAt": "2025-03-09T02:50:51.270Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/5aae2060543f51cab2c8480b58cf6be58f53a958d1f4bbcb86dac4f3ce6da84c.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/nasa-astronaut-nichole-ayers/"
     },
     {
       "id": 987,
@@ -611,7 +615,9 @@
         "documentId": "sgslkrur97fo2hf32evdntn6",
         "locale": null,
         "publishedAt": "2025-03-09T02:50:50.337Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/77a2430e25eb083aedb4855b0b3a80b052b9a7e780356e76a877d7bd096c0e2e.jpg",
+      "bioDisplayLink": "https://humans-in-space.jaxa.jp/en/astronaut/onishi-takuya/"
     },
     {
       "id": 988,
@@ -689,7 +695,9 @@
         "documentId": "gnau6yn26w2lj5qew02spc74",
         "locale": null,
         "publishedAt": "2025-03-09T02:50:49.541Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/92fa021d005d354f92a515952595e07fc791edfae22a329b13ab8b61e461f025.jpg",
+      "bioDisplayLink": ""
     }
   ],
   "followDragonEnabled": true,

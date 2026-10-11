@@ -662,7 +662,9 @@
         "documentId": "la7jj7l2w8i3wru0s6mddgae",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/aa67bbfb770c416d43c31feb0241435003a2e3098745fabc46749c913357cc8e.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/michael-lopez-alegria"
     },
     {
       "id": 1100,
@@ -736,7 +738,9 @@
         "documentId": "n95p1ehn6glqrafzwpm4nrdi",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/0ecf9308234f60cd8e1534742a074bca37e3bf11f1dfac182fc9f6aa8423d1a5.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/walter-villadei"
     },
     {
       "id": 1101,
@@ -810,7 +814,9 @@
         "documentId": "rrjz37mywii7unhbl7awdru4",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/ae00dafba3ffaa93380baa7c650c90b41e02e67c6ed327acccbebd0cd053fbf3.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/alper-gezeravci"
     },
     {
       "id": 1102,
@@ -884,7 +890,9 @@
         "documentId": "cik0lh8q48qopq4hgjef0w6n",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/08d6eb98d9ac117ac4167ed7ad8dd02a813c93f774ac36bce245f63b8dc9934a.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/marcus-wandt"
     }
   ],
   "followDragonEnabled": false,

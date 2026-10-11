@@ -704,7 +704,9 @@
         "documentId": "mhru5lrjv1u0q3r3k64d5i34",
         "locale": null,
         "publishedAt": "2025-07-24T01:01:53.836Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/bd85a5078623764f0d5ec15bc317d6a0b5ec0540c67e9e8eedfe788c7393de10.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/wp-content/uploads/2023/04/hopkins-michael-r1-2.pdf"
     },
     {
       "id": 1180,
@@ -782,7 +784,9 @@
         "documentId": "e1z7q9mhhrgrxlrmzmuq7nnt",
         "locale": null,
         "publishedAt": "2025-07-24T01:01:52.923Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/d4a622a690affef29d161b7b7e8b153c191a389130deea3c5bbb14f6abe62fdf.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/victor-j-glover-jr/"
     },
     {
       "id": 1181,
@@ -860,7 +864,9 @@
         "documentId": "oh7rch99nlts8lw47nxe45pe",
         "locale": null,
         "publishedAt": "2025-07-24T01:01:53.619Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/84f1760b6312abe93b2325c8bee276b092d5224d891f64164fc14b1a17eef017.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/wp-content/uploads/2023/10/walker-s.pdf"
     },
     {
       "id": 1182,
@@ -938,7 +944,9 @@
         "documentId": "avkl5druxvaqrlpawa6jh2nl",
         "locale": null,
         "publishedAt": "2025-07-24T01:01:53.498Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/9a6c54c966c52a33072f9657eb109fdb1029865e5d07a7ae101297f2ce28c15c.jpg",
+      "bioDisplayLink": "https://humans-in-space.jaxa.jp/en/astronaut/noguchi-soichi/"
     }
   ],
   "followDragonEnabled": false,

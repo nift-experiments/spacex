@@ -662,7 +662,9 @@
         "documentId": "ez1r6bxpj96sipctt066p09j",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/4e0f2d3ac671cf24675155ba9fd951f61ed2c7bb61d80a799724569ba7ed0893.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/stephen-g-bowen/"
     },
     {
       "id": 1066,
@@ -736,7 +738,9 @@
         "documentId": "gidt1yptyc9pgwy76fx2hqlr",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/8d2d8cf0fa8edb3e18e0ce8fba3763aad068b681fb820b850f9802d9910f3298.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/warren-hoburg/"
     },
     {
       "id": 1067,
@@ -810,7 +814,9 @@
         "documentId": "zstsyu9bcsd3w8rp6vi1dclg",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/0fc9ba465fb8d835bb8bbd2a6d9638e5333d22e701e497a0c551d4a27f1e9cc7.jpg",
+      "bioDisplayLink": "https://www.gctc.ru/main.php?id=1716"
     },
     {
       "id": 1068,
@@ -884,7 +890,9 @@
         "documentId": "jboz5zddqtj31h7y06orrj12",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/d49033e1b335009f826d944e62b82aeceffa117d5f8d56448ca819244e1fad8a.jpg",
+      "bioDisplayLink": "https://www.mbrsc.ae/sultan-alneyadi/"
     }
   ],
   "followDragonEnabled": false,

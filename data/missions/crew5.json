@@ -683,7 +683,9 @@
         "documentId": "tlkaw92nxgis6cmapetj9bcu",
         "locale": null,
         "publishedAt": "2025-07-24T06:28:34.622Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/0527de15284294f750189e692213eae83d6852177f4fc75ef50572900835bf15.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/nicole-a-mann/"
     },
     {
       "id": 1170,
@@ -761,7 +763,9 @@
         "documentId": "ijbe2ulw43chqb4lf4x95ogs",
         "locale": null,
         "publishedAt": "2025-07-24T06:28:35.402Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/4a550998ff25560dd49bea0188c69e4886ffa589eaac2bfd1acbbe4a3420404c.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/wp-content/uploads/2024/10/cassada-ja.pdf"
     },
     {
       "id": 1171,
@@ -839,7 +843,9 @@
         "documentId": "fjm5v2r8vv2g419wwesrvrx4",
         "locale": null,
         "publishedAt": "2025-07-24T06:28:36.102Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/c922d164940964d292e12bdb03a214d33e29a6e0617aca1fac413c645fc30ce7.jpg",
+      "bioDisplayLink": "https://humans-in-space.jaxa.jp/en/astronaut/wakata-koichi/"
     },
     {
       "id": 1172,
@@ -917,7 +923,9 @@
         "documentId": "wlnm455wlcrw8x6da92knkd4",
         "locale": null,
         "publishedAt": "2025-07-24T06:28:36.198Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/957f6c2289be42336a89568559369d8c94e707818267f58e1e8654e5894d70d8.jpg",
+      "bioDisplayLink": "https://www.gctc.ru/main.php?id=1710"
     }
   ],
   "followDragonEnabled": false,

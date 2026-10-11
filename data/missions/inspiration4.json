@@ -393,7 +393,9 @@
         "documentId": "d0qvx1tu5tb2gzexkj6k1dxs",
         "locale": null,
         "publishedAt": "2025-07-24T06:37:38.699Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/794218be562bbaa5791db1eddb33928a5adfbd443e0e9a8ef321159cc10bc525.jpg",
+      "bioDisplayLink": "https://inspiration4.com/crew/#jared"
     },
     {
       "id": 1080,
@@ -471,7 +473,9 @@
         "documentId": "k775jyd300tdfdv1bp9o2cnz",
         "locale": null,
         "publishedAt": "2025-07-24T06:37:38.119Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/a5b746aa6400c783bcb0fc6be8690ae83a6757a93671e81c878076142b64f9e5.jpg",
+      "bioDisplayLink": "https://inspiration4.com/crew/#hayley"
     },
     {
       "id": 1081,
@@ -549,7 +553,9 @@
         "documentId": "dorxmh68tdbv2rou4el2v10g",
         "locale": null,
         "publishedAt": "2025-07-24T06:37:38.800Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/61e2eae33db6c8b68974daa11f09fe2e202f28c59d522923d9f7ea7fd6e52948.jpg",
+      "bioDisplayLink": "https://inspiration4.com/crew/#chris"
     },
     {
       "id": 1082,
@@ -627,7 +633,9 @@
         "documentId": "zcez7dgx0fbntohr7iz2zh0m",
         "locale": null,
         "publishedAt": "2025-07-24T06:37:37.419Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/b9271c39f49c377535c5bb95e731699802d947779791813d1f13c261fd41275a.jpg",
+      "bioDisplayLink": "https://inspiration4.com/crew/#drsian"
     }
   ],
   "followDragonEnabled": false,

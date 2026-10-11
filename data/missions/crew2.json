@@ -739,7 +739,9 @@
         "documentId": "v8j5e0uhk96y12jc0uvynu3g",
         "locale": null,
         "publishedAt": "2025-07-24T00:48:22.623Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/206e32053ca59cccd6386e19d32aacea3113062a607483a15f6918f9e3355838.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/wp-content/uploads/2016/03/kimbrough-rs.pdf"
     },
     {
       "id": 1158,
@@ -817,7 +819,9 @@
         "documentId": "f4yuej6fz7dnp7em4glq1c19",
         "locale": null,
         "publishedAt": "2025-07-24T00:48:23.828Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/501d69f0e4e5f6aaa85578180d025a8da274f43f597b455f72fd63ebf5d23563.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/megan-mcarthur/"
     },
     {
       "id": 1159,
@@ -895,7 +899,9 @@
         "documentId": "a6hatfpigi1ntrp9oilyrm6m",
         "locale": null,
         "publishedAt": "2025-07-24T00:48:20.009Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/3daf28c4ae3ee774b2f5f2439901ec9700d648dcbe562cf5c459ac7970b01889.jpg",
+      "bioDisplayLink": "https://humans-in-space.jaxa.jp/en/astronaut/hoshide-akihiko/"
     },
     {
       "id": 1160,
@@ -973,7 +979,9 @@
         "documentId": "slk7rkxfcsgrhmycmilcsoqh",
         "locale": null,
         "publishedAt": "2025-07-24T00:48:20.199Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/b1b14e6104a30c405b6447ee8c0fa0b25c05c8db2173b1190413f52b3d34417a.jpg",
+      "bioDisplayLink": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Thomas_Pesquet"
     }
   ],
   "followDragonEnabled": false,

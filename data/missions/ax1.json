@@ -688,7 +688,9 @@
         "documentId": "gofsa4oy2bfx14vveue139rw",
         "locale": null,
         "publishedAt": "2025-07-24T06:56:11.900Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/beccb81ed0151eeccba69139e587415d70da40bb611ac76602fa669abe75ad44.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/michael-lopez-alegria"
     },
     {
       "id": 1184,
@@ -754,7 +756,9 @@
         "documentId": "htjb62v1ii3hj7ayvesaz5wy",
         "locale": null,
         "publishedAt": "2025-07-24T06:56:12.504Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/4870157cca227f0efa2024d3179b0c4f0f74af0d12c4e1710be2007d8b40a3f6.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/larry-connor"
     },
     {
       "id": 1185,
@@ -820,7 +824,9 @@
         "documentId": "wm2xj38xb598zjwctta8i698",
         "locale": null,
         "publishedAt": "2025-07-24T06:56:12.298Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/bab1c7974565b22c05329fa02fa8e158753719994484a02eac2da24af113775d.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/eytan-stibbe"
     },
     {
       "id": 1186,
@@ -886,7 +892,9 @@
         "documentId": "u5w16roefaeizalxcmd4ds0d",
         "locale": null,
         "publishedAt": "2025-07-24T06:56:11.500Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/1e2e9b92ef49bdcbdd1e2f70577b256f00dd4e9911a62edb8b840735f3d277a0.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/mark-pathy"
     }
   ],
   "followDragonEnabled": false,

@@ -686,7 +686,9 @@
         "documentId": "c2r0aqytwd94ibpsdynvmgok",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/25584d13a249843302504a1c54a339958c14eec78290d6394f82ed0e32ce2a3c.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/matthew-dominick/"
     },
     {
       "id": 1174,
@@ -760,7 +762,9 @@
         "documentId": "ohs3xtilpte725fndfz15pyj",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/41d0f56ac1566a8201e768f1611e9c9a3b9109778fa95b8fa7d2606a50ad6bf8.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/michael-reed-barratt/"
     },
     {
       "id": 1175,
@@ -834,7 +838,9 @@
         "documentId": "z0puf1erj7d0z2yof5j1o7xj",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/3d391e5bc136744a2fef681e905fe8df2577612ba16323e1b210755412480729.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/jeanette-j-epps/"
     },
     {
       "id": 1176,
@@ -908,7 +914,9 @@
         "documentId": "rwnx3ommbiebrtxpae76mq6v",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/bee93c861de2af98d002290dc32911d53f50cb42355e99a26ddc40d483bdaf43.jpg",
+      "bioDisplayLink": ""
     }
   ],
   "followDragonEnabled": false,

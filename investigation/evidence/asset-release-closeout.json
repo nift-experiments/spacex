@@ -29,6 +29,12 @@
       "release": "maintained-runtime-9fe6b1abc87777ab",
       "files": 40,
       "bytes": 61542940
+    },
+    {
+      "identity": "3df06ad0ff24850b80058d638f82d6954ab508a523435d7985634eac52899d5f",
+      "release": "maintained-crew-3df06ad0ff24850b",
+      "files": 80,
+      "bytes": 50236841
     }
   ],
   "remoteAssetSizesAndDigestsVerified": true,
@@ -37,5 +43,6 @@
   "allSupplementNetworkAcquisitionPending": false,
   "downloadOnlyCatalogueExcluded": true,
   "browserParityAccepted": false,
-  "emptyCacheNetworkAllFiveBundlesPassed": true
+  "emptyCacheNetworkAllFiveBundlesPassed": true,
+  "emptyCacheNetworkAllSixBundlesPassed": true
 }

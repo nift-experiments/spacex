@@ -534,7 +534,9 @@
         "documentId": "r95c5iw4wdoi52xty9z94l9q",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/1aecfd599ed82b4314dc0f0d32985f837282d813ffb7026e7176628e64e24056.jpg",
+      "bioDisplayLink": "https://polarisprogram.com/team/jared-isaacman/"
     },
     {
       "id": 1084,
@@ -608,7 +610,9 @@
         "documentId": "e4cy0q2wql163zcdasyd9dy9",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/d48e0213c1de6dbae2c1328cd9b1c54e4078481e3ce0200461b757ce8847d078.jpg",
+      "bioDisplayLink": "https://polarisprogram.com/team/scott-poteet/"
     },
     {
       "id": 1085,
@@ -682,7 +686,9 @@
         "documentId": "um3hzbatkxrds2vqgllp9bfu",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/442bc053bec35a20424fe2d02fc73c88ed3423114357f43a106ecd0cd02817b9.jpg",
+      "bioDisplayLink": "https://polarisprogram.com/team/sarah-gillis/"
     },
     {
       "id": 1086,
@@ -756,7 +762,9 @@
         "documentId": "bhj411hvamh6rerbaybyln56",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/c817d1ff4864c2bfac0333823050412013289a4d5098d866cc01fac0c9fc6db0.jpg",
+      "bioDisplayLink": "https://polarisprogram.com/team/anna-menon/"
     }
   ],
   "followDragonEnabled": false,

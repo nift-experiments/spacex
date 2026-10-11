@@ -698,7 +698,9 @@
         "documentId": "ix5w39rkrv5mdve9css558vy",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/181705776996ae8b19b8f8e1b46fd12d5681288ebfd55549748b81283727d45e.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/nick-hague/"
     },
     {
       "id": 1178,
@@ -776,7 +778,9 @@
         "documentId": "ejlg6bn8lqif3yn4qj7lw2xq",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/d8f9cbb26d41ce05d94002b657bafc8bc8e68c3af56ec4206041422d07b1dcc9.jpg",
+      "bioDisplayLink": ""
     }
   ],
   "followDragonEnabled": false,

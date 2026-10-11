@@ -394,7 +394,9 @@
         "documentId": "exdb7qckug18sy5er3ktqcmb",
         "locale": null,
         "publishedAt": "2025-03-22T00:38:13.551Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/232ffed9058b6f58b6f58995886ae26fc3732ce8287bc6de0a9da30e0665f6af.jpg",
+      "bioDisplayLink": ""
     },
     {
       "id": 1088,
@@ -472,7 +474,9 @@
         "documentId": "kwdi4vmucuoqb7w9o3vdxmuy",
         "locale": null,
         "publishedAt": "2025-03-22T00:38:13.054Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/6435beb65f9caa7bcf57e8b6d9a687155b6d7f3a028afd5270a04d394fdaecb0.jpg",
+      "bioDisplayLink": ""
     },
     {
       "id": 1089,
@@ -550,7 +554,9 @@
         "documentId": "ku3lwpk1w3uf8oargk57uui2",
         "locale": null,
         "publishedAt": "2025-03-22T00:38:13.443Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/47aa7e257985281024f7286db7f4eba0fa3c78f3ea936109042a6a09cfb129de.jpg",
+      "bioDisplayLink": ""
     },
     {
       "id": 1090,
@@ -628,7 +634,9 @@
         "documentId": "hxj6apjybahmiafjlv4yuzyb",
         "locale": null,
         "publishedAt": "2025-03-22T00:38:13.356Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/269b4dafa9bf6841e73ab1036fda3025850c73f3bc107f0c95b0740859fabd7f.jpg",
+      "bioDisplayLink": ""
     }
   ],
   "followDragonEnabled": false,

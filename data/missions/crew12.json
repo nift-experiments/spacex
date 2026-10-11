@@ -700,7 +700,9 @@
         "documentId": "vzh46da1qok5mjr6zmj5gnoc",
         "locale": null,
         "publishedAt": "2026-02-06T22:59:52.838Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/c2a0018b15eba8be9d081d93c78fb535363586c96e644e72fcf7127a91715594.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/humans-in-space/astronauts/jessica-u-meir/"
     },
     {
       "id": 1368,
@@ -778,7 +780,9 @@
         "documentId": "f9tps4tcn53xgjupzhrpc6ww",
         "locale": null,
         "publishedAt": "2026-02-06T22:59:56.341Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/2580171586df2b2b0518b9fab4ea19d3bf625440d2e20a6eb51449f286571879.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/humans-in-space/astronauts/nasa-astronaut-jack-hathaway/"
     },
     {
       "id": 1369,
@@ -856,7 +860,9 @@
         "documentId": "l927pf76iaee24cw3kqy014x",
         "locale": null,
         "publishedAt": "2026-02-06T22:59:55.946Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/7aacd79b0611b26628c7b66d4696fa9fb9f0dc3f376974737f81f4abdf786402.jpg",
+      "bioDisplayLink": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Sophie_Adenot"
     },
     {
       "id": 1370,
@@ -934,7 +940,9 @@
         "documentId": "zrjbtlrgbl4gn7c24grzpzx7",
         "locale": null,
         "publishedAt": "2026-02-06T22:59:57.157Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/9af0dc968001b7d7fb96dffeebd1a2830bc52f7983777661b4252ad3b0210b1d.jpg",
+      "bioDisplayLink": ""
     }
   ],
   "followDragonEnabled": false,

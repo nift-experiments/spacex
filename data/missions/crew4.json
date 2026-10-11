@@ -704,7 +704,9 @@
         "documentId": "r30fg0h9hdd0orcfzudj5r7k",
         "locale": null,
         "publishedAt": "2025-07-24T07:12:53.109Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/dcc7569113cef7ea53d9c8df9ed93973fa2b428a3656affe63414e35d42f07aa.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/wp-content/uploads/2024/02/lindgren-kjell.pdf"
     },
     {
       "id": 1166,
@@ -782,7 +784,9 @@
         "documentId": "lkwt346sswhoikfhv2ariuue",
         "locale": null,
         "publishedAt": "2025-07-24T07:12:52.599Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/6ee5f8b76251f0805dcedeabec0ab8c2935166df345801940f99162afd60b08a.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/bob-hines/"
     },
     {
       "id": 1167,
@@ -860,7 +864,9 @@
         "documentId": "nk4fqjk582y799v4jb7z7c7n",
         "locale": null,
         "publishedAt": "2025-07-24T07:12:51.420Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/0ca5738dcd6778f33038818e7978c228eaacb9272f448a6becf90e84140d4a04.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/jessica-watkins/"
     },
     {
       "id": 1168,
@@ -938,7 +944,9 @@
         "documentId": "dp5nbvpfu5auryms8l0fkqz7",
         "locale": null,
         "publishedAt": "2025-07-24T07:12:53.199Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/c0a353fc050dc0284a2c664f9869a0c33a05b9982da758c685c94eb210f4b9b8.jpg",
+      "bioDisplayLink": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Samantha_Cristoforetti"
     }
   ],
   "followDragonEnabled": false,

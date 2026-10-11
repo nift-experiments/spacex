@@ -662,7 +662,9 @@
         "documentId": "b0hgaoevxar1ijp8yytklsoy",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/a95312730c13463ba9cfce133a1dc1ffeeaca12be55acf08f8b9593b2c2118f5.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/peggy-whitson"
     },
     {
       "id": 1096,
@@ -736,7 +738,9 @@
         "documentId": "bqp0z8pgmq5cqp2g93ooij3j",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/5c313c1b2887be7fa3cf045279064511ea2f323ae8d848acdd5d4a67cdaa5a2f.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/john-shoffner"
     },
     {
       "id": 1097,
@@ -810,7 +814,9 @@
         "documentId": "kd46kp6fezw5xwoqzmo2cwoy",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/11008b8c20b02c3d88254d236dd59527e7ff2b4c44a971e824cd9fc5c0c78301.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/ali-alqarni"
     },
     {
       "id": 1098,
@@ -884,7 +890,9 @@
         "documentId": "l5ikfjdu73p9d4qpn62w68uk",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/a1e706bda3260151fcf332985e7f033719c1a056101464a503f76a37205d030f.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/rayyanah-barnawi"
     }
   ],
   "followDragonEnabled": false,

@@ -376,7 +376,9 @@
         "documentId": "ynu7k0qa808heyvvs84hm2uo",
         "locale": null,
         "publishedAt": "2026-09-21T17:40:01.806Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/e8c82739ca3b34cadeae4f6db87199da4706c0a42ee327d809c227ef0e1b87ff.png",
+      "bioDisplayLink": "https://www.nasa.gov/people/jessica-watkins/"
     },
     {
       "id": 1320,
@@ -454,7 +456,9 @@
         "documentId": "a50yp7qw4nigf841p9h3krz7",
         "locale": null,
         "publishedAt": "2026-09-21T17:39:26.438Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/704c2a6c89c677025f5f7dc33d8b0c0da4f82c6b7b42d6d12f0768326d43da49.png",
+      "bioDisplayLink": "https://www.nasa.gov/people/nasa-astronaut-luke-delaney/"
     },
     {
       "id": 1321,
@@ -532,7 +536,9 @@
         "documentId": "yychy72nyqqa3hfgksngf73i",
         "locale": null,
         "publishedAt": "2026-09-21T17:39:45.639Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/2090799d4fa083defb4ff2f70a8da4950fd02b7432b616b0be3dd3b7a71050fe.png",
+      "bioDisplayLink": "unsafe: https://www.asc-csa.gc.ca/eng/astronauts/canadian/active/bio-joshua-kutryk.asp"
     },
     {
       "id": 1322,
@@ -610,7 +616,9 @@
         "documentId": "goyzsvcb41pzwoj8z8jzmu9v",
         "locale": null,
         "publishedAt": "2026-09-21T17:39:45.642Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/aabcf08b5c2d86c2ea8c4286d143b3379635b500c91eedb7048309d60934af70.png",
+      "bioDisplayLink": ""
     }
   ],
   "followDragonEnabled": false,

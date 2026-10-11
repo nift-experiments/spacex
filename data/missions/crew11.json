@@ -553,7 +553,9 @@
         "documentId": "rwgqouhc2360dtwxd0x80shh",
         "locale": null,
         "publishedAt": "2025-07-19T21:37:24.168Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/d21ac9d56ef8a761c6be2b6c5c246175e9a10f6bd607b5499e727280756d7588.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/humans-in-space/astronauts/zena-cardman/"
     },
     {
       "id": 1018,
@@ -631,7 +633,9 @@
         "documentId": "xdk29oaube3dq2w2o33xpoa4",
         "locale": null,
         "publishedAt": "2025-07-19T21:37:24.240Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/65d8cfdcb0db004597dbfb6b2d5ee0b06bfb72ed1a6805e533dc51ef172a907b.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/humans-in-space/astronauts/michael-e-fincke/"
     },
     {
       "id": 1019,
@@ -709,7 +713,9 @@
         "documentId": "bvk4983ga3e00asg1bzoxyvu",
         "locale": null,
         "publishedAt": "2025-07-19T21:37:23.467Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/f885642182d95e1342e7638408c63ff19ad772a1893186c13acda6c5c0d95e23.jpg",
+      "bioDisplayLink": "https://humans-in-space.jaxa.jp/en/astronaut/yui-kimiya/"
     },
     {
       "id": 1020,
@@ -787,7 +793,9 @@
         "documentId": "l7bkjzb71so5zdfry2w4xf28",
         "locale": null,
         "publishedAt": "2025-07-19T21:37:22.439Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/0c0a1b41ab3cbded9e34e1de704346e9884285f77e99c4b2283b8f18b17577d1.jpg",
+      "bioDisplayLink": ""
     }
   ],
   "followDragonEnabled": true,

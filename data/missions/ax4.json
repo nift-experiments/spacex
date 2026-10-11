@@ -734,7 +734,9 @@
         "documentId": "d21m9hxdmmoxpuu5d2j24y92",
         "locale": null,
         "publishedAt": "2025-06-06T17:48:36.554Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/e6df89cbb109bf0612fca733d1a90640fc8379afe4c023a3f956ff2d4a8b7b0f.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/peggy-whitson"
     },
     {
       "id": 1104,
@@ -812,7 +814,9 @@
         "documentId": "iuc6sohx7c8lfbtcpyqn38to",
         "locale": null,
         "publishedAt": "2025-06-06T17:48:37.040Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/afd079fd706660df9604a801aaa068b0e0fea0519adcd470d73a86173669540d.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/shubhanshu-shukla"
     },
     {
       "id": 1105,
@@ -890,7 +894,9 @@
         "documentId": "a71i2rrtm3sw6v45249tj7op",
         "locale": null,
         "publishedAt": "2025-06-06T17:48:36.234Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/669feac16f181ff8118f7125d6ae610e83d1f855e40d8136b79a40d263c25897.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/slawosz-uznanski"
     },
     {
       "id": 1106,
@@ -968,7 +974,9 @@
         "documentId": "qbj0qrjfso5bp9dso8cy7wat",
         "locale": null,
         "publishedAt": "2025-06-06T17:48:35.738Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/2c62f7382bd83cffcfaf53249bf457972132f1cbb2f7aef220be228d1e083b3f.jpg",
+      "bioDisplayLink": "https://www.axiomspace.com/astronaut/tibor-kapu"
     }
   ],
   "followDragonEnabled": false,

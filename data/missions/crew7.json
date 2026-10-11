@@ -662,7 +662,9 @@
         "documentId": "acqto96t4hzfeql0pl7k4o1f",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/c493c9310fc676fd6166694dec684814c8f73d2c8c203d3ce61fac95548cd644.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/humans-in-space/astronauts/jasmin-moghbeli/"
     },
     {
       "id": 1070,
@@ -736,7 +738,9 @@
         "documentId": "v88u5zh1j1r33wti6vquvubw",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/e3fccb947342f2112943a0d4855a0f69ed5bba2fc035d543553e3bf4098509b3.jpg",
+      "bioDisplayLink": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Andreas_Mogensen"
     },
     {
       "id": 1071,
@@ -810,7 +814,9 @@
         "documentId": "a1d7faitmfenzi61mrliob2g",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/2024f32928760d048510a480926874ce06b86071b86fda826b2c6bece77db52b.jpg",
+      "bioDisplayLink": "https://humans-in-space.jaxa.jp/en/astronaut/furukawa-satoshi/"
     },
     {
       "id": 1072,
@@ -884,7 +890,9 @@
         "documentId": "nzn7y03zz484w51l2xievthz",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/d826629024ad945939d374509d9832299605b1a68cf32bc70a792560b1ed00e0.jpg",
+      "bioDisplayLink": "https://www.gctc.ru/main.php?id=5160"
     }
   ],
   "followDragonEnabled": false,

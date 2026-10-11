@@ -724,7 +724,9 @@
         "documentId": "iav4pc2knn7c3jzgf2rzgthh",
         "locale": null,
         "publishedAt": "2025-07-24T01:29:36.220Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/1b5d1e3b2e14aa700f7c6ce30e8b7c71d333bb213a0f2d510d2bc5bac8541e24.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/raja-chari/"
     },
     {
       "id": 1162,
@@ -802,7 +804,9 @@
         "documentId": "xz940f1sjmdolqgnvz1bps68",
         "locale": null,
         "publishedAt": "2025-07-24T01:29:36.699Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/5ae0b67e2f3005a9b8f5c2cfa20d49153da4598f3dc353ca13ca0e2d740253c4.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/wp-content/uploads/2023/07/marshburn-thomas.pdf"
     },
     {
       "id": 1163,
@@ -880,7 +884,9 @@
         "documentId": "oi429e7wuj7vtoc34rfqdygf",
         "locale": null,
         "publishedAt": "2025-07-24T01:29:36.519Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/22be91eb97e09b0caab450973fffe321d161f218aab8fe12fed20c02593af246.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/people/kayla-barron/"
     },
     {
       "id": 1164,
@@ -958,7 +964,9 @@
         "documentId": "t39igukb058a48yxc7hehn05",
         "locale": null,
         "publishedAt": "2025-07-24T01:29:36.218Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/1b0c1529a1371132dbb45259f4e58cd5ee445d103db1f01bb87512eb7f9a40a8.jpg",
+      "bioDisplayLink": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Matthias_Maurer"
     }
   ],
   "followDragonEnabled": false,

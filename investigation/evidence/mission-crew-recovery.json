@@ -1,0 +1,135 @@
+{
+  "missions": [
+    {
+      "mission": "ax1",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "ax2",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "ax3",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "ax4",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew-9",
+      "people": 2,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew1",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew10",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew11",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew12",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew13",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 1
+    },
+    {
+      "mission": "crew2",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew3",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew4",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew5",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew6",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew7",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "crew8",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "demo2",
+      "people": 2,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "fram2",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "inspiration4",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    },
+    {
+      "mission": "polarisdawn",
+      "people": 4,
+      "model": "Authored structured crew records; agent maintained HTML",
+      "whitespaceSanitizerDefectsRetained": 0
+    }
+  ],
+  "uniquePortraits": 80,
+  "browserParityAccepted": false,
+  "authoredCrew13BrowserNamesAndPortraitsVerified": true,
+  "releaseRemoteDigestsVerified": true,
+  "networkAcquisitionPassed": true
+}

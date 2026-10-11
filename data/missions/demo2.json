@@ -700,7 +700,9 @@
         "documentId": "vv1i0sgn2pxgll4l9u35dkje",
         "locale": null,
         "publishedAt": "2025-07-24T07:23:32.001Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/38147dea8abe305a3d0039fae4bba506ac2d646f8cbe3922409e4f467df98f77.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/wp-content/uploads/2016/03/hurley-dg.pdf?emrc=96a80a"
     },
     {
       "id": 1192,
@@ -778,7 +780,9 @@
         "documentId": "siyvra0tufcg8dcahggnlsch",
         "locale": null,
         "publishedAt": "2025-07-24T07:23:32.127Z"
-      }
+      },
+      "portraitPath": "public/assets/recovered/crew/ca94936a84d1e433a25a153020433de71f0b483d3efa284132e94e03542d53c5.jpg",
+      "bioDisplayLink": "https://www.nasa.gov/wp-content/uploads/2016/08/behnken-rl.pdf?emrc=a16289"
     }
   ],
   "followDragonEnabled": false,
