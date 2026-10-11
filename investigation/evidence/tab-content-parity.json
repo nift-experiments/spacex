@@ -252,6 +252,90 @@
       "family": "mission-landing",
       "state": "Landing Zone",
       "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "humanspaceflight-missions",
+      "state": "Moon",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "humanspaceflight-missions",
+      "state": "Moon",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "humanspaceflight-missions",
+      "state": "Mars",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "humanspaceflight-missions",
+      "state": "Mars",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "humanspaceflight-missions",
+      "state": "Earth Orbit",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "humanspaceflight-missions",
+      "state": "Earth Orbit",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "humanspaceflight-missions",
+      "state": "Space Station",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "humanspaceflight-missions",
+      "state": "Space Station",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "spacexai-starmind-ai1",
+      "state": "Overview",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "spacexai-starmind-ai1",
+      "state": "Overview",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "spacexai-starmind-ai1",
+      "state": "Thermal",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "spacexai-starmind-ai1",
+      "state": "Thermal",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "spacexai-starmind-ai1",
+      "state": "Solar",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "spacexai-starmind-ai1",
+      "state": "Solar",
+      "textAndValuesMatchReference": true
     }
   ],
   "allPassed": true,

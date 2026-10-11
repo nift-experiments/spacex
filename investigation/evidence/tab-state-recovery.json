@@ -166,5 +166,61 @@
     "capture": "mission.1280x720.bf6b401218c5.json",
     "captureSha256": "bf6b401218c596f124dadd28f1fe198a8b4103d932081f67b3831e95971392f5",
     "browserParityAccepted": false
+  },
+  {
+    "route": "humanspaceflight",
+    "family": "humanspaceflight-missions",
+    "state": "Moon",
+    "capture": "humanspaceflight.1280x720.706104c70828.json",
+    "captureSha256": "706104c7082848303090b4b55c1c170bda991540b8c91e5d90887ea78116ad13",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "humanspaceflight",
+    "family": "humanspaceflight-missions",
+    "state": "Mars",
+    "capture": "humanspaceflight.1280x720.4dd214919082.json",
+    "captureSha256": "4dd2149190821c8f97a9258044cd8ba3b2aa2ec77ff28276c8dd2fd9242667cf",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "humanspaceflight",
+    "family": "humanspaceflight-missions",
+    "state": "Earth Orbit",
+    "capture": "humanspaceflight.1280x720.7523d2f30e37.json",
+    "captureSha256": "7523d2f30e372eeaad03cb6b05296b414d329a6c0cced2d180b1e6c24363798b",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "humanspaceflight",
+    "family": "humanspaceflight-missions",
+    "state": "Space Station",
+    "capture": "humanspaceflight.1280x720.c5b40370cbbc.json",
+    "captureSha256": "c5b40370cbbcbae242665e55c80f837ecdf4947cf156542f37c23ebbfda752e9",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "spacexai/starmind",
+    "family": "spacexai-starmind-ai1",
+    "state": "Overview",
+    "capture": "spacexai-starmind.1280x720.0aa977967715.json",
+    "captureSha256": "0aa9779677157680e8640a7c8531df04d9fb908370872df30f531e06bfd9430c",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "spacexai/starmind",
+    "family": "spacexai-starmind-ai1",
+    "state": "Thermal",
+    "capture": "spacexai-starmind.1280x720.0f21a41c7691.json",
+    "captureSha256": "0f21a41c769158a091d3923cfb6c1ad8a3228fa30edefb4a62f756e90e4b93ca",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "spacexai/starmind",
+    "family": "spacexai-starmind-ai1",
+    "state": "Solar",
+    "capture": "spacexai-starmind.1280x720.fa6f00b105ef.json",
+    "captureSha256": "fa6f00b105ef1d73771924e889f9f7b8fc59d71e97b5ab473f25b400865fbcde",
+    "browserParityAccepted": false
   }
 ]

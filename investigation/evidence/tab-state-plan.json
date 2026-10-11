@@ -118,5 +118,36 @@
       "0032eeec494c",
       "bf6b401218c5"
     ]
+  },
+  {
+    "route": "humanspaceflight",
+    "key": "missions",
+    "labels": [
+      "Moon",
+      "Mars",
+      "Earth Orbit",
+      "Space Station"
+    ],
+    "captures": [
+      "706104c70828",
+      "4dd214919082",
+      "7523d2f30e37",
+      "c5b40370cbbc"
+    ]
+  },
+  {
+    "route": "spacexai/starmind",
+    "key": "ai1",
+    "rootSelector": ".sticky-viewport",
+    "labels": [
+      "Overview",
+      "Thermal",
+      "Solar"
+    ],
+    "captures": [
+      "0aa977967715",
+      "0f21a41c7691",
+      "fa6f00b105ef"
+    ]
   }
 ]
