@@ -30,7 +30,7 @@
   "sourceCapture": "launches-crew13.1280x720.1856dad92217.json",
   "sourceSha256": "1856dad922172f90ef6d40d4f7e933e1f03cbfc275afa0b224b2a6d681ad81ec",
   "desktopRecovered": true,
-  "mobileControls": "OPEN",
+  "mobileControls": "Representative browser checks pass; comprehensive parity OPEN",
   "browserParityAccepted": false,
   "desktopBrowserCheck": {
     "mission": "crew13",
@@ -42,5 +42,21 @@
       "width": 1280,
       "height": 720
     }
+  },
+  "mobileCapture": "launches-crew13.390x844.44b2c0fdb858.json",
+  "mobileCaptureSha256": "44b2c0fdb858307cce74c06ddc9ac7e51a43e72433b76e51ec60ef35b3bb6f71",
+  "mobileImageSha256": "fff84451d7d21e97e430c58e6e2bdf77fe0404e2cf85c57c89bb0ff24da368c7",
+  "mobileBrowserChecks": {
+    "viewport": [
+      390,
+      844
+    ],
+    "referenceStep4": "4. Approach Initiation",
+    "referenceStep4Image": "assets/images/human-spaceflight/iss/mobile/nosecone-mobile.jpg",
+    "renderedStep4Matches": true,
+    "renderedFinalStep": "6. Docking & Pressurization",
+    "finalNextDisabled": true,
+    "buttonHeightPx": 50,
+    "authoredStep2": "2. Orbit Activation"
   }
 }
