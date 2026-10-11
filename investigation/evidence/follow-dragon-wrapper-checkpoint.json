@@ -1,0 +1,40 @@
+{
+  "correction": "Map captured nested-body selectors to the native data-tracker-root wrapper; preserve all original declarations.",
+  "fixtures": [
+    [
+      1440,
+      1000
+    ],
+    [
+      768,
+      1000
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      320,
+      844
+    ]
+  ],
+  "sourceAndBothModelsHeadingCanvasTelemetryFooterExact": true,
+  "telemetryValues": [
+    "28:13:34",
+    "26,517",
+    "418"
+  ],
+  "telemetryHeights": [
+    92,
+    88,
+    88,
+    176
+  ],
+  "readiness": "Canvas attached, frozen telemetry present, document fonts ready; exclude initial absent-canvas/default-zero state.",
+  "rebuiltPublicationRoutes": [
+    "follow-dragon/",
+    "launches/crew10/",
+    "launches/crew11/"
+  ],
+  "fullParityAccepted": false
+}
