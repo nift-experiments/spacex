@@ -1,0 +1,34 @@
+{
+  "vehicleTrackerPointerRotation": {
+    "viewport": [
+      1440,
+      1000
+    ],
+    "referenceAndBothModels": true,
+    "gesture": "mouse drag 900,500 to 1100,500 after loader hidden",
+    "comparison": "visible globe/ISS/orbit response; no claim of pixel identity during interpolation",
+    "touchGestureVerified": false
+  },
+  "homepageHeaderScroll": {
+    "viewport": [
+      390,
+      844
+    ],
+    "referenceAndBothModels": true,
+    "down": {
+      "scrollY": 829,
+      "headerClass": "header header-hide"
+    },
+    "up": {
+      "scrollY": 622,
+      "headerClass": "header"
+    },
+    "renderedVisibleNavTop": 0,
+    "renderedVisibleNavHeight": 110,
+    "sameSourceHorizontalOverflow": {
+      "documentScrollWidth": 383,
+      "windowWidth": 390
+    }
+  },
+  "fullParityAccepted": false
+}
