@@ -428,5 +428,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/cas500-2/left.html",
-  "rightProse": "prose/missions/cas500-2/right.html"
+  "rightProse": "prose/missions/cas500-2/right.html",
+  "toTheIssEnabled": false
 }

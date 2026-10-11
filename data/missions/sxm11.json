@@ -181,5 +181,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/sxm11/left.html",
-  "rightProse": "prose/missions/sxm11/right.html"
+  "rightProse": "prose/missions/sxm11/right.html",
+  "toTheIssEnabled": false
 }

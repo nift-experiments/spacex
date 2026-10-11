@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/transporter1/left.html",
-  "rightProse": "prose/missions/transporter1/right.html"
+  "rightProse": "prose/missions/transporter1/right.html",
+  "toTheIssEnabled": false
 }

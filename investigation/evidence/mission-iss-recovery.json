@@ -1,0 +1,46 @@
+{
+  "missions": [
+    "ax1",
+    "ax2",
+    "ax3",
+    "crew1",
+    "crew10",
+    "crew11",
+    "crew13",
+    "crew2",
+    "crew3",
+    "crew4",
+    "crew5",
+    "crew6",
+    "crew7",
+    "crs-30",
+    "crs19",
+    "crs20",
+    "crs21",
+    "crs22",
+    "crs23",
+    "crs24",
+    "crs25",
+    "crs26",
+    "crs33",
+    "crs34",
+    "crs35",
+    "demo2"
+  ],
+  "sourceCapture": "launches-crew13.1280x720.1856dad92217.json",
+  "sourceSha256": "1856dad922172f90ef6d40d4f7e933e1f03cbfc275afa0b224b2a6d681ad81ec",
+  "desktopRecovered": true,
+  "mobileControls": "OPEN",
+  "browserParityAccepted": false,
+  "desktopBrowserCheck": {
+    "mission": "crew13",
+    "nodes": 6,
+    "loadedImages": 7,
+    "highlightedOnKeyboardFocus": 2,
+    "dimmedDescriptions": 5,
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    }
+  }
+}

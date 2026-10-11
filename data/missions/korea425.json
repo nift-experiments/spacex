@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/korea425/left.html",
-  "rightProse": "prose/missions/korea425/right.html"
+  "rightProse": "prose/missions/korea425/right.html",
+  "toTheIssEnabled": false
 }

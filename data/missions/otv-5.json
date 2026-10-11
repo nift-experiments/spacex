@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/otv-5/left.html",
-  "rightProse": "prose/missions/otv-5/right.html"
+  "rightProse": "prose/missions/otv-5/right.html",
+  "toTheIssEnabled": false
 }

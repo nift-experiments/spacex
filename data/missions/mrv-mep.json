@@ -184,5 +184,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/mrv-mep/left.html",
-  "rightProse": "prose/missions/mrv-mep/right.html"
+  "rightProse": "prose/missions/mrv-mep/right.html",
+  "toTheIssEnabled": false
 }

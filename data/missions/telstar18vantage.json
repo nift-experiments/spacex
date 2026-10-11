@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/telstar18vantage/left.html",
-  "rightProse": "prose/missions/telstar18vantage/right.html"
+  "rightProse": "prose/missions/telstar18vantage/right.html",
+  "toTheIssEnabled": false
 }

@@ -179,5 +179,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/mpower-d/left.html",
-  "rightProse": "prose/missions/mpower-d/right.html"
+  "rightProse": "prose/missions/mpower-d/right.html",
+  "toTheIssEnabled": false
 }

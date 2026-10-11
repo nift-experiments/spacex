@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/eutelsatabs/left.html",
-  "rightProse": "prose/missions/eutelsatabs/right.html"
+  "rightProse": "prose/missions/eutelsatabs/right.html",
+  "toTheIssEnabled": false
 }

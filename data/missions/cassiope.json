@@ -16,5 +16,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/cassiope/left.html",
-  "rightProse": "prose/missions/cassiope/right.html"
+  "rightProse": "prose/missions/cassiope/right.html",
+  "toTheIssEnabled": false
 }

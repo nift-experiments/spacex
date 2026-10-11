@@ -175,5 +175,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/kf-03/left.html",
-  "rightProse": "prose/missions/kf-03/right.html"
+  "rightProse": "prose/missions/kf-03/right.html",
+  "toTheIssEnabled": false
 }

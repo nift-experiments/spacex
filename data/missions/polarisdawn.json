@@ -785,5 +785,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/polarisdawn/left.html",
-  "rightProse": "prose/missions/polarisdawn/right.html"
+  "rightProse": "prose/missions/polarisdawn/right.html",
+  "toTheIssEnabled": false
 }

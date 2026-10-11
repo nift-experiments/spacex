@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/ViaSat-3-Americas/left.html",
-  "rightProse": "prose/missions/ViaSat-3-Americas/right.html"
+  "rightProse": "prose/missions/ViaSat-3-Americas/right.html",
+  "toTheIssEnabled": false
 }

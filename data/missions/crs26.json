@@ -60,5 +60,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/crs26/left.html",
-  "rightProse": "prose/missions/crs26/right.html"
+  "rightProse": "prose/missions/crs26/right.html",
+  "toTheIssEnabled": true
 }

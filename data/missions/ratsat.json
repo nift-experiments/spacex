@@ -16,5 +16,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/ratsat/left.html",
-  "rightProse": "prose/missions/ratsat/right.html"
+  "rightProse": "prose/missions/ratsat/right.html",
+  "toTheIssEnabled": false
 }

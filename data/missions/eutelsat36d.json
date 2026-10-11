@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/eutelsat36d/left.html",
-  "rightProse": "prose/missions/eutelsat36d/right.html"
+  "rightProse": "prose/missions/eutelsat36d/right.html",
+  "toTheIssEnabled": false
 }

@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/orbcomm2/left.html",
-  "rightProse": "prose/missions/orbcomm2/right.html"
+  "rightProse": "prose/missions/orbcomm2/right.html",
+  "toTheIssEnabled": false
 }

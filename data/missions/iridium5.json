@@ -36,5 +36,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/iridium5/left.html",
-  "rightProse": "prose/missions/iridium5/right.html"
+  "rightProse": "prose/missions/iridium5/right.html",
+  "toTheIssEnabled": false
 }

@@ -194,5 +194,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/cosmo-skymedfm3/left.html",
-  "rightProse": "prose/missions/cosmo-skymedfm3/right.html"
+  "rightProse": "prose/missions/cosmo-skymedfm3/right.html",
+  "toTheIssEnabled": false
 }

@@ -36,5 +36,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/arabsat6a/left.html",
-  "rightProse": "prose/missions/arabsat6a/right.html"
+  "rightProse": "prose/missions/arabsat6a/right.html",
+  "toTheIssEnabled": false
 }

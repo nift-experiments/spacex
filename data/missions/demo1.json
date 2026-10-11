@@ -606,5 +606,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/demo1/left.html",
-  "rightProse": "prose/missions/demo1/right.html"
+  "rightProse": "prose/missions/demo1/right.html",
+  "toTheIssEnabled": false
 }

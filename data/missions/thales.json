@@ -16,5 +16,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/thales/left.html",
-  "rightProse": "prose/missions/thales/right.html"
+  "rightProse": "prose/missions/thales/right.html",
+  "toTheIssEnabled": false
 }

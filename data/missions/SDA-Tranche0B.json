@@ -16,5 +16,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/SDA-Tranche0B/left.html",
-  "rightProse": "prose/missions/SDA-Tranche0B/right.html"
+  "rightProse": "prose/missions/SDA-Tranche0B/right.html",
+  "toTheIssEnabled": false
 }

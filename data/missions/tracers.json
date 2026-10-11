@@ -254,5 +254,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/tracers/left.html",
-  "rightProse": "prose/missions/tracers/right.html"
+  "rightProse": "prose/missions/tracers/right.html",
+  "toTheIssEnabled": false
 }

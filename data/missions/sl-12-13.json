@@ -91,5 +91,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/sl-12-13/left.html",
-  "rightProse": "prose/missions/sl-12-13/right.html"
+  "rightProse": "prose/missions/sl-12-13/right.html",
+  "toTheIssEnabled": false
 }

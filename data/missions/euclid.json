@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/euclid/left.html",
-  "rightProse": "prose/missions/euclid/right.html"
+  "rightProse": "prose/missions/euclid/right.html",
+  "toTheIssEnabled": false
 }

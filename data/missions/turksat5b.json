@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/turksat5b/left.html",
-  "rightProse": "prose/missions/turksat5b/right.html"
+  "rightProse": "prose/missions/turksat5b/right.html",
+  "toTheIssEnabled": false
 }

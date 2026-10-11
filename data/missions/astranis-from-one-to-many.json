@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/astranis-from-one-to-many/left.html",
-  "rightProse": "prose/missions/astranis-from-one-to-many/right.html"
+  "rightProse": "prose/missions/astranis-from-one-to-many/right.html",
+  "toTheIssEnabled": false
 }

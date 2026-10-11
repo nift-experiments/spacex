@@ -217,5 +217,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/globalstar2-rlaunch1/left.html",
-  "rightProse": "prose/missions/globalstar2-rlaunch1/right.html"
+  "rightProse": "prose/missions/globalstar2-rlaunch1/right.html",
+  "toTheIssEnabled": false
 }

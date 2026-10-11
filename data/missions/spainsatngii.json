@@ -144,5 +144,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/spainsatngii/left.html",
-  "rightProse": "prose/missions/spainsatngii/right.html"
+  "rightProse": "prose/missions/spainsatngii/right.html",
+  "toTheIssEnabled": false
 }

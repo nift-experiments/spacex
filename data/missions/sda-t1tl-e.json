@@ -182,5 +182,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/sda-t1tl-e/left.html",
-  "rightProse": "prose/missions/sda-t1tl-e/right.html"
+  "rightProse": "prose/missions/sda-t1tl-e/right.html",
+  "toTheIssEnabled": false
 }

@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/hera/left.html",
-  "rightProse": "prose/missions/hera/right.html"
+  "rightProse": "prose/missions/hera/right.html",
+  "toTheIssEnabled": false
 }

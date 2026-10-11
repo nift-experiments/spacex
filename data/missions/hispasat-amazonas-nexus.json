@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/hispasat-amazonas-nexus/left.html",
-  "rightProse": "prose/missions/hispasat-amazonas-nexus/right.html"
+  "rightProse": "prose/missions/hispasat-amazonas-nexus/right.html",
+  "toTheIssEnabled": false
 }

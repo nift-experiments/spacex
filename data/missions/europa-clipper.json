@@ -16,5 +16,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/europa-clipper/left.html",
-  "rightProse": "prose/missions/europa-clipper/right.html"
+  "rightProse": "prose/missions/europa-clipper/right.html",
+  "toTheIssEnabled": false
 }

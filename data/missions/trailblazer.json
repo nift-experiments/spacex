@@ -16,5 +16,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/trailblazer/left.html",
-  "rightProse": "prose/missions/trailblazer/right.html"
+  "rightProse": "prose/missions/trailblazer/right.html",
+  "toTheIssEnabled": false
 }

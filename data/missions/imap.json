@@ -223,5 +223,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/imap/left.html",
-  "rightProse": "prose/missions/imap/right.html"
+  "rightProse": "prose/missions/imap/right.html",
+  "toTheIssEnabled": false
 }

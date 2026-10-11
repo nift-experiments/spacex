@@ -25,5 +25,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/razaksat/left.html",
-  "rightProse": "prose/missions/razaksat/right.html"
+  "rightProse": "prose/missions/razaksat/right.html",
+  "toTheIssEnabled": false
 }

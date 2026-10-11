@@ -16,5 +16,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/psyche/left.html",
-  "rightProse": "prose/missions/psyche/right.html"
+  "rightProse": "prose/missions/psyche/right.html",
+  "toTheIssEnabled": false
 }

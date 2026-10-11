@@ -975,5 +975,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/crew4/left.html",
-  "rightProse": "prose/missions/crew4/right.html"
+  "rightProse": "prose/missions/crew4/right.html",
+  "toTheIssEnabled": true
 }

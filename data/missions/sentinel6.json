@@ -36,5 +36,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/sentinel6/left.html",
-  "rightProse": "prose/missions/sentinel6/right.html"
+  "rightProse": "prose/missions/sentinel6/right.html",
+  "toTheIssEnabled": false
 }

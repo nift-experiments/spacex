@@ -267,5 +267,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/roman/left.html",
-  "rightProse": "prose/missions/roman/right.html"
+  "rightProse": "prose/missions/roman/right.html",
+  "toTheIssEnabled": false
 }

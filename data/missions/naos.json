@@ -224,5 +224,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/naos/left.html",
-  "rightProse": "prose/missions/naos/right.html"
+  "rightProse": "prose/missions/naos/right.html",
+  "toTheIssEnabled": false
 }

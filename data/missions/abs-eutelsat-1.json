@@ -16,5 +16,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/abs-eutelsat-1/left.html",
-  "rightProse": "prose/missions/abs-eutelsat-1/right.html"
+  "rightProse": "prose/missions/abs-eutelsat-1/right.html",
+  "toTheIssEnabled": false
 }

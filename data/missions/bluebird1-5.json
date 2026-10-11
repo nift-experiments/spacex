@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/bluebird1-5/left.html",
-  "rightProse": "prose/missions/bluebird1-5/right.html"
+  "rightProse": "prose/missions/bluebird1-5/right.html",
+  "toTheIssEnabled": false
 }

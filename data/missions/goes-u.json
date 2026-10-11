@@ -16,5 +16,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/goes-u/left.html",
-  "rightProse": "prose/missions/goes-u/right.html"
+  "rightProse": "prose/missions/goes-u/right.html",
+  "toTheIssEnabled": false
 }

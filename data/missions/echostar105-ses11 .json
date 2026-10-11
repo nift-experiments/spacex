@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/echostar105-ses11 /left.html",
-  "rightProse": "prose/missions/echostar105-ses11 /right.html"
+  "rightProse": "prose/missions/echostar105-ses11 /right.html",
+  "toTheIssEnabled": false
 }

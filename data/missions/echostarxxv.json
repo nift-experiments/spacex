@@ -181,5 +181,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/echostarxxv/left.html",
-  "rightProse": "prose/missions/echostarxxv/right.html"
+  "rightProse": "prose/missions/echostarxxv/right.html",
+  "toTheIssEnabled": false
 }

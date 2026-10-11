@@ -154,5 +154,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/sda-t1tl-a/left.html",
-  "rightProse": "prose/missions/sda-t1tl-a/right.html"
+  "rightProse": "prose/missions/sda-t1tl-a/right.html",
+  "toTheIssEnabled": false
 }

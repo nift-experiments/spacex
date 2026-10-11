@@ -144,5 +144,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/ussf481/left.html",
-  "rightProse": "prose/missions/ussf481/right.html"
+  "rightProse": "prose/missions/ussf481/right.html",
+  "toTheIssEnabled": false
 }

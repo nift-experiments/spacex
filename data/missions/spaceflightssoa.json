@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/spaceflightssoa/left.html",
-  "rightProse": "prose/missions/spaceflightssoa/right.html"
+  "rightProse": "prose/missions/spaceflightssoa/right.html",
+  "toTheIssEnabled": false
 }

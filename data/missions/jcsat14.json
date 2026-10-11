@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/jcsat14/left.html",
-  "rightProse": "prose/missions/jcsat14/right.html"
+  "rightProse": "prose/missions/jcsat14/right.html",
+  "toTheIssEnabled": false
 }

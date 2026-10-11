@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/merahputih2/left.html",
-  "rightProse": "prose/missions/merahputih2/right.html"
+  "rightProse": "prose/missions/merahputih2/right.html",
+  "toTheIssEnabled": false
 }

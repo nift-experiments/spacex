@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/starship-sn10/left.html",
-  "rightProse": "prose/missions/starship-sn10/right.html"
+  "rightProse": "prose/missions/starship-sn10/right.html",
+  "toTheIssEnabled": false
 }

@@ -12,6 +12,7 @@
 @if(mission.followDragonEnabled){<div class="section"><div class="section-inner dragon-section-inner">@input('templates/families/follow-dragon.html')@input('templates/trackers/follow-dragon.html')</div></div>}
 @if(mission.preTimeline){@input('templates/pre-timeline.html')}
 @if(mission.infographicDesktop){<div class="launch-infographic"><picture><source media="(max-width:961px)" srcset="@path('$[mission.infographicMobile]')"><img loading="lazy" src="@path('$[mission.infographicDesktop]')" alt=""></picture></div>}
+@if(mission.toTheIssEnabled){@input('templates/mission-iss.html')}
 @if(mission.postTimeline){@input('templates/post-timeline.html')}
 @if(mission.gallery){@input('templates/mission-gallery.html')}
 @input('templates/mission-webcasts.html')

@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/maxar3/left.html",
-  "rightProse": "prose/missions/maxar3/right.html"
+  "rightProse": "prose/missions/maxar3/right.html",
+  "toTheIssEnabled": false
 }

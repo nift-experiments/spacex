@@ -459,5 +459,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/twilight/left.html",
-  "rightProse": "prose/missions/twilight/right.html"
+  "rightProse": "prose/missions/twilight/right.html",
+  "toTheIssEnabled": false
 }

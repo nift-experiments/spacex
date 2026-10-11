@@ -211,5 +211,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/ussf36/left.html",
-  "rightProse": "prose/missions/ussf36/right.html"
+  "rightProse": "prose/missions/ussf36/right.html",
+  "toTheIssEnabled": false
 }

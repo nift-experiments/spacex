@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/zuma/left.html",
-  "rightProse": "prose/missions/zuma/right.html"
+  "rightProse": "prose/missions/zuma/right.html",
+  "toTheIssEnabled": false
 }

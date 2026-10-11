@@ -52,5 +52,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/fhdemo/left.html",
-  "rightProse": "prose/missions/fhdemo/right.html"
+  "rightProse": "prose/missions/fhdemo/right.html",
+  "toTheIssEnabled": false
 }

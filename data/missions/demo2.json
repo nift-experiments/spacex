@@ -823,5 +823,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/demo2/left.html",
-  "rightProse": "prose/missions/demo2/right.html"
+  "rightProse": "prose/missions/demo2/right.html",
+  "toTheIssEnabled": true
 }

@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/globalstarfm15/left.html",
-  "rightProse": "prose/missions/globalstarfm15/right.html"
+  "rightProse": "prose/missions/globalstarfm15/right.html",
+  "toTheIssEnabled": false
 }

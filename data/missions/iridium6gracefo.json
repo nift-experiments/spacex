@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/iridium6gracefo/left.html",
-  "rightProse": "prose/missions/iridium6gracefo/right.html"
+  "rightProse": "prose/missions/iridium6gracefo/right.html",
+  "toTheIssEnabled": false
 }

@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/spainsatng1/left.html",
-  "rightProse": "prose/missions/spainsatng1/right.html"
+  "rightProse": "prose/missions/spainsatng1/right.html",
+  "toTheIssEnabled": false
 }

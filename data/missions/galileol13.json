@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/galileol13/left.html",
-  "rightProse": "prose/missions/galileol13/right.html"
+  "rightProse": "prose/missions/galileol13/right.html",
+  "toTheIssEnabled": false
 }

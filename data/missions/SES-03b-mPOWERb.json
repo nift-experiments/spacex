@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/SES-03b-mPOWERb/left.html",
-  "rightProse": "prose/missions/SES-03b-mPOWERb/right.html"
+  "rightProse": "prose/missions/SES-03b-mPOWERb/right.html",
+  "toTheIssEnabled": false
 }

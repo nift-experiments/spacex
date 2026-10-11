@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/eutelsathotbird13f/left.html",
-  "rightProse": "prose/missions/eutelsathotbird13f/right.html"
+  "rightProse": "prose/missions/eutelsathotbird13f/right.html",
+  "toTheIssEnabled": false
 }

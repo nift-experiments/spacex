@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/astra1p/left.html",
-  "rightProse": "prose/missions/astra1p/right.html"
+  "rightProse": "prose/missions/astra1p/right.html",
+  "toTheIssEnabled": false
 }

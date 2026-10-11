@@ -209,5 +209,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/starship-flight-13/left.html",
-  "rightProse": "prose/missions/starship-flight-13/right.html"
+  "rightProse": "prose/missions/starship-flight-13/right.html",
+  "toTheIssEnabled": false
 }

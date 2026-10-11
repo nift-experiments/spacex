@@ -292,5 +292,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/bandwagon-4/left.html",
-  "rightProse": "prose/missions/bandwagon-4/right.html"
+  "rightProse": "prose/missions/bandwagon-4/right.html",
+  "toTheIssEnabled": false
 }

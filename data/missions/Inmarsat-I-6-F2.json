@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/Inmarsat-I-6-F2/left.html",
-  "rightProse": "prose/missions/Inmarsat-I-6-F2/right.html"
+  "rightProse": "prose/missions/Inmarsat-I-6-F2/right.html",
+  "toTheIssEnabled": false
 }

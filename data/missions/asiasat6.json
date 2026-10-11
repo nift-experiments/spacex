@@ -16,5 +16,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/asiasat6/left.html",
-  "rightProse": "prose/missions/asiasat6/right.html"
+  "rightProse": "prose/missions/asiasat6/right.html",
+  "toTheIssEnabled": false
 }

@@ -27,5 +27,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/intelsat35e/left.html",
-  "rightProse": "prose/missions/intelsat35e/right.html"
+  "rightProse": "prose/missions/intelsat35e/right.html",
+  "toTheIssEnabled": false
 }

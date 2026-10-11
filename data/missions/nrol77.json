@@ -168,5 +168,6 @@
   "followDragonEnabled": false,
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/nrol77/left.html",
-  "rightProse": "prose/missions/nrol77/right.html"
+  "rightProse": "prose/missions/nrol77/right.html",
+  "toTheIssEnabled": false
 }
