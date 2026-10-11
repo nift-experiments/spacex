@@ -163,7 +163,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Starlink_G17_2_Figueroa_Mtn_8747_Desktop_28d9e49069.jpg",
-      "mobile": "public/assets/media/Starlink_G17_2_Figueroa_Mtn_8747_Full_Mobile_5f3dcb2ad1.jpg"
+      "mobile": "public/assets/media/Starlink_G17_2_Figueroa_Mtn_8747_Full_Mobile_5f3dcb2ad1.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

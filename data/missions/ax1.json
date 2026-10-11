@@ -157,7 +157,12 @@
         "documentId": "ruea1c1n44y0uc38lkb98bkq",
         "locale": null,
         "publishedAt": "2025-07-24T07:03:57.416Z"
-      }
+      },
+      "desktopPath": "public/assets/media/Ax_1_Launch_Desktop_9b99555891.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/b1eac650b8798d24589e18541342aad4afef1a57a9979c104b70678ff9dacca6.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Apr 8, 2022"
     },
     {
       "id": 2032,
@@ -309,7 +314,12 @@
         "documentId": "cp0d901bpi5gcy4ptmxzukgg",
         "locale": null,
         "publishedAt": "2025-07-24T07:03:59.615Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/998b5a5b07df30bdfd3962f4a62f6d22c113f7f2bb6e995a73dacf70c1004ad2.jpg",
+      "mobilePath": "public/assets/media/Ax_1_Docking_Mobile_4122eabd92.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Apr 9, 2022"
     },
     {
       "id": 2033,
@@ -437,7 +447,12 @@
         "documentId": "cqnmbl6u3cfqc6qjx8lpfble",
         "locale": null,
         "publishedAt": "2026-02-06T02:35:29.132Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/288ab6f14363e4d852eb9203aa6418eff0e481ebe749e02293257ec82687bdd1.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/c37d580af0a728ac98944bc7e09e6c38a79e3b14c2f348dd46f3368e8c2fd1f3.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Apr 24, 2022"
     },
     {
       "id": 2034,
@@ -589,7 +604,12 @@
         "documentId": "qg7jy48y3ho39ues2q4gh6qa",
         "locale": null,
         "publishedAt": "2025-07-24T07:03:53.159Z"
-      }
+      },
+      "desktopPath": "public/assets/media/Ax_1_Splashdown_Desktop_e09b3563ba.jpg",
+      "mobilePath": "public/assets/media/Ax_1_Splashdown_Mobile_66ca394602.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Apr 25, 2022"
     }
   ],
   "preTimeline": null,
@@ -600,27 +620,42 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Axiom1_sunset_040622_DSC_3133_b26b67f8dc.jpg",
-      "mobile": "public/assets/media/Ax_1_Sunset_Mobile_baf6c2b138.jpg"
+      "mobile": "public/assets/media/Ax_1_Sunset_Mobile_baf6c2b138.jpg",
+      "position": "1 / 5",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/HOMEPAGE_SPACEX_Axiom1_night_040522_DSC_2145_DESKTOP_c5824789c5.jpg",
-      "mobile": "public/assets/media/Homepage_SPACEX_Axiom1_night_040522_DSC_2145_Mobile_883a5981e0.jpg"
+      "mobile": "public/assets/media/Homepage_SPACEX_Axiom1_night_040522_DSC_2145_Mobile_883a5981e0.jpg",
+      "position": "2 / 5",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/NEW_Launches_DSC_3082_Desktop_aaf052a8d2.jpg",
-      "mobile": "public/assets/media/NEW_MOBILE_Launches_SPACEX_Axiom1_night_040522_DSC_3082_Mobile_72cc1b6439.jpg"
+      "mobile": "public/assets/media/NEW_MOBILE_Launches_SPACEX_Axiom1_night_040522_DSC_3082_Mobile_72cc1b6439.jpg",
+      "position": "3 / 5",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Axiom_1_Docking_20220409_e07975d49a.jpg",
-      "mobile": "public/assets/media/Ax_1_Docking_Mobile_4122eabd92.jpg"
+      "mobile": "public/assets/media/Ax_1_Docking_Mobile_4122eabd92.jpg",
+      "position": "4 / 5",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Ax_1_Splashdown_Desktop_e09b3563ba.jpg",
-      "mobile": "public/assets/media/Ax_1_Splashdown_Mobile_66ca394602.jpg"
+      "mobile": "public/assets/media/Ax_1_Splashdown_Mobile_66ca394602.jpg",
+      "position": "5 / 5",
+      "index": 4,
+      "number": 5
     }
   ],
   "astronauts": [

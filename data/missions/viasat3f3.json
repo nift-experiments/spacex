@@ -203,42 +203,66 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260423_CC_FH_Via_Sat3_F3_lift_DSC_8011_69957bbd99.jpg",
-      "mobile": "public/assets/media/20260423_CC_FH_Via_Sat3_F3_lift_DSC_8011_69957bbd99.jpg"
+      "mobile": "public/assets/media/20260423_CC_FH_Via_Sat3_F3_lift_DSC_8011_69957bbd99.jpg",
+      "position": "1 / 8",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260423_CC_FH_Via_Sat3_F3_engines_DSC_7951_1_5f7ddea9a6.jpg",
-      "mobile": "public/assets/media/20260423_CC_FH_Via_Sat3_F3_engines_DSC_7951_1_5f7ddea9a6.jpg"
+      "mobile": "public/assets/media/20260423_CC_FH_Via_Sat3_F3_engines_DSC_7951_1_5f7ddea9a6.jpg",
+      "position": "2 / 8",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260426_CC_FH_Via_Sat3_F3_sunset_vertical_DSC_8030_d6e3a447f4.jpg",
-      "mobile": "public/assets/media/20260426_CC_FH_Via_Sat3_F3_sunset_vertical_DSC_8040_mobile_a60a9b4eb5.jpg"
+      "mobile": "public/assets/media/20260426_CC_FH_Via_Sat3_F3_sunset_vertical_DSC_8040_mobile_a60a9b4eb5.jpg",
+      "position": "3 / 8",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260426_CC_FH_Via_Sat3_F3_sunset_vertical_DSC_8024_desktop_a201deebff.jpg",
-      "mobile": "public/assets/media/20260426_CC_FH_Via_Sat3_F3_sunset_vertical_DSC_8025_mobile_bfef72b9e9.jpg"
+      "mobile": "public/assets/media/20260426_CC_FH_Via_Sat3_F3_sunset_vertical_DSC_8025_mobile_bfef72b9e9.jpg",
+      "position": "4 / 8",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_rampenginev_DSC_4878_desktop_0ddd00307b.jpg",
-      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_rampenginev_DSC_4879_mobile_3703392491.jpg"
+      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_rampenginev_DSC_4879_mobile_3703392491.jpg",
+      "position": "5 / 8",
+      "index": 4,
+      "number": 5
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_outsidehangarh_IMG_8285_desktop_8bd74cb1de.jpg",
-      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_outsidehangarh_IMG_8285_desktop_8bd74cb1de.jpg"
+      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_outsidehangarh_IMG_8285_desktop_8bd74cb1de.jpg",
+      "position": "6 / 8",
+      "index": 5,
+      "number": 6
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_LZ_40_DSC_7819_windsockremoved_6a24070bcd.jpg",
-      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_LZ_40_DSC_7819_windsockremoved_6a24070bcd.jpg"
+      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_LZ_40_DSC_7819_windsockremoved_6a24070bcd.jpg",
+      "position": "7 / 8",
+      "index": 6,
+      "number": 7
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_LZ_2_IMG_1648_adbab87908.jpg",
-      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_LZ_2_IMG_1648_adbab87908.jpg"
+      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_LZ_2_IMG_1648_adbab87908.jpg",
+      "position": "8 / 8",
+      "index": 7,
+      "number": 8
     }
   ],
   "astronauts": [],

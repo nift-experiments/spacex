@@ -163,12 +163,18 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Echostar_XXV_curbh_IMG_9947_3278b8a0a3.jpg",
-      "mobile": "public/assets/media/Echostar_XXV_outside_Sbldgv_IMG_0289_e5ce896561.jpg"
+      "mobile": "public/assets/media/Echostar_XXV_outside_Sbldgv_IMG_0289_e5ce896561.jpg",
+      "position": "1 / 2",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260309_Echostar_25_Vertical_STL_0191_0e0d27b70c.jpg",
-      "mobile": "public/assets/media/20260309_Echostar_25_Vertical_STL_0191_0e0d27b70c.jpg"
+      "mobile": "public/assets/media/20260309_Echostar_25_Vertical_STL_0191_0e0d27b70c.jpg",
+      "position": "2 / 2",
+      "index": 1,
+      "number": 2
     }
   ],
   "astronauts": [],

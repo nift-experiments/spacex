@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/CRS_21_Desktop2_3a7ada6712.jpg",
-      "mobile": "public/assets/media/c_RS_21_Mobile_a7662077c2.jpg"
+      "mobile": "public/assets/media/c_RS_21_Mobile_a7662077c2.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

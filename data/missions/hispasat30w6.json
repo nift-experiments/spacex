@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Hispasat_Desktop_ca602d3c3e.jpg",
-      "mobile": "public/assets/media/Hispasat_Mobile_b1205862e0.jpg"
+      "mobile": "public/assets/media/Hispasat_Mobile_b1205862e0.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

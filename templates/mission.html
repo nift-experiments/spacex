@@ -7,9 +7,10 @@
 </div></div></div>
 <div class="bottom"><div>@input('$[mission.leftProse]')</div><div>@input('$[mission.rightProse]')</div></div>
 @input('templates/mission-crew.html')
+@input('templates/webcast-list.html')
 @if(mission.preTimeline){@input('templates/pre-timeline.html')}
 @if(mission.infographicDesktop){<div class="launch-infographic"><picture><source media="(max-width:961px)" srcset="@path('$[mission.infographicMobile]')"><img loading="lazy" src="@path('$[mission.infographicDesktop]')" alt=""></picture></div>}
 @if(mission.postTimeline){@input('templates/post-timeline.html')}
-@if(mission.gallery){<div class="mission-gallery">@for(photo : mission.gallery){@if(photo.desktop){<figure><picture><source media="(max-width:961px)" srcset="@path('$[photo.mobile]')"><img loading="lazy" src="@path('$[photo.desktop]')" alt=""></picture><figcaption>$[photo.caption]</figcaption></figure>}}</div>}
+@if(mission.gallery){@input('templates/mission-gallery.html')}
 @input('templates/mission-webcasts.html')
 </article>

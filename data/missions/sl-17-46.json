@@ -163,12 +163,18 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260701_Starlink_G17_46_Engine_CU_Desktop_d96f1fb32e.jpg",
-      "mobile": "public/assets/media/20260701_Starlink_G17_49_Launch_TU_02_Desktop_b79c8c1823.jpg"
+      "mobile": "public/assets/media/20260701_Starlink_G17_49_Launch_TU_02_Desktop_b79c8c1823.jpg",
+      "position": "1 / 2",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260701_Starlink_G17_49_Launch_TU_02_Desktop_b79c8c1823.jpg",
-      "mobile": "public/assets/media/20260701_Starlink_G17_49_Launch_TU_02_Desktop_b79c8c1823.jpg"
+      "mobile": "public/assets/media/20260701_Starlink_G17_49_Launch_TU_02_Desktop_b79c8c1823.jpg",
+      "position": "2 / 2",
+      "index": 1,
+      "number": 2
     }
   ],
   "astronauts": [],

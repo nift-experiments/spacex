@@ -59,7 +59,12 @@
         "documentId": "l83kj2yzruuhhbhobm3w1mbu",
         "locale": null,
         "publishedAt": "2026-10-01T18:58:29.248Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/sxcontent9668.azureedge.us/cms-assets/assets/Webcast_164x82_b1c35f2b4c.png",
+      "mobilePath": "public/assets/recovered/sxcontent9668.azureedge.us/cms-assets/assets/Webcast_164x82_b1c35f2b4c.png",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": ""
     },
     {
       "id": 2804,
@@ -113,7 +118,12 @@
         "documentId": "bi4tanuzgp7us6uws3jj4fnf",
         "locale": null,
         "publishedAt": "2026-10-01T19:08:16.117Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/cb715cf08f1966d4db1f730c9eed52bdfd6b2e1ac65d7ae8f1d189c4259037f0.png",
+      "mobilePath": "public/assets/recovered/webcasts/cb715cf08f1966d4db1f730c9eed52bdfd6b2e1ac65d7ae8f1d189c4259037f0.png",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": ""
     }
   ],
   "preTimeline": {
@@ -281,22 +291,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260927_Crew_13_Rollout_DSC_05867_51f3d49785.jpg",
-      "mobile": "public/assets/media/20260927_Crew_13_Rollout_DSC_05867_51f3d49785.jpg"
+      "mobile": "public/assets/media/20260927_Crew_13_Rollout_DSC_05867_51f3d49785.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260927_Crew_13_Rollout_DSC_05731_e19f9395f2.jpg",
-      "mobile": "public/assets/media/20260927_Crew_13_Rollout_DSC_05731_e19f9395f2.jpg"
+      "mobile": "public/assets/media/20260927_Crew_13_Rollout_DSC_05731_e19f9395f2.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260927_CC_Crew_13_sunset_DSC_0068_cbadb03aba.jpg",
-      "mobile": "public/assets/media/20260927_CC_Crew_13_sunset_DSC_0068_cbadb03aba.jpg"
+      "mobile": "public/assets/media/20260927_CC_Crew_13_sunset_DSC_0068_cbadb03aba.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260929_CC_Crew_13_sunset_DSC_0292_desktop_724a17b5a1.jpg",
-      "mobile": "public/assets/media/20260929_CC_Crew_13_sunset_DSC_0292_mobile_0187e1d17c.jpg"
+      "mobile": "public/assets/media/20260929_CC_Crew_13_sunset_DSC_0292_mobile_0187e1d17c.jpg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [

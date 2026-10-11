@@ -15,7 +15,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Orbcomm1_Desktop1_bab14e635f.jpg",
-      "mobile": "public/assets/media/Orbcomm1_Mobile_d6ef450153.jpg"
+      "mobile": "public/assets/media/Orbcomm1_Mobile_d6ef450153.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

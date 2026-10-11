@@ -393,42 +393,66 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Twilight_South_Hill_9750_Full_52be99ef0b.jpg",
-      "mobile": "public/assets/media/Twilight_South_Hill_9750_Full_52be99ef0b.jpg"
+      "mobile": "public/assets/media/Twilight_South_Hill_9750_Full_52be99ef0b.jpg",
+      "position": "1 / 8",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Twilight_OS_56_1495_Desktop_856b9b2962.jpg",
-      "mobile": "public/assets/media/Twilight_OS_56_1495_Desktop_856b9b2962.jpg"
+      "mobile": "public/assets/media/Twilight_OS_56_1495_Desktop_856b9b2962.jpg",
+      "position": "2 / 8",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Twilight_Launch_20260111_DSC_00064_14a6a9add3.jpg",
-      "mobile": "public/assets/media/Twilight_Launch_20260111_DSC_00064_14a6a9add3.jpg"
+      "mobile": "public/assets/media/Twilight_Launch_20260111_DSC_00064_14a6a9add3.jpg",
+      "position": "3 / 8",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Twilight_OS_56_LZ_2549_Full_890b7431dc.jpg",
-      "mobile": "public/assets/media/Twilight_OS_56_LZ_2549_Full_890b7431dc.jpg"
+      "mobile": "public/assets/media/Twilight_OS_56_LZ_2549_Full_890b7431dc.jpg",
+      "position": "4 / 8",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Twilight_OS_56_Streak_9885_Desktop_9da9e46b69.jpg",
-      "mobile": "public/assets/media/Twilight_OS_56_Streak_9885_Desktop_9da9e46b69.jpg"
+      "mobile": "public/assets/media/Twilight_OS_56_Streak_9885_Desktop_9da9e46b69.jpg",
+      "position": "5 / 8",
+      "index": 4,
+      "number": 5
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Twilight_South_Hill_Composite_Desktop_fd9baff210.jpg",
-      "mobile": "public/assets/media/Twilight_South_Hill_Composite_Desktop_fd9baff210.jpg"
+      "mobile": "public/assets/media/Twilight_South_Hill_Composite_Desktop_fd9baff210.jpg",
+      "position": "6 / 8",
+      "index": 5,
+      "number": 6
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Twilight_LZ_West_Horiz_2115_Desktop_c2b46c479d.jpg",
-      "mobile": "public/assets/media/Twilight_LZ_West_Horiz_2115_Desktop_c2b46c479d.jpg"
+      "mobile": "public/assets/media/Twilight_LZ_West_Horiz_2115_Desktop_c2b46c479d.jpg",
+      "position": "7 / 8",
+      "index": 6,
+      "number": 7
     },
     {
       "caption": "",
       "desktop": "",
-      "mobile": ""
+      "mobile": "",
+      "position": "8 / 8",
+      "index": 7,
+      "number": 8
     }
   ],
   "astronauts": [],

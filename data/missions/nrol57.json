@@ -26,12 +26,18 @@
     {
       "caption": "",
       "desktop": "public/assets/media/NROL_57_OS_56_7058_Desktop_28e622353d.jpg",
-      "mobile": "public/assets/media/NROL_57_OS_56_7058_Mobile_1b1e7dd8f6.jpg"
+      "mobile": "public/assets/media/NROL_57_OS_56_7058_Mobile_1b1e7dd8f6.jpg",
+      "position": "1 / 2",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/NROL_57_OS_56_Streak_7325_Desktop_54eacf7355.jpg",
-      "mobile": "public/assets/media/NROL_57_OS_56_Streak_7325_Mobile_6db9d13ef2.jpg"
+      "mobile": "public/assets/media/NROL_57_OS_56_Streak_7325_Mobile_6db9d13ef2.jpg",
+      "position": "2 / 2",
+      "index": 1,
+      "number": 2
     }
   ],
   "astronauts": [],

@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Iridium5_Desktop2_d2d9874ee1.jpg",
-      "mobile": "public/assets/media/Iridium5_Mobile_a2d364763c.jpg"
+      "mobile": "public/assets/media/Iridium5_Mobile_a2d364763c.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

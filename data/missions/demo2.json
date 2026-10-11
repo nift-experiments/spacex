@@ -157,7 +157,12 @@
         "documentId": "p40tqq8bo991193rp5f21123",
         "locale": null,
         "publishedAt": "2025-07-24T07:34:20.945Z"
-      }
+      },
+      "desktopPath": "public/assets/media/DM_2_rampsouth_IMG_9732_b58ad24807.jpg",
+      "mobilePath": "public/assets/media/Demo2_Ramp_Mobile_ef78006b6a.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Jun 1, 2020"
     },
     {
       "id": 2044,
@@ -297,7 +302,12 @@
         "documentId": "xj9r9mf1kiwwcwmcdwsj2pi9",
         "locale": null,
         "publishedAt": "2026-02-06T14:59:00.868Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/6f596c9d7b4402f9e8d0c964c8745c6d2454dee7c6463869e179fe5d65bf98ee.png",
+      "mobilePath": "public/assets/recovered/webcasts/03a81baba76352385d2a6a3734f374b4669f206bd3e705492176373ada063b7c.png",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Jun 2, 2020"
     },
     {
       "id": 2045,
@@ -437,7 +447,12 @@
         "documentId": "m532ieaxzq7ikvdyqergt0bv",
         "locale": null,
         "publishedAt": "2026-02-06T14:59:43.538Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/79319908ef18240ca590dfaabc24b6c2b6153c3e51f46b9e45c2edb683dd2d1f.png",
+      "mobilePath": "public/assets/recovered/webcasts/81895687a3a3374747111fb02db20fbe51999adfd5eb58c993e03e6e189c5462.png",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Aug 1, 2020"
     },
     {
       "id": 2046,
@@ -589,7 +604,12 @@
         "documentId": "f2dg3d7snnl62gfogebch4bg",
         "locale": null,
         "publishedAt": "2025-07-24T07:34:21.427Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/a3d45aafc45446b1d54d0a33c58382a5be3925aa788872080e0f4a5448c0f2bf.jpg",
+      "mobilePath": "public/assets/media/Demo2_Splashdown_Mobile_a37cd02323.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Aug 2, 2020"
     }
   ],
   "preTimeline": null,
@@ -600,27 +620,42 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Demo2_Sunrise_Desktop_843c32991a.jpg",
-      "mobile": "public/assets/media/Demo2_Sunrise_Mobile_476f2ce284.jpg"
+      "mobile": "public/assets/media/Demo2_Sunrise_Mobile_476f2ce284.jpg",
+      "position": "1 / 5",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Demo2_Sunset_Desktop_3bd4eb10b2.jpg",
-      "mobile": "public/assets/media/Demo2_Sunset_Mobile_8e6dec2e1b.jpg"
+      "mobile": "public/assets/media/Demo2_Sunset_Mobile_8e6dec2e1b.jpg",
+      "position": "2 / 5",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Demo2_Crew_Ingress_Desktop_ef2e233d1e.jpg",
-      "mobile": "public/assets/media/Demo2_Crew_Ingress_Mobile_10561c5939.jpg"
+      "mobile": "public/assets/media/Demo2_Crew_Ingress_Mobile_10561c5939.jpg",
+      "position": "3 / 5",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/DM_2_outsidehangar_IMG_5717_835c6bc6c5.jpg",
-      "mobile": "public/assets/media/Demo2_Launch2_Mobile_84fcbb14e3.jpg"
+      "mobile": "public/assets/media/Demo2_Launch2_Mobile_84fcbb14e3.jpg",
+      "position": "4 / 5",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Demo2_Splashdown_Desktop_4b5114fd99.jpg",
-      "mobile": "public/assets/media/Demo2_Splashdown_Mobile_a37cd02323.jpg"
+      "mobile": "public/assets/media/Demo2_Splashdown_Mobile_a37cd02323.jpg",
+      "position": "5 / 5",
+      "index": 4,
+      "number": 5
     }
   ],
   "astronauts": [

@@ -157,7 +157,12 @@
         "documentId": "l4l7bophlt7cpm6uwijcc72d",
         "locale": null,
         "publishedAt": "2026-02-13T14:05:01.148Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/65dd7edba32e415c61533721282abaf4633178c8623ae72b5ee12cc15d0c86f6.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/65dd7edba32e415c61533721282abaf4633178c8623ae72b5ee12cc15d0c86f6.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Feb 13, 2026"
     },
     {
       "id": 2870,
@@ -211,7 +216,12 @@
         "documentId": "ix80fxuo25ompqghc27scrag",
         "locale": null,
         "publishedAt": "2026-02-18T20:39:02.256Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/cb715cf08f1966d4db1f730c9eed52bdfd6b2e1ac65d7ae8f1d189c4259037f0.png",
+      "mobilePath": "public/assets/recovered/webcasts/cb715cf08f1966d4db1f730c9eed52bdfd6b2e1ac65d7ae8f1d189c4259037f0.png",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Feb 14, 2026"
     },
     {
       "id": 2871,
@@ -363,7 +373,12 @@
         "documentId": "h05760p1yh8oaeqsyql81nlg",
         "locale": null,
         "publishedAt": "2026-02-09T20:43:00.029Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/223e16dfa401a4991195b7d035f7aa79b6662c96834f0df2324c05501b365958.png",
+      "mobilePath": "public/assets/recovered/webcasts/223e16dfa401a4991195b7d035f7aa79b6662c96834f0df2324c05501b365958.png",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Oct 7, 2026"
     },
     {
       "id": 2872,
@@ -417,7 +432,12 @@
         "documentId": "wzbwbg97mwdguwyzv0ycn93f",
         "locale": null,
         "publishedAt": "2026-10-07T17:06:34.032Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/c2c4b7556d7cbb7c577ea1cfbed8496781eed16eeab2d01951a081c6044d8493.png",
+      "mobilePath": "public/assets/recovered/webcasts/c2c4b7556d7cbb7c577ea1cfbed8496781eed16eeab2d01951a081c6044d8493.png",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Oct 8, 2026"
     }
   ],
   "preTimeline": {
@@ -585,42 +605,66 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_12_Vertical_Sunset_20260209_DSC_02381_5fca4c95fa.jpg",
-      "mobile": "public/assets/media/Crew_12_moon_020826_DSC_8304_fd658d5fca.jpg"
+      "mobile": "public/assets/media/Crew_12_moon_020826_DSC_8304_fd658d5fca.jpg",
+      "position": "1 / 8",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_12_moon_020826_DSC_8307_0d45c54f8d.jpg",
-      "mobile": "public/assets/media/Crew_12_moon_020826_DSC_8307_0d45c54f8d.jpg"
+      "mobile": "public/assets/media/Crew_12_moon_020826_DSC_8307_0d45c54f8d.jpg",
+      "position": "2 / 8",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_12_causeway_DSC_8350_8ddfa58abe.jpg",
-      "mobile": "public/assets/media/Crew_12_causeway_DSC_8350_8ddfa58abe.jpg"
+      "mobile": "public/assets/media/Crew_12_causeway_DSC_8350_8ddfa58abe.jpg",
+      "position": "3 / 8",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_12_Vertical_Sunset_20260209_DSC_02337_8c8d760957.jpg",
-      "mobile": "public/assets/media/Crew_12_Vertical_Sunset_20260209_DSC_02337_8c8d760957.jpg"
+      "mobile": "public/assets/media/Crew_12_Vertical_Sunset_20260209_DSC_02337_8c8d760957.jpg",
+      "position": "4 / 8",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_12_curbh_IMG_8471_39806f6fe4.jpg",
-      "mobile": "public/assets/media/Crew_12_curbh_IMG_8471_39806f6fe4.jpg"
+      "mobile": "public/assets/media/Crew_12_curbh_IMG_8471_39806f6fe4.jpg",
+      "position": "5 / 8",
+      "index": 4,
+      "number": 5
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_12_outside_L_Zh_DSC_3161_418ff2209f.jpg",
-      "mobile": "public/assets/media/Crew_12_outside_L_Zh_DSC_3161_418ff2209f.jpg"
+      "mobile": "public/assets/media/Crew_12_outside_L_Zh_DSC_3161_418ff2209f.jpg",
+      "position": "6 / 8",
+      "index": 5,
+      "number": 6
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_12_LZ_post_landing_DSC_6785_0fe10d45d6.jpg",
-      "mobile": "public/assets/media/Crew_12_LZ_post_landing_DSC_6785_0fe10d45d6.jpg"
+      "mobile": "public/assets/media/Crew_12_LZ_post_landing_DSC_6785_0fe10d45d6.jpg",
+      "position": "7 / 8",
+      "index": 6,
+      "number": 7
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_12_LZ_doublestreak_DSC_8038_ef136de632.jpg",
-      "mobile": "public/assets/media/Crew_12_LZ_doublestreak_DSC_8038_ef136de632.jpg"
+      "mobile": "public/assets/media/Crew_12_LZ_doublestreak_DSC_8038_ef136de632.jpg",
+      "position": "8 / 8",
+      "index": 7,
+      "number": 8
     }
   ],
   "astronauts": [

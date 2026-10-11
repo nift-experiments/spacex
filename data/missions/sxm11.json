@@ -163,12 +163,18 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260628_CC_SXM_11_pad39a_DSC_1550_desktop_e0d12ec257.jpg",
-      "mobile": "public/assets/media/20260628_CC_SXM_11_outsideroadh_DSC_5987_mobile_175ea8e252.jpg"
+      "mobile": "public/assets/media/20260628_CC_SXM_11_outsideroadh_DSC_5987_mobile_175ea8e252.jpg",
+      "position": "1 / 2",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260628_CC_SXM_11_vertical_DSC_8794_desktop_e6e6f094a2.jpg",
-      "mobile": "public/assets/media/20260628_CC_SXM_11_vertical_DSC_9230_mobile_21fc33a8ae.jpg"
+      "mobile": "public/assets/media/20260628_CC_SXM_11_vertical_DSC_9230_mobile_21fc33a8ae.jpg",
+      "position": "2 / 2",
+      "index": 1,
+      "number": 2
     }
   ],
   "astronauts": [],

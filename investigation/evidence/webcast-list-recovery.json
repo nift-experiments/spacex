@@ -1,0 +1,99 @@
+{
+  "missions": [
+    {
+      "mission": "ax1",
+      "rows": 4
+    },
+    {
+      "mission": "ax2",
+      "rows": 4
+    },
+    {
+      "mission": "ax3",
+      "rows": 4
+    },
+    {
+      "mission": "ax4",
+      "rows": 4
+    },
+    {
+      "mission": "crew-9",
+      "rows": 4
+    },
+    {
+      "mission": "crew1",
+      "rows": 4
+    },
+    {
+      "mission": "crew10",
+      "rows": 4
+    },
+    {
+      "mission": "crew11",
+      "rows": 4
+    },
+    {
+      "mission": "crew12",
+      "rows": 4
+    },
+    {
+      "mission": "crew13",
+      "rows": 2
+    },
+    {
+      "mission": "crew2",
+      "rows": 4
+    },
+    {
+      "mission": "crew3",
+      "rows": 4
+    },
+    {
+      "mission": "crew4",
+      "rows": 4
+    },
+    {
+      "mission": "crew5",
+      "rows": 4
+    },
+    {
+      "mission": "crew6",
+      "rows": 4
+    },
+    {
+      "mission": "crew7",
+      "rows": 4
+    },
+    {
+      "mission": "crew8",
+      "rows": 4
+    },
+    {
+      "mission": "demo1",
+      "rows": 4
+    },
+    {
+      "mission": "demo2",
+      "rows": 4
+    },
+    {
+      "mission": "fram2",
+      "rows": 2
+    },
+    {
+      "mission": "inspiration4",
+      "rows": 2
+    },
+    {
+      "mission": "polarisdawn",
+      "rows": 3
+    }
+  ],
+  "newMaintainedAssets": 124,
+  "sourceModule": "8800.85e5c607ebe65b77.js",
+  "visibilityRule": "webcasts.length > 1",
+  "browserParityAccepted": false,
+  "authoredCrew13DockingEmbedMatchesReference": "https://studio.x.com/embed/broadcast/1qxvveVOnoRxB",
+  "escapeRemovesIframeAndRestoresFocus": true,
+  "offlineCspBlocksExternalPlayback": true
+}

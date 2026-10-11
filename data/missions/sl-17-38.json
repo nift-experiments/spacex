@@ -163,7 +163,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260808_Starlink_17_38_DSC_09231_d_8c4e03c506.jpg",
-      "mobile": "public/assets/media/20260808_Starlink_17_38_DSC_09231_m_5f8f4f681c.jpg"
+      "mobile": "public/assets/media/20260808_Starlink_17_38_DSC_09231_m_5f8f4f681c.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

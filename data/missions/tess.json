@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/TESS_Desktop_9cb6040429.jpg",
-      "mobile": "public/assets/media/TESS_Mobile_f0f901ae8c.jpg"
+      "mobile": "public/assets/media/TESS_Mobile_f0f901ae8c.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

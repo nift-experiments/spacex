@@ -583,7 +583,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Transporter_16_SW_Hill_Horiz_0752_Desktop_2396b348b2.jpg",
-      "mobile": "public/assets/media/Transporter_16_SW_Hill_Vert_1125_Mobile_50d094285f.jpg"
+      "mobile": "public/assets/media/Transporter_16_SW_Hill_Vert_1125_Mobile_50d094285f.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

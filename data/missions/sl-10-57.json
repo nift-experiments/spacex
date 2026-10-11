@@ -163,17 +163,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Star10_57_090525_DSC_1645_desktop_3213bfa00a.jpg",
-      "mobile": "public/assets/media/Star10_57_090525_DSC_5168_mobile_ae22931a99.jpg"
+      "mobile": "public/assets/media/Star10_57_090525_DSC_5168_mobile_ae22931a99.jpg",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Star10_57_090525_DSC_4582_desktop_57b10ef452.jpg",
-      "mobile": "public/assets/media/Star10_57_090525_DSC_4582_mobile_acddc6bc22.jpg"
+      "mobile": "public/assets/media/Star10_57_090525_DSC_4582_mobile_acddc6bc22.jpg",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Star10_57_090525_DSC_6171_desktop_2e076f58bf.jpg",
-      "mobile": "public/assets/media/Star10_57_090525_DSC_6171_mobile_16c72f6759.jpg"
+      "mobile": "public/assets/media/Star10_57_090525_DSC_6171_mobile_16c72f6759.jpg",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

@@ -153,22 +153,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/NROL_105_South_Hill_Composite_Desktop_2780e2fa11.jpg",
-      "mobile": "public/assets/media/NROL_105_South_Hill_9960_Mobile_5b6660c0e7.jpg"
+      "mobile": "public/assets/media/NROL_105_South_Hill_9960_Mobile_5b6660c0e7.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/NROL_105_Harris_4749_Desktop_a2dbcf62cf.jpg",
-      "mobile": "public/assets/media/NROL_105_Harris_4749_Mobile_e85b28a0e9.jpg"
+      "mobile": "public/assets/media/NROL_105_Harris_4749_Mobile_e85b28a0e9.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260116_NRO_105_Verticals_DSC_00059_crop_c56eb0967b.jpg",
-      "mobile": "public/assets/media/20260116_NRO_105_Verticals_DSC_00059_crop_c56eb0967b.jpg"
+      "mobile": "public/assets/media/20260116_NRO_105_Verticals_DSC_00059_crop_c56eb0967b.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/NROL_105_Vertical_4689_Desktop_7ccc50d643.jpg",
-      "mobile": "public/assets/media/NROL_105_Vertical_2585_Mobile_91ca6b52a0.jpg"
+      "mobile": "public/assets/media/NROL_105_Vertical_2585_Mobile_91ca6b52a0.jpg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [],

@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Turksat5_A_Desktop_ab0823cda9.jpg",
-      "mobile": "public/assets/media/Turksat5_A_Mobile_978363694d.jpg"
+      "mobile": "public/assets/media/Turksat5_A_Mobile_978363694d.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

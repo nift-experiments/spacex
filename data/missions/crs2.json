@@ -15,7 +15,10 @@
     {
       "caption": "",
       "desktop": "",
-      "mobile": ""
+      "mobile": "",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

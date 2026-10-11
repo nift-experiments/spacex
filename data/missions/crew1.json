@@ -157,7 +157,12 @@
         "documentId": "n982kqrd6kbsdx49zwavhk0t",
         "locale": null,
         "publishedAt": "2026-02-04T19:18:58.588Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/299982bbe97c4c6d1f006c8c67dbeb343307ab9b1ed0e26e27bb9d40da7f8996.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/f7f2d2aa0e97c1f03becc8ce4d7eeaf5177dcd7bef06cbdcac9b72c06361ba5c.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Nov 15, 2020"
     },
     {
       "id": 2028,
@@ -309,7 +314,12 @@
         "documentId": "f7cx7n0tp1et4xadhzih2bv6",
         "locale": null,
         "publishedAt": "2026-02-04T19:38:31.733Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/d5db5e2ceade319bf79780522b1e9741bb4a99112935b37551ab65c5434af5dd.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/c4e49af8813e09572cc3fa3787cd7e0afc989c40934fb6c1853436fd285be3e2.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Feb 16, 2020"
     },
     {
       "id": 2029,
@@ -461,7 +471,12 @@
         "documentId": "jao4dcu6mph97tkpqufjl0v5",
         "locale": null,
         "publishedAt": "2026-02-09T20:01:15.694Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/cded8b5e9b4b36e4bf56863454931e15415812ec4572241bfadbbe8cb5d8ac44.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/6a999498a938fc3e1438efbca1d9e4c4062aa9372335c26faf01866b9217482c.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "May 1, 2021"
     },
     {
       "id": 2030,
@@ -613,7 +628,12 @@
         "documentId": "u6etpuaavbwho1aqtha97w9b",
         "locale": null,
         "publishedAt": "2026-02-09T20:02:03.710Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/b3103d1f152c3e57a9d4d3659f2c804b4ae7ab8d21f6ea3820591368987ac175.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/1457a7b486c55adc6e51ae69b18faca64fea88c48be5734447bbf2f382407138.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "May 2, 2021"
     }
   ],
   "preTimeline": null,
@@ -624,7 +644,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_1_Dry_Dress_Desktop_96404e4a9f.jpg",
-      "mobile": "public/assets/media/CREW_1_Dry_Dress_Mobile_9fdab83549.jpg"
+      "mobile": "public/assets/media/CREW_1_Dry_Dress_Mobile_9fdab83549.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [

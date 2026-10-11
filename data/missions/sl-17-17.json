@@ -163,12 +163,18 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Starlink_G17_17_OS_56_Streak_4791_Desktop_1b73a17b1f.jpg",
-      "mobile": "public/assets/media/Starlink_G17_17_OS_56_Streak_4791_Mobile_b809a90621.jpg"
+      "mobile": "public/assets/media/Starlink_G17_17_OS_56_Streak_4791_Mobile_b809a90621.jpg",
+      "position": "1 / 2",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Starlink_G17_17_OS_56_5522_Desktop_5e6e3a0550.jpg",
-      "mobile": "public/assets/media/Starlink_G17_17_OS_56_4240_Mobile_ceb4f7e1cb.jpg"
+      "mobile": "public/assets/media/Starlink_G17_17_OS_56_4240_Mobile_ceb4f7e1cb.jpg",
+      "position": "2 / 2",
+      "index": 1,
+      "number": 2
     }
   ],
   "astronauts": [],

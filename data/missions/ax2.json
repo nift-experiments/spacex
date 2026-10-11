@@ -149,7 +149,12 @@
         "documentId": "vfgcv9avifw9he0k3q6lhwk9",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/media/Axiom_2_Launch_20230521_DSC_04028_Desktop_07cedad346.jpg",
+      "mobilePath": "public/assets/media/Axiom_2_Launch_20230521_DSC_04028_Mobile_a2fc336720.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "May 21, 2023"
     },
     {
       "id": 1936,
@@ -293,7 +298,12 @@
         "documentId": "wujuaol0nn0hjc91dsrv71xv",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/fedc33a7b5dd4dd34aa289072c848b19245f58e33f31df3fabdd440ff666efb9.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/8caf2c1c6e1ed968af4f6022cd48974d51d19e31fb29ed9cc96680ad784bf10c.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "May 22, 2023"
     },
     {
       "id": 1937,
@@ -437,7 +447,12 @@
         "documentId": "xugua8qilzojf1j5mmgvtmja",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/fee5e0989e72e84db62e5f244b021a5c988071353e6e634de454c09507dc9abe.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/4fa6e2540e60e1c0dcae9ef20ed1dac331cfd3019197226530d7e068cb4de1f2.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "May 30, 2023"
     },
     {
       "id": 1938,
@@ -581,7 +596,12 @@
         "documentId": "lha899tqlccjl7ios7csqwp8",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/090f6e218396bf4eaad19d5affff96b5dcc41b92c2b4ffa41ebf543a61fc9b4f.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/0bb589586bff7b7e0404208779045513b8a887e72a6c21587a57cb019348b944.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "May 30, 2023"
     }
   ],
   "preTimeline": null,

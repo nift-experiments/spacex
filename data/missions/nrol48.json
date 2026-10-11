@@ -153,12 +153,18 @@
     {
       "caption": "",
       "desktop": "public/assets/media/NROL_48_San_Miguelito_Cyn_0298_Desktop_bba724ec3b.jpg",
-      "mobile": "public/assets/media/NROL_48_San_Miguelito_Cyn_0298_Mobile_5cf34ea947.jpg"
+      "mobile": "public/assets/media/NROL_48_San_Miguelito_Cyn_0298_Mobile_5cf34ea947.jpg",
+      "position": "1 / 2",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/NROL_48_San_Miguelito_Cyn_0334_Desktop_1d28ddb635.jpg",
-      "mobile": "public/assets/media/NROL_48_San_Miguelito_Cyn_0334_Mobile_fb3a685f4a.jpg"
+      "mobile": "public/assets/media/NROL_48_San_Miguelito_Cyn_0334_Mobile_fb3a685f4a.jpg",
+      "position": "2 / 2",
+      "index": 1,
+      "number": 2
     }
   ],
   "astronauts": [],

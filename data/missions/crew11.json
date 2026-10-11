@@ -59,7 +59,12 @@
         "documentId": "dmk9s6zwj53ux0v79ddb5bee",
         "locale": null,
         "publishedAt": "2025-08-01T19:16:33.355Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/dbe156180ba86e3cf9f573f2e05b66f96b7aada762d7eac92b76b3f0ad65d30e.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/93a33d248df952994140e65e4f000a67f304ae4a5959bf9ee74c764ffe1e14f5.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Jul 31, 2025"
     },
     {
       "id": 1730,
@@ -113,7 +118,12 @@
         "documentId": "gd9ewsi1dz4pdbvs2ufva4jp",
         "locale": null,
         "publishedAt": "2025-08-01T19:59:22.361Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/38c37f4e013a661c01a6ddbdbfe659b4d67bd43140c10f9258f62d39c7834680.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/e56f0f378e68f64fd9cae1a1de7edd8f8a7cd9094841644526c388d8600ed5a7.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Aug 1, 2025"
     },
     {
       "id": 1731,
@@ -216,7 +226,12 @@
         "documentId": "mbn65c6oott536cwkar21ilk",
         "locale": null,
         "publishedAt": "2025-07-22T19:44:46.498Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/c66c71b7931cdbff1fb4e3e7344aab990fb6bf424663770f412e08f4232ff724.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/bf543a10c68273475ef5e822d11a1c3158bb20f4bb3f917bd72f50b97b3a3dd3.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Jan 14, 2026"
     },
     {
       "id": 1732,
@@ -270,7 +285,12 @@
         "documentId": "j6bpsfxnmf146vjcrm3jvxbe",
         "locale": null,
         "publishedAt": "2026-01-15T03:12:20.040Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/8ba0ff955e122c9d823389058cf6cb0396c6c3f51535b3c1aad8de7ad774816d.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/986c5da1a0d8945495af4796d977fd37f6c48e61ecd931f58be965ce085b550a.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Jan 15, 2026"
     }
   ],
   "preTimeline": {
@@ -428,52 +448,82 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_11_ramph_IMG_5552_0d14b32a96.jpg",
-      "mobile": "public/assets/media/Crew_11_ramph_IMG_5552_0d14b32a96.jpg"
+      "mobile": "public/assets/media/Crew_11_ramph_IMG_5552_0d14b32a96.jpg",
+      "position": "1 / 10",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew11_outsidedike_DSC_1856_desktop_3028aa32e6.jpg",
-      "mobile": "public/assets/media/Crew11_outsidedike_DSC_1854_desktop_aa85980d89.jpg"
+      "mobile": "public/assets/media/Crew11_outsidedike_DSC_1854_desktop_aa85980d89.jpg",
+      "position": "2 / 10",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_11_Wpondh_IMG_8981_Desktop_b19eccc50a.jpg",
-      "mobile": "public/assets/media/Crew_11_Wpondh_IMG_8981_Desktop_b19eccc50a.jpg"
+      "mobile": "public/assets/media/Crew_11_Wpondh_IMG_8981_Desktop_b19eccc50a.jpg",
+      "position": "3 / 10",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_11_pad40_DSC_5995_desktop_e0a6616e84.jpg",
-      "mobile": "public/assets/media/Crew_11_pad40_DSC_5995_desktop_e0a6616e84.jpg"
+      "mobile": "public/assets/media/Crew_11_pad40_DSC_5995_desktop_e0a6616e84.jpg",
+      "position": "4 / 10",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20250728_Crew_11_Dry_Dress_STL_0126_9b30e6431a.jpg",
-      "mobile": "public/assets/media/20250728_Crew_11_Dry_Dress_STL_0126_9b30e6431a.jpg"
+      "mobile": "public/assets/media/20250728_Crew_11_Dry_Dress_STL_0126_9b30e6431a.jpg",
+      "position": "5 / 10",
+      "index": 4,
+      "number": 5
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_11_vertical_sunset_072725_DSC_2761_desktop2_b7fbe18647.jpg",
-      "mobile": "public/assets/media/Crew_11_vertical_sunset_072725_DSC_2761_desktop2_b7fbe18647.jpg"
+      "mobile": "public/assets/media/Crew_11_vertical_sunset_072725_DSC_2761_desktop2_b7fbe18647.jpg",
+      "position": "6 / 10",
+      "index": 5,
+      "number": 6
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_11_vertical_sunset_072725_DSC_2745_Desktop2_e3a274498f.jpg",
-      "mobile": "public/assets/media/Crew_11_vertical_sunset_072725_DSC_2745_Desktop2_e3a274498f.jpg"
+      "mobile": "public/assets/media/Crew_11_vertical_sunset_072725_DSC_2745_Desktop2_e3a274498f.jpg",
+      "position": "7 / 10",
+      "index": 6,
+      "number": 7
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_11_Hangar_X_041125_DSC_2483_DESKTOP_4ecd104ceb.jpg",
-      "mobile": "public/assets/media/Crew_11_Hangar_X_041125_DSC_2483_DESKTOP_4ecd104ceb.jpg"
+      "mobile": "public/assets/media/Crew_11_Hangar_X_041125_DSC_2483_DESKTOP_4ecd104ceb.jpg",
+      "position": "8 / 10",
+      "index": 7,
+      "number": 8
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_11_CEIT_test_drive_070325_DSC_2399_DESKTOP_56af71450e.jpg",
-      "mobile": "public/assets/media/Crew_11_CEIT_test_drive_070325_DSC_2411_MOBILE_64b0df9f53.jpg"
+      "mobile": "public/assets/media/Crew_11_CEIT_test_drive_070325_DSC_2411_MOBILE_64b0df9f53.jpg",
+      "position": "9 / 10",
+      "index": 8,
+      "number": 9
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_11_Intro_Week_20240926_DSC_02750_Desktop_5df7dfe429.jpg",
-      "mobile": "public/assets/media/Crew_11_Intro_Week_20240926_DSC_02750_Desktop_5df7dfe429.jpg"
+      "mobile": "public/assets/media/Crew_11_Intro_Week_20240926_DSC_02750_Desktop_5df7dfe429.jpg",
+      "position": "10 / 10",
+      "index": 9,
+      "number": 10
     }
   ],
   "astronauts": [

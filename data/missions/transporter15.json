@@ -738,22 +738,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20251128_transporter15_hill_00046_4ebb66d8e9.jpg",
-      "mobile": "public/assets/media/20251128_transporter15_hill_00046_4ebb66d8e9.jpg"
+      "mobile": "public/assets/media/20251128_transporter15_hill_00046_4ebb66d8e9.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Transporter_15_South_Hill_1435_Desktop_805146b7ff.jpg",
-      "mobile": "public/assets/media/Transporter_15_South_Hill_1440_Mobile_76e4ac3f93.jpg"
+      "mobile": "public/assets/media/Transporter_15_South_Hill_1440_Mobile_76e4ac3f93.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Transporter_15_Sunset_Vertical_1150_Desktop_3e98c7d4aa.jpg",
-      "mobile": "public/assets/media/Transporter_15_Sunset_Vertical_1152_Mobile_aebd828db3.jpg"
+      "mobile": "public/assets/media/Transporter_15_Sunset_Vertical_1152_Mobile_aebd828db3.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Transporter_15_Vertical_11_27_2025_1288_Desktop_7e7ad09b92.jpg",
-      "mobile": "public/assets/media/Transporter_15_Vertical_11_27_2025_1285_Mobile_50f9cc9489.jpg"
+      "mobile": "public/assets/media/Transporter_15_Vertical_11_27_2025_1285_Mobile_50f9cc9489.jpg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [],

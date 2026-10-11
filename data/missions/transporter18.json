@@ -523,7 +523,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Transporter_18_San_Miguelito_Cyn_7847_Desktop_32a0c6c79a.jpg",
-      "mobile": "public/assets/media/Transporter_18_San_Miguelito_Cyn_7847_Mobile_ec2dba00d7.jpg"
+      "mobile": "public/assets/media/Transporter_18_San_Miguelito_Cyn_7847_Mobile_ec2dba00d7.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

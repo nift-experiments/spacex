@@ -149,7 +149,12 @@
         "documentId": "g3dwpeslzrzwk78w89ckqkk9",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/faf804c2e032e44bee35d07ca63cf89000beede2b4f29d0019140cb045ad9b6b.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/f40fe8ef2b0c0c1a1f13fc5e0b8d943c52721657ac3d8c36aa88e73b436a8f9d.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Sep 10, 2024"
     },
     {
       "id": 1920,
@@ -301,7 +306,12 @@
         "documentId": "t0p2iul9vwsuwq6j7dmhpxz6",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/9f9303eb8f1d4051de35e2f5c4e72a842ef98326fd6e1be7c7d9075e430e1e8c.png",
+      "mobilePath": "public/assets/recovered/webcasts/17875b8fc618b92798467948ed57e909bbcd74d4803121184b9ff336b7691fc7.png",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Sep 12, 2024"
     },
     {
       "id": 1921,
@@ -453,7 +463,12 @@
         "documentId": "pjcx4dnb3mskbr5eaghr3ptc",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/472eeb2b55ac6365975c5bb2f1aed692ed67e4d425c85add0e19c3c11f8596bc.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/f0e050b0002db29fb59ac71804c73d8ec0650d83decc56775134317ea4c6880f.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Sep 15, 2024"
     }
   ],
   "preTimeline": null,

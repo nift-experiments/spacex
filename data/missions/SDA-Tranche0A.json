@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/SDA_0_B_South_West_Hill_Horz_7288_Desktop_c8503fe26d.jpg",
-      "mobile": "public/assets/media/SDA_0_B_South_West_Hill_Vert_7209_Mobile_b8617c09f5.jpg"
+      "mobile": "public/assets/media/SDA_0_B_South_West_Hill_Vert_7209_Mobile_b8617c09f5.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

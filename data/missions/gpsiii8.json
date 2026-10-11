@@ -163,17 +163,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260421_CC_GPS_III_8_curbh_IMG_0044_desktop_2f88c9fdd9.jpg",
-      "mobile": "public/assets/media/20260421_CC_GPS_III_8_outsideroadv_IMG_8677_15299a3082.jpg"
+      "mobile": "public/assets/media/20260421_CC_GPS_III_8_outsideroadv_IMG_8677_15299a3082.jpg",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260419_CC_GPS_III_8_vertical_DSC_7910_desktop_89e992824a.jpg",
-      "mobile": "public/assets/media/20260419_CC_GPS_III_8_vertical_DSC_7901_4de787cf3f.jpg"
+      "mobile": "public/assets/media/20260419_CC_GPS_III_8_vertical_DSC_7901_4de787cf3f.jpg",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260415_CC_GPS_III_10_encapsulation_DSC_7586_adbcdd4b9b.jpg",
-      "mobile": "public/assets/media/20260415_CC_GPS_III_10_encapsulation_DSC_7540_68c263d567.jpg"
+      "mobile": "public/assets/media/20260415_CC_GPS_III_10_encapsulation_DSC_7540_68c263d567.jpg",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

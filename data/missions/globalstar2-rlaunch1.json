@@ -183,22 +183,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0108_desktop_fccc054839.jpg",
-      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0108_mobile_12389eff08.jpg"
+      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0108_mobile_12389eff08.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0109_desktop_1ceb1252ef.jpg",
-      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0109_mobile_84b441b24b.jpg"
+      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0109_mobile_84b441b24b.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0101_desktop_feede0ed74.jpg",
-      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0103_mobile_5eddfaef53.jpg"
+      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0103_mobile_5eddfaef53.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260815_CC_Globalstar_2_R_1_egrassh_DSC_9928_desktop_ec26a32e63.jpg",
-      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_egrassh_DSC_9928_mobile_bbed232973.jpg"
+      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_egrassh_DSC_9928_mobile_bbed232973.jpg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [],

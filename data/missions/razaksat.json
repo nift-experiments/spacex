@@ -15,7 +15,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Razak_Sat_Desktop2_8c4db99216.jpg",
-      "mobile": "public/assets/media/Razak_Sat_Mobile2_70edab0416.jpg"
+      "mobile": "public/assets/media/Razak_Sat_Mobile2_70edab0416.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

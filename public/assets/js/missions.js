@@ -15,9 +15,9 @@ if (webcastTemplate) {
     document.body.classList.remove('webcast-open');
     lastFocus?.focus();
   };
-  const open = () => {
-    if (!featured) return;
-    const {videoId, videoType} = featured.dataset;
+  const open = (stream = featured) => {
+    if (!stream) return;
+    const {videoId, videoType} = stream.dataset;
     const url = videoType === 'x.com' ? `https://platform.twitter.com/embed/Tweet.html?id=${encodeURIComponent(videoId)}&maxWidth=${.6 * innerWidth}px` : videoType === 'x-live-studio' ? `https://studio.x.com/embed/broadcast/${encodeURIComponent(videoId)}` : videoType === 'youtube' ? `https://www.youtube.com/embed/${encodeURIComponent(videoId)}?enablejsapi=1&version=3` : null;
     if (!url) return; // Undefined upstream video types remain unavailable.
     lastFocus = document.activeElement;
@@ -29,8 +29,15 @@ if (webcastTemplate) {
     document.body.classList.add('webcast-open'); closeButton.focus();
   };
   trigger?.setAttribute('role', 'button');
-  trigger?.addEventListener('click', open);
+  trigger?.addEventListener('click', () => open());
   trigger?.addEventListener('keydown', event => { if (event.key === 'Enter' || event.key === ' ') {event.preventDefault(); open();} });
+  for (const control of mission.querySelectorAll('[data-webcast-index]')) {
+    const choose = () => open(streams[Number(control.dataset.webcastIndex)]);
+    control.addEventListener('click', choose);
+    control.addEventListener('keydown', event => {
+      if (event.key === 'Enter' || event.key === ' ') {event.preventDefault(); choose();}
+    });
+  }
   closeButton.addEventListener('click', close);
   document.addEventListener('keydown', event => {
     if (!overlay.classList.contains('open')) return;

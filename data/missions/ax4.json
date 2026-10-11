@@ -157,7 +157,12 @@
         "documentId": "sglz0upzxku4qpu4pr724zfz",
         "locale": null,
         "publishedAt": "2025-06-25T07:44:01.740Z"
-      }
+      },
+      "desktopPath": "public/assets/media/Axiom_4_astrord_DSC_3542_desktop_98319e0cd9.jpg",
+      "mobilePath": "public/assets/media/Axiom_4_astrord_DSC_3542_mobile_35ea3a5285.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Jun 25, 2025"
     },
     {
       "id": 1950,
@@ -309,7 +314,12 @@
         "documentId": "mcoy361to0x1akisr29b64jn",
         "locale": null,
         "publishedAt": "2025-07-13T14:09:31.564Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/a33de52ea993981d033765d16b75f087e65f0de90047ef072401a65e4e822b2c.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/1439d661780c6a066efb16da71b47382547cab1fc4b39e414adae9e07fa73155.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Jun 26, 2025"
     },
     {
       "id": 1951,
@@ -461,7 +471,12 @@
         "documentId": "w2gt8vyukgbrw4mtlzwrdt8k",
         "locale": null,
         "publishedAt": "2025-07-12T23:42:23.474Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/a33de52ea993981d033765d16b75f087e65f0de90047ef072401a65e4e822b2c.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/a63cf1d0b3120fc56fd784fd54d63f77c6d2e2d4d2424acaa1fa1c72b76063d9.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Jul 14, 2025"
     },
     {
       "id": 1952,
@@ -613,7 +628,12 @@
         "documentId": "b6qhw72phyikeyk0iq1vxqj9",
         "locale": null,
         "publishedAt": "2025-07-15T12:40:55.653Z"
-      }
+      },
+      "desktopPath": "public/assets/media/Ax_4_Dragon_Return_Streak_Desktop_c1326c2351.jpg",
+      "mobilePath": "public/assets/media/Ax_4_Dragon_Return_Streak_9219ac2911.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Jul 15, 2025"
     }
   ],
   "preTimeline": null,
@@ -624,37 +644,58 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Axiom_4_astrord_DSC_3542_desktop_98319e0cd9.jpg",
-      "mobile": "public/assets/media/Axiom_4_astrord_DSC_3542_mobile_35ea3a5285.jpg"
+      "mobile": "public/assets/media/Axiom_4_astrord_DSC_3542_mobile_35ea3a5285.jpg",
+      "position": "1 / 7",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Axiom_4_outsidehangar_IMG_3412_desktop_f4cf1ef34c.jpg",
-      "mobile": "public/assets/media/Axiom_4_outsidehangar_IMG_3412_mobile_1d63de3e7e.jpg"
+      "mobile": "public/assets/media/Axiom_4_outsidehangar_IMG_3412_mobile_1d63de3e7e.jpg",
+      "position": "2 / 7",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Axiom_4_vertical_sunset_060725_DSC_5490_6972dd1eae.jpg",
-      "mobile": "public/assets/media/Axiom_4_vertical_sunset_060725_DSC_5490_1_ad970e4701.jpg"
+      "mobile": "public/assets/media/Axiom_4_vertical_sunset_060725_DSC_5490_1_ad970e4701.jpg",
+      "position": "3 / 7",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Axiom_4_vertical_sunset_060725_DSC_5498_bbe27a54bd.jpg",
-      "mobile": "public/assets/media/Axiom_4_vertical_sunset_060725_DSC_5498_1_ee8576f592.jpg"
+      "mobile": "public/assets/media/Axiom_4_vertical_sunset_060725_DSC_5498_1_ee8576f592.jpg",
+      "position": "4 / 7",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Axiom_4_vertical_sunset_060725_DSC_5504_e0bc0fa77b.jpg",
-      "mobile": "public/assets/media/Axiom_4_vertical_sunset_060725_DSC_5504_1_e908c93d06.jpg"
+      "mobile": "public/assets/media/Axiom_4_vertical_sunset_060725_DSC_5504_1_e908c93d06.jpg",
+      "position": "5 / 7",
+      "index": 4,
+      "number": 5
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Ax_4_Dragon_Return_Streak_Desktop_c1326c2351.jpg",
-      "mobile": "public/assets/media/Ax_4_Dragon_Return_Streak_9219ac2911.jpg"
+      "mobile": "public/assets/media/Ax_4_Dragon_Return_Streak_9219ac2911.jpg",
+      "position": "6 / 7",
+      "index": 5,
+      "number": 6
     },
     {
       "caption": "",
       "desktop": "public/assets/media/AX_4_Splashdown_20250715_DSC_09283_desktop_9baacb781d.jpg",
-      "mobile": "public/assets/media/AX_4_Splashdown_20250715_DSC_09283_mobile_b6ab074440.jpg"
+      "mobile": "public/assets/media/AX_4_Splashdown_20250715_DSC_09283_mobile_b6ab074440.jpg",
+      "position": "7 / 7",
+      "index": 6,
+      "number": 7
     }
   ],
   "astronauts": [

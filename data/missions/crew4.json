@@ -157,7 +157,12 @@
         "documentId": "x29i2qyrxrevsh5ywa9c03ra",
         "locale": null,
         "publishedAt": "2025-07-24T02:15:22.211Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/1fe19ede625750152ec9cdb7f098e890b65cefdd974b6339ae19d699d4534a9a.jpeg",
+      "mobilePath": "public/assets/recovered/webcasts/aded12322429f8152c7c0796cf93c18c73f37617055217780da81c06b5b14002.JPG",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Apr 26, 2022"
     },
     {
       "id": 2012,
@@ -309,7 +314,12 @@
         "documentId": "vk1fk11ihk6hx5efqmjwusds",
         "locale": null,
         "publishedAt": "2026-02-05T00:19:11.534Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/ab6637d3ef02d623b585508f96687c1146bcb03e87ab3db4d360628e6866be1b.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/eb28780c8c95bd386d9bc23492ed8cea9594d2a8fe4774dcea97d21073ba4885.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Apr 27, 2022"
     },
     {
       "id": 2013,
@@ -461,7 +471,12 @@
         "documentId": "rkr0rytr6p6stl8v5gslkiy7",
         "locale": null,
         "publishedAt": "2026-02-05T20:40:59.664Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/f30f416f1a527e970ce924b52b9ad2b2c2abd8a693c1a70f8b97140504117c87.png",
+      "mobilePath": "public/assets/recovered/webcasts/4a0d72c25d2615689df9b415d56b514957e31388bedc9ef131bb743856127d31.png",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Oct 14, 2022"
     },
     {
       "id": 2014,
@@ -613,7 +628,12 @@
         "documentId": "ube4cztyy4bm5skxvxzl5mo6",
         "locale": null,
         "publishedAt": "2026-02-05T20:42:00.999Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/1c58487a13e2a1628efe71ae015ccf11f689cf37ec7ef1df41ad41ab2aa8c076.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/f47503e0026b2d423fd1223ae5d9037b6cc0fea447eaf79484c3b8b863eff7ae.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Oct 14, 2022"
     }
   ],
   "preTimeline": null,
@@ -624,7 +644,10 @@
     {
       "caption": "",
       "desktop": "",
-      "mobile": ""
+      "mobile": "",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [

@@ -149,7 +149,12 @@
         "documentId": "gu2qwr7ayrsqwuw660hdgmwi",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/media/Crew_7_Npondh_IMG_6873_desktop_000148c58e.jpg",
+      "mobilePath": "public/assets/media/Crew_7_rampv_IMG_8389_mobile_65797b521c.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Aug 26, 2023"
     },
     {
       "id": 1897,
@@ -293,7 +298,12 @@
         "documentId": "z17yh1jd7ps3f9n9va6xveby",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/df3819928cf3dd223249b88454b7a9534e538c3a49cd462d3857f7a4dd6f1f68.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/e95eac7ea5df93435704f7728eeb868b3d6c59c6e91b4485f73ed042fb64a06d.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Aug 27, 2023"
     },
     {
       "id": 1898,
@@ -437,7 +447,12 @@
         "documentId": "aj64qle4nx1qakk9l6bomyb7",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/d7ab44d112206eb2f0f5d0246143149fe99e11f6cc47f2c2a83922d4aab67398.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/d33952d5cd9a1698782f0d2916ac7591201dd55d54a09fc4b08c2f247942809c.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Mar 11, 2024"
     },
     {
       "id": 1899,
@@ -581,7 +596,12 @@
         "documentId": "me7nx52c10jmemaae74x8790",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/46e01bf1e742ac94711783f1cb46ce00c8e8d71ea5acfeef1a5814b88ee264e6.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/b38736289c1883a5a148bc07f6cea5fb373a737b8b21b9c5fb9819fc648de098.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Mar 12, 2024"
     }
   ],
   "preTimeline": null,

@@ -59,7 +59,12 @@
         "documentId": "ybr4st6i4vpnao9t3jpkdf0h",
         "locale": null,
         "publishedAt": "2025-07-30T22:37:03.365Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/7bb9647c2ab4b54dd95d3bcc950b7680dafc7c89e33347f9648104682f69f69f.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/10c1208be8d5c6ddc6766b965e4293a31c7c967cffab1b920d6870acefd87eee.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Mar 14, 2025"
     },
     {
       "id": 1693,
@@ -113,7 +118,12 @@
         "documentId": "bb9e0p7irb9jhowngr968015",
         "locale": null,
         "publishedAt": "2025-07-22T20:08:26.922Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/1ae42d2881b671269b22279550f96b7d268124020d129742f1ac50fb391c03b1.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/f898af6ed4d21cf74afcff47757073dd017fcf6e130e0c06d28f34abc8669e85.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Mar 16, 2025"
     },
     {
       "id": 1694,
@@ -265,7 +275,12 @@
         "documentId": "mbn65c6oott536cwkar21ilk",
         "locale": null,
         "publishedAt": "2025-07-22T19:44:46.498Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/e8827f777b77b16c81db3baa3e30a2a2d52d8322b1b011a9daaf6cdd13768bb7.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/bf543a10c68273475ef5e822d11a1c3158bb20f4bb3f917bd72f50b97b3a3dd3.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Aug 8, 2025"
     },
     {
       "id": 1695,
@@ -319,7 +334,12 @@
         "documentId": "yg3nxgo9x0bzlv12wn8v4sm8",
         "locale": null,
         "publishedAt": "2025-08-08T19:17:12.551Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/5fbd527cf6edd81eb55b6f4f16ef5949abf25a83e28294047aea53e17fe48715.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/f3ef35cbcb3b3cd0c6333b93d6d578b874780a08b52c1aa5bcecf42a2c42dea1.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Aug 9, 2025"
     }
   ],
   "preTimeline": null,
@@ -330,52 +350,82 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_10_astronautrd_DSC_5144_desktop_b7cdabadf3.jpg",
-      "mobile": "public/assets/media/Crew_10_astronautrd_DSC_5144_mobile_9964801798.jpg"
+      "mobile": "public/assets/media/Crew_10_astronautrd_DSC_5144_mobile_9964801798.jpg",
+      "position": "1 / 10",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20250308_Crew_10_Rollout_DSC_03258_77fdcef816.jpg",
-      "mobile": "public/assets/media/20250308_Crew_10_Rollout_DSC_03258_CAROUSEL_Mobile_4eaf4488d4.jpg"
+      "mobile": "public/assets/media/20250308_Crew_10_Rollout_DSC_03258_CAROUSEL_Mobile_4eaf4488d4.jpg",
+      "position": "2 / 10",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_10_Dry_Dress_20250309_STL_0088_Desktop_6fd65b061f.jpg",
-      "mobile": "public/assets/media/Crew_10_Dry_Dress_20250309_STL_0088_CAROUSEL_Mobile_9cf36063ed.jpg"
+      "mobile": "public/assets/media/Crew_10_Dry_Dress_20250309_STL_0088_CAROUSEL_Mobile_9cf36063ed.jpg",
+      "position": "3 / 10",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_10_vertical_030925_DSC_9967_desktop_d439f76675.jpg",
-      "mobile": "public/assets/media/Crew_10_vertical_030925_DSC_9972_mobile_83c0f793a5.jpg"
+      "mobile": "public/assets/media/Crew_10_vertical_030925_DSC_9972_mobile_83c0f793a5.jpg",
+      "position": "4 / 10",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_10_sunrise_031025_DSC_0017_desktop_kq_24694da9f8.jpg",
-      "mobile": "public/assets/media/Crew_10_sunrise_031025_DSC_0017_mobile_kq_254a914d48.jpg"
+      "mobile": "public/assets/media/Crew_10_sunrise_031025_DSC_0017_mobile_kq_254a914d48.jpg",
+      "position": "5 / 10",
+      "index": 4,
+      "number": 5
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_10_sunrise_031025_DSC_0038_desktop_kq_941b88b933.jpg",
-      "mobile": "public/assets/media/Crew_10_sunrise_031025_DSC_4952_mobile_kq_76170f7ca1.jpg"
+      "mobile": "public/assets/media/Crew_10_sunrise_031025_DSC_4952_mobile_kq_76170f7ca1.jpg",
+      "position": "6 / 10",
+      "index": 5,
+      "number": 6
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_10_sunset_031125_DSC_9592_desktop_d4174e436d.jpg",
-      "mobile": "public/assets/media/Crew_10_sunset_031125_DSC_9592_Mobile_d67507e05a.jpg"
+      "mobile": "public/assets/media/Crew_10_sunset_031125_DSC_9592_Mobile_d67507e05a.jpg",
+      "position": "7 / 10",
+      "index": 6,
+      "number": 7
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_10_sunset_031125_DSC_0236_Desktop_6ae744a7f4.jpg",
-      "mobile": "public/assets/media/Crew_10_sunset_031125_DSC_0236_Mobile_468f9f0375.jpg"
+      "mobile": "public/assets/media/Crew_10_sunset_031125_DSC_0236_Mobile_468f9f0375.jpg",
+      "position": "8 / 10",
+      "index": 7,
+      "number": 8
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_10_outsidedune_DSC_1621_desktop_9f0172366d.jpg",
-      "mobile": "public/assets/media/Crew_10_outsidedune_DSC_1623_mobile_ab85dabdf4.jpg"
+      "mobile": "public/assets/media/Crew_10_outsidedune_DSC_1623_mobile_ab85dabdf4.jpg",
+      "position": "9 / 10",
+      "index": 8,
+      "number": 9
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20250314_Crew_10_Launch_VAB_SPX_0416_Desktop_555ffdd6bd.jpg",
-      "mobile": "public/assets/media/20250314_Crew_10_Launch_VAB_SPX_0416_Mobile_cd4484005f.jpg"
+      "mobile": "public/assets/media/20250314_Crew_10_Launch_VAB_SPX_0416_Mobile_cd4484005f.jpg",
+      "position": "10 / 10",
+      "index": 9,
+      "number": 10
     }
   ],
   "astronauts": [

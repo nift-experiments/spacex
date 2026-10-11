@@ -163,12 +163,18 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260709_Starlink_10_42_40_Stage_2_2_RF_stmm1a2_2026_07_09_5_AM_42_16_7d6e2bcc63.jpg",
-      "mobile": "public/assets/media/20260709_Starlink_10_42_40_Stage_2_2_RF_stmm1a2_2026_07_09_5_AM_42_16_7d6e2bcc63.jpg"
+      "mobile": "public/assets/media/20260709_Starlink_10_42_40_Stage_2_2_RF_stmm1a2_2026_07_09_5_AM_42_16_7d6e2bcc63.jpg",
+      "position": "1 / 2",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260709_Starlink_10_42_DSC_00738_fe82c0ebb2.jpg",
-      "mobile": "public/assets/media/20260709_Starlink_10_42_DSC_00738_fe82c0ebb2.jpg"
+      "mobile": "public/assets/media/20260709_Starlink_10_42_DSC_00738_fe82c0ebb2.jpg",
+      "position": "2 / 2",
+      "index": 1,
+      "number": 2
     }
   ],
   "astronauts": [],

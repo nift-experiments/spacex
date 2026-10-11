@@ -26,22 +26,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Launches_CRS_26_PPF_DSC_7686_a0b7ab8b35.jpg",
-      "mobile": "public/assets/media/CRS_26_Mobile2_1cb05d209a.jpg"
+      "mobile": "public/assets/media/CRS_26_Mobile2_1cb05d209a.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Launches_CRS_26_Splashdown_20230111_Microsoft_Teams_image_31_Desktop_434c856a6f.jpg",
-      "mobile": "public/assets/media/Space_X_CRS_26_Splashdown_20230111_31_311346c343.jpg"
+      "mobile": "public/assets/media/Space_X_CRS_26_Splashdown_20230111_31_311346c343.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Missions_CRS_26_Splashdown_20230111_Desktop_9a6fc1f1bc.jpg",
-      "mobile": "public/assets/media/Missions_CRS_26_Splashdown_20230111_Microsoft_Teams_image_Mobile_ada31cb530.jpg"
+      "mobile": "public/assets/media/Missions_CRS_26_Splashdown_20230111_Microsoft_Teams_image_Mobile_ada31cb530.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/DESKTOP_CRS_26_Undocking_001_b42067e5a0.jpg",
-      "mobile": "public/assets/media/MOBILE_CRS_26_Undocking_001_ad6f1ea68b.jpeg"
+      "mobile": "public/assets/media/MOBILE_CRS_26_Undocking_001_ad6f1ea68b.jpeg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [],

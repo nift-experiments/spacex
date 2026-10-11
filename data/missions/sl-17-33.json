@@ -163,7 +163,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Starlink_G17_33_OS_56_Streak_4719_Desktop_e8474f4bf7.jpg",
-      "mobile": "public/assets/media/Starlink_G17_33_OS_56_Streak_4719_Mobile_1f6746b04c.jpg"
+      "mobile": "public/assets/media/Starlink_G17_33_OS_56_Streak_4719_Mobile_1f6746b04c.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

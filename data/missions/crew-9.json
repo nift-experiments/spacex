@@ -157,7 +157,12 @@
         "documentId": "re67yo7qc6zw2jj2wqe4q2eg",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/3034b2f68eacbeaecc364791bd523c4bd59ba6236ffe34521a46b8756a456406.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/7e95ed0523251d7f8245d2e75280c88f42a960520ccf569a65f3573ca1193bf6.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Sep 28, 2024"
     },
     {
       "id": 2024,
@@ -309,7 +314,12 @@
         "documentId": "lbt3nzbl289khw82kf4ulnqf",
         "locale": null,
         "publishedAt": "2025-03-17T15:44:01.477Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/40a4555dbe0644cc2346550e9327e51797acfc59c15e8d5e964e1abb8fe8861c.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/f216e291f2ae33a5536e355bab2c4db936aa8c672c9e0bc6d7904d0c46960a77.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Sep 29, 2024"
     },
     {
       "id": 2025,
@@ -461,7 +471,12 @@
         "documentId": "v5m9l90grzts03mp6jk4ujz7",
         "locale": null,
         "publishedAt": "2026-02-06T01:25:52.244Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/223e16dfa401a4991195b7d035f7aa79b6662c96834f0df2324c05501b365958.png",
+      "mobilePath": "public/assets/recovered/webcasts/15d17f9211f1ef937d20891d5daf36cb03a008a1d77eeaac4f7ea6ca902b39c6.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Mar 18, 2025"
     },
     {
       "id": 2026,
@@ -613,7 +628,12 @@
         "documentId": "om6u8dymek6r7btpjh1epjtk",
         "locale": null,
         "publishedAt": "2025-03-19T00:10:20.139Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/2a94ffebfdf97c8709212d384222b824a61a8072c7d6618eb80e6d090bdeac12.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/69777b8f64ac2cb2d375505f911021c886963e64da1e5244f384fedb04f0895d.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Mar 18, 2025"
     }
   ],
   "preTimeline": null,

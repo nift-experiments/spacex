@@ -163,22 +163,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260301_Starlink_17_23_2nd_Stage_01_2b56f6d490.jpg",
-      "mobile": "public/assets/media/20260301_Starlink_17_23_2nd_Stage_01_2b56f6d490.jpg"
+      "mobile": "public/assets/media/20260301_Starlink_17_23_2nd_Stage_01_2b56f6d490.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260301_Starlink_Hill_g17_23_Hill_00053_2a074a4491.jpg",
-      "mobile": "public/assets/media/20260301_Starlink_Hill_g17_23_Hill_00053_2a074a4491.jpg"
+      "mobile": "public/assets/media/20260301_Starlink_Hill_g17_23_Hill_00053_2a074a4491.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Starlink_G17_23_San_Ynez_3603_Full_1d9996a276.jpg",
-      "mobile": "public/assets/media/Starlink_G17_23_San_Ynez_3603_Full_1d9996a276.jpg"
+      "mobile": "public/assets/media/Starlink_G17_23_San_Ynez_3603_Full_1d9996a276.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Starlink_G17_23_San_Ynez_Streak_16mm_4757_Desktop_1652ce8c6e.jpg",
-      "mobile": "public/assets/media/Starlink_G17_23_San_Ynez_Streak_16mm_4757_Desktop_1652ce8c6e.jpg"
+      "mobile": "public/assets/media/Starlink_G17_23_San_Ynez_Streak_16mm_4757_Desktop_1652ce8c6e.jpg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [],

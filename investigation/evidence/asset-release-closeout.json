@@ -35,6 +35,12 @@
       "release": "maintained-crew-3df06ad0ff24850b",
       "files": 80,
       "bytes": 50236841
+    },
+    {
+      "identity": "52f19557ef07d697969ae5814837a4bc1b3a944716e0753c583955a10798681c",
+      "release": "maintained-webcasts-52f19557ef07d697",
+      "files": 124,
+      "bytes": 56181535
     }
   ],
   "remoteAssetSizesAndDigestsVerified": true,
@@ -44,5 +50,6 @@
   "downloadOnlyCatalogueExcluded": true,
   "browserParityAccepted": false,
   "emptyCacheNetworkAllFiveBundlesPassed": true,
-  "emptyCacheNetworkAllSixBundlesPassed": true
+  "emptyCacheNetworkAllSixBundlesPassed": true,
+  "emptyCacheNetworkAllSevenBundlesPassed": true
 }

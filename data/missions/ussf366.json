@@ -143,17 +143,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/USSF_366_R_1_South_Hill_3325_Desktop_99222ef209.jpg",
-      "mobile": "public/assets/media/USSF_366_R_1_South_Hill_Vert_0826_Mobile_d922b1df1f.jpg"
+      "mobile": "public/assets/media/USSF_366_R_1_South_Hill_Vert_0826_Mobile_d922b1df1f.jpg",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/USSF_366_R_1_Theater_1082_Desktop_080a0786cd.jpg",
-      "mobile": "public/assets/media/USSF_366_R_1_Theater_0741_Mobile_3b521b91e7.jpg"
+      "mobile": "public/assets/media/USSF_366_R_1_Theater_0741_Mobile_3b521b91e7.jpg",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/USSF_366_R_1_Vertical_6676_Desktop_adfc54ab2d.jpg",
-      "mobile": "public/assets/media/USSF_366_R_1_Vertical_6672_Mobile_80012bed29.jpg"
+      "mobile": "public/assets/media/USSF_366_R_1_Vertical_6672_Mobile_80012bed29.jpg",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

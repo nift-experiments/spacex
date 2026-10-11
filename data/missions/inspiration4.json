@@ -145,7 +145,12 @@
         "documentId": "n2hq44ekt54sxvofsb825wyg",
         "locale": null,
         "publishedAt": "2026-02-06T01:47:04.398Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/b464f486ea3dce5105ee0449c531e5982f01358e58ba02c68bc6d2009bde5fb0.jpeg",
+      "mobilePath": "public/assets/recovered/webcasts/bd7f06dc4fa4d309a3d0dec48d2cf860e82a8cb21b0e588866dbc18708a9c42b.jpeg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Sep 15, 2021"
     },
     {
       "id": 1916,
@@ -297,7 +302,12 @@
         "documentId": "esswk9tfbja99vq9tdxkn70b",
         "locale": null,
         "publishedAt": "2026-02-06T01:57:58.414Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/05bb22e3b95374a5af2241cd16b386b3733e3f75abb4f710da5b8de4d156b540.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/2dbf5429e2c3772455ea856de7cea4ac71000fb9944d9cb8aca133d50988053f.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Sep 18, 2021"
     }
   ],
   "preTimeline": null,
@@ -308,12 +318,18 @@
     {
       "caption": "",
       "desktop": "public/assets/media/I4_LAUNCHES_DESKTOP_c95e8b50cf.jpg",
-      "mobile": "public/assets/media/I4_LAUNCHES_MOBILE_9e14a9b3fd.jpg"
+      "mobile": "public/assets/media/I4_LAUNCHES_MOBILE_9e14a9b3fd.jpg",
+      "position": "1 / 2",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Homepage_Desktop_New_f1e0dbf4b3.jpg",
-      "mobile": "public/assets/media/Homepage_Mobile_New_b30f11eede.jpg"
+      "mobile": "public/assets/media/Homepage_Mobile_New_b30f11eede.jpg",
+      "position": "2 / 2",
+      "index": 1,
+      "number": 2
     }
   ],
   "astronauts": [

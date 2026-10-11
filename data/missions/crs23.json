@@ -26,17 +26,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/HP_CRS_23_causeway_DSC_7027_Desktop_dbb4930bf1.jpg",
-      "mobile": "public/assets/media/HP_CRS_23_causeway_DSC_7032_Mobile_a9655bc3d1.jpg"
+      "mobile": "public/assets/media/HP_CRS_23_causeway_DSC_7032_Mobile_a9655bc3d1.jpg",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Launches_CRS_23_vertical082521_DSC_2787_Desktop_0e09860c5d.jpg",
-      "mobile": "public/assets/media/Launches_CRS_23_Vertical_WEBSITE_MOBILE_99a2077a09.jpg"
+      "mobile": "public/assets/media/Launches_CRS_23_Vertical_WEBSITE_MOBILE_99a2077a09.jpg",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/HP_CRS_23_Vertical_WEBSITE_DESKTOP_2_099f5ae41d.jpg",
-      "mobile": "public/assets/media/HP_CRS_23_vertical082521_DSC_2795_Mobile_84997c36ee.jpg"
+      "mobile": "public/assets/media/HP_CRS_23_vertical082521_DSC_2795_Mobile_84997c36ee.jpg",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

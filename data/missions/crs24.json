@@ -26,17 +26,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/DESKTOP_CRS_24_post_launch_homepage_1f0700b0b8.png",
-      "mobile": "public/assets/media/MOBILE_CRS_24_post_launch_homepage_5d203ad6d7.png"
+      "mobile": "public/assets/media/MOBILE_CRS_24_post_launch_homepage_5d203ad6d7.png",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/DESKTOP_CRS_24_pre_launch_launches_6656b5658c.png",
-      "mobile": "public/assets/media/MOBILE_CRS_24_pre_launch_launches_0d1d6128cf.png"
+      "mobile": "public/assets/media/MOBILE_CRS_24_pre_launch_launches_0d1d6128cf.png",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/DESKTOP_CRS_24_pre_launch_homepage_17bb615e82.png",
-      "mobile": "public/assets/media/MOBILE_CRS_24_pre_launch_homepage_fd849f7082.png"
+      "mobile": "public/assets/media/MOBILE_CRS_24_pre_launch_homepage_fd849f7082.png",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

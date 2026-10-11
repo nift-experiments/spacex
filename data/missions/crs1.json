@@ -15,7 +15,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/CRS_1_Streak_Desktop_16a5fa8d4e.jpg",
-      "mobile": "public/assets/media/CRS_1_Streak_Mobile_e34f3db885.jpg"
+      "mobile": "public/assets/media/CRS_1_Streak_Mobile_e34f3db885.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

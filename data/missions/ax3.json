@@ -149,7 +149,12 @@
         "documentId": "n04cfqyhvswcshw2m4lpsekk",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/2d7eacc659c006b1e39976b96acbeb768c2268c0deedec5f9fb1db75911883e3.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/b926e35f819c719a40174ba117c9d6d0382aee223815909667f243339c73813e.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Jan 18, 2026"
     },
     {
       "id": 1943,
@@ -293,7 +298,12 @@
         "documentId": "su8srltei54dnhl2r5qr82cl",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/media/IMG_1425_Desktop_b193093cc6.jpg",
+      "mobilePath": "public/assets/media/IMG_1425_Mobile_eddbbbac54.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Jan 20, 2024"
     },
     {
       "id": 1944,
@@ -437,7 +447,12 @@
         "documentId": "dhbvttx4ak3sotm1z7rfp5rh",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/ead12a7471d197e951025e5cfc8ba692102d8b310f7d4bd6cbbdc8f37e885335.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/168aee91b50cf0c522551b6645a9e808b604f271875c2b6a8065ab5e7c55d6a9.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Feb 7, 2024"
     },
     {
       "id": 1945,
@@ -581,7 +596,12 @@
         "documentId": "nzymy7gl6y39t2j9z8lf92kc",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/2c61e2649b09ccbe4952f8298078b02422b18d0fda6c94837543f763b805444c.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/3a058d056eadbc5500cd115a05818ae75d43209cfdd3215e43033362a353c08e.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Feb 9, 2024"
     }
   ],
   "preTimeline": null,

@@ -162,22 +162,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Sentinel_6_B_Vertical_0675_Desktop_fc62b51647.jpg",
-      "mobile": "public/assets/media/Sentinel_6_B_Vertical_Fairing_0149_Mobile_5a1e3b84ec.jpg"
+      "mobile": "public/assets/media/Sentinel_6_B_Vertical_Fairing_0149_Mobile_5a1e3b84ec.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Sentinel_6_B_OS_56_0180_Desktop_5a7e4d9017.jpg",
-      "mobile": "public/assets/media/Sentinel_6_B_OS_56_0180_Full_f5022a2265.jpg"
+      "mobile": "public/assets/media/Sentinel_6_B_OS_56_0180_Full_f5022a2265.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Sentinel_6_B_Theater_Horiz_9510_4d73c354bf.jpg",
-      "mobile": "public/assets/media/Sentinel_6_B_Theater_Vert_1016_d8a05f32f4.jpg"
+      "mobile": "public/assets/media/Sentinel_6_B_Theater_Vert_1016_d8a05f32f4.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Sentinel_6_B_LZ_West_Horiz_0404_5beaad790d.jpg",
-      "mobile": "public/assets/media/Sentinel_6_B_LZ_West_Vert_0534_10400121785103401132_jpg_cf571382e4.jpeg"
+      "mobile": "public/assets/media/Sentinel_6_B_LZ_West_Vert_0534_10400121785103401132_jpg_cf571382e4.jpeg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [],

@@ -1,0 +1,587 @@
+{
+  "capture": "launches-crew13.1280x720.1856dad92217.json",
+  "sha256": "1856dad922172f90ef6d40d4f7e933e1f03cbfc275afa0b224b2a6d681ad81ec",
+  "missions": [
+    {
+      "mission": "SDA-Tranche0A",
+      "slides": 1
+    },
+    {
+      "mission": "arabsat6a",
+      "slides": 1
+    },
+    {
+      "mission": "ax1",
+      "slides": 5
+    },
+    {
+      "mission": "ax4",
+      "slides": 7
+    },
+    {
+      "mission": "bandwagon-4",
+      "slides": 4
+    },
+    {
+      "mission": "cas500-2",
+      "slides": 1
+    },
+    {
+      "mission": "cosmo-skymedfm3",
+      "slides": 3
+    },
+    {
+      "mission": "crew1",
+      "slides": 1
+    },
+    {
+      "mission": "crew10",
+      "slides": 10
+    },
+    {
+      "mission": "crew11",
+      "slides": 10
+    },
+    {
+      "mission": "crew12",
+      "slides": 8
+    },
+    {
+      "mission": "crew13",
+      "slides": 4
+    },
+    {
+      "mission": "crew2",
+      "slides": 8
+    },
+    {
+      "mission": "crew3",
+      "slides": 5
+    },
+    {
+      "mission": "crew4",
+      "slides": 1
+    },
+    {
+      "mission": "crew5",
+      "slides": 4
+    },
+    {
+      "mission": "crs1",
+      "slides": 1
+    },
+    {
+      "mission": "crs14",
+      "slides": 3
+    },
+    {
+      "mission": "crs18",
+      "slides": 1
+    },
+    {
+      "mission": "crs19",
+      "slides": 1
+    },
+    {
+      "mission": "crs2",
+      "slides": 1
+    },
+    {
+      "mission": "crs21",
+      "slides": 1
+    },
+    {
+      "mission": "crs22",
+      "slides": 4
+    },
+    {
+      "mission": "crs23",
+      "slides": 3
+    },
+    {
+      "mission": "crs24",
+      "slides": 3
+    },
+    {
+      "mission": "crs25",
+      "slides": 1
+    },
+    {
+      "mission": "crs26",
+      "slides": 4
+    },
+    {
+      "mission": "crs33",
+      "slides": 3
+    },
+    {
+      "mission": "crs34",
+      "slides": 3
+    },
+    {
+      "mission": "demo1",
+      "slides": 1
+    },
+    {
+      "mission": "demo2",
+      "slides": 5
+    },
+    {
+      "mission": "echostarxxv",
+      "slides": 2
+    },
+    {
+      "mission": "fhdemo",
+      "slides": 3
+    },
+    {
+      "mission": "globalstar2-rlaunch1",
+      "slides": 4
+    },
+    {
+      "mission": "gpsiii8",
+      "slides": 3
+    },
+    {
+      "mission": "gpsiii9",
+      "slides": 3
+    },
+    {
+      "mission": "hispasat30w6",
+      "slides": 1
+    },
+    {
+      "mission": "imap",
+      "slides": 6
+    },
+    {
+      "mission": "inspiration4",
+      "slides": 2
+    },
+    {
+      "mission": "iridium5",
+      "slides": 1
+    },
+    {
+      "mission": "kf-03",
+      "slides": 2
+    },
+    {
+      "mission": "mpower-f",
+      "slides": 4
+    },
+    {
+      "mission": "mrv-mep",
+      "slides": 3
+    },
+    {
+      "mission": "ng23",
+      "slides": 6
+    },
+    {
+      "mission": "ng24",
+      "slides": 5
+    },
+    {
+      "mission": "nrol105",
+      "slides": 4
+    },
+    {
+      "mission": "nrol172",
+      "slides": 3
+    },
+    {
+      "mission": "nrol48",
+      "slides": 2
+    },
+    {
+      "mission": "nrol57",
+      "slides": 2
+    },
+    {
+      "mission": "nrol77",
+      "slides": 1
+    },
+    {
+      "mission": "nrol95",
+      "slides": 7
+    },
+    {
+      "mission": "nrol97",
+      "slides": 8
+    },
+    {
+      "mission": "nusantaralima",
+      "slides": 3
+    },
+    {
+      "mission": "orbcomm1",
+      "slides": 1
+    },
+    {
+      "mission": "razaksat",
+      "slides": 1
+    },
+    {
+      "mission": "roman",
+      "slides": 9
+    },
+    {
+      "mission": "sda-t1tl-b",
+      "slides": 5
+    },
+    {
+      "mission": "sda-t1tl-c",
+      "slides": 4
+    },
+    {
+      "mission": "sda-t1tl-e",
+      "slides": 4
+    },
+    {
+      "mission": "sentinel-6b",
+      "slides": 4
+    },
+    {
+      "mission": "sentinel6",
+      "slides": 1
+    },
+    {
+      "mission": "sl-10-11",
+      "slides": 4
+    },
+    {
+      "mission": "sl-10-14",
+      "slides": 1
+    },
+    {
+      "mission": "sl-10-15",
+      "slides": 3
+    },
+    {
+      "mission": "sl-10-22",
+      "slides": 3
+    },
+    {
+      "mission": "sl-10-24",
+      "slides": 3
+    },
+    {
+      "mission": "sl-10-26",
+      "slides": 1
+    },
+    {
+      "mission": "sl-10-33",
+      "slides": 1
+    },
+    {
+      "mission": "sl-10-36",
+      "slides": 2
+    },
+    {
+      "mission": "sl-10-39",
+      "slides": 4
+    },
+    {
+      "mission": "sl-10-40",
+      "slides": 2
+    },
+    {
+      "mission": "sl-10-41",
+      "slides": 2
+    },
+    {
+      "mission": "sl-10-42",
+      "slides": 2
+    },
+    {
+      "mission": "sl-10-45",
+      "slides": 1
+    },
+    {
+      "mission": "sl-10-48",
+      "slides": 1
+    },
+    {
+      "mission": "sl-10-49",
+      "slides": 3
+    },
+    {
+      "mission": "sl-10-50",
+      "slides": 3
+    },
+    {
+      "mission": "sl-10-54",
+      "slides": 4
+    },
+    {
+      "mission": "sl-10-57",
+      "slides": 3
+    },
+    {
+      "mission": "sl-10-58",
+      "slides": 3
+    },
+    {
+      "mission": "sl-10-61",
+      "slides": 3
+    },
+    {
+      "mission": "sl-10-62",
+      "slides": 1
+    },
+    {
+      "mission": "sl-11-15",
+      "slides": 3
+    },
+    {
+      "mission": "sl-11-17",
+      "slides": 2
+    },
+    {
+      "mission": "sl-11-21",
+      "slides": 2
+    },
+    {
+      "mission": "sl-11-30",
+      "slides": 2
+    },
+    {
+      "mission": "sl-12-5",
+      "slides": 1
+    },
+    {
+      "mission": "sl-15-11",
+      "slides": 2
+    },
+    {
+      "mission": "sl-15-24",
+      "slides": 3
+    },
+    {
+      "mission": "sl-17-13",
+      "slides": 2
+    },
+    {
+      "mission": "sl-17-15",
+      "slides": 2
+    },
+    {
+      "mission": "sl-17-16",
+      "slides": 1
+    },
+    {
+      "mission": "sl-17-17",
+      "slides": 2
+    },
+    {
+      "mission": "sl-17-18",
+      "slides": 2
+    },
+    {
+      "mission": "sl-17-2",
+      "slides": 1
+    },
+    {
+      "mission": "sl-17-20",
+      "slides": 3
+    },
+    {
+      "mission": "sl-17-22",
+      "slides": 2
+    },
+    {
+      "mission": "sl-17-23",
+      "slides": 4
+    },
+    {
+      "mission": "sl-17-24",
+      "slides": 2
+    },
+    {
+      "mission": "sl-17-30",
+      "slides": 3
+    },
+    {
+      "mission": "sl-17-31",
+      "slides": 1
+    },
+    {
+      "mission": "sl-17-33",
+      "slides": 1
+    },
+    {
+      "mission": "sl-17-38",
+      "slides": 1
+    },
+    {
+      "mission": "sl-17-40",
+      "slides": 2
+    },
+    {
+      "mission": "sl-17-42",
+      "slides": 4
+    },
+    {
+      "mission": "sl-17-45",
+      "slides": 1
+    },
+    {
+      "mission": "sl-17-46",
+      "slides": 2
+    },
+    {
+      "mission": "sl-17-7",
+      "slides": 1
+    },
+    {
+      "mission": "sl-6-101",
+      "slides": 1
+    },
+    {
+      "mission": "sl-6-103",
+      "slides": 2
+    },
+    {
+      "mission": "sl-6-104",
+      "slides": 1
+    },
+    {
+      "mission": "sl-6-108",
+      "slides": 2
+    },
+    {
+      "mission": "sl-6-59",
+      "slides": 1
+    },
+    {
+      "mission": "sl-6-73",
+      "slides": 1
+    },
+    {
+      "mission": "sl-6-78",
+      "slides": 6
+    },
+    {
+      "mission": "sl-6-79",
+      "slides": 1
+    },
+    {
+      "mission": "sl-6-82",
+      "slides": 1
+    },
+    {
+      "mission": "sl-6-85",
+      "slides": 5
+    },
+    {
+      "mission": "sl-6-88",
+      "slides": 2
+    },
+    {
+      "mission": "sl-6-92",
+      "slides": 1
+    },
+    {
+      "mission": "sl-6-94",
+      "slides": 4
+    },
+    {
+      "mission": "sl-6-97",
+      "slides": 2
+    },
+    {
+      "mission": "sl-6-98",
+      "slides": 1
+    },
+    {
+      "mission": "sl-6-99",
+      "slides": 1
+    },
+    {
+      "mission": "sl-8-5",
+      "slides": 1
+    },
+    {
+      "mission": "spherex",
+      "slides": 3
+    },
+    {
+      "mission": "starfalldemo",
+      "slides": 2
+    },
+    {
+      "mission": "starship-flight-8",
+      "slides": 10
+    },
+    {
+      "mission": "sxm11",
+      "slides": 2
+    },
+    {
+      "mission": "tess",
+      "slides": 1
+    },
+    {
+      "mission": "thaicom6",
+      "slides": 1
+    },
+    {
+      "mission": "tracers",
+      "slides": 3
+    },
+    {
+      "mission": "transporter15",
+      "slides": 4
+    },
+    {
+      "mission": "transporter16",
+      "slides": 1
+    },
+    {
+      "mission": "transporter17",
+      "slides": 3
+    },
+    {
+      "mission": "transporter18",
+      "slides": 1
+    },
+    {
+      "mission": "turksat5a",
+      "slides": 1
+    },
+    {
+      "mission": "twilight",
+      "slides": 8
+    },
+    {
+      "mission": "ussf153",
+      "slides": 3
+    },
+    {
+      "mission": "ussf259",
+      "slides": 3
+    },
+    {
+      "mission": "ussf36",
+      "slides": 7
+    },
+    {
+      "mission": "ussf366",
+      "slides": 3
+    },
+    {
+      "mission": "viasat3f3",
+      "slides": 8
+    }
+  ],
+  "browserParityAccepted": false,
+  "outputCountsCheckedBothProjects": 143,
+  "authoredCrew13Browser": {
+    "finalSlide": "4 / 4",
+    "nextDisabled": true,
+    "visibleImageNaturalWidth": 2600,
+    "galleryHeight": 941,
+    "referenceGalleryHeight": 941
+  }
+}

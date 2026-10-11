@@ -157,7 +157,12 @@
         "documentId": "s9zd2m20t1cn5m599vmub4gn",
         "locale": null,
         "publishedAt": "2025-07-24T07:44:47.718Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/f11091779686a9397c6f311fa9cdd086129e8449c62c325b5067afaad6ca1452.jpg",
+      "mobilePath": "public/assets/media/Demo1_Launch_M_9ff81d72b5.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Mar 2, 2019"
     },
     {
       "id": 2048,
@@ -309,7 +314,12 @@
         "documentId": "pb73d0db1beaooeqx87utyf0",
         "locale": null,
         "publishedAt": "2025-07-24T07:44:48.009Z"
-      }
+      },
+      "desktopPath": "public/assets/media/Demo1_Docking_Desktop_3642f39864.jpg",
+      "mobilePath": "public/assets/media/Demo1_Docking_M_9da7a5dae4.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Apr 8, 2019"
     },
     {
       "id": 2049,
@@ -437,7 +447,12 @@
         "documentId": "gtrwa1ies6uc3ncjfybke0xa",
         "locale": null,
         "publishedAt": "2026-02-06T15:07:18.705Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/15ef58d3cb81336f2c36829b68b9fa769276d3df66a101db7ef14d48d980d9dd.png",
+      "mobilePath": "public/assets/recovered/webcasts/0b1d791f7ea1d119863351ce5560a74eec1e3d611a0861f7b36eccbb0b6b2926.png",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Apr 8, 2019"
     },
     {
       "id": 2050,
@@ -565,7 +580,12 @@
         "documentId": "k2qa38rg5x80u6zj26ldsiwn",
         "locale": null,
         "publishedAt": "2026-02-06T15:13:13.655Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/ec7eb386e97ff5d4e030c2435509442e3a6bf39fc85c531267755517e0cc5eaa.png",
+      "mobilePath": "public/assets/recovered/webcasts/3093b4707ba6239a8eef7c596459d2ee5c3dd237e759cd42da0778af490c7529.png",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Mar 8, 2019"
     }
   ],
   "preTimeline": null,
@@ -576,7 +596,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Demo1_Docking_Desktop_3642f39864.jpg",
-      "mobile": "public/assets/media/Demo1_Docking_M_9da7a5dae4.jpg"
+      "mobile": "public/assets/media/Demo1_Docking_M_9da7a5dae4.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

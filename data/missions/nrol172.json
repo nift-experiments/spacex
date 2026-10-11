@@ -143,17 +143,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/NROL_172_Miguelito_Cyn_5053_Desktop_9acbac5f50.jpg",
-      "mobile": "public/assets/media/NROL_172_Miguelito_Cyn_5046_Mobile_8b20f4ce5c.jpg"
+      "mobile": "public/assets/media/NROL_172_Miguelito_Cyn_5046_Mobile_8b20f4ce5c.jpg",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/NROL_172_Southwest_Hill_Horiz_1108_Desktop_2b3d881a4a.jpg",
-      "mobile": "public/assets/media/NROL_172_Southwest_Hill_Vert_1476_Mobile_04528040f4.jpg"
+      "mobile": "public/assets/media/NROL_172_Southwest_Hill_Vert_1476_Mobile_04528040f4.jpg",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/NROL_172_NPC_Launch_20260511_DSC_00070_desktop_1d4ed68afd.jpg",
-      "mobile": "public/assets/media/NROL_172_NPC_Launch_20260511_DSC_00070_mobile_8f7695be7f.jpg"
+      "mobile": "public/assets/media/NROL_172_NPC_Launch_20260511_DSC_00070_mobile_8f7695be7f.jpg",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

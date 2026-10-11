@@ -163,17 +163,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/GPS_III_SV_09_outsidenewtowerh_DSC_9303_desktop_02d5149596.jpg",
-      "mobile": "public/assets/media/GPS_III_SV_09_outsidebldgv_IMG_9628_mobile_8cef61e26e.jpg"
+      "mobile": "public/assets/media/GPS_III_SV_09_outsidebldgv_IMG_9628_mobile_8cef61e26e.jpg",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/GPS_III_SV_09_vertical_sunset_012626_DSC_6412_e495155fa3.jpg",
-      "mobile": "public/assets/media/GPS_III_SV_09_vertical_sunset_012626_DSC_6412_mobile_7d409e3402.jpg"
+      "mobile": "public/assets/media/GPS_III_SV_09_vertical_sunset_012626_DSC_6412_mobile_7d409e3402.jpg",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260121_GPS_III_9_ENCAP_Astrotech_STL_0054_85b714e4e7.jpg",
-      "mobile": "public/assets/media/20260121_GPS_III_9_ENCAP_Astrotech_STL_0093_1fc7404151.jpg"
+      "mobile": "public/assets/media/20260121_GPS_III_9_ENCAP_Astrotech_STL_0093_1fc7404151.jpg",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

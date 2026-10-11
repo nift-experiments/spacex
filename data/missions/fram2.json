@@ -157,7 +157,12 @@
         "documentId": "hwayqch7w6up9m73gr0b6dbe",
         "locale": null,
         "publishedAt": "2025-04-01T03:23:40.042Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/a6937240bde1c735c39d79d09080b3986e644cd679f0058a408815a4a5de803a.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/6ebd0169596b961cfcdcfa66a0d46e359d87655156d01e73fa712bb66290f3d2.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Apr 1, 2025"
     },
     {
       "id": 1924,
@@ -309,7 +314,12 @@
         "documentId": "cnat414m7y2k973z3iwwa3xy",
         "locale": null,
         "publishedAt": "2025-04-04T19:27:10.053Z"
-      }
+      },
+      "desktopPath": "public/assets/media/Fram2_Recovery_splashdown_20250404dji_20250404091746_0005_desktop_10102a97f4.jpg",
+      "mobilePath": "public/assets/media/Fram2_Recovery_splashdown_20250404dji_20250404091746_0005_mobile_73f9b970dd.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Apr 4, 2025"
     }
   ],
   "preTimeline": null,

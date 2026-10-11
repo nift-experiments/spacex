@@ -163,22 +163,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260821_CC_Starlink_G10_39_NPC_01_00019_3x2_af14c7602d.jpg",
-      "mobile": "public/assets/media/20260821_CC_Starlink_G10_39_NPC_01_00019_3x2_af14c7602d.jpg"
+      "mobile": "public/assets/media/20260821_CC_Starlink_G10_39_NPC_01_00019_3x2_af14c7602d.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260821_CC_Starlink_G10_39_NPC_04_DSC_08091_Desktop_1a3c0ee8a6.jpg",
-      "mobile": "public/assets/media/20260821_CC_Starlink_G10_39_NPC_04_DSC_08091_Desktop_1a3c0ee8a6.jpg"
+      "mobile": "public/assets/media/20260821_CC_Starlink_G10_39_NPC_04_DSC_08091_Desktop_1a3c0ee8a6.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260821_CC_Starlink_10_39_0316_c64b269cff.jpg",
-      "mobile": "public/assets/media/20260821_CC_Starlink_10_39_0316_c64b269cff.jpg"
+      "mobile": "public/assets/media/20260821_CC_Starlink_10_39_0316_c64b269cff.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260821_Starlink_10_39_On_Orbit_40_Stage_2_2_RF_stmm1a2_2026_08_21_11_AM_42_00_496316d52e.jpg",
-      "mobile": "public/assets/media/20260821_Starlink_10_39_On_Orbit_40_Stage_2_2_RF_stmm1a2_2026_08_21_11_AM_42_00_496316d52e.jpg"
+      "mobile": "public/assets/media/20260821_Starlink_10_39_On_Orbit_40_Stage_2_2_RF_stmm1a2_2026_08_21_11_AM_42_00_496316d52e.jpg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [],

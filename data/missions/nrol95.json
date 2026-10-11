@@ -158,37 +158,58 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260730_CC_NROL_95_DSC_0309_desktop_c4a378059f.jpg",
-      "mobile": "public/assets/media/20260730_CC_NROL_95_DSC_0309_mobile_bbe21b1822.jpg"
+      "mobile": "public/assets/media/20260730_CC_NROL_95_DSC_0309_mobile_bbe21b1822.jpg",
+      "position": "1 / 7",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260730_CC_NROL_95_DSC_3914_desktop_f4642c9ec2.jpg",
-      "mobile": "public/assets/media/20260730_CC_NROL_95_DSC_3916_mobile_820a7f0f61.jpg"
+      "mobile": "public/assets/media/20260730_CC_NROL_95_DSC_3916_mobile_820a7f0f61.jpg",
+      "position": "2 / 7",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260730_CC_NROL_95_LZ_2_DSC_9857_f10f8bf6f2.jpg",
-      "mobile": "public/assets/media/20260730_CC_NROL_95_LZ_2_IMG_0567_mobile_6124ef949e.jpg"
+      "mobile": "public/assets/media/20260730_CC_NROL_95_LZ_2_IMG_0567_mobile_6124ef949e.jpg",
+      "position": "3 / 7",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260730_CC_NROL_95_LZ_2_IMG_0567_3566deb944.jpg",
-      "mobile": "public/assets/media/20260730_CC_NROL_95_LZ_2_IMG_0567_mobile_4f51d7449e.jpg"
+      "mobile": "public/assets/media/20260730_CC_NROL_95_LZ_2_IMG_0567_mobile_4f51d7449e.jpg",
+      "position": "4 / 7",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260728_CC_NROL_95_DSC_9345_desktop_b014ecd612.jpg",
-      "mobile": "public/assets/media/20260728_CC_NROL_95_DSC_9345_mobile_78cbc85cc6.jpg"
+      "mobile": "public/assets/media/20260728_CC_NROL_95_DSC_9345_mobile_78cbc85cc6.jpg",
+      "position": "5 / 7",
+      "index": 4,
+      "number": 5
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260728_CC_NROL_95_DSC_9382_desktop_8b10483c5e.jpg",
-      "mobile": "public/assets/media/20260728_CC_NROL_95_DSC_9380_mobile_3a6158ebe8.jpg"
+      "mobile": "public/assets/media/20260728_CC_NROL_95_DSC_9380_mobile_3a6158ebe8.jpg",
+      "position": "6 / 7",
+      "index": 5,
+      "number": 6
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260728_CC_NROL_95_DSC_9369_desktop_f7a6f0294e.jpg",
-      "mobile": "public/assets/media/20260728_CC_NROL_95_DSC_9369_mobile_908ac82fa1.jpg"
+      "mobile": "public/assets/media/20260728_CC_NROL_95_DSC_9369_mobile_908ac82fa1.jpg",
+      "position": "7 / 7",
+      "index": 6,
+      "number": 7
     }
   ],
   "astronauts": [],

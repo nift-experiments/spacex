@@ -163,17 +163,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260402_Starlink_10_58_CC_NPC_01_00006_Desktop_a579582aa5.jpg",
-      "mobile": "public/assets/media/20260402_Starlink_10_58_CC_NPC_01_00006_2_2_Mobile_c75cbd9c1b.jpg"
+      "mobile": "public/assets/media/20260402_Starlink_10_58_CC_NPC_01_00006_2_2_Mobile_c75cbd9c1b.jpg",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Star10_58_040226_DSC_8720_desktop_23a2cc7976.jpg",
-      "mobile": "public/assets/media/Star10_58_040226_DSC_8720_mobile_be3992e7ce.jpg"
+      "mobile": "public/assets/media/Star10_58_040226_DSC_8720_mobile_be3992e7ce.jpg",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Star10_58_040226_DSC_7369_desktop_ee41fad0ef.jpg",
-      "mobile": "public/assets/media/Star10_58_040226_DSC_7370_mobile_4f373c6299.jpg"
+      "mobile": "public/assets/media/Star10_58_040226_DSC_7370_mobile_4f373c6299.jpg",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

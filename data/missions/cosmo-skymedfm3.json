@@ -168,17 +168,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Cosmo_Sky_Med_FM_3_OS_56_Streak_9882_Full_e29670b8fa.jpg",
-      "mobile": "public/assets/media/Cosmo_Sky_Med_FM_3_OS_56_Streak_Comp_Mobile_db75c534c0.jpg"
+      "mobile": "public/assets/media/Cosmo_Sky_Med_FM_3_OS_56_Streak_Comp_Mobile_db75c534c0.jpg",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Cosmo_Sky_Med_FM_3_South_Hill_9551_Desktop_fc090a27eb.jpg",
-      "mobile": "public/assets/media/Cosmo_Sky_Med_FM_3_South_Hill_9551_Mobile_13d2e6b7bb.jpg"
+      "mobile": "public/assets/media/Cosmo_Sky_Med_FM_3_South_Hill_9551_Mobile_13d2e6b7bb.jpg",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20251227_COSMO_Sky_Med_FM_3_Hill_00152_Vertical_8936459267.jpg",
-      "mobile": "public/assets/media/20251227_COSMO_Sky_Med_FM_3_Hill_00150_Vertical_968af94dff.jpg"
+      "mobile": "public/assets/media/20251227_COSMO_Sky_Med_FM_3_Hill_00150_Vertical_968af94dff.jpg",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

@@ -149,7 +149,12 @@
         "documentId": "wx436w8d2ew7k771mio66gsh",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/4dd989e400ce1344bdae8f34516fba5dc4070c6acca31ac86050ce6c10514e6e.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/32da33808812bbee659745f4f0815712607c5eee1d0c460f389105094d5095e8.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Mar 1, 2023"
     },
     {
       "id": 1893,
@@ -293,7 +298,12 @@
         "documentId": "onmp6l7d6d9oq9kyulhen1rc",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/media/Crew_6_Docking_Desktop_49c4a5f261.jpg",
+      "mobilePath": "public/assets/media/Crew_6_Docking_Mobile_7349c73698.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Mar 6, 2023"
     },
     {
       "id": 1894,
@@ -437,7 +447,12 @@
         "documentId": "llpfpsdx7rv7pqnsmk0wyjoa",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/5ca4b9e27bc7185cf78ae9cbe5b101d595697276c4f9fbab0170e7f34dbd3991.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/5da590a03acf0662f9c0fd6f8050ef170a576101c636b5af2e99ccbf567f6f38.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Sep 3, 2023"
     },
     {
       "id": 1895,
@@ -581,7 +596,12 @@
         "documentId": "ir1oox6mc96xf6z0ckg7wprb",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/a4ceced4376a11dd2a18f3b4f3414b29c532a2d6f54e056e6f9b32b93dc4c1c5.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/23064d78956563c7c27475b89c272e0ebd608d0c5fcae892f073752d6353deb5.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Sep 4, 2023"
     }
   ],
   "preTimeline": null,

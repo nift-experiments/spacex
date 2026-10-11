@@ -163,7 +163,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Star6_82_121525_DSC_5693_desktop_83dd60ff36.jpg",
-      "mobile": "public/assets/media/Star6_82_121525_DSC_5693_desktop_83dd60ff36.jpg"
+      "mobile": "public/assets/media/Star6_82_121525_DSC_5693_desktop_83dd60ff36.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

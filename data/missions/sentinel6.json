@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Sentinel6_Desktop_a02eba5bba.jpg",
-      "mobile": "public/assets/media/Sentinel6_Mobile_3ed447177a.jpg"
+      "mobile": "public/assets/media/Sentinel6_Mobile_3ed447177a.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

@@ -153,37 +153,58 @@
     {
       "caption": "",
       "desktop": "public/assets/media/USSF_36_pad40_DSC_6082_desktop_7996dd58b2.jpg",
-      "mobile": "public/assets/media/USSF_36_pad40_DSC_6082_mobile_53191762d1.jpg"
+      "mobile": "public/assets/media/USSF_36_pad40_DSC_6082_mobile_53191762d1.jpg",
+      "position": "1 / 7",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/USSF_36_ramp_IMG_9331_Desktop_b59ba805c9.jpg",
-      "mobile": "public/assets/media/USSF_36_ramp_IMG_9331_Mobile_b2c1511beb.jpg"
+      "mobile": "public/assets/media/USSF_36_ramp_IMG_9331_Mobile_b2c1511beb.jpg",
+      "position": "2 / 7",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/USSF_36_pad40_DSC_2980_desktop_140795122e.jpg",
-      "mobile": "public/assets/media/USSF_36_pad40_DSC_2981_mobile_073860f06a.jpg"
+      "mobile": "public/assets/media/USSF_36_pad40_DSC_2981_mobile_073860f06a.jpg",
+      "position": "3 / 7",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/USSF_36_pad40_DSC_4583_desktop_97a5ab364c.jpg",
-      "mobile": "public/assets/media/USSF_36_pad40_DSC_4583_mobile_48c999eb06.jpg"
+      "mobile": "public/assets/media/USSF_36_pad40_DSC_4583_mobile_48c999eb06.jpg",
+      "position": "4 / 7",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/USSF_36_vertical_082025_DSC_2943_desktop_64d470730f.jpg",
-      "mobile": "public/assets/media/USSF_36_vertical_082025_DSC_2944_mobile_69b8ec07d4.jpg"
+      "mobile": "public/assets/media/USSF_36_vertical_082025_DSC_2944_mobile_69b8ec07d4.jpg",
+      "position": "5 / 7",
+      "index": 4,
+      "number": 5
     },
     {
       "caption": "",
       "desktop": "public/assets/media/USSF_36_vertical_082025_DSC_4577_desktop_v2_79337c07eb.jpg",
-      "mobile": "public/assets/media/USSF_36_vertical_082025_DSC_4582_mobile_8f6df9f03c.jpg"
+      "mobile": "public/assets/media/USSF_36_vertical_082025_DSC_4582_mobile_8f6df9f03c.jpg",
+      "position": "6 / 7",
+      "index": 5,
+      "number": 6
     },
     {
       "caption": "",
       "desktop": "public/assets/media/USSF_36_vertical_082025_DSC_4567_desktop_v2_b4d6c184f5.jpg",
-      "mobile": "public/assets/media/USSF_36_vertical_082025_DSC_4569_mobile_5fc700bec3.jpg"
+      "mobile": "public/assets/media/USSF_36_vertical_082025_DSC_4569_mobile_5fc700bec3.jpg",
+      "position": "7 / 7",
+      "index": 6,
+      "number": 7
     }
   ],
   "astronauts": [],

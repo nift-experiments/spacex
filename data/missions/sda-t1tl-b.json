@@ -153,27 +153,42 @@
     {
       "caption": "",
       "desktop": "public/assets/media/SDA_T1_TL_B_SW_Hill_Horiz_8203_Desktop_d28e5848fa.jpg",
-      "mobile": "public/assets/media/SDA_T1_TL_B_SW_Hill_Vert_8350_Mobile_91c0e522a7.jpg"
+      "mobile": "public/assets/media/SDA_T1_TL_B_SW_Hill_Vert_8350_Mobile_91c0e522a7.jpg",
+      "position": "1 / 5",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/SDA_T1_TL_B_South_Hill_0271_Desktop_3ca39c37d5.jpg",
-      "mobile": "public/assets/media/SDA_T1_TL_B_South_Hill_0271_Mobile_f0b85a2f0d.jpg"
+      "mobile": "public/assets/media/SDA_T1_TL_B_South_Hill_0271_Mobile_f0b85a2f0d.jpg",
+      "position": "2 / 5",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/SDA_T1_TL_B_OS_56_Streak_8887_Desktop_b4f9f7f6af.jpg",
-      "mobile": "public/assets/media/SDA_T1_TL_B_OS_56_Streak_8887_Mobile_867df3bc80.jpg"
+      "mobile": "public/assets/media/SDA_T1_TL_B_OS_56_Streak_8887_Mobile_867df3bc80.jpg",
+      "position": "3 / 5",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20250910_SDA_Launch_Npc_DSC_00147_Desktop_7b35f40cc8.jpg",
-      "mobile": "public/assets/media/20250910_SDA_Launch_Npc_DSC_00147_Mobile_3b58a57849.jpg"
+      "mobile": "public/assets/media/20250910_SDA_Launch_Npc_DSC_00147_Mobile_3b58a57849.jpg",
+      "position": "4 / 5",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20250910_SDA_Launch_Npc_DSC_00029_Desktop_09baea9d5c.jpg",
-      "mobile": "public/assets/media/20250910_SDA_Launch_Npc_DSC_00029_Mobile_278bc8d1ca.jpg"
+      "mobile": "public/assets/media/20250910_SDA_Launch_Npc_DSC_00029_Mobile_278bc8d1ca.jpg",
+      "position": "5 / 5",
+      "index": 4,
+      "number": 5
     }
   ],
   "astronauts": [],

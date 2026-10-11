@@ -163,7 +163,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260319_40_Stage_2_1_RF_stmm1a1_2026_03_19_10_AM_23_22_5340b89d7f.jpg",
-      "mobile": "public/assets/media/20260319_40_Stage_2_1_RF_stmm1a1_2026_03_19_10_AM_23_22_5340b89d7f.jpg"
+      "mobile": "public/assets/media/20260319_40_Stage_2_1_RF_stmm1a1_2026_03_19_10_AM_23_22_5340b89d7f.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

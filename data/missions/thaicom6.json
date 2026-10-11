@@ -15,7 +15,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Thaicom_Desktop2_735ad3c3d2.jpg",
-      "mobile": "public/assets/media/Thaicom_Mobile2_1e52041d01.jpg"
+      "mobile": "public/assets/media/Thaicom_Mobile2_1e52041d01.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

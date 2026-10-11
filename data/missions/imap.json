@@ -173,32 +173,50 @@
     {
       "caption": "",
       "desktop": "public/assets/media/IMAP_outside39abmoundh_IMG_6354_136b963d07.jpg",
-      "mobile": "public/assets/media/IMAP_outside39abmoundh_IMG_6354_136b963d07.jpg"
+      "mobile": "public/assets/media/IMAP_outside39abmoundh_IMG_6354_136b963d07.jpg",
+      "position": "1 / 6",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/IMAP_astrordsunrise_DSC_4768_43710517a6.jpg",
-      "mobile": "public/assets/media/IMAP_astrordsunrise_DSC_4768_43710517a6.jpg"
+      "mobile": "public/assets/media/IMAP_astrordsunrise_DSC_4768_43710517a6.jpg",
+      "position": "2 / 6",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/IMAP_astrordsunrise_DSC_5425_d13732290f.jpg",
-      "mobile": "public/assets/media/IMAP_astrordsunrise_DSC_5425_d13732290f.jpg"
+      "mobile": "public/assets/media/IMAP_astrordsunrise_DSC_5425_d13732290f.jpg",
+      "position": "3 / 6",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/IMAP_sunset_092225_DSC_4720_desktop_bdaf97d4cd.jpg",
-      "mobile": "public/assets/media/IMAP_sunset_092225_DSC_4720_desktop_bdaf97d4cd.jpg"
+      "mobile": "public/assets/media/IMAP_sunset_092225_DSC_4720_desktop_bdaf97d4cd.jpg",
+      "position": "4 / 6",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/IMAP_sunset_092225_DSC_4735_desktop_408c99d836.jpg",
-      "mobile": "public/assets/media/IMAP_sunset_092225_DSC_4735_desktop_408c99d836.jpg"
+      "mobile": "public/assets/media/IMAP_sunset_092225_DSC_4735_desktop_408c99d836.jpg",
+      "position": "5 / 6",
+      "index": 4,
+      "number": 5
     },
     {
       "caption": "",
       "desktop": "public/assets/media/IMAP_verticalsunrise_092225_DSC_4674_desktop_d3b288ac13.jpg",
-      "mobile": "public/assets/media/IMAP_verticalsunrise_092225_DSC_4674_desktop_d3b288ac13.jpg"
+      "mobile": "public/assets/media/IMAP_verticalsunrise_092225_DSC_4674_desktop_d3b288ac13.jpg",
+      "position": "6 / 6",
+      "index": 5,
+      "number": 6
     }
   ],
   "astronauts": [],

@@ -26,22 +26,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Homepage_CRS_22_8035_Desktop_7cd866911b.jpg",
-      "mobile": "public/assets/media/Homepage_CRS_22_8035_1_Mobile_4fc096ce49.jpg"
+      "mobile": "public/assets/media/Homepage_CRS_22_8035_1_Mobile_4fc096ce49.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Launches_CRS_22_0657_Desktop_v2_2e23300cf9.jpg",
-      "mobile": "public/assets/media/CRS_22_Mobile3_186727c1a6.jpg"
+      "mobile": "public/assets/media/CRS_22_Mobile3_186727c1a6.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Launches_7937_Desktop_d68adde1e8.jpg",
-      "mobile": "public/assets/media/Launches_7937_Mobile_1a03459fa7.jpg"
+      "mobile": "public/assets/media/Launches_7937_Mobile_1a03459fa7.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Homepage_7946_Edit_Desktop_RECO_e15ce6e3fe.jpg",
-      "mobile": "public/assets/media/Homepage_7946_Edit_Mobile_ec451aa2f8.jpg"
+      "mobile": "public/assets/media/Homepage_7946_Edit_Mobile_ec451aa2f8.jpg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [],

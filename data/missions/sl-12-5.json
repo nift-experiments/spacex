@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Starlink_G12_5_LIFTOFF_Desktop_448d54d804.jpg",
-      "mobile": "public/assets/media/Starlink_G12_5_LIFTOFF_4_Mobile_c5cf559293.jpg"
+      "mobile": "public/assets/media/Starlink_G12_5_LIFTOFF_4_Mobile_c5cf559293.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

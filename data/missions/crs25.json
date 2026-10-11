@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/HOMEPAGE_DESKTOP_CRS_25_outsidehangar_IMG_3380_ba416c11a7.jpg",
-      "mobile": "public/assets/media/HOMEPAGE_MOBILE_CRS_25_outsidewater_DSC_0008_34dc441bd6.jpg"
+      "mobile": "public/assets/media/HOMEPAGE_MOBILE_CRS_25_outsidewater_DSC_0008_34dc441bd6.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

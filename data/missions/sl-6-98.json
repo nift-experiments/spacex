@@ -163,7 +163,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260114_Starlink_6_98_40_Stage_2_3_RF_stmm1a3_2026_01_14_1_PM_11_31_2_aa32888a22.jpg",
-      "mobile": "public/assets/media/20260114_Starlink_6_98_40_Stage_2_3_RF_stmm1a3_2026_01_14_1_PM_11_31_2_aa32888a22.jpg"
+      "mobile": "public/assets/media/20260114_Starlink_6_98_40_Stage_2_3_RF_stmm1a3_2026_01_14_1_PM_11_31_2_aa32888a22.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

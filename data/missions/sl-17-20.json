@@ -163,17 +163,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260125_Starlink_17_20_TU_00061_2cc87c41c3.jpg",
-      "mobile": "public/assets/media/20260125_Starlink_17_20_TU_00061_2cc87c41c3.jpg"
+      "mobile": "public/assets/media/20260125_Starlink_17_20_TU_00061_2cc87c41c3.jpg",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Starlink_G17_20_OS_56_4858_Desktop_1a3077bf04.jpg",
-      "mobile": "public/assets/media/Starlink_G17_20_OS_56_4858_Desktop_1a3077bf04.jpg"
+      "mobile": "public/assets/media/Starlink_G17_20_OS_56_4858_Desktop_1a3077bf04.jpg",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Starlink_G17_20_SW_Hill_Horiz_0483_Desktop_57e657404e.jpg",
-      "mobile": "public/assets/media/Starlink_G17_20_SW_Hill_Vert_0853_Mobile_0f9a9cb309.jpg"
+      "mobile": "public/assets/media/Starlink_G17_20_SW_Hill_Vert_0853_Mobile_0f9a9cb309.jpg",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

@@ -258,22 +258,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Bandwagon_4_pad39a_DSC_4602_DSC_4602_e043777302.jpg",
-      "mobile": "public/assets/media/Bandwagon_4_outsidemediav_DSC_2610_mobile_b28a10dc5e.jpg"
+      "mobile": "public/assets/media/Bandwagon_4_outsidemediav_DSC_2610_mobile_b28a10dc5e.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Bandwagon_4_outsidemediah_DSC_4354_61dd7ef27a.jpg",
-      "mobile": "public/assets/media/Bandwagon_4_outsidemediah_DSC_4354_61dd7ef27a.jpg"
+      "mobile": "public/assets/media/Bandwagon_4_outsidemediah_DSC_4354_61dd7ef27a.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Bandwagon_4_vertical_110125_DSC_5254_desktop_f242097174.jpg",
-      "mobile": "public/assets/media/Bandwagon_4_vertical_110125_DSC_5254_mobile_b2ac6d2d8d.jpg"
+      "mobile": "public/assets/media/Bandwagon_4_vertical_110125_DSC_5254_mobile_b2ac6d2d8d.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Bandwagon_4_LZ_2_DSC_2476_b76aeebf15.jpg",
-      "mobile": "public/assets/media/Bandwagon_4_LZ_2_DSC_2476_b76aeebf15.jpg"
+      "mobile": "public/assets/media/Bandwagon_4_LZ_2_DSC_2476_b76aeebf15.jpg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [],

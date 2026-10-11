@@ -193,47 +193,74 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260830_CC_Roman_deck_SW_DSC_9706_desktop_e085a5b098.jpg",
-      "mobile": "public/assets/media/20260830_CC_Roman_belowdeck_DSC_0035_mobile_59f8cd49d4.jpg"
+      "mobile": "public/assets/media/20260830_CC_Roman_belowdeck_DSC_0035_mobile_59f8cd49d4.jpg",
+      "position": "1 / 9",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260830_CC_Roman_deckengine_IMG_1873_desktop_542db7dd6d.jpg",
-      "mobile": "public/assets/media/20260830_CC_Roman_deckengine_IMG_1873_mobile_5aaba30177.jpg"
+      "mobile": "public/assets/media/20260830_CC_Roman_deckengine_IMG_1873_mobile_5aaba30177.jpg",
+      "position": "2 / 9",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260830_CC_Roman_DSC_5090_desktop_2f3a913c61.jpg",
-      "mobile": "public/assets/media/20260830_CC_Roman_DSC_5090_mobile_8feb1e9145.jpg"
+      "mobile": "public/assets/media/20260830_CC_Roman_DSC_5090_mobile_8feb1e9145.jpg",
+      "position": "3 / 9",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260829_CC_Roman_DSC_9781_desktop_6c9ca5fd57.jpg",
-      "mobile": "public/assets/media/20260829_CC_Roman_DSC_9804_mobile_31f5af8d99.jpg"
+      "mobile": "public/assets/media/20260829_CC_Roman_DSC_9804_mobile_31f5af8d99.jpg",
+      "position": "4 / 9",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260829_CC_Roman_DSC_9887_desktop_3bbe6c3064.jpg",
-      "mobile": "public/assets/media/20260829_CC_Roman_DSC_9887_2a69b121ed.jpg"
+      "mobile": "public/assets/media/20260829_CC_Roman_DSC_9887_2a69b121ed.jpg",
+      "position": "5 / 9",
+      "index": 4,
+      "number": 5
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260829_CC_Roman_DSC_9884_desktop_2b0a2bc0f1.jpg",
-      "mobile": "public/assets/media/20260829_CC_Roman_DSC_9882_mobile_110c830247.jpg"
+      "mobile": "public/assets/media/20260829_CC_Roman_DSC_9882_mobile_110c830247.jpg",
+      "position": "6 / 9",
+      "index": 5,
+      "number": 6
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260826_Falcon_Heavy_13_Roman_Space_Telescope_Hangar_Lift_DSC_08755_5870b0bb60.jpg",
-      "mobile": "public/assets/media/20260826_Falcon_Heavy_13_Roman_Space_Telescope_Hangar_Lift_DSC_08755_5870b0bb60.jpg"
+      "mobile": "public/assets/media/20260826_Falcon_Heavy_13_Roman_Space_Telescope_Hangar_Lift_DSC_08755_5870b0bb60.jpg",
+      "position": "7 / 9",
+      "index": 6,
+      "number": 7
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260821_CC_Roman_encapsulation_DSC_9638_e29902ba9e.jpg",
-      "mobile": "public/assets/media/20260821_CC_Roman_encapsulation_DSC_9642_5179665a3d.jpg"
+      "mobile": "public/assets/media/20260821_CC_Roman_encapsulation_DSC_9642_5179665a3d.jpg",
+      "position": "8 / 9",
+      "index": 7,
+      "number": 8
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260826_Falcon_Heavy_13_Roman_Space_Telescope_Hangar_Lift_DSC_08220_fb2e329cb1.jpg",
-      "mobile": "public/assets/media/20260826_Falcon_Heavy_13_Roman_Space_Telescope_Hangar_Lift_DSC_08220_fb2e329cb1.jpg"
+      "mobile": "public/assets/media/20260826_Falcon_Heavy_13_Roman_Space_Telescope_Hangar_Lift_DSC_08220_fb2e329cb1.jpg",
+      "position": "9 / 9",
+      "index": 8,
+      "number": 9
     }
   ],
   "astronauts": [],

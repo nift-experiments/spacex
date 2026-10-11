@@ -84,22 +84,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/SDA_T1_TL_C_Launch_NPC_Theatre_Rd_20251015_DSC_00066_ea9bfd5b0e.jpg",
-      "mobile": "public/assets/media/SDA_T1_TL_C_Launch_NPC_Theatre_Rd_20251015_DSC_00066_ea9bfd5b0e.jpg"
+      "mobile": "public/assets/media/SDA_T1_TL_C_Launch_NPC_Theatre_Rd_20251015_DSC_00066_ea9bfd5b0e.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/SDA_TI_TL_C_South_Hill_0981_Full_ce32036f37.jpg",
-      "mobile": "public/assets/media/SDA_TI_TL_C_South_Hill_0981_Full_ce32036f37.jpg"
+      "mobile": "public/assets/media/SDA_TI_TL_C_South_Hill_0981_Full_ce32036f37.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/SDA_T1_TL_C_Launch_NPC_Turn_Around_20251015_DSC_00060_e5cc1cbfbc.jpg",
-      "mobile": "public/assets/media/SDA_T1_TL_C_Launch_NPC_Turn_Around_20251015_DSC_00060_e5cc1cbfbc.jpg"
+      "mobile": "public/assets/media/SDA_T1_TL_C_Launch_NPC_Turn_Around_20251015_DSC_00060_e5cc1cbfbc.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/SDA_TI_TL_C_Theater_Horiz_9412_Full_c72875004a.jpg",
-      "mobile": "public/assets/media/SDA_TI_TL_C_Theater_Horiz_9412_Full_c72875004a.jpg"
+      "mobile": "public/assets/media/SDA_TI_TL_C_Theater_Horiz_9412_Full_c72875004a.jpg",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [],

@@ -157,7 +157,12 @@
         "documentId": "ma6ukcjwpewp6g3io5032hjs",
         "locale": null,
         "publishedAt": "2025-07-24T02:23:21.916Z"
-      }
+      },
+      "desktopPath": "public/assets/media/SPACEX_Crew_5_starship_IMG_1655_DESKTOP_4df6157fde.jpg",
+      "mobilePath": "public/assets/media/SPACEX_Crew_5_starship_IMG_1655_MOBILE_f88b7bf079.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Oct 5, 2022"
     },
     {
       "id": 2016,
@@ -293,7 +298,12 @@
         "documentId": "z4cydbr7o1u7iq9nx91p0tvb",
         "locale": null,
         "publishedAt": "2026-02-05T20:50:49.251Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/be00b45acc39ad11f8070329b0676d8af89d269957a32f76b42e404989c9d8ee.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/c83662491b2b961353e56bf2c935a979585e68fc3a73ed0eeaf0efaaaccd3f25.png",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Oct 6, 2022"
     },
     {
       "id": 2017,
@@ -433,7 +443,12 @@
         "documentId": "cwqrjle1sdg6w5l8ctnsng8g",
         "locale": null,
         "publishedAt": "2026-02-05T20:52:57.442Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/938c86a0a0676b18b9ac7fa7ee135605cff56b9d89c509f873402395f3847638.png",
+      "mobilePath": "public/assets/recovered/webcasts/3cb77146bddef6e4fbb7cab0dbdddcf2e328899cf2ea4293df3008b6315f07f4.png",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Oct 14, 2022"
     },
     {
       "id": 2018,
@@ -577,7 +592,12 @@
         "documentId": "y124s7jkoyb3yitz4pnqcynw",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/808bb00e72242246f5fe00c336d3ae341d60cd75be127a9591d1007700eb9dca.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/a9098c9146e5cf78f05f5fd98293ec674cee8d3241245d80d45f9a0e09c070d8.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Mar 11, 2026"
     }
   ],
   "preTimeline": null,
@@ -588,22 +608,34 @@
     {
       "caption": "",
       "desktop": "public/assets/media/SPACEX_Crew_5_starship_IMG_1655_DESKTOP_4df6157fde.jpg",
-      "mobile": "public/assets/media/SPACEX_Crew_5_starship_IMG_1655_MOBILE_f88b7bf079.jpg"
+      "mobile": "public/assets/media/SPACEX_Crew_5_starship_IMG_1655_MOBILE_f88b7bf079.jpg",
+      "position": "1 / 4",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/LAUNCHES_SPACEX_Crew_5_Sunrise_20221003_DSC_06362_DESKTOP_883ef828de.jpg",
-      "mobile": "public/assets/media/HOMEPAGE_SPACEX_Crew_5_Sunrise_20221003_DSC_06362_MOBILE_25b5de094e.jpg"
+      "mobile": "public/assets/media/HOMEPAGE_SPACEX_Crew_5_Sunrise_20221003_DSC_06362_MOBILE_25b5de094e.jpg",
+      "position": "2 / 4",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/LAUNCHES_NEW_2_DESKTOP_launches_a2e438e486.jpg",
-      "mobile": "public/assets/media/LAUNCHES_NEW_MOBILE_launches_c4f4dd7b6f.jpg"
+      "mobile": "public/assets/media/LAUNCHES_NEW_MOBILE_launches_c4f4dd7b6f.jpg",
+      "position": "3 / 4",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "",
-      "mobile": ""
+      "mobile": "",
+      "position": "4 / 4",
+      "index": 3,
+      "number": 4
     }
   ],
   "astronauts": [

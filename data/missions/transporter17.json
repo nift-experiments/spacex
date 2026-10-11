@@ -513,17 +513,26 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Transporter_17_Building_730_5657_Desktop_8e2c00e5da.jpg",
-      "mobile": "public/assets/media/Transporter_17_Building_730_5657_Mobile_ca1e96dc37.jpg"
+      "mobile": "public/assets/media/Transporter_17_Building_730_5657_Mobile_ca1e96dc37.jpg",
+      "position": "1 / 3",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Transporter_17_South_Hill_Horiz_2976_Desktop_30bffc8572.jpg",
-      "mobile": "public/assets/media/Transporter_17_South_Hill_Horiz_2976_Mobile_9ee23eb8b2.jpg"
+      "mobile": "public/assets/media/Transporter_17_South_Hill_Horiz_2976_Mobile_9ee23eb8b2.jpg",
+      "position": "2 / 3",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Transporter_17_Vertical_6611_Desktop_2c590b0666.jpg",
-      "mobile": "public/assets/media/Transporter_17_Vertical_7558_Mobile_10e3edd16e.jpg"
+      "mobile": "public/assets/media/Transporter_17_Vertical_7558_Mobile_10e3edd16e.jpg",
+      "position": "3 / 3",
+      "index": 2,
+      "number": 3
     }
   ],
   "astronauts": [],

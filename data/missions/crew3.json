@@ -157,7 +157,12 @@
         "documentId": "agun792bjy44yv9w6rd14ztz",
         "locale": null,
         "publishedAt": "2026-02-04T23:31:05.497Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/1ebc1f51c43161879237547685208584398858cf5528d11cf8619208c87680e9.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/71b412a0cb36dc7082ff19b821d4fc90e5e40a44f140670836796003973aacbe.jpg",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Nov 10, 2021"
     },
     {
       "id": 2008,
@@ -309,7 +314,12 @@
         "documentId": "nifnq1ennisbaqy4bwtc9nvu",
         "locale": null,
         "publishedAt": "2026-02-04T22:07:02.582Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/f76304cc9764160953900d50db0a06a32f70be4e9e054ff50ec5d1b45c4ddd1b.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/9a24b4c61c085c864e87b0ab5923c581d9b91e0469b46784f029c6c5eddfe8b9.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Nov 11, 2021"
     },
     {
       "id": 2009,
@@ -461,7 +471,12 @@
         "documentId": "hbxlq07b0thp1qxmpbqn2nk6",
         "locale": null,
         "publishedAt": "2026-02-04T23:30:16.913Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/0138bb0d0eeafebe5cc0efbd068723e58b480fa66469b977df7392e13591e3c9.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/fc7eebeef8a9ae1f7d7eb0a6ae0895d44f7d134ea660e5c7a36401a0116778b1.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "May 5, 2022"
     },
     {
       "id": 2010,
@@ -613,7 +628,12 @@
         "documentId": "lmz0qt30p83lk0fjo32pxwqt",
         "locale": null,
         "publishedAt": "2026-02-04T22:06:57.343Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/616b41858f6f93b251cdf29d4586312227241456724c4f8b074818a3b8649922.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/621f9dd1958ffd8822ff0269095e99e80b8fdf58b0a611e198704bb3de14423e.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "May 5, 2022"
     }
   ],
   "preTimeline": null,
@@ -624,27 +644,42 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Homepage_Crew3_vertical_102721_DSC_0224_1_Desktop_Resized_a313b48315.jpg",
-      "mobile": "public/assets/media/Homepage_Crew3_vertical_102721_DSC_0227_Mobile_2_811479508d.jpg"
+      "mobile": "public/assets/media/Homepage_Crew3_vertical_102721_DSC_0227_Mobile_2_811479508d.jpg",
+      "position": "1 / 5",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Crew_3_Sunrise_Desktop_a2da16cf2d.jpg",
-      "mobile": "public/assets/media/Crew_3_Sunrise_Mobile_aaac95406b.jpg"
+      "mobile": "public/assets/media/Crew_3_Sunrise_Mobile_aaac95406b.jpg",
+      "position": "2 / 5",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Homepage_Crew3_outsidebchrd_IMG_9965_Desktop_9ca20e15f6.jpg",
-      "mobile": "public/assets/media/Homepage_Crew3_outsidebchrd_IMG_9965_Mobile_3616826d3a.jpg"
+      "mobile": "public/assets/media/Homepage_Crew3_outsidebchrd_IMG_9965_Mobile_3616826d3a.jpg",
+      "position": "3 / 5",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Launches_Crew3_astronautrd_DSC_7018_Desktop_3cf3b542b7.jpg",
-      "mobile": "public/assets/media/Launches_Crew3_astronautrd_DSC_7018_Mobile_be0dd8fea7.jpg"
+      "mobile": "public/assets/media/Launches_Crew3_astronautrd_DSC_7018_Mobile_be0dd8fea7.jpg",
+      "position": "4 / 5",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Updates_Crew_3_Docking_03_desktop_9d467fc2a4.jpg",
-      "mobile": "public/assets/media/Updates_Crew_3_Docking_03_mobile_83b95f7c8f.jpg"
+      "mobile": "public/assets/media/Updates_Crew_3_Docking_03_mobile_83b95f7c8f.jpg",
+      "position": "5 / 5",
+      "index": 4,
+      "number": 5
     }
   ],
   "astronauts": [

@@ -418,7 +418,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/CAS_500_2_South_Hill_Composite_Full_cbd191c46e.jpg",
-      "mobile": "public/assets/media/CAS_500_2_South_Hill_Composite_Full_cbd191c46e.jpg"
+      "mobile": "public/assets/media/CAS_500_2_South_Hill_Composite_Full_cbd191c46e.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

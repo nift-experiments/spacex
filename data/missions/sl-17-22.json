@@ -163,12 +163,18 @@
     {
       "caption": "",
       "desktop": "public/assets/media/WEBSITE_DE_Starlink_17_22_NPC_Launch_20260419_DSC_00067_Desktop_9e57d10965.png",
-      "mobile": "public/assets/media/WEBSITE_DE_Starlink_17_22_NPC_Launch_20260419_DSC_00067_Desktop_9e57d10965.png"
+      "mobile": "public/assets/media/WEBSITE_DE_Starlink_17_22_NPC_Launch_20260419_DSC_00067_Desktop_9e57d10965.png",
+      "position": "1 / 2",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Starlink_G17_22_San_Miguelito_4628_Desktop_3eed608fed.jpg",
-      "mobile": "public/assets/media/Starlink_G17_22_San_Miguelito_4628_Desktop_3eed608fed.jpg"
+      "mobile": "public/assets/media/Starlink_G17_22_San_Miguelito_4628_Desktop_3eed608fed.jpg",
+      "position": "2 / 2",
+      "index": 1,
+      "number": 2
     }
   ],
   "astronauts": [],

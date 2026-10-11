@@ -143,12 +143,18 @@
     {
       "caption": "",
       "desktop": "public/assets/media/20260623_CC_Starfall_Demo_Launch_NPC_02_00015_Desktop_6709e97dea.jpg",
-      "mobile": "public/assets/media/20260623_CC_Starfall_Demo_Launch_NPC_01_00016_Mobile_36a4f90e1a.jpg"
+      "mobile": "public/assets/media/20260623_CC_Starfall_Demo_Launch_NPC_01_00016_Mobile_36a4f90e1a.jpg",
+      "position": "1 / 2",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260623_CC_Starfall_Demo_DSC_8727_desktop_87c99af13f.jpg",
-      "mobile": "public/assets/media/20260623_CC_Starfall_Demo_DSC_8727_mobile_2b10bd4e7b.jpg"
+      "mobile": "public/assets/media/20260623_CC_Starfall_Demo_DSC_8727_mobile_2b10bd4e7b.jpg",
+      "position": "2 / 2",
+      "index": 1,
+      "number": 2
     }
   ],
   "astronauts": [],

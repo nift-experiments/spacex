@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Arabsat_6_A_Desktop2_5a19ae3ece.jpg",
-      "mobile": "public/assets/media/Arabsat_6_A_Mobile_e3bb14a0fe.jpg"
+      "mobile": "public/assets/media/Arabsat_6_A_Mobile_e3bb14a0fe.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

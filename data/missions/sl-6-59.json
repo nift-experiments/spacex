@@ -26,7 +26,10 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Star6_59_051724_streak_desktop_fd19e05f0b.jpg",
-      "mobile": "public/assets/media/Star6_59_051724_streak_mobile_cebcb37774.jpg"
+      "mobile": "public/assets/media/Star6_59_051724_streak_mobile_cebcb37774.jpg",
+      "position": "1 / 1",
+      "index": 0,
+      "number": 1
     }
   ],
   "astronauts": [],

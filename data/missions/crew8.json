@@ -149,7 +149,12 @@
         "documentId": "jw7adlin2s11n4p1lmxp5crb",
         "locale": null,
         "publishedAt": "2024-10-21T16:04:39.469Z"
-      }
+      },
+      "desktopPath": "public/assets/media/crew8launches_cb77900661.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/6c65af232b64d7548d4df692633099f7a95694399f30933b221f0f4a26c24682.png",
+      "nativeIndex": 0,
+      "supportedType": true,
+      "dateLabel": "Mar 3, 2024"
     },
     {
       "id": 2020,
@@ -301,7 +306,12 @@
         "documentId": "z0905ifxz9ws9cmn8zwuc7sc",
         "locale": null,
         "publishedAt": "2026-02-06T01:07:23.252Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/797140f6ea69af567fcd5a72a7d3145e1ff852ce04617cf0b78e53af1c02e911.png",
+      "mobilePath": "public/assets/recovered/webcasts/cd58edd2d564083a87922a72c8a584af0e6c51f7614bafa53800d6964a0f424b.jpg",
+      "nativeIndex": 1,
+      "supportedType": true,
+      "dateLabel": "Mar 5, 2024"
     },
     {
       "id": 2021,
@@ -453,7 +463,12 @@
         "documentId": "uygt47yagbawi6on4izjgdyq",
         "locale": null,
         "publishedAt": "2026-02-06T01:06:05.756Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/c96a912071c233d5760927a9d7c415124b5c7f36ec18526ceaa926d0e1313c5f.png",
+      "mobilePath": "public/assets/recovered/webcasts/166dcce7108fa61c96fa8aa41212a052323d4eb346d6458b117ef71dc9c55800.jpg",
+      "nativeIndex": 2,
+      "supportedType": true,
+      "dateLabel": "Oct 23, 2024"
     },
     {
       "id": 2022,
@@ -605,7 +620,12 @@
         "documentId": "az5m8yxi65e6kczl4u7v4hpb",
         "locale": null,
         "publishedAt": "2024-10-25T09:21:41.560Z"
-      }
+      },
+      "desktopPath": "public/assets/recovered/webcasts/8002ea66f863a7627ad9512f7cfe7c1c9fc2430faca8e449c34f69518eaea908.jpg",
+      "mobilePath": "public/assets/recovered/webcasts/4f820882d94fdd70e86c994ac55aa219f6ff6c0e7545dc310b355b51487a99f8.jpg",
+      "nativeIndex": 3,
+      "supportedType": true,
+      "dateLabel": "Oct 25, 2024"
     }
   ],
   "preTimeline": null,

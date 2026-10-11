@@ -168,27 +168,42 @@
     {
       "caption": "",
       "desktop": "public/assets/media/Cygnus_NG_24_double_IMG_1597_1_744deca723.jpg",
-      "mobile": "public/assets/media/Cygnus_NG_24_double_IMG_1597_2_20528ac961.jpg"
+      "mobile": "public/assets/media/Cygnus_NG_24_double_IMG_1597_2_20528ac961.jpg",
+      "position": "1 / 5",
+      "index": 0,
+      "number": 1
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Cygnus_NG_24_outsidewater_DSC_5893_desktop_89b48a33b5.jpg",
-      "mobile": "public/assets/media/Cygnus_NG_24_outsidewater_DSC_5893_mobile_dd39837ef4.jpg"
+      "mobile": "public/assets/media/Cygnus_NG_24_outsidewater_DSC_5893_mobile_dd39837ef4.jpg",
+      "position": "2 / 5",
+      "index": 1,
+      "number": 2
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Cygnus_NG_24_landing_sun_DSC_7417_desktop_eeb4d882b3.jpg",
-      "mobile": "public/assets/media/Cygnus_NG_24_outsidetower_IMG_5023_mobile_b2e74732c3.jpg"
+      "mobile": "public/assets/media/Cygnus_NG_24_outsidetower_IMG_5023_mobile_b2e74732c3.jpg",
+      "position": "3 / 5",
+      "index": 2,
+      "number": 3
     },
     {
       "caption": "",
       "desktop": "public/assets/media/Cygnus_NG_24_L_Zoutsidetower_IMG_9014_desktop_f3e69d2c08.jpg",
-      "mobile": "public/assets/media/Cygnus_NG_24_L_Zoutsidetower_IMG_9014_mobile_f06cdcb99f.jpg"
+      "mobile": "public/assets/media/Cygnus_NG_24_L_Zoutsidetower_IMG_9014_mobile_f06cdcb99f.jpg",
+      "position": "4 / 5",
+      "index": 3,
+      "number": 4
     },
     {
       "caption": "",
       "desktop": "public/assets/media/20260403_CC_Cygnus_NG_24_ENCAP_DSC_07680_b54543f697.jpg",
-      "mobile": "public/assets/media/20260403_CC_Cygnus_NG_24_ENCAP_DSC_07697_111cb746c5.jpg"
+      "mobile": "public/assets/media/20260403_CC_Cygnus_NG_24_ENCAP_DSC_07697_111cb746c5.jpg",
+      "position": "5 / 5",
+      "index": 4,
+      "number": 5
     }
   ],
   "astronauts": [],
