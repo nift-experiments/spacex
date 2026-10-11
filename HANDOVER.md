@@ -385,3 +385,7 @@ A clean network asset-acquisition attempt failed for temporary disk exhaustion d
 ### Public Sites reveal and asset transport verification
 
 The two public Sites reveal observers now retain their captured thresholds, root margins, one-shot classes, and reduced-motion branch. Authored Sites browser observation confirms initially hidden feature content reveals after scrolling into the viewport. Mid-South environment scroll transitions and the complete responsive parity matrix remain open. All five maintained asset bundles have now passed network acquisition and hash verification, including the launch-tab and runtime supplements. The earlier disk-exhaustion attempt remains recorded; this does not imply final browser parity acceptance.
+
+### Mid-South environment scroll controller
+
+The public 5789 bundle supplies the exact chapter hysteresis, 340 ms departure transition, reduced-motion branch, mobile cutoff, and wheel/touch click-lock release. These are maintained in a bounded native controller. Authored browser checks verify manual Power selection/focus and automatic Air selection without focus transfer; programmatic scrolling correctly retains the manual click lock. Complete touch/viewport transition parity remains open.

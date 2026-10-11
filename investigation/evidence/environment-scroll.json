@@ -1,0 +1,24 @@
+{
+  "source": "5789.9045c8d86dbeff0c.js",
+  "sha256": "58d044a9ed30225dd7f73ca78f86e580e67b93bf34c74c4787bac0ee41c5031c",
+  "hysteresis": {
+    "waterToPower": 0.4,
+    "powerToAir": 0.74,
+    "powerToWater": 0.26,
+    "airToPower": 0.6
+  },
+  "transitionMs": 340,
+  "automaticDisabledMaxWidth": 900,
+  "reducedMotionImmediateManualOnly": true,
+  "clickLockReleasedBy": [
+    "wheel",
+    "touchmove"
+  ],
+  "authoredBrowser": {
+    "manualPowerAndFocus": true,
+    "automaticAirAtSectionTop": -1087.859375,
+    "automaticFocus": "BODY",
+    "programmaticScrollDidNotReleaseClickLock": true
+  },
+  "fullParityAccepted": false
+}
