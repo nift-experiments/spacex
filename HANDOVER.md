@@ -361,3 +361,9 @@ Two additional Raptor variants bring the maintained tab inventory to 19 captured
 ### Clean-checkout portability correction
 
 A fresh GitHub clone exposed internal @path arguments using `public/<route>/`, which had depended on pre-existing output directories. Maintained internal route references now use tracked names. Captured srcset references to the local reference server are converted to native @path asset references; the publication audit now checks srcset and rejects local reference-server dependencies. One 3,748,368-byte responsive image is transported separately, and small responsive images are maintained Git assets. The two documented inherited source defects remain visible. This is a migration-source correction; no Nift core changes were made. Clean-checkout completion is still being verified, and final parity/benchmark acceptance remains open.
+
+### Mission states, newsletter UI, and clean-checkout paths
+
+Mission Droneship/Landing Zone states are maintained through the existing native tab controller; 42 real-capture text/value comparisons pass across both projects. The observed newsletter form is recovered at 35 hosts, with native email validation and an explicit unavailable-service response. It never sends subscription requests. Authored prose route bindings now use tracked names in `@path`, including the legacy rideshare index suffix. A clean checkout exposed 97 such prose bindings previously masked by existing output directories. Both clean-checkout builds/audits pass after correction; final browser parity remains open.
+
+All base (51), mobile (6), and responsive (2) release assets pass remote size/SHA256 verification. Empty-cache network acquisition is being checked separately; hash verification alone is not claimed as that proof.

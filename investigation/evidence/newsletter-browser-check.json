@@ -1,0 +1,14 @@
+{
+  "authoredDesktop": {
+    "visibleInputAndSubmit": true,
+    "syntheticInvalidDomainInput": true,
+    "explicitUnavailableResponse": true
+  },
+  "renderedMobile": {
+    "visibleInputAndSubmit": true,
+    "explicitUnavailableResponse": true,
+    "landingZoneSelected": true
+  },
+  "privateRequestsMade": false,
+  "browserParityAccepted": false
+}

@@ -228,6 +228,30 @@
       "family": "vehicles-starship-raptor",
       "state": "Raptor vacuum (RVAC)",
       "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "mission-landing",
+      "state": "Droneship",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "mission-landing",
+      "state": "Droneship",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "mission-landing",
+      "state": "Landing Zone",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "mission-landing",
+      "state": "Landing Zone",
+      "textAndValuesMatchReference": true
     }
   ],
   "allPassed": true,

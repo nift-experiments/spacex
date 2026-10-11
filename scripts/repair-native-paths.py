@@ -17,7 +17,7 @@ for name in ('spacex','spacex-agent'):
   if target=='undefined/':return '@path('+quote+'/'+quote+')undefined/'
   if target not in tracked:raise RuntimeError('Untracked route '+target)
   repaired+=1;return '@path('+quote+target+quote+')'+suffix
- for folder in ('content','templates','data'):
+ for folder in ('content','templates','data','prose'):
   for path in (P/folder).rglob('*'):
    if path.suffix not in ('.html','.json'):continue
    original=path.read_text();source=re.sub(r'@path\(([\x27\"])([^\x27\"]+)\1\)',route,original)

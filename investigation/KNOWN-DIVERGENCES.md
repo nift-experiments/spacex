@@ -14,3 +14,5 @@ No final parity claim is made. These are open verification/implementation items,
 | Legacy links and malformed public content | Inherited defects documented | Legacy destinations reconciled; the 34,500-reference audit leaves the public DemoSat malformed href and Earth undefined iframe. See evidence/inherited-source-defects.json. |
 | External YouTube/service embeds | External service boundary | Original public URLs preserved; offline CSP blocks third-party activity. Embedded playback is not represented as an offline preservation claim. |
 | HEVC homepage clip | Browser/codec qualification | Original bytes retained; this IAB cannot decode one clip. No poster/transcode substitution. |
+
+Newsletter subscription is a private service boundary: UI and local validation are maintained; successful submission is explicitly unavailable and never simulated.

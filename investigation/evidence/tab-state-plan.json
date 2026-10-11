@@ -106,5 +106,17 @@
       "10903ce02148",
       "718b90cda621"
     ]
+  },
+  {
+    "route": "mission",
+    "key": "landing",
+    "labels": [
+      "Droneship",
+      "Landing Zone"
+    ],
+    "captures": [
+      "0032eeec494c",
+      "bf6b401218c5"
+    ]
   }
 ]

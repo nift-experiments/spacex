@@ -98,3 +98,21 @@ for (const host of document.querySelectorAll('supplier-submit-page, lead-submit-
   });
   synchronize();
 }
+
+// Newsletter validation is local; the original private subscription API is unavailable.
+const initializeNewsletters = () => {
+for (const host of document.querySelectorAll('email-signup')) {
+  const root = host.shadowRoot || host;
+  const form = root.querySelector('[data-newsletter-form]');
+  if (!form) continue;
+  form.addEventListener('submit', event => {
+    event.preventDefault();
+    if (!form.reportValidity()) return;
+    let status = root.querySelector('[data-service-status]');
+    if (!status) { status = document.createElement('p'); status.dataset.serviceStatus = ''; status.setAttribute('role', 'status'); form.after(status); }
+    status.textContent = 'Subscription is unavailable in this reconstruction. No information has been sent.';
+  });
+}
+};
+if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initializeNewsletters, { once: true });
+else initializeNewsletters();

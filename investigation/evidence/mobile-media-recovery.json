@@ -619,6 +619,30 @@
   },
   {
     "project": "spacex",
+    "source": "content/states/mission-landing/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_MOBILE.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/mission-landing/1.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_MOBILE.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/mission-landing/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_MOBILE.jpg"
+  },
+  {
+    "project": "spacex",
+    "source": "content/states/mission-landing/0.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_MOBILE.jpg"
+  },
+  {
+    "project": "spacex",
     "source": "content/states/vehicles-falcon-9-merlin/1.html",
     "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/Merlin.jpg",
     "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/falcon-9/mobile/Merlin.jpg"
@@ -1018,6 +1042,30 @@
     "source": "content/mission/index.html",
     "desktop": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/starship_carousel4_card1_d.jpg",
     "mobile": "public/assets/recovered/www.spacex.com/assets/images/vehicles/starship/mobile/starship_carousel4_card1_m.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_MOBILE.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_MOBILE.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_AUTONOMOUS_DRONESHIP_MOBILE.jpg"
+  },
+  {
+    "project": "spacex-agent",
+    "source": "content/mission/index.html",
+    "desktop": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_DESKTOP.jpg",
+    "mobile": "public/assets/recovered/www.spacex.com/assets/images/mission/F9_LANDING_ZONE_MOBILE.jpg"
   },
   {
     "project": "spacex-agent",

@@ -150,5 +150,21 @@
     "capture": "vehicles-starship.1280x720.718b90cda621.json",
     "captureSha256": "718b90cda621eb7db86a76f95546961bb2c9d97199259fe8a3f3a84680c708fd",
     "browserParityAccepted": false
+  },
+  {
+    "route": "mission",
+    "family": "mission-landing",
+    "state": "Droneship",
+    "capture": "mission.1280x720.0032eeec494c.json",
+    "captureSha256": "0032eeec494c9311d9972d10d0096b6d627f6c90764db28b341e6368087c3c84",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "mission",
+    "family": "mission-landing",
+    "state": "Landing Zone",
+    "capture": "mission.1280x720.bf6b401218c5.json",
+    "captureSha256": "bf6b401218c596f124dadd28f1fe198a8b4103d932081f67b3831e95971392f5",
+    "browserParityAccepted": false
   }
 ]
