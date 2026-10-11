@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="en">
-	<head>
-		@input("templates/head.html")
-	</head>
-	<body>
-@content
-	</body>
-</html>
+<html lang="en"><head>@input("templates/head.html")</head>
+<body class="app-background">@input("templates/header.html")
+<main>@content</main>
+@input("templates/footer.html")
+<script src="@path('public/assets/js/site.js')" defer></script>
+<script src="@path('public/assets/js/media.js')" defer></script>
+<script src="@path('public/assets/js/forms.js')" defer></script>
+</body></html>

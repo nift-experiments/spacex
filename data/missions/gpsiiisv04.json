@@ -1,0 +1,20 @@
+{
+  "title": "GPS III Space Vehicle 04 Mission",
+  "date": "November 05, 2020",
+  "imageDesktop": "public/assets/media/GPSIII_4_outsideh_IMG_6110_4741fffd30.jpg",
+  "imageMobile": "public/assets/media/GPSIII_4_outsideh_IMG_6110_Mobile_b45bd43bfe.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/gpsiiisv04/left.html",
+  "rightProse": "prose/missions/gpsiiisv04/right.html"
+}

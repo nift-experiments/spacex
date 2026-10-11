@@ -1,0 +1,13 @@
+@input('templates/mission-styles.html')
+<article class="sx-mission">
+<div class="section"><div class="black-overlay"></div>
+@if(mission.videoDesktop){<span class="video-wrapper full-video"><video aria-hidden="true" autoplay muted loop playsinline preload="auto" poster="@path('$[mission.imageDesktop]')" data-mobile="@path('$[mission.videoMobile]')"><source type="video/mp4" src="@path('$[mission.videoDesktop]')"></video></span>}else{@if(mission.imageDesktop){<span class="image-wrapper"><picture><source media="(max-width:961px)" srcset="@path('$[mission.imageMobile]')"><img loading="lazy" src="@path('$[mission.imageDesktop]')" alt=""></picture></span>}}
+<div class="section-inner feature"><div class="section-left-middle"><span class="countdown">$[mission.date]</span><h1 class="section-title">$[mission.title]</h1>
+@if(mission.cta){<span class="sx-button"><a tabindex="0" class="spx-button primary" data-watch="true" style="padding-left:20px;padding-right:20px;margin-top:0"><div class="text">$[mission.cta]</div><div class="arrow icon slide">@input('templates/arrow.html')</div></a></span>}
+</div></div></div>
+<div class="bottom"><div>@input('$[mission.leftProse]')</div><div>@input('$[mission.rightProse]')</div></div>
+@if(mission.preTimeline){@input('templates/pre-timeline.html')}
+@if(mission.infographicDesktop){<div class="launch-infographic"><picture><source media="(max-width:961px)" srcset="@path('$[mission.infographicMobile]')"><img loading="lazy" src="@path('$[mission.infographicDesktop]')" alt=""></picture></div>}
+@if(mission.postTimeline){@input('templates/post-timeline.html')}
+@if(mission.gallery){<div class="mission-gallery">@for(photo : mission.gallery){@if(photo.desktop){<figure><picture><source media="(max-width:961px)" srcset="@path('$[photo.mobile]')"><img loading="lazy" src="@path('$[photo.desktop]')" alt=""></picture><figcaption>$[photo.caption]</figcaption></figure>}}</div>}
+</article>

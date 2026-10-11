@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "June 18, 2025",
+  "imageDesktop": "public/assets/media/20250618_Starlink_10_18_LIFTSTL_0033_8da7cfed22.jpg",
+  "imageMobile": "public/assets/media/20250618_Starlink_10_18_LIFTSTL_0033_8da7cfed22.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 847,
+      "videoId": "1934728935155355900",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-10-18/left.html",
+  "rightProse": "prose/missions/sl-10-18/right.html"
+}

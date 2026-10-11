@@ -1,0 +1,31 @@
+{
+  "title": "NROL-69 Mission",
+  "date": "March 24, 2025",
+  "imageDesktop": "public/assets/media/NROL_69_outsidewater_IMG_6303_desktop_e0656a9676.jpg",
+  "imageMobile": "public/assets/media/NROL_69_outsidetwr_IMG_9511_mobile_c5731f60b4.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Watch",
+  "webcasts": [
+    {
+      "id": 25,
+      "videoId": "1903144677311910063",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/nrol69/left.html",
+  "rightProse": "prose/missions/nrol69/right.html"
+}

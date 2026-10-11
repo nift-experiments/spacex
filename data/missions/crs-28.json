@@ -1,0 +1,31 @@
+{
+  "title": "CRS-28 Mission",
+  "date": "June 05, 2023",
+  "imageDesktop": "public/assets/media/CRS_28_astronautrd_CRS_28_astronautrd_DSC_2236_desktop_03f7a5ac09.jpg",
+  "imageMobile": "public/assets/media/CRS_28_astronautrd_CRS_28_astronautrd_DSC_2237_mobile_6af3f2f0a7.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 1627,
+      "videoId": "Umx-gjHAXsc",
+      "streamingVideoType": null,
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs-28/left.html",
+  "rightProse": "prose/missions/crs-28/right.html"
+}

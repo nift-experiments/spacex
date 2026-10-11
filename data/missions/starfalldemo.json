@@ -1,0 +1,159 @@
+{
+  "title": "Starfall Demo Mission",
+  "date": "June 23, 2026",
+  "imageDesktop": "public/assets/media/20260623_CC_Starfall_Demo_DSC_1528_desktop_90dcca550a.jpg",
+  "imageMobile": "public/assets/media/20260623_CC_Starfall_Demo_DSC_1531_mobile_a047b8d873.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2514,
+      "videoId": "2069370212303110616",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2337,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 36320,
+        "time": "00:01:08",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 36321,
+        "time": "00:02:25",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 36322,
+        "time": "00:02:28",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 36323,
+        "time": "00:02:36",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 36324,
+        "time": "00:03:08",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 36325,
+        "time": "00:06:31",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 36326,
+        "time": "00:07:02",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 36327,
+        "time": "00:08:25",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 36328,
+        "time": "00:08:49",
+        "description": "1st stage landing"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp",
+  "infographicMobile": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_MOBILE_8043528837.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260623_CC_Starfall_Demo_Launch_NPC_02_00015_Desktop_6709e97dea.jpg",
+      "mobile": "public/assets/media/20260623_CC_Starfall_Demo_Launch_NPC_01_00016_Mobile_36a4f90e1a.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260623_CC_Starfall_Demo_DSC_8727_desktop_87c99af13f.jpg",
+      "mobile": "public/assets/media/20260623_CC_Starfall_Demo_DSC_8727_mobile_2b10bd4e7b.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starfalldemo/left.html",
+  "rightProse": "prose/missions/starfalldemo/right.html"
+}

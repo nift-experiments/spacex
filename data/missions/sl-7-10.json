@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "January 14, 2024",
+  "imageDesktop": "public/assets/media/Starlink_G7_10_OS_56_9916_Desktop_f5ed72af7d.jpg",
+  "imageMobile": "public/assets/media/Starlink_G7_10_OS_56_Vertical_Streak_0050_Mobile_e19741fd1e.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 570,
+      "videoId": "1746093677787967987",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-7-10/left.html",
+  "rightProse": "prose/missions/sl-7-10/right.html"
+}

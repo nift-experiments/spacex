@@ -1,0 +1,31 @@
+{
+  "title": "Telkomsat Merah Putih 2 Mission",
+  "date": "February 20, 2024",
+  "imageDesktop": "public/assets/media/telcomlaunches_f07f552ce8.jpg",
+  "imageMobile": "public/assets/media/telkomlaunches_mobile_512f9cd3a7.png",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 539,
+      "videoId": "1759670157419651441",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/merahputih2/left.html",
+  "rightProse": "prose/missions/merahputih2/right.html"
+}

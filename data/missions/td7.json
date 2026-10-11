@@ -1,0 +1,31 @@
+{
+  "title": "TD7 Mission",
+  "date": "November 17, 2024",
+  "imageDesktop": "public/assets/media/TD_7_pad40_DSC_4140_desktop_53ebcc5f26.jpg",
+  "imageMobile": "public/assets/media/TD_7_pad40_DSC_4140_desktop_53ebcc5f26.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 791,
+      "videoId": "1857906398446891271",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/td7/left.html",
+  "rightProse": "prose/missions/td7/right.html"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Starship Update",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022_1080P.mp4"
+    }
+  ],
+  "description": "On February 10, 2022, SpaceX CEO Elon Musk provided an update on the design, development, and testing of Starship.",
+  "chapters": []
+}

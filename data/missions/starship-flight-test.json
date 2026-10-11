@@ -1,0 +1,31 @@
+{
+  "title": "Starship Flight Test",
+  "date": "April 20, 2023",
+  "imageDesktop": "public/assets/media/Starship_Flight_Test_007_Desktop_75a84279f5.jpg",
+  "imageMobile": "public/assets/media/Starship_Flight_Test_005_Mobile_a101260079.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 428,
+      "videoId": "-1wcilQ58hI&t",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-flight-test/left.html",
+  "rightProse": "prose/missions/starship-flight-test/right.html"
+}

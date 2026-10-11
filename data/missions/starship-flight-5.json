@@ -1,0 +1,31 @@
+{
+  "title": "Starship's Fifth Flight Test",
+  "date": "October 13, 2024",
+  "imageDesktop": "public/assets/media/Flight_5_Website_Desktop_2_4cf00f2071.jpg",
+  "imageMobile": "public/assets/media/Flight_5_Website_Desktop_2_4cf00f2071.jpg",
+  "videoDesktop": "public/assets/media/Flight5_Booster_Catch_Andy_Drone_20241013_1080_Short_e1547e5356.mp4",
+  "videoMobile": "public/assets/media/Flight5_Booster_Catch_Andy_Drone_20241013_1080_Short_e1547e5356.mp4",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 700,
+      "videoId": "1845152255944819015",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-flight-5/left.html",
+  "rightProse": "prose/missions/starship-flight-5/right.html"
+}

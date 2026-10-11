@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "January 21, 2025",
+  "imageDesktop": "public/assets/media/Starlink_13_1_20250121_STL_0030_DESKTOP_e24fafc427.jpg",
+  "imageMobile": "public/assets/media/Starlink_13_1_20250121_STL_0030_DESKTOP_e24fafc427.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 750,
+      "videoId": "1881574250684793318",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-13-1/left.html",
+  "rightProse": "prose/missions/sl-13-1/right.html"
+}

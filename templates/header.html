@@ -1,0 +1,8 @@
+@json(navigation, "data/navigation.json")
+<header class="sx-header"><div id="spacex-header" class="header"><div class="header-shadow"></div><div class="menu-backdrop"></div><nav><div class="top-bar"><div class="spacex-logo"><a href="@path('/')" aria-label="SpaceX home">@input('templates/logo.html')</a></div><button class="header-button" aria-label="Open and close navigation menu" aria-expanded="false"><svg width="24" height="24" viewBox="0 0 24 24"><path d="M0 5h24M0 12h24M0 19h24" stroke="currentColor"/></svg></button></div><div class="nav-links">
+@for(group : navigation){
+@if(group.group){<div><div id="$[group.id]-menu-header" class="menu-header sub-menu-header" role="button" tabindex="0" aria-expanded="false"><span>$[group.label]</span><span class="down-arrow-icon">⌄</span></div><ul id="$[group.id]-menu" class="sub-menu">
+@for(link : group.links){<li><a href="@if(link.external){$[link.url]}else{@path('$[link.url]')}" @if(link.external){target="_blank"}>$[link.label]</a></li>}
+</ul></div>}else{<div class="menu-header"><a href="@if(group.external){$[group.url]}else{@path('$[group.url]')}" @if(group.external){target="_blank" rel="noopener noreferrer"}>$[group.label]</a></div>}
+}
+</div><div class="sx-upcoming upcoming-launch-widget"><span class="title">Upcoming Launches</span><span class="arrow">⌄</span><div class="card-container">@input('templates/upcoming.html')</div></div></nav></div></header>

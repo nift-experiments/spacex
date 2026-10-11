@@ -1,0 +1,20 @@
+{
+  "title": "Falcon 9 Demo Mission",
+  "date": "June 04, 2010",
+  "imageDesktop": "public/assets/media/Falcon9_Demo_Desktop_1b6c9f93ce.jpg",
+  "imageMobile": "public/assets/media/Falcon9_Demo_Mobile_b0227102c4.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Learn More",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/falcon9demo/left.html",
+  "rightProse": "prose/missions/falcon9demo/right.html"
+}

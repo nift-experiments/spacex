@@ -1,0 +1,31 @@
+{
+  "title": "RRT-1 Mission",
+  "date": "December 16, 2024",
+  "imageDesktop": "public/assets/media/RRT_1_outsidetowerh_IMG_6975_desktop_36e99f0523.jpg",
+  "imageMobile": "public/assets/media/RRT_1_outsidetowerh_IMG_6975_desktop_36e99f0523.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 906,
+      "videoId": "1868497938575675844",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/rrt-1/left.html",
+  "rightProse": "prose/missions/rrt-1/right.html"
+}

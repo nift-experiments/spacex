@@ -1,0 +1,31 @@
+{
+  "title": "Turksat 5B Mission",
+  "date": "December 18, 2021",
+  "imageDesktop": "public/assets/media/DESKTOP_Turksat_post_launch_launches_e7998042a4.png",
+  "imageMobile": "public/assets/media/MOBILE_Turksat_post_launch_homepage_033e58eec3.png",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 20,
+      "videoId": "JBGjE9_aosc",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/turksat5b/left.html",
+  "rightProse": "prose/missions/turksat5b/right.html"
+}

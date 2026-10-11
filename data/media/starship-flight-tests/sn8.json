@@ -1,0 +1,13 @@
+{
+  "title": "Starship High Altitude Test - SN8",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN8/SN8-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN8_720P.mp4"
+    }
+  ],
+  "description": "On Wednesday, December 9, Starship serial number 8 (SN8) lifted off from our Cameron County launch pad on SpaceX's first high-altitude flight test of a Starship prototype.\n<br></br>\n<br>\n<a href=\"https://www.spacex.com/launches/starship-sn8\" target=\"_\">Learn more on the mission page.</a> \n</br>",
+  "chapters": []
+}

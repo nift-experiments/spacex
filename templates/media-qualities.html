@@ -1,0 +1,3 @@
+<div class="native-quality-options" data-hls-runtime="@path('public/assets/js/vendor/hls-1.7.3.min.js')" hidden>
+@for(quality : media.qualities){<button type="button" data-media-quality="$[quality.key]" data-media-stream="@path('$[quality.stream]')" data-media-download="$[quality.download]">$[quality.label]</button>}
+</div>

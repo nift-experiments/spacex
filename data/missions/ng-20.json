@@ -1,0 +1,31 @@
+{
+  "title": "NG-20 MISSION",
+  "date": "January 30, 2024",
+  "imageDesktop": "public/assets/media/Cygnus_NG_20_pad39a_DSC_3114_desktop_c02e995d5e.jpg",
+  "imageMobile": "public/assets/media/SPACEX_Cygnus_NG_20_outsidetower_IMG_4049_6775947320.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 578,
+      "videoId": "1752144147103055918",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ng-20/left.html",
+  "rightProse": "prose/missions/ng-20/right.html"
+}

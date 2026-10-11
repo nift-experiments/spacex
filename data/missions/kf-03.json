@@ -1,0 +1,173 @@
+{
+  "title": "KF-03 Mission",
+  "date": "October 13, 2025",
+  "imageDesktop": "public/assets/media/Kuiper_KF_03_outsidesouthtwrh_DSC_3315_desktop_8ca3c9c46f.jpg",
+  "imageMobile": "public/assets/media/Kuiper_KF_03_outsidemediav_DSC_4533_mobile_b5c3bfedf4.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1587,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 22828,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 22829,
+        "time": "00:02:25",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 22830,
+        "time": "00:02:28",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 22831,
+        "time": "00:02:36",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 22832,
+        "time": "00:03:25",
+        "description": "Fairing separation "
+      },
+      {
+        "id": 22833,
+        "time": "00:06:09",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 22834,
+        "time": "00:06:35",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 22835,
+        "time": "00:07:48",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 22836,
+        "time": "00:08:18",
+        "description": "1st stage landing"
+      },
+      {
+        "id": 22837,
+        "time": "00:08:30",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 22838,
+        "time": "00:52:50",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 22839,
+        "time": "00:52:53",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 22840,
+        "time": "00:56:25",
+        "description": "Kuiper satellite deployment sequence begins"
+      },
+      {
+        "id": 22841,
+        "time": "01:04:06",
+        "description": "Kuiper satellite deployment sequence ends"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp",
+  "infographicMobile": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_MOBILE_8043528837.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Kuiper_KF_03_pad39a_DSC_00984_desktop_d614766883.jpg",
+      "mobile": "public/assets/media/Kuiper_KF_03_pad39a_DSC_00984_mobile_65da27c3c1.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Kuiper_KF_03_outsidemediah_DSC_8249_desktop_d278d3324a.jpg",
+      "mobile": "public/assets/media/Kuiper_KF_03_outsidemediav_DSC_4524_mobile_3317e1d48e.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/kf-03/left.html",
+  "rightProse": "prose/missions/kf-03/right.html"
+}

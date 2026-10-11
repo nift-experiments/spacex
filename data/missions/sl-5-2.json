@@ -1,0 +1,31 @@
+{
+  "title": "STARLINK MISSION",
+  "date": "January 26, 2023",
+  "imageDesktop": "public/assets/media/Starlink_5_2_20230126_scape2_Desktop_c035c90d32.JPG",
+  "imageMobile": "public/assets/media/Starlink_5_2_20230126_spx2_Mobile_0ac4488701.JPG",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 592,
+      "videoId": "SaOSLqPlX6c",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-5-2/left.html",
+  "rightProse": "prose/missions/sl-5-2/right.html"
+}

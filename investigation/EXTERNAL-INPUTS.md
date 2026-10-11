@@ -1,27 +1,5 @@
-# EXTERNAL-INPUTS.md
+# External inputs
 
-A pinned Git SHA does not necessarily define the complete production input
-set. Inventory inputs that can move independently of Git or the toolchain.
+Public HTML/bootstrap/lazy bundles, CSS/fonts, CMS GET responses, images/SVG/video and public linked documents are captured separately with URL, timestamp, headers/status, byte length and SHA256. Capture scripts are explicit maintenance tools, never normal build dependencies. Final manifests are pending reconciliation; partial downloads and failed responses must not qualify as accepted media.
 
-Only fill in rows that apply; this is a checklist, not bureaucracy.
-
-## Inventory
-
-For each relevant input record: source URL/system; version/revision; captured
-body/hash; capture date; deterministic (yes/no/unknown); can move independently
-of Git SHA (yes/no); credentials required; cache boundary; must be frozen for
-parity (yes/no).
-
-| Input | Source | Version/revision | Captured hash | Date | Deterministic | Moves w/o Git | Creds | Cache boundary | Freeze |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | | | | |
-
-## Categories to consider
-
-- network-fetched inputs;
-- registry-derived inputs;
-- generated API/reference data;
-- environment-derived inputs;
-- tool-version-derived inputs;
-- search/index inputs;
-- other generated publication inputs.
+Production form workers, analytics, CAPTCHA, authentication/customer portal and private services are inventoried as boundaries rather than acquired credentials or exercised mutations. Offline replay denies outbound requests. External shops/Starlink/xAI/investor destinations remain external links, not inferred in-scope website source.

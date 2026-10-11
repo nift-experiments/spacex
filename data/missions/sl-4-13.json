@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "May 13, 2022",
+  "imageDesktop": "public/assets/media/Homepage_Starlink_4_13_20220513_IMG_8242_Desktop_1a1c11752b.jpg",
+  "imageMobile": "public/assets/media/Homepage_Starlink_4_13_20220513_IMG_8242_Mobile_d72c414f64.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 314,
+      "videoId": "bG6AwvGPd-E",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-4-13/left.html",
+  "rightProse": "prose/missions/sl-4-13/right.html"
+}

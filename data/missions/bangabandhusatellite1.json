@@ -1,0 +1,31 @@
+{
+  "title": "Bangabandhu Satellite-1 Mission",
+  "date": "May 11, 2018",
+  "imageDesktop": "public/assets/media/Bangabandhu_Desktop_e04fd8c5ad.jpg",
+  "imageMobile": "public/assets/media/Bangabandhu_Mobile_66602788ef.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [
+    {
+      "id": 550,
+      "videoId": "rQEqKZ7CJlk",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/bangabandhusatellite1/left.html",
+  "rightProse": "prose/missions/bangabandhusatellite1/right.html"
+}

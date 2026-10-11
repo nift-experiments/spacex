@@ -1,0 +1,20 @@
+{
+  "title": "SAOCOM 1B Mission",
+  "date": "August 30, 2020",
+  "imageDesktop": "public/assets/media/SAOCOM_1_Btowerh_IMG_8928_4f7c4c8f83.jpg",
+  "imageMobile": "public/assets/media/SAOCOM_1_Btowerv_IMG_7496_ebc1ab3b1c.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/saocom1b/left.html",
+  "rightProse": "prose/missions/saocom1b/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "NROL-145 Mission",
+  "date": "April 20, 2025",
+  "imageDesktop": "public/assets/media/NROL_145_Fig_Mtn_Streak_16mm_4344_Desktop_507fb33368.jpg",
+  "imageMobile": "public/assets/media/NROL_145_Fig_Mtn_Streak_16mm_4344_Mobile_e941ed8422.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 2,
+      "videoId": "1913284541386825875",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/nrol145/left.html",
+  "rightProse": "prose/missions/nrol145/right.html"
+}

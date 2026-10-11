@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "September 10, 2022",
+  "imageDesktop": "public/assets/media/HOMEPAGE_Starlink_4_2_091022_IMG_7951_DESKTOP_cccb58adc3.jpg",
+  "imageMobile": "public/assets/media/HOMEPAGE_Starlink_4_2_091022_IMG_7951_MOBILE_2_e89e051d20.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 141,
+      "videoId": "a2lxdOPyR3Q",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-4-2/left.html",
+  "rightProse": "prose/missions/sl-4-2/right.html"
+}

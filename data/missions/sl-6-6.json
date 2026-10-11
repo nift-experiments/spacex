@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "July 23, 2023",
+  "imageDesktop": "public/assets/media/Star6_6_DSC_6027_1_desktop_v2_96e35d0d64.jpg",
+  "imageMobile": "public/assets/media/Star6_6_DSC_6027_1_mobile_v2_eed7c6422c.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 569,
+      "videoId": "qvwF3P8eF6Q",
+      "streamingVideoType": null,
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-6-6/left.html",
+  "rightProse": "prose/missions/sl-6-6/right.html"
+}

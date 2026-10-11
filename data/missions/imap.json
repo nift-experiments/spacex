@@ -1,0 +1,209 @@
+{
+  "title": "IMAP Mission",
+  "date": "September 24, 2025",
+  "imageDesktop": "public/assets/media/IMAP_Wpondh_IMG_8198_desktop_44e34d4bf6.jpg",
+  "imageMobile": "public/assets/media/IMAP_Wpondv_IMG_5005_bd040b665b.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Watch",
+  "webcasts": [
+    {
+      "id": 1319,
+      "videoId": "1966511358624551177",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1393,
+    "title": "LAUNCH, LANDING, AND DEPLOYMENT",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 19351,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 19352,
+        "time": "00:02:29",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 19353,
+        "time": "00:02:32",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 19354,
+        "time": "00:02:40",
+        "description": "2nd stage engine starts "
+      },
+      {
+        "id": 19355,
+        "time": "00:03:12",
+        "description": "Fairing separation "
+      },
+      {
+        "id": 19356,
+        "time": "00:06:37",
+        "description": "1st stage entry burn start"
+      },
+      {
+        "id": 19357,
+        "time": "00:07:07",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 19358,
+        "time": "00:07:52",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 19359,
+        "time": "00:08:20",
+        "description": "1st stage landing burn start"
+      },
+      {
+        "id": 19360,
+        "time": "00:08:45",
+        "description": "1st stage landing "
+      },
+      {
+        "id": 19361,
+        "time": "01:12:28",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 19362,
+        "time": "01:13:30\t",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 19363,
+        "time": "01:23:51",
+        "description": "IMAP deploys"
+      },
+      {
+        "id": 19364,
+        "time": "01:30:26",
+        "description": "Space Weather Follow On-Lagrange 1 deploys"
+      },
+      {
+        "id": 19365,
+        "time": "01:36:46",
+        "description": "Carruthers Geocorona Observatory deploys"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp",
+  "infographicMobile": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_MOBILE_8043528837.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/IMAP_outside39abmoundh_IMG_6354_136b963d07.jpg",
+      "mobile": "public/assets/media/IMAP_outside39abmoundh_IMG_6354_136b963d07.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/IMAP_astrordsunrise_DSC_4768_43710517a6.jpg",
+      "mobile": "public/assets/media/IMAP_astrordsunrise_DSC_4768_43710517a6.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/IMAP_astrordsunrise_DSC_5425_d13732290f.jpg",
+      "mobile": "public/assets/media/IMAP_astrordsunrise_DSC_5425_d13732290f.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/IMAP_sunset_092225_DSC_4720_desktop_bdaf97d4cd.jpg",
+      "mobile": "public/assets/media/IMAP_sunset_092225_DSC_4720_desktop_bdaf97d4cd.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/IMAP_sunset_092225_DSC_4735_desktop_408c99d836.jpg",
+      "mobile": "public/assets/media/IMAP_sunset_092225_DSC_4735_desktop_408c99d836.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/IMAP_verticalsunrise_092225_DSC_4674_desktop_d3b288ac13.jpg",
+      "mobile": "public/assets/media/IMAP_verticalsunrise_092225_DSC_4674_desktop_d3b288ac13.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/imap/left.html",
+  "rightProse": "prose/missions/imap/right.html"
+}

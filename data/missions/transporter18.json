@@ -1,0 +1,534 @@
+{
+  "title": "Transporter-18 Mission",
+  "date": "October 01, 2026",
+  "imageDesktop": "public/assets/media/Transporter_18_San_Miguelito_Cyn_7753_Desktop_db1fff4df0.jpg",
+  "imageMobile": "public/assets/media/Transporter_18_San_Miguelito_Cyn_7753_Mobile_eff00f1fdc.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2858,
+      "videoId": "1RJjpbyQpOBKw",
+      "streamingVideoType": "x-live-studio",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2666,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 42716,
+        "time": "00:01:04",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 42717,
+        "time": "00:02:14",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 42718,
+        "time": "00:02:18",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 42719,
+        "time": "00:02:26",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 42720,
+        "time": "00:02:31",
+        "description": "Boostback burn starts"
+      },
+      {
+        "id": 42721,
+        "time": "00:02:56",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 42722,
+        "time": "00:03:25",
+        "description": "Boostback burn ends"
+      },
+      {
+        "id": 42723,
+        "time": "00:06:09",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 42724,
+        "time": "00:06:19",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 42725,
+        "time": "00:07:14",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 42726,
+        "time": "00:07:32",
+        "description": "1st stage landing"
+      },
+      {
+        "id": 42727,
+        "time": "00:08:24",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 42728,
+        "time": "00:50:56",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 42729,
+        "time": "00:51:00",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 42730,
+        "time": "00:54:24",
+        "description": "SPRITE deploys, manifested by NASA"
+      },
+      {
+        "id": 42731,
+        "time": "00:54:27",
+        "description": "UASAT-NANO deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42732,
+        "time": "00:54:30",
+        "description": "Sateliot_6 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42733,
+        "time": "00:54:34",
+        "description": "GHGSAT C19 Aidan deploys, manifested by SFL"
+      },
+      {
+        "id": 42734,
+        "time": "00:54:37",
+        "description": "Flock 4J-18 deploys, manifested by SEOPS"
+      },
+      {
+        "id": 42735,
+        "time": "00:54:40",
+        "description": "BRO-23 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42736,
+        "time": "00:54:43",
+        "description": "KENSAT deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42737,
+        "time": "00:54:47",
+        "description": "GHGSAT C18 Eleanor deploys, manifested by SFL"
+      },
+      {
+        "id": 42738,
+        "time": "00:54:50",
+        "description": "FOREST-20 Araucaria deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42739,
+        "time": "00:54:53",
+        "description": "LEMUR-2-WHITEHOTCREW deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42740,
+        "time": "00:55:06",
+        "description": "LEMUR-2-MDQURESHI deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42741,
+        "time": "00:55:10",
+        "description": "AE4La deploys, manifested by SEOPS"
+      },
+      {
+        "id": 42742,
+        "time": "00:55:12",
+        "description": "CRIMSON-1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42743,
+        "time": "00:55:23",
+        "description": "Sateliot_5 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42744,
+        "time": "00:55:29",
+        "description": "GYEONGGISat-2A deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42745,
+        "time": "00:55:33",
+        "description": "Flock 4J-17 deploys, manifested by SEOPS"
+      },
+      {
+        "id": 42746,
+        "time": "00:55:36",
+        "description": "JACK-006 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42747,
+        "time": "00:55:39",
+        "description": "Tomorrow-S12 deploys, manifested by Tomorrow.io Companies Inc."
+      },
+      {
+        "id": 42748,
+        "time": "00:55:43",
+        "description": "LEMUR-2-VARUN deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42749,
+        "time": "00:55:50",
+        "description": "Tomorrow-S13 deploys, manifested by Tomorrow.io Companies Inc."
+      },
+      {
+        "id": 42750,
+        "time": "00:55:56",
+        "description": "Sateliot_8 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42751,
+        "time": "00:56:00",
+        "description": "GOMX-5 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42752,
+        "time": "00:56:06",
+        "description": "Sateliot_7 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42753,
+        "time": "00:56:09",
+        "description": "ASCENT Propulsion Dual Mode deploys, manifested by NASA"
+      },
+      {
+        "id": 42754,
+        "time": "00:56:14",
+        "description": "IRIDE-MS1-EAGLET-2-20 deploys, manifested by OHB Italia"
+      },
+      {
+        "id": 42755,
+        "time": "00:56:18",
+        "description": "IRIDE-MS1-EAGLET-2-18 deploys, manifested by OHB Italia"
+      },
+      {
+        "id": 42756,
+        "time": "00:56:22",
+        "description": "IRIDE-MS1-EAGLET-2-22 deploys, manifested by OHB Italia"
+      },
+      {
+        "id": 42757,
+        "time": "00:56:26",
+        "description": "eLEAF-01 deploys, manifested by SEOPS"
+      },
+      {
+        "id": 42758,
+        "time": "00:56:26",
+        "description": "Blackwing Space Baby Bird deploys, manifested by SEOPS"
+      },
+      {
+        "id": 42759,
+        "time": "00:56:52",
+        "description": "Terra Nova deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42760,
+        "time": "00:56:57",
+        "description": "Watchdog v0-A deploys, manifested by Maverick Space Systems"
+      },
+      {
+        "id": 42761,
+        "time": "00:57:02",
+        "description": "IRIDE-MS1-EAGLET-2-21 deploys, manifested by OHB Italia"
+      },
+      {
+        "id": 42762,
+        "time": "00:57:14",
+        "description": "IRIDE-MS1-EAGLET-2-24 deploys, manifested by OHB Italia"
+      },
+      {
+        "id": 42763,
+        "time": "00:57:29",
+        "description": "Sateliot_9 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42764,
+        "time": "00:57:33",
+        "description": "IRIDE-MS1-EAGLET-2-19 deploys, manifested by OHB Italia"
+      },
+      {
+        "id": 42765,
+        "time": "00:57:39",
+        "description": "HERMES deploys, manifested by SEOPS"
+      },
+      {
+        "id": 42766,
+        "time": "00:57:43",
+        "description": "IRIDE-MS1-EAGLET-2-23 deploys, manifested by OHB Italia"
+      },
+      {
+        "id": 42767,
+        "time": "00:57:52",
+        "description": "Watchdog v0-MK deploys, manifested by Maverick Space Systems"
+      },
+      {
+        "id": 42768,
+        "time": "00:57:55",
+        "description": "BRO-32 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42769,
+        "time": "00:58:00",
+        "description": "MERIDIAN FCL deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42770,
+        "time": "00:58:05",
+        "description": "ICEYE-2 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42771,
+        "time": "00:58:26",
+        "description": "DHRUVA SPACE LEAP-2 deploys, manifested by DHRUVA SPACE PRIVATE LIMITED "
+      },
+      {
+        "id": 42772,
+        "time": "00:58:28",
+        "description": "IRIDE-MS1-EAGLET-2-17 deploys, manifested by OHB Italia"
+      },
+      {
+        "id": 42773,
+        "time": "00:58:41",
+        "description": "Merlin-1 deploys, manifested by Satellogic"
+      },
+      {
+        "id": 42774,
+        "time": "00:58:50",
+        "description": "ICEYE-3 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42775,
+        "time": "00:59:02",
+        "description": "GuaraniSat-2 deploys, manifested by SEOPS"
+      },
+      {
+        "id": 42776,
+        "time": "00:59:09",
+        "description": "ION SCV Absolute Andreas deploys, manifested by D-Orbit"
+      },
+      {
+        "id": 42777,
+        "time": "00:59:20",
+        "description": "Newsat-57 deploys, manifested by Satellogic"
+      },
+      {
+        "id": 42778,
+        "time": "00:59:30",
+        "description": "Newsat-64 deploys, manifested by Satellogic"
+      },
+      {
+        "id": 42779,
+        "time": "00:59:34",
+        "description": "GNOMES-10 deploys, manifested by Muon Space"
+      },
+      {
+        "id": 42780,
+        "time": "00:59:38",
+        "description": "STUART deploys, manifested by D-Orbit S.p.A."
+      },
+      {
+        "id": 42781,
+        "time": "00:59:48",
+        "description": "Newsat-56 deploys, manifested by Satellogic"
+      },
+      {
+        "id": 42782,
+        "time": "00:59:55",
+        "description": "Project Suncatcher M1 deploys, manifested by Planet Labs"
+      },
+      {
+        "id": 42783,
+        "time": "01:00:01",
+        "description": "Element-1 deploys, manifested by CesiumAstro"
+      },
+      {
+        "id": 42784,
+        "time": "01:00:11",
+        "description": "ION SCV Alluring Alexander deploys, manifested by D-Orbit"
+      },
+      {
+        "id": 42785,
+        "time": "01:00:21",
+        "description": "KEVIN deploys, manifested by D-Orbit S.p.A."
+      },
+      {
+        "id": 42786,
+        "time": "01:00:31",
+        "description": "Athene 1 Seranis Mission deploys, manifested by OHB Orbital Access"
+      },
+      {
+        "id": 42787,
+        "time": "01:00:47",
+        "description": "Altair-1 deploys, manifested by Loft Orbital"
+      },
+      {
+        "id": 42788,
+        "time": "01:00:55",
+        "description": "F2G1 deploys, manifested by BAE Systems"
+      },
+      {
+        "id": 42789,
+        "time": "01:01:10",
+        "description": "OSSIE deploys, manifested by UARX Space"
+      },
+      {
+        "id": 42790,
+        "time": "01:01:21",
+        "description": "ICEYE-4 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42791,
+        "time": "01:01:24",
+        "description": "SSPICY Otter deploys, manifested by Starfish Space"
+      },
+      {
+        "id": 42792,
+        "time": "01:02:00",
+        "description": "BOB deploys, manifested by D-Orbit S.p.A."
+      },
+      {
+        "id": 42793,
+        "time": "01:02:25",
+        "description": "HotSat-3 deploys, manifested by Global SatelliteVu Ltd."
+      },
+      {
+        "id": 42794,
+        "time": "01:02:45",
+        "description": "ION SCV Empowering Ekaterina deploys, manifested by D-Orbit"
+      },
+      {
+        "id": 42795,
+        "time": "01:02:50",
+        "description": "ICEYE-1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 42796,
+        "time": "01:04:05",
+        "description": "Reason-1 deploys, manifested by Cowboy Space Corporation"
+      },
+      {
+        "id": 42797,
+        "time": "01:04:13",
+        "description": "Tanager-2 deploys, manifested by Planet Labs"
+      },
+      {
+        "id": 42798,
+        "time": "01:04:54",
+        "description": "Star Catcher Protostar deploys, manifested by Star Catcher"
+      },
+      {
+        "id": 42799,
+        "time": "01:04:59",
+        "description": "W-9 deploys, manifested by Varda Space Industries"
+      },
+      {
+        "id": 42800,
+        "time": "01:05:17",
+        "description": "W-8 deploys, manifested by Varda Space Industries"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_LANDING_ZONE_DESKTOP_34a3d0ee3c.webp",
+  "infographicMobile": "public/assets/media/F9_LANDING_ZONE_MOBILE_ab942c922a.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Transporter_18_San_Miguelito_Cyn_7847_Desktop_32a0c6c79a.jpg",
+      "mobile": "public/assets/media/Transporter_18_San_Miguelito_Cyn_7847_Mobile_ec2dba00d7.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/transporter18/left.html",
+  "rightProse": "prose/missions/transporter18/right.html"
+}

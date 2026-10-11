@@ -1,0 +1,31 @@
+{
+  "title": "SARah-1 Mission",
+  "date": "June 18, 2022",
+  "imageDesktop": "public/assets/media/DESKTOP_homepage_a79e49c855.jpg",
+  "imageMobile": "public/assets/media/MOBILE_fa54b20843.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 56,
+      "videoId": "lCX-KUCn4A4",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sarah1/left.html",
+  "rightProse": "prose/missions/sarah1/right.html"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Arabsat-6A Mission",
+  "date": "April 11, 2019",
+  "imageDesktop": "public/assets/media/Arabsat_6_A_Desktop_7802366dde.jpg",
+  "imageMobile": "public/assets/media/Arabsat_6_A_Mobile2_db6b4ebceb.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 889,
+      "videoId": "TXMGu2d8c8g",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Arabsat_6_A_Desktop2_5a19ae3ece.jpg",
+      "mobile": "public/assets/media/Arabsat_6_A_Mobile_e3bb14a0fe.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/arabsat6a/left.html",
+  "rightProse": "prose/missions/arabsat6a/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Starship's Sixth Flight Test",
+  "date": "November 19, 2024",
+  "imageDesktop": "public/assets/media/Flight_06_Launch_Snchz_Tracking_20241119_DSC_05744_website_H_61b601fd9d.jpg",
+  "imageMobile": "public/assets/media/Flight_06_Launch_Snchz_Tracking_20241119_DSC_05744_website_H_61b601fd9d.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 743,
+      "videoId": "1857622520154960080",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-flight-6/left.html",
+  "rightProse": "prose/missions/starship-flight-6/right.html"
+}

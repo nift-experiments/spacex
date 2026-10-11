@@ -1,0 +1,31 @@
+{
+  "title": "COTS 2+ Mission",
+  "date": "May 22, 2012",
+  "imageDesktop": "public/assets/media/COTS_2_Desktop_91d2c2dad2.jpg",
+  "imageMobile": "public/assets/media/COTS_2_Mobile_2f2556ab5f.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 991,
+      "videoId": "y_4-TOcVegM",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/cots2/left.html",
+  "rightProse": "prose/missions/cots2/right.html"
+}

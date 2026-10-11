@@ -1,0 +1,171 @@
+{
+  "scope": "User-approved additional MP4 metadata ranges only; complete downloads remain remote-referenced",
+  "rangeCount": 18,
+  "totalBytes": 130165182,
+  "maximumRangeBytes": 21745283,
+  "verified": "Exact size, SHA-256 and original HTTP 206 Content-Range checked for every range",
+  "durationCount": 28,
+  "ranges": [
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_January_2024_720P.mp4",
+      "start": 24,
+      "end": 2670528,
+      "bytes": 2670505,
+      "sha256": "221eb35f26eea2535181d621d6564bbe23fb33002cd207d709c0098968983b8e",
+      "durationSeconds": 3539.4133333333334
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024_720P.mp4",
+      "start": 370454494,
+      "end": 373373828,
+      "bytes": 2919335,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "b7b18687b1f1f35fe26ae07f03a474dd4796c92e6399d46076423765ade5a4d6",
+      "durationSeconds": 2659.947
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022_720P.mp4",
+      "start": 572028048,
+      "end": 577246947,
+      "bytes": 5218900,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "cab58aca840252f9242e06ca07b6c704e54f08c9fbf04918086e9abc0c6d2172",
+      "durationSeconds": 4845.053
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019_720P.mp4",
+      "start": 674103735,
+      "end": 679582878,
+      "bytes": 5479144,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "a79bd6bbb974ddf1dd4215a9b820581cdd6d2e5b4a23c52862fc8e8f630c13ac",
+      "durationSeconds": 5129.497
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10_720P.mp4",
+      "start": 1350588620,
+      "end": 1361886175,
+      "bytes": 11297556,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "2821c22890754668f0176179f77832b078de1b09c93380c7f3595be4679cdcf6",
+      "durationSeconds": 7089.92
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11_720P.mp4",
+      "start": 1022953568,
+      "end": 1029472071,
+      "bytes": 6518504,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "8a49ee988d34898db108663d7af52bf17638b73cc3f58c48f55a01dde82d16d9",
+      "durationSeconds": 5939.67
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12_720P.mp4",
+      "start": 1491622919,
+      "end": 1501374306,
+      "bytes": 9751388,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "1ddfbc5b6cd21e5e88e8e3d39da1bffd2ef980a985539d3c8a15c50c5e9a15ed",
+      "durationSeconds": 6124.416
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13_720P.mp4",
+      "start": 1926640991,
+      "end": 1936711725,
+      "bytes": 10070735,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "b2381db6bcbd2bc585037d13bff392c105082a1dd99e44abfc2cdb580c96f797",
+      "durationSeconds": 6325.142
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14_720P.mp4",
+      "start": 2561982099,
+      "end": 2583727381,
+      "bytes": 21745283,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "704813cdea0f0440e3bc526f176e49a2758d8abdceea85d63a20c0686c82a234",
+      "durationSeconds": 13664.896
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1_720P.mp4",
+      "start": 343090561,
+      "end": 346243913,
+      "bytes": 3153353,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "5dc0a52971b5758d6bd992cb6fd8614c73722ab8f9e4f0f86a10570ff5ea9c83",
+      "durationSeconds": 2865.6
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2_720P.mp4",
+      "start": 360687280,
+      "end": 365595987,
+      "bytes": 4908708,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "326cea36e65859a46168ab1fbc2b59d3da04e38d82d52b44b56ccca332d19179",
+      "durationSeconds": 3079.062
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3_720P.mp4",
+      "start": 802304352,
+      "end": 808939320,
+      "bytes": 6634969,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "227ef7dde80fae8ce600be109a9d880c4dedc6112876c9a2114517d4c647700f",
+      "durationSeconds": 6079.318
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4_720P.mp4",
+      "start": 682613989,
+      "end": 692581808,
+      "bytes": 9967820,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "20fd236c942b59b44d25f2ad47e064c2e72ec428bb5da24ce0ecde3ad43d6b6a",
+      "durationSeconds": 6254.55
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5_720P.mp4",
+      "start": 904876098,
+      "end": 911536698,
+      "bytes": 6660601,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "c7f7ef25578c2e7700dd4e103d022902793977280b46d4c4ca8c92db598fe3c5",
+      "durationSeconds": 6135.979
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_6_720P.mp4",
+      "start": 1049679920,
+      "end": 1056448679,
+      "bytes": 6768760,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "b20600324cd65db3c6ae1dd1dc05ddb7af09b2ccaa48e45b69b8d7711844ec3d",
+      "durationSeconds": 6248.043
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7_720P.mp4",
+      "start": 635863275,
+      "end": 641667094,
+      "bytes": 5803820,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "2a4dfd17bf5292456c24e83753968efaa686eadbd96d8e75b8309bc82d5ffce8",
+      "durationSeconds": 3641.814
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8_720P.mp4",
+      "start": 523387471,
+      "end": 527731150,
+      "bytes": 4343680,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "5041364fca4ac539118546947e3b8f6474302f7c8b1078ae4eafd87ebb329dfa",
+      "durationSeconds": 2725.056
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9_720P.mp4",
+      "start": 1098052502,
+      "end": 1104304622,
+      "bytes": 6252121,
+      "basis": "Top-level metadata after the declared mdat payload",
+      "sha256": "b2987ebfb5c463e3e3f7ab85b38cac0c153bcd8723be2b69803f170da4545b47",
+      "durationSeconds": 5733.943
+    }
+  ]
+}

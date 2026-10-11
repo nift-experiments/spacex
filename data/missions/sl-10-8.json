@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "October 26, 2024",
+  "imageDesktop": "public/assets/media/STL_10_8_LIFT_20241026_DESKTOP_2_c51d061a29.jpg",
+  "imageMobile": "public/assets/media/STL_10_8_LIFT_20241026_DESKTOP_2_c51d061a29.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 779,
+      "videoId": "1849826029457850538",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-10-8/left.html",
+  "rightProse": "prose/missions/sl-10-8/right.html"
+}

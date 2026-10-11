@@ -1,0 +1,20 @@
+{
+  "title": "PACE MISSION",
+  "date": "February 08, 2024",
+  "imageDesktop": "public/assets/media/PACE_enginecurb_DSC_0326_desktiop_2b518fcbc7.jpg",
+  "imageMobile": "public/assets/media/PACE_enginecurb_DSC_0328_mobile_f8c6989632.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/pace/left.html",
+  "rightProse": "prose/missions/pace/right.html"
+}

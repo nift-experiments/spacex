@@ -1,0 +1,3553 @@
+[
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary-1080p.m3u8",
+    "filename": "Making_Life_Multiplanetary-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/making-life-multiplanetary",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Making Life Multiplanetary"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 74663,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083217E21A5\"",
+    "lastModified": "Wed, 22 Apr 2026 15:23:39 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "f4f49358853bca1d3878048782ed89bb27f59996abc180aeec8f0dd04b6d3801",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary-1080p.m3u8",
+    "preservedBytes": 74663,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary-720p.m3u8",
+    "filename": "Making_Life_Multiplanetary-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/making-life-multiplanetary",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Making Life Multiplanetary"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 73359,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083C7CBD419\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:18 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "da3eb54a2e5c37eef8c1b09ca88eeeb257bd296368130e2e9b52bc6c6cc360d0",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary-720p.m3u8",
+    "preservedBytes": 73359,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary.m3u8",
+    "filename": "Making_Life_Multiplanetary.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/making-life-multiplanetary",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Making Life Multiplanetary"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 277,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083D2960A69\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:36 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "3726e3561cb365b8e04628812dbdb002dad5e9d79fa7e599477a2e42b20aa249",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary.m3u8",
+    "preservedBytes": 277,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary_1080P.mp4",
+    "filename": "Making_Life_Multiplanetary_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/making-life-multiplanetary",
+        "mediaRole": "fhdLink",
+        "linkText": "Making Life Multiplanetary"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 410838682,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA082BC304A10\"",
+    "lastModified": "Wed, 22 Apr 2026 15:20:49 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary_720P.mp4",
+    "filename": "Making_Life_Multiplanetary_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/making-life-multiplanetary",
+        "mediaRole": "hdLink",
+        "linkText": "Making Life Multiplanetary"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 182272077,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083D41200F3\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:39 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026-1080p.m3u8",
+    "filename": "Mars_2026-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/mars-2026",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Mars 2026"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 51101,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0834B46DA3C\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:49 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "4cbd8673e0dfc3751332981f6f0ffee7e9b36b1997cadc4efea9048b01024858",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026-1080p.m3u8",
+    "preservedBytes": 51101,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026-720p.m3u8",
+    "filename": "Mars_2026-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/mars-2026",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Mars 2026"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 49831,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083DD5B63AF\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:54 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "e57fcb8c85dfa1757848972f5e61c865aad69647160bb9e4e2a70cac64fefbe0",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026-720p.m3u8",
+    "preservedBytes": 49831,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026.m3u8",
+    "filename": "Mars_2026.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/mars-2026",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Mars 2026"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 243,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083DD94E1A8\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:55 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "f7690a0aa667bc464328b3c253cbb743a55f2b73ceb00332e1d70140e7342312",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026.m3u8",
+    "preservedBytes": 243,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026_1080P.mp4",
+    "filename": "Mars_2026_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/mars-2026",
+        "mediaRole": "fhdLink",
+        "linkText": "Mars 2026"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1311329268,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083497DCB61\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:46 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026_720P.mp4",
+    "filename": "Mars_2026_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/mars-2026",
+        "mediaRole": "hdLink",
+        "linkText": "Mars 2026"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 407671649,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0836D47CB05\"",
+    "lastModified": "Wed, 22 Apr 2026 15:25:46 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024-1080p.m3u8",
+    "filename": "Starship_Update_April_2024-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-april-2024",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 76171,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083DED0F512\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:57 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "14f787782e40574b924d5680fabaaed0e339557dd65143c15d1220c0981d89bd",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024-1080p.m3u8",
+    "preservedBytes": 76171,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024-720p.m3u8",
+    "filename": "Starship_Update_April_2024-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-april-2024",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 74841,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0846E8E2D8B\"",
+    "lastModified": "Wed, 22 Apr 2026 15:32:58 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "09303c6d6dc4e10c9ad37b93de52c7f5d104089e6696f7525a396392254d128c",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024-720p.m3u8",
+    "preservedBytes": 74841,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024.m3u8",
+    "filename": "Starship_Update_April_2024.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-april-2024",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 277,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083495A4351\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:46 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "5899f6cdd385228464a61101cd53d1a34b7214331feeb7e6bc5141b93f0603fe",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024.m3u8",
+    "preservedBytes": 277,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024_1080P.mp4",
+    "filename": "Starship_Update_April_2024_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-april-2024",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 340170604,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA082CBF096F0\"",
+    "lastModified": "Wed, 22 Apr 2026 15:21:16 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024_720P.mp4",
+    "filename": "Starship_Update_April_2024_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-april-2024",
+        "mediaRole": "hdLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 373373829,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA082BBC5320F\"",
+    "lastModified": "Wed, 22 Apr 2026 15:20:48 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022-1080p.m3u8",
+    "filename": "Starship_Update_February_2022-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-february-2022",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 146773,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08496C7A50F\"",
+    "lastModified": "Wed, 22 Apr 2026 15:34:05 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "821f3afbf6865447387b56a787df1a2ba648e1e7650ba31ce5c564c4c13a326b",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022-1080p.m3u8",
+    "preservedBytes": 146773,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022-720p.m3u8",
+    "filename": "Starship_Update_February_2022-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-february-2022",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 144351,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0849B5282B5\"",
+    "lastModified": "Wed, 22 Apr 2026 15:34:13 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "209380a331f6c037b2c00d2abd78053b929bb92c3aa64b2120df86eae4ca7e19",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022-720p.m3u8",
+    "preservedBytes": 144351,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022.m3u8",
+    "filename": "Starship_Update_February_2022.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-february-2022",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 283,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084BD083B54\"",
+    "lastModified": "Wed, 22 Apr 2026 15:35:10 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "2ceac6e73ff954a95184ee74f6eed1c7a6df2ec54401cfb3502388064aa4d187",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022.m3u8",
+    "preservedBytes": 283,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022_1080P.mp4",
+    "filename": "Starship_Update_February_2022_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-february-2022",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1413717487,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0836A5551C3\"",
+    "lastModified": "Wed, 22 Apr 2026 15:25:41 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022_720P.mp4",
+    "filename": "Starship_Update_February_2022_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-february-2022",
+        "mediaRole": "hdLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 577246948,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083326B640F\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:08 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_January_2024/Starship_Update_January_2024-720p.m3u8",
+    "filename": "Starship_Update_January_2024-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-january-2024",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 103461,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08347BA1B9A\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:43 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "338f97be70751f8bf705e26710012c101a613c9f589fe4a2cf6967b2f78b0e00",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_January_2024/Starship_Update_January_2024-720p.m3u8",
+    "preservedBytes": 103461,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_January_2024/Starship_Update_January_2024.m3u8",
+    "filename": "Starship_Update_January_2024.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-january-2024",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 152,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083D2E8E6A5\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:37 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "cd99635440c610e0c02fddbd86b25482a65ba5f51b92bab297f1e3884dca45e2",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_January_2024/Starship_Update_January_2024.m3u8",
+    "preservedBytes": 152,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_January_2024_720P.mp4",
+    "filename": "Starship_Update_January_2024_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-january-2024",
+        "mediaRole": "hdLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 289619304,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083344BE672\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:11 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019-1080p.m3u8",
+    "filename": "Starship_Update_September_2019-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-september-2019",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 158061,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0848CC66C65\"",
+    "lastModified": "Wed, 22 Apr 2026 15:33:49 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "37814ebc752aa1a8bf3ba3e69d998509a786c34add6484d541ee8d4b79508472",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019-1080p.m3u8",
+    "preservedBytes": 158061,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019-720p.m3u8",
+    "filename": "Starship_Update_September_2019-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-september-2019",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 155496,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084A106057C\"",
+    "lastModified": "Wed, 22 Apr 2026 15:34:23 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "eef75f8076d9ac81d407c1a657fd88485d587beb1bedefe11794c2781410392b",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019-720p.m3u8",
+    "preservedBytes": 155496,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019.m3u8",
+    "filename": "Starship_Update_September_2019.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-september-2019",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 285,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084C222779E\"",
+    "lastModified": "Wed, 22 Apr 2026 15:35:18 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "4cc2e1d66760a357860b616af39937449e4d4cf73807ed6fee4405efc2f4e91b",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019.m3u8",
+    "preservedBytes": 285,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019_1080P.mp4",
+    "filename": "Starship_Update_September_2019_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-september-2019",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 779961151,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08321CB2F4B\"",
+    "lastModified": "Wed, 22 Apr 2026 15:23:40 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019_720P.mp4",
+    "filename": "Starship_Update_September_2019_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-talks/starship-update-september-2019",
+        "mediaRole": "hdLink",
+        "linkText": "Starship Update"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 679582879,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0834B45F001\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:49 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/20260424_StarshipDoc_Ep001_FINAL_FF3_720P.mp4",
+    "filename": "20260424_StarshipDoc_Ep001_FINAL_FF3_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship/test-like-you-fly",
+        "mediaRole": "hdLink",
+        "linkText": "Test Like You Fly"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 333987705,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA24915F036B7\"",
+    "lastModified": "Fri, 24 Apr 2026 21:33:11 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/Documentary_1080P.mp4",
+    "filename": "Documentary_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship/test-like-you-fly",
+        "mediaRole": "fhdLink",
+        "linkText": "Test Like You Fly"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 671159209,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA249166DAFC4\"",
+    "lastModified": "Fri, 24 Apr 2026 21:33:12 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/Documentary_4K.mp4",
+    "filename": "Documentary_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship/test-like-you-fly",
+        "mediaRole": "uhdLink",
+        "linkText": "Test Like You Fly"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 6590957623,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA2490DE8A163\"",
+    "lastModified": "Fri, 24 Apr 2026 21:32:58 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-1080p.m3u8",
+    "filename": "StarshipDoc_Ep001-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/test-like-you-fly",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Test Like You Fly"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 35887,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA24908CC195A\"",
+    "lastModified": "Fri, 24 Apr 2026 21:32:49 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "e4b9c6900d6b43e7b984949b387562677c3ff7233f3cdf42d0019594159b445c",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-1080p.m3u8",
+    "preservedBytes": 35887,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-4k.m3u8",
+    "filename": "StarshipDoc_Ep001-4k.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/test-like-you-fly",
+        "mediaRole": "uhdStreamingLink",
+        "linkText": "Test Like You Fly"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 33646,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA248FAEDF9A2\"",
+    "lastModified": "Fri, 24 Apr 2026 21:32:26 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "60ee3ef2483bc4459073011cc112dc856bd08716048790182ade157ac5ce9a51",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-4k.m3u8",
+    "preservedBytes": 33646,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-720p.m3u8",
+    "filename": "StarshipDoc_Ep001-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/test-like-you-fly",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Test Like You Fly"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 35140,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA2491594A31E\"",
+    "lastModified": "Fri, 24 Apr 2026 21:33:11 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "ffdbc8fc7578fa96d2cd7ca829d6c2c0616908f46be27344c5cbb6f49b402db5",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-720p.m3u8",
+    "preservedBytes": 35140,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001.m3u8",
+    "filename": "StarshipDoc_Ep001.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/test-like-you-fly",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Test Like You Fly"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 375,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA24908757B13\"",
+    "lastModified": "Fri, 24 Apr 2026 21:32:49 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "a16c617993065bbf5d910272e7f52dfd4180deba217e108c6b8a3c3dceafa36c",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001.m3u8",
+    "preservedBytes": 375,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-1080p.m3u8",
+    "filename": "StarshipDoc_Ep002-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/critical-path",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Critical Path"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 49403,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEDE8A5D68FF99\"",
+    "lastModified": "Fri, 10 Jul 2026 13:51:38 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "e0d94dd071d74d6612b10faef0364181f857031af9a8bdb5ac40e721d189ea67",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-1080p.m3u8",
+    "preservedBytes": 49403,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-4k.m3u8",
+    "filename": "StarshipDoc_Ep002-4k.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/critical-path",
+        "mediaRole": "uhdStreamingLink",
+        "linkText": "Critical Path"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 46319,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEDE8A5DF94FA1\"",
+    "lastModified": "Fri, 10 Jul 2026 13:51:39 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "71c2d61fbed553be91f94ec9a3f0cb4d30ef53b213fe4f80fb4bbe99cddc6ff1",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-4k.m3u8",
+    "preservedBytes": 46319,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-720p.m3u8",
+    "filename": "StarshipDoc_Ep002-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/critical-path",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Critical Path"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 48375,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEDE8A5DE6BB9E\"",
+    "lastModified": "Fri, 10 Jul 2026 13:51:39 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "a52f43e52e594be61a2480d999800dd49c073f5fd5be45552eb362dbee4b3fe2",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-720p.m3u8",
+    "preservedBytes": 48375,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002.m3u8",
+    "filename": "StarshipDoc_Ep002.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/critical-path",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Critical Path"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 375,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEDE8A5F58B83A\"",
+    "lastModified": "Fri, 10 Jul 2026 13:51:41 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "10c0f0617b9dd640e8bcd8d897e43cd4e00869788c85605d0a5cdadf3aac6290",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002.m3u8",
+    "preservedBytes": 375,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002_1080P.mp4",
+    "filename": "StarshipDoc_Ep002_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship/critical-path",
+        "mediaRole": "fhdLink",
+        "linkText": "Critical Path"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 945539520,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEDE8A7191E367\"",
+    "lastModified": "Fri, 10 Jul 2026 13:52:12 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002_4K.mp4",
+    "filename": "StarshipDoc_Ep002_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship/critical-path",
+        "mediaRole": "uhdLink",
+        "linkText": "Critical Path"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 6504117536,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEDE8A70F63846\"",
+    "lastModified": "Fri, 10 Jul 2026 13:52:11 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002_720P.mp4",
+    "filename": "StarshipDoc_Ep002_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship/critical-path",
+        "mediaRole": "hdLink",
+        "linkText": "Critical Path"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 473025958,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEDE8A6A325160\"",
+    "lastModified": "Fri, 10 Jul 2026 13:52:00 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-1080p.m3u8",
+    "filename": "StarshipDoc_Ep003-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/holy-grail-of-rocketry",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Holy Grail Of Rocketry"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 41023,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF145E6E3BE047\"",
+    "lastModified": "Thu, 17 Sep 2026 01:53:11 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "7879840b2c5a3ebd6629faa0680a4247b39d95e5e1df1d50d547ee46e05a8971",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-1080p.m3u8",
+    "preservedBytes": 41023,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-4k.m3u8",
+    "filename": "StarshipDoc_Ep003-4k.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/holy-grail-of-rocketry",
+        "mediaRole": "uhdStreamingLink",
+        "linkText": "Holy Grail Of Rocketry"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 38506,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF145E6E39BDBB\"",
+    "lastModified": "Thu, 17 Sep 2026 01:53:11 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "8fc0421ffb376bbd929d398cea3ccbef5be6f10bac670c67dd2ca4d14d2c25ae",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-4k.m3u8",
+    "preservedBytes": 38506,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-720p.m3u8",
+    "filename": "StarshipDoc_Ep003-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship/holy-grail-of-rocketry",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Holy Grail Of Rocketry"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 40169,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF145E711438B1\"",
+    "lastModified": "Thu, 17 Sep 2026 01:53:16 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "317fbc243e037e47f64a2c3ae473b7de284688e097a61ae0c70a5a2f49affee7",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-720p.m3u8",
+    "preservedBytes": 40169,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003_1080P.mp4",
+    "filename": "StarshipDoc_Ep003_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship/holy-grail-of-rocketry",
+        "mediaRole": "fhdLink",
+        "linkText": "Holy Grail Of Rocketry"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1207820250,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF145E1EF5C5E1\"",
+    "lastModified": "Thu, 17 Sep 2026 01:50:58 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003_4K.mp4",
+    "filename": "StarshipDoc_Ep003_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship/holy-grail-of-rocketry",
+        "mediaRole": "uhdLink",
+        "linkText": "Holy Grail Of Rocketry"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 7533097590,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF145E597CD0B4\"",
+    "lastModified": "Thu, 17 Sep 2026 01:52:37 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003_720P.mp4",
+    "filename": "StarshipDoc_Ep003_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship/holy-grail-of-rocketry",
+        "mediaRole": "hdLink",
+        "linkText": "Holy Grail Of Rocketry"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 599868288,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF145E11E5911F\"",
+    "lastModified": "Thu, 17 Sep 2026 01:50:36 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1/Flight_1-1080p.m3u8",
+    "filename": "Flight_1-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-1",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship's First Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 56351,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08489195DEE\"",
+    "lastModified": "Wed, 22 Apr 2026 15:33:42 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "998e703ebc95b9b4df729f61439f1095285d3dafee6f07d501295b5dec384315",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1/Flight_1-1080p.m3u8",
+    "preservedBytes": 56351,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1/Flight_1-720p.m3u8",
+    "filename": "Flight_1-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-1",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship's First Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 54918,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0849F671988\"",
+    "lastModified": "Wed, 22 Apr 2026 15:34:20 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "b9dfab99c1f17e95c2f4cf1e93bbec0616327adb19894080c1383613ae860bda",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1/Flight_1-720p.m3u8",
+    "preservedBytes": 54918,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1/Flight_1.m3u8",
+    "filename": "Flight_1.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-1",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship's First Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 348,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084B4AB91D7\"",
+    "lastModified": "Wed, 22 Apr 2026 15:34:56 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "3d3b64d258db8452d1fbd9b2e30766c66508a6129cd42de0fc7a8eac4788cd89",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1/Flight_1.m3u8",
+    "preservedBytes": 348,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10-1080p.m3u8",
+    "filename": "Flight_10-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-10",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship\u2019s Tenth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 144376,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF12A31993A983\"",
+    "lastModified": "Mon, 14 Sep 2026 20:59:42 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "530d9b0befd2413e3eb4984ff88da9431b10b4fd1932409cbeecd2edfcb719bf",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10-1080p.m3u8",
+    "preservedBytes": 144376,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10-4k.m3u8",
+    "filename": "Flight_10-4k.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-10",
+        "mediaRole": "uhdStreamingLink",
+        "linkText": "Starship\u2019s Tenth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 133741,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF12A319F04A9E\"",
+    "lastModified": "Mon, 14 Sep 2026 20:59:43 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "8ceca7a62c008ce42f0e76d5c51d675c938581304b637426badbdbbfc9ea54fc",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10-4k.m3u8",
+    "preservedBytes": 133741,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10-720p.m3u8",
+    "filename": "Flight_10-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-10",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship\u2019s Tenth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 140831,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF12A31878604A\"",
+    "lastModified": "Mon, 14 Sep 2026 20:59:40 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "92398c586346d02777e2259cc5f4de83e97a574838e30458343d9d85d14efb3a",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10-720p.m3u8",
+    "preservedBytes": 140831,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10.m3u8",
+    "filename": "Flight_10.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-10",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship\u2019s Tenth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 351,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF12A318FD0D41\"",
+    "lastModified": "Mon, 14 Sep 2026 20:59:41 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "82e496ed2b77480552bfc8c77ae796b180394b6213df8213f7984aa4ed1b0e62",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10.m3u8",
+    "preservedBytes": 351,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10_1080P.mp4",
+    "filename": "Flight_10_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-10",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship\u2019s Tenth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 2517177010,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083D9C367CE\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:48 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10_4K.mp4",
+    "filename": "Flight_10_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-10",
+        "mediaRole": "uhdLink",
+        "linkText": "Starship\u2019s Tenth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 42821977091,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF12A41D241E57\"",
+    "lastModified": "Mon, 14 Sep 2026 21:06:58 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10_720P.mp4",
+    "filename": "Flight_10_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-10",
+        "mediaRole": "hdLink",
+        "linkText": "Starship\u2019s Tenth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1361886176,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08433FB53AF\"",
+    "lastModified": "Wed, 22 Apr 2026 15:31:20 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11-1080p.m3u8",
+    "filename": "Flight_11-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-11",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship\u2019s Eleventh Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 120801,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF133B61591A92\"",
+    "lastModified": "Tue, 15 Sep 2026 15:09:46 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "1f45d30c9bdf7be9bb92c7ced3d2113dbe145077a5386d10ea028656f6fbf931",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11-1080p.m3u8",
+    "preservedBytes": 120801,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11-4k.m3u8",
+    "filename": "Flight_11-4k.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-11",
+        "mediaRole": "uhdStreamingLink",
+        "linkText": "Starship\u2019s Eleventh Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 111891,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF133B4ADA38DA\"",
+    "lastModified": "Tue, 15 Sep 2026 15:09:08 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "f00cf0001ae5915fd92d5df764191d3e2ca303ab0feb0080030d39fc472d8789",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11-4k.m3u8",
+    "preservedBytes": 111891,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11-720p.m3u8",
+    "filename": "Flight_11-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-11",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship\u2019s Eleventh Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 117831,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF133B5E270F9B\"",
+    "lastModified": "Tue, 15 Sep 2026 15:09:41 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "85d92ba1d336de2375dabf95e129a692edfc4e9d1396226fab98d5d4f09504cd",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11-720p.m3u8",
+    "preservedBytes": 117831,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11.m3u8",
+    "filename": "Flight_11.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-11",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship\u2019s Eleventh Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 351,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF133B7C00FEC0\"",
+    "lastModified": "Tue, 15 Sep 2026 15:10:31 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "3cc00e0b6c9b9eb47eb329ddd35a9bed51a67b9e6b43f74b116b923d2ae51d2d",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11.m3u8",
+    "preservedBytes": 351,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11_1080P.mp4",
+    "filename": "Flight_11_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-11",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship\u2019s Eleventh Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 2111275093,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08473FF449F\"",
+    "lastModified": "Wed, 22 Apr 2026 15:33:07 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11_4K.mp4",
+    "filename": "Flight_11_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-11",
+        "mediaRole": "uhdLink",
+        "linkText": "Starship\u2019s Eleventh Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 33216747455,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF133B25CAB18D\"",
+    "lastModified": "Tue, 15 Sep 2026 15:08:06 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11_720P.mp4",
+    "filename": "Flight_11_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-11",
+        "mediaRole": "hdLink",
+        "linkText": "Starship\u2019s Eleventh Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1029472072,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0836ED30F56\"",
+    "lastModified": "Wed, 22 Apr 2026 15:25:49 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12-1080p.m3u8",
+    "filename": "Flight_12-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-12",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship\u2019s Twelfth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 124614,
+    "capturedStatus": "200",
+    "etag": "\"0x8DECE0B935C7987\"",
+    "lastModified": "Fri, 19 Jun 2026 14:03:44 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "d965887d8aca4f2a0b64428746c2b6dccad90e39175c1d7f6c5696d73a583115",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12-1080p.m3u8",
+    "preservedBytes": 124614,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12-4k.m3u8",
+    "filename": "Flight_12-4k.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-12",
+        "mediaRole": "uhdStreamingLink",
+        "linkText": "Starship\u2019s Twelfth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 115387,
+    "capturedStatus": "200",
+    "etag": "\"0x8DECE0B6F35B4D4\"",
+    "lastModified": "Fri, 19 Jun 2026 14:02:43 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "928add3b9d500a0ecdb470c3b15216d1f08f07f64808114b2efc70040a315028",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12-4k.m3u8",
+    "preservedBytes": 115387,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12-720p.m3u8",
+    "filename": "Flight_12-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-12",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship\u2019s Twelfth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 121551,
+    "capturedStatus": "200",
+    "etag": "\"0x8DECE0BA8634D8E\"",
+    "lastModified": "Fri, 19 Jun 2026 14:04:19 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "35cb8bdbbb6b836d6396d53f270102047a2ec1d4a70ac81713b04076fd62eab1",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12-720p.m3u8",
+    "preservedBytes": 121551,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12.m3u8",
+    "filename": "Flight_12.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-12",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship\u2019s Twelfth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 351,
+    "capturedStatus": "200",
+    "etag": "\"0x8DECE0B7B720D4B\"",
+    "lastModified": "Fri, 19 Jun 2026 14:03:04 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "8449c8c66b299c5c8100b59c7d74bf87d295f89d5f620f3aa274c5ef60222d12",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12.m3u8",
+    "preservedBytes": 351,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12_1080P.mp4",
+    "filename": "Flight_12_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-12",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship\u2019s Twelfth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 2740845759,
+    "capturedStatus": "200",
+    "etag": "\"0x8DECE0B09124255\"",
+    "lastModified": "Fri, 19 Jun 2026 13:59:52 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12_4K.mp4",
+    "filename": "Flight_12_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-12",
+        "mediaRole": "uhdLink",
+        "linkText": "Starship\u2019s Twelfth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 61462494279,
+    "capturedStatus": "200",
+    "etag": "\"0x8DECE0BC8EB5368\"",
+    "lastModified": "Fri, 19 Jun 2026 14:05:14 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12_720P.mp4",
+    "filename": "Flight_12_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-12",
+        "mediaRole": "hdLink",
+        "linkText": "Starship\u2019s Twelfth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1501374307,
+    "capturedStatus": "200",
+    "etag": "\"0x8DECE0B2C2EBED1\"",
+    "lastModified": "Fri, 19 Jun 2026 14:00:51 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-1080p.m3u8",
+    "filename": "Flight_13-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-13",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship's Thirteenth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 128714,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF128509E8F184\"",
+    "lastModified": "Mon, 14 Sep 2026 17:24:31 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "16601b3852356069ae28695d42b7908482a2ea68e23ad02ee0d5d1d01eb966b5",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-1080p.m3u8",
+    "preservedBytes": 128714,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-4k.m3u8",
+    "filename": "Flight_13-4k.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-13",
+        "mediaRole": "uhdStreamingLink",
+        "linkText": "Starship's Thirteenth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 119225,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF12853A657CF3\"",
+    "lastModified": "Mon, 14 Sep 2026 17:25:52 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "86f8732ea07968bd5fbc23421f7a78e5a2d2d472d529885847d193f406aec50d",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-4k.m3u8",
+    "preservedBytes": 119225,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-720p.m3u8",
+    "filename": "Flight_13-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-13",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship's Thirteenth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 125551,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF1284F086F03E\"",
+    "lastModified": "Mon, 14 Sep 2026 17:23:49 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "f7640801e93b70fb7cc61cc2122b0516d6632a11a75f110dfe4c55fed3f0d330",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-720p.m3u8",
+    "preservedBytes": 125551,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13_1080P.mp4",
+    "filename": "Flight_13_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-13",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship's Thirteenth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 3370633952,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF128D2FF922C3\"",
+    "lastModified": "Mon, 14 Sep 2026 18:22:51 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13_4K.mp4",
+    "filename": "Flight_13_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-13",
+        "mediaRole": "uhdLink",
+        "linkText": "Starship's Thirteenth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 16049893632,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF128DBAAB5807\"",
+    "lastModified": "Mon, 14 Sep 2026 18:26:44 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13_720P.mp4",
+    "filename": "Flight_13_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-13",
+        "mediaRole": "hdLink",
+        "linkText": "Starship's Thirteenth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1936711726,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF1287C344B494\"",
+    "lastModified": "Mon, 14 Sep 2026 17:44:01 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-1080p.m3u8",
+    "filename": "Flight_14-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-14",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship Flight 14"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 279184,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF2321BDEDC283\"",
+    "lastModified": "Mon, 05 Oct 2026 20:46:33 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "b379152939b6d5c7d5f3384ce18898aea3c9699d6b49d410825add92062d32f5",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-1080p.m3u8",
+    "preservedBytes": 279184,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-4k.m3u8",
+    "filename": "Flight_14-4k.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-14",
+        "mediaRole": "uhdStreamingLink",
+        "linkText": "Starship Flight 14"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 258685,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF2321BE0DA1FA\"",
+    "lastModified": "Mon, 05 Oct 2026 20:46:33 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "cc12250819fabc3c03128633941acbc69420933282da42a9927394b7ee30b2d9",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-4k.m3u8",
+    "preservedBytes": 258685,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-720p.m3u8",
+    "filename": "Flight_14-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-14",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship Flight 14"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 272351,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF2321BEFBF226\"",
+    "lastModified": "Mon, 05 Oct 2026 20:46:35 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "fa42206675005ac931a219fa0791c39d3b45585b2d5a8f8fd3029f561c277c85",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-720p.m3u8",
+    "preservedBytes": 272351,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14_1080P.mp4",
+    "filename": "Flight_14_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-14",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship Flight 14"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 4816415611,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF231E82733C83\"",
+    "lastModified": "Mon, 05 Oct 2026 20:23:25 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14_4K.mp4",
+    "filename": "Flight_14_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-14",
+        "mediaRole": "uhdLink",
+        "linkText": "Starship Flight 14"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 34528158356,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF2310912532B1\"",
+    "lastModified": "Mon, 05 Oct 2026 18:43:37 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14_720P.mp4",
+    "filename": "Flight_14_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-14",
+        "mediaRole": "hdLink",
+        "linkText": "Starship Flight 14"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 2583727382,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF2320E69A3D13\"",
+    "lastModified": "Mon, 05 Oct 2026 20:40:32 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1_1080P.mp4",
+    "filename": "Flight_1_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-1",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship's First Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 664160988,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083256196A4\"",
+    "lastModified": "Wed, 22 Apr 2026 15:23:46 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1_4K.mp4",
+    "filename": "Flight_1_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-1",
+        "mediaRole": "uhdLink",
+        "linkText": "Starship's First Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 9476784037,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0832E888C39\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:01 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1_720P.mp4",
+    "filename": "Flight_1_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-1",
+        "mediaRole": "hdLink",
+        "linkText": "Starship's First Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 346243914,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083E004C9E5\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:59 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2/Flight_2-1080p.m3u8",
+    "filename": "Flight_2-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-2",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship's Second Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 60631,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0849590384A\"",
+    "lastModified": "Wed, 22 Apr 2026 15:34:03 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "2a280f99165291b1e87a1ef672dba8cbe8ac7410e5fe3a7f0a1695f99a71af80",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2/Flight_2-1080p.m3u8",
+    "preservedBytes": 60631,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2/Flight_2-720p.m3u8",
+    "filename": "Flight_2-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-2",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship's Second Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 59091,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084A3A3B749\"",
+    "lastModified": "Wed, 22 Apr 2026 15:34:27 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "81a697344cc2b62d85e361ba7819ac8477130555bda4ca50bfb0d1cdd7027eec",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2/Flight_2-720p.m3u8",
+    "preservedBytes": 59091,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2/Flight_2.m3u8",
+    "filename": "Flight_2.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-2",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship's Second Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 348,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084B4D226C1\"",
+    "lastModified": "Wed, 22 Apr 2026 15:34:56 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "7f548e875f514381b9325db226c602a293901af1d0f1df7adb827df45e6c1012",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2/Flight_2.m3u8",
+    "preservedBytes": 348,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2_1080P.mp4",
+    "filename": "Flight_2_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-2",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship's Second Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 756498787,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083302F2DCE\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:04 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2_4K.mp4",
+    "filename": "Flight_2_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-2",
+        "mediaRole": "uhdLink",
+        "linkText": "Starship's Second Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 18602471473,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA082B9D2C6D5\"",
+    "lastModified": "Wed, 22 Apr 2026 15:20:45 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2_720P.mp4",
+    "filename": "Flight_2_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-2",
+        "mediaRole": "hdLink",
+        "linkText": "Starship's Second Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 365595988,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083DEF31DDC\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:57 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3-1080p.m3u8",
+    "filename": "Flight_3-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-3",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship's Third Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 120631,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA24A8D1BEE05\"",
+    "lastModified": "Fri, 24 Apr 2026 21:43:41 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "31525d8f0c5602aceee1639fb46be869649b2348c2ba8f730d2e7a49205b4a6b",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3-1080p.m3u8",
+    "preservedBytes": 120631,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3-720p.m3u8",
+    "filename": "Flight_3-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-3",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship's Third Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 117552,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA24A863DBE22\"",
+    "lastModified": "Fri, 24 Apr 2026 21:43:29 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "dfe597378f9c810e23370caab210c8c8867c1d5df2a589f43bc1116b7f891589",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3-720p.m3u8",
+    "preservedBytes": 117552,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3.m3u8",
+    "filename": "Flight_3.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-3",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship's Third Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 241,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA24A8E7D6BE9\"",
+    "lastModified": "Fri, 24 Apr 2026 21:43:43 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "6db6c45d690c72c8af4e8fa60d47eac1d77c936ea8878aa70e3d3ecabdcd0c2e",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3.m3u8",
+    "preservedBytes": 241,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3_720P.mp4",
+    "filename": "Flight_3_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-3",
+        "mediaRole": "hdLink",
+        "linkText": "Starship's Third Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 808939321,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA24A62397FC9\"",
+    "lastModified": "Fri, 24 Apr 2026 21:42:29 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4/Flight_4-1080p.m3u8",
+    "filename": "Flight_4-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-4",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship's Fourth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 124151,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0848525B4E9\"",
+    "lastModified": "Wed, 22 Apr 2026 15:33:36 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "75f4bc89255f76f6c2121ff4abcc54958eed1530f85c622027d246672beaf5b7",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4/Flight_4-1080p.m3u8",
+    "preservedBytes": 124151,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4/Flight_4-720p.m3u8",
+    "filename": "Flight_4-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-4",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship's Fourth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 121023,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08507E29A53\"",
+    "lastModified": "Wed, 22 Apr 2026 15:37:15 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "34b0b889738956dd21ada3552b98a3c4cdc87b519bcd111d1bb5ef8c32c88e61",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4/Flight_4-720p.m3u8",
+    "preservedBytes": 121023,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4/Flight_4.m3u8",
+    "filename": "Flight_4.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-4",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship's Fourth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 348,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0850B7C4750\"",
+    "lastModified": "Wed, 22 Apr 2026 15:37:21 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "3caa5c9a2c4cc5199485d0bf47238476c4a3d15a0982156f308d3d5c223d9293",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4/Flight_4.m3u8",
+    "preservedBytes": 348,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4_1080P.mp4",
+    "filename": "Flight_4_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-4",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship's Fourth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1343360459,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA082AD2B2311\"",
+    "lastModified": "Wed, 22 Apr 2026 15:20:24 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4_720P.mp4",
+    "filename": "Flight_4_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-4",
+        "mediaRole": "hdLink",
+        "linkText": "Starship's Fourth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 692581809,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083337F292A\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:09 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5/Flight_5-1080p.m3u8",
+    "filename": "Flight_5-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-5",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship's Fifth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 121751,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA249D729D4D5\"",
+    "lastModified": "Fri, 24 Apr 2026 21:38:35 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "187a83b3a347f7218fe1799433f3eb8b2ded4fd5767d374853d5287671481ddd",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5/Flight_5-1080p.m3u8",
+    "preservedBytes": 121751,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5/Flight_5-720p.m3u8",
+    "filename": "Flight_5-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-5",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship's Fifth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 118683,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA249E06D8B06\"",
+    "lastModified": "Fri, 24 Apr 2026 21:38:51 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "5f2f3b8ede29195908c933b160db8011941fa33c7e2c107527a31150346f936b",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5/Flight_5-720p.m3u8",
+    "preservedBytes": 118683,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5/Flight_5.m3u8",
+    "filename": "Flight_5.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-5",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship's Fifth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 241,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA249CCC104F3\"",
+    "lastModified": "Fri, 24 Apr 2026 21:38:18 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "7415952331440949e2308891145eb62959421754507a47740138d84feca5c5cc",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5/Flight_5.m3u8",
+    "preservedBytes": 241,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5_720P.mp4",
+    "filename": "Flight_5_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-5",
+        "mediaRole": "hdLink",
+        "linkText": "Starship's Fifth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 911536699,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA24A316AE489\"",
+    "lastModified": "Fri, 24 Apr 2026 21:41:07 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_6/Flight_6-720p.m3u8",
+    "filename": "Flight_6-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-6",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship's Sixth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 120867,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA249D035494D\"",
+    "lastModified": "Fri, 24 Apr 2026 21:38:24 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "c90945f2891923466fab11507a50919c8462a44ebe0679102d325e68b275ac4e",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_6/Flight_6-720p.m3u8",
+    "preservedBytes": 120867,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_6_1080P.mp4",
+    "filename": "Flight_6_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-6",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship's Sixth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 12739899458,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA24A3951CFA2\"",
+    "lastModified": "Fri, 24 Apr 2026 21:41:20 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_6_720P.mp4",
+    "filename": "Flight_6_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-6",
+        "mediaRole": "hdLink",
+        "linkText": "Starship's Sixth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1056448680,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA24A39816B29\"",
+    "lastModified": "Fri, 24 Apr 2026 21:41:20 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7/Flight_7-1080p.m3u8",
+    "filename": "Flight_7-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-7",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship's Seventh Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 71871,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084D34E5340\"",
+    "lastModified": "Wed, 22 Apr 2026 15:35:47 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "13420cd75f937fa4477c7a0e37a115a7a641dde231e4d9d42ad29cf7d9acd4f6",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7/Flight_7-1080p.m3u8",
+    "preservedBytes": 71871,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7/Flight_7-720p.m3u8",
+    "filename": "Flight_7-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-7",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship's Seventh Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 70050,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084DADBCC74\"",
+    "lastModified": "Wed, 22 Apr 2026 15:36:00 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "0353a9d6068cb08666c9fa1bd6289c6fd1d29e9ebe42385aede0e43523e5ceb4",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7/Flight_7-720p.m3u8",
+    "preservedBytes": 70050,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7/Flight_7.m3u8",
+    "filename": "Flight_7.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-7",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship's Seventh Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 348,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084E3A1C630\"",
+    "lastModified": "Wed, 22 Apr 2026 15:36:14 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "75634a3031111de995a944fd043d8f3099c645151168fc1528fb2084d03e4095",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7/Flight_7.m3u8",
+    "preservedBytes": 348,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7_1080P.mp4",
+    "filename": "Flight_7_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-7",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship's Seventh Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1300580268,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083C74DB5B1\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:17 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7_4K.mp4",
+    "filename": "Flight_7_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-7",
+        "mediaRole": "uhdLink",
+        "linkText": "Starship's Seventh Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 21992611117,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08368D38075\"",
+    "lastModified": "Wed, 22 Apr 2026 15:25:39 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7_720P.mp4",
+    "filename": "Flight_7_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-7",
+        "mediaRole": "hdLink",
+        "linkText": "Starship's Seventh Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 641667095,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08470B688E1\"",
+    "lastModified": "Wed, 22 Apr 2026 15:33:02 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-1080p.m3u8",
+    "filename": "Flight_8-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-8",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship\u2019s Eighth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 53551,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF1347661CBDEC\"",
+    "lastModified": "Tue, 15 Sep 2026 16:35:48 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "07ba403742014c65e233b9774ec4381b5d9f2fb43e9d7c9e65eb895bc936ee03",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-1080p.m3u8",
+    "preservedBytes": 53551,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-4k.m3u8",
+    "filename": "Flight_8-4k.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-8",
+        "mediaRole": "uhdStreamingLink",
+        "linkText": "Starship\u2019s Eighth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 49462,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF134771622E48\"",
+    "lastModified": "Tue, 15 Sep 2026 16:36:07 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "5af83b5c06e0d41e2e28343a7a82b799c20dcbaec6513d37358817123de9289e",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-4k.m3u8",
+    "preservedBytes": 49462,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-720p.m3u8",
+    "filename": "Flight_8-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-8",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship\u2019s Eighth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 52188,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF134779CEB3CA\"",
+    "lastModified": "Tue, 15 Sep 2026 16:36:21 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "00164b5a2ac317efe8063226abb77b43628eaae9089d2c027f468a10791c9c90",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-720p.m3u8",
+    "preservedBytes": 52188,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8.m3u8",
+    "filename": "Flight_8.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-8",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship\u2019s Eighth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 348,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF13477087E9D1\"",
+    "lastModified": "Tue, 15 Sep 2026 16:36:06 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "d7ba9b7bac4f9fe9dc236a17cdcf4d12f24461c46bc13b2cf0a6446dc54d7240",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8.m3u8",
+    "preservedBytes": 348,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8_1080P.mp4",
+    "filename": "Flight_8_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-8",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship\u2019s Eighth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1022653922,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08475B0404F\"",
+    "lastModified": "Wed, 22 Apr 2026 15:33:10 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8_4K.mp4",
+    "filename": "Flight_8_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-8",
+        "mediaRole": "uhdLink",
+        "linkText": "Starship\u2019s Eighth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 16454750661,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF134853D1E21A\"",
+    "lastModified": "Tue, 15 Sep 2026 16:42:27 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8_720P.mp4",
+    "filename": "Flight_8_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-8",
+        "mediaRole": "hdLink",
+        "linkText": "Starship\u2019s Eighth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 527731151,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA082C8D00E2B\"",
+    "lastModified": "Wed, 22 Apr 2026 15:21:10 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9/Flight_9-1080p.m3u8",
+    "filename": "Flight_9-1080p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-9",
+        "mediaRole": "fhdStreamingLink",
+        "linkText": "Starship's Ninth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 113711,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084AE6EE8F8\"",
+    "lastModified": "Wed, 22 Apr 2026 15:34:45 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "1a5206adc1e5a30dd96527c5c94550af591cfd2e573724f35771b56b6bd0b6ff",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9/Flight_9-1080p.m3u8",
+    "preservedBytes": 113711,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9/Flight_9-720p.m3u8",
+    "filename": "Flight_9-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-9",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship's Ninth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 110844,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA084EFC2A5CB\"",
+    "lastModified": "Wed, 22 Apr 2026 15:36:35 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "a4d82201d12fb5cb903822b0a163a5889e45d0f5e40337f45ec654eaf9b84374",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9/Flight_9-720p.m3u8",
+    "preservedBytes": 110844,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9/Flight_9.m3u8",
+    "filename": "Flight_9.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-9",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship's Ninth Flight Test"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 348,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08506D0D0DD\"",
+    "lastModified": "Wed, 22 Apr 2026 15:37:13 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "a3eb8f2145af35f9917b65b755d1cbbf15b979d327635af8f2300e6fac3d313c",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9/Flight_9.m3u8",
+    "preservedBytes": 348,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9_1080P.mp4",
+    "filename": "Flight_9_1080P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-9",
+        "mediaRole": "fhdLink",
+        "linkText": "Starship's Ninth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 2305447775,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08430F79350\"",
+    "lastModified": "Wed, 22 Apr 2026 15:31:15 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9_4K.mp4",
+    "filename": "Flight_9_4K.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-9",
+        "mediaRole": "uhdLink",
+        "linkText": "Starship's Ninth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 9794508500,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA082AA621951\"",
+    "lastModified": "Wed, 22 Apr 2026 15:20:19 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9_720P.mp4",
+    "filename": "Flight_9_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/flight-9",
+        "mediaRole": "hdLink",
+        "linkText": "Starship's Ninth Flight Test"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1104304623,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08323763F51\"",
+    "lastModified": "Wed, 22 Apr 2026 15:23:42 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN10/SN10-720p.m3u8",
+    "filename": "SN10-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn10",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship High Altitude Test - SN10"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1946,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083DFFC66C2\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:59 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "bea0a94f3888e00d873b055b2103ad5282b3a751ca48788262152a6e18f561fb",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/SN10/SN10-720p.m3u8",
+    "preservedBytes": 1946,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN10/SN10.m3u8",
+    "filename": "SN10.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn10",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship High Altitude Test - SN10"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 128,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0836EA576A5\"",
+    "lastModified": "Wed, 22 Apr 2026 15:25:49 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "8a17ed505e8ffec2e25f04f33bbe3a6b8a702907eabc491d4b7b5341fd3fac17",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/SN10/SN10.m3u8",
+    "preservedBytes": 128,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN10_720P.mp4",
+    "filename": "SN10_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn10",
+        "mediaRole": "hdLink",
+        "linkText": "Starship High Altitude Test - SN10"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 5723928,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083D2EC688B\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:37 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN15/SN15-720p.m3u8",
+    "filename": "SN15-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn15",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship High Altitude Test - SN15"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1220,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0846E9D6D75\"",
+    "lastModified": "Wed, 22 Apr 2026 15:32:58 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "f0ebb9061f9992f3152bccf9052d36fefbd370e9e44938e4a59927b5526fab17",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/SN15/SN15-720p.m3u8",
+    "preservedBytes": 1220,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN15/SN15.m3u8",
+    "filename": "SN15.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn15",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship High Altitude Test - SN15"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 128,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083C88FB69C\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:19 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "41aa3575a82589498c6e18e0781669ed14167dbde75db53a341ebeaed1150a90",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/SN15/SN15.m3u8",
+    "preservedBytes": 128,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN15_720P.mp4",
+    "filename": "SN15_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn15",
+        "mediaRole": "hdLink",
+        "linkText": "Starship High Altitude Test - SN15"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 3241349,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083C8C0AA2D\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:20 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN5/SN5-720p.m3u8",
+    "filename": "SN5-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn5",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship 150 Meter Test - SN5"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1091,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0842BB16AAB\"",
+    "lastModified": "Wed, 22 Apr 2026 15:31:06 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "7fad41e037d6a965f0c3d25a823d42e0062cc1c41ac2f4503cb927ff699e60dd",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/SN5/SN5-720p.m3u8",
+    "preservedBytes": 1091,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN5/SN5.m3u8",
+    "filename": "SN5.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn5",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship 150 Meter Test - SN5"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 127,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0825D19ABF8\"",
+    "lastModified": "Wed, 22 Apr 2026 15:18:10 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "d8223d7d54e59a026bbd58ee53731f68bb55a5861928d3f97458b9204254eeb3",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/SN5/SN5.m3u8",
+    "preservedBytes": 127,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN6/SN6-720p.m3u8",
+    "filename": "SN6-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn6",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship 150 Meter Test - SN6"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1027,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0833014A504\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:04 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "d2b6dc396669a2ea323c26bb5c1d0fa2bf975536657e4b4ebc0f17e718a4f180",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/SN6/SN6-720p.m3u8",
+    "preservedBytes": 1027,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN6/SN6.m3u8",
+    "filename": "SN6.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn6",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship 150 Meter Test - SN6"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 127,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083DEE20974\"",
+    "lastModified": "Wed, 22 Apr 2026 15:28:57 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "45bba13fe2d9e5fad53240c8863e96782ae58aa77a2a4bb7f518679e836948ad",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/SN6/SN6.m3u8",
+    "preservedBytes": 127,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN6_720P.mp4",
+    "filename": "SN6_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn6",
+        "mediaRole": "hdLink",
+        "linkText": "Starship 150 Meter Test - SN6"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 10979154,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA08323647F1C\"",
+    "lastModified": "Wed, 22 Apr 2026 15:23:42 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN8/SN8-720p.m3u8",
+    "filename": "SN8-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn8",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starship High Altitude Test - SN8"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 2371,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0825EE9C4C7\"",
+    "lastModified": "Wed, 22 Apr 2026 15:18:13 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "44fbcd89bbf229e19c561d4aa9791c1a5c38f084134683b7d0ce08a3fc8ec515",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/SN8/SN8-720p.m3u8",
+    "preservedBytes": 2371,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN8/SN8.m3u8",
+    "filename": "SN8.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn8",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starship High Altitude Test - SN8"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 127,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA083493C1180\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:46 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "86403138809b0435ec0a47999fd55102234529aad878ac648bc1af83ede46850",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/SN8/SN8.m3u8",
+    "preservedBytes": 127,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN8_720P.mp4",
+    "filename": "SN8_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/sn8",
+        "mediaRole": "hdLink",
+        "linkText": "Starship High Altitude Test - SN8"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 6621678,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0832FDAF367\"",
+    "lastModified": "Wed, 22 Apr 2026 15:24:03 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Starhopper/Starhopper-720p.m3u8",
+    "filename": "Starhopper-720p.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/starhopper",
+        "mediaRole": "hdStreamingLink",
+        "linkText": "Starhopper"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1301,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0836E7A2781\"",
+    "lastModified": "Wed, 22 Apr 2026 15:25:48 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "1638905be70bee923299259e43f49df617d6fb0dc9650d9a21d41ca7ba144805",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Starhopper/Starhopper-720p.m3u8",
+    "preservedBytes": 1301,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Starhopper/Starhopper.m3u8",
+    "filename": "Starhopper.m3u8",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/starhopper",
+        "mediaRole": "autoStreamingLink",
+        "linkText": "Starhopper"
+      }
+    ],
+    "contentType": "audio/x-mpegurl",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 134,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0842B9EB639\"",
+    "lastModified": "Wed, 22 Apr 2026 15:31:06 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "2c6cb3885de80b384475edf7cdf89b8ee99053235e1b3bfe0818c65ef97479ef",
+    "headError": "",
+    "localPath": "capture/content.spacex.com/cms-assets/content-hub/starship-flights/Starhopper/Starhopper.m3u8",
+    "preservedBytes": 134,
+    "playbackCoverage": "Initial three segments per rendition; seek/duration states require explicit additional capture."
+  },
+  {
+    "url": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Starhopper_720P.mp4",
+    "filename": "Starhopper_720P.mp4",
+    "relationships": [
+      {
+        "route": "/content/starship-flight-tests/starhopper",
+        "mediaRole": "hdLink",
+        "linkText": "Starhopper"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 5034364,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEA0846E659D1F\"",
+    "lastModified": "Wed, 22 Apr 2026 15:32:58 GMT",
+    "preservationMode": "remote-reference",
+    "sha256": null,
+    "headError": ""
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/20260916_Starship_EP_3_Lock_Website_1080_76d5ab668d.mp4",
+    "filename": "20260916_Starship_EP_3_Lock_Website_1080_76d5ab668d.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/media/featured-content",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 11502602,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF14381831CE15\"",
+    "lastModified": "Wed, 16 Sep 2026 21:18:46 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "f1f9d4b30860343705b45a348dded3f3e264b1d51232b2b0ebab4d30c1724d26",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/20260916_Starship_EP_3_Lock_Website_1080_76d5ab668d.mp4",
+    "preservedBytes": 11502602
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/20260916_Starship_EP_3_Lock_Website_1920_1048cccd37.mp4",
+    "filename": "20260916_Starship_EP_3_Lock_Website_1920_1048cccd37.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/media/featured-content",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 7490245,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF143810A4061B\"",
+    "lastModified": "Wed, 16 Sep 2026 21:18:33 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "4e9e99ed964a179673dd01350059e9eee92d8329ba4aeebf808e126896635ec3",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/20260916_Starship_EP_3_Lock_Website_1920_1048cccd37.mp4",
+    "preservedBytes": 7490245
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Chun_Announcement_Video_20260513_v2a_HD_8aef31bd76.mp4",
+    "filename": "Chun_Announcement_Video_20260513_v2a_HD_8aef31bd76.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/updates",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 201766105,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEB777D6E498C8\"",
+    "lastModified": "Thu, 21 May 2026 20:30:46 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "781fe63b5e2a91445b1bf9655f26fcd0a043465277e3edacdaba9838dad7c891",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Chun_Announcement_Video_20260513_v2a_HD_8aef31bd76.mp4",
+    "preservedBytes": 201766105
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Flight5_Booster_Catch_Andy_Drone_20241013_1080_Short_e1547e5356.mp4",
+    "filename": "Flight5_Booster_Catch_Andy_Drone_20241013_1080_Short_e1547e5356.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/missions/starship-flight-5",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 27910005,
+    "capturedStatus": "200",
+    "etag": "\"0x8DDCB09E8870F06\"",
+    "lastModified": "Thu, 24 Jul 2025 23:29:17 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "ca42e5367f002e451ef883fc459c9191222afd3ef836c4e98cf57f74b6226049",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Flight5_Booster_Catch_Andy_Drone_20241013_1080_Short_e1547e5356.mp4",
+    "preservedBytes": 27910005
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Flight_13_Ship_in_Orbit_NX_20260724_1080_P_0f5ef8c02b.mp4",
+    "filename": "Flight_13_Ship_in_Orbit_NX_20260724_1080_P_0f5ef8c02b.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/missions/starship-flight-13",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 7297441,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEE9E9035E0527\"",
+    "lastModified": "Sat, 25 Jul 2026 01:06:52 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "21d4b8dcc62b4206c34dfbd642245b67d7d8b3ddf4374f6ab5186f349e0b5311",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Flight_13_Ship_in_Orbit_NX_20260724_1080_P_0f5ef8c02b.mp4",
+    "preservedBytes": 7297441
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Flight_13_Ship_in_Orbit_NX_20260724_1080_P_Vertical_ae290559e3.mp4",
+    "filename": "Flight_13_Ship_in_Orbit_NX_20260724_1080_P_Vertical_ae290559e3.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/missions/starship-flight-13",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 10052861,
+    "capturedStatus": "200",
+    "etag": "\"0x8DEE9E8FD1051A8\"",
+    "lastModified": "Sat, 25 Jul 2026 01:06:42 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "f42ece4a2e34a38b5a57d31d6dadd9275608f42c7eab25ff1c511eef4c223578",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Flight_13_Ship_in_Orbit_NX_20260724_1080_P_Vertical_ae290559e3.mp4",
+    "preservedBytes": 10052861
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Flight_14_Drone_Lift_Off1_20260928_916_Web_e3d3eb23ae.mp4",
+    "filename": "Flight_14_Drone_Lift_Off1_20260928_916_Web_e3d3eb23ae.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/featured-launch-tiles",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 16580816,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF1D94F5E46FB8\"",
+    "lastModified": "Mon, 28 Sep 2026 19:16:12 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "62b69086fa0d1f6b79a1990bde95eb930eaf9929b98484f68f4ffda87e70dbd3",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Flight_14_Drone_Lift_Off1_20260928_916_Web_e3d3eb23ae.mp4",
+    "preservedBytes": 16580816
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Flight_14_Drone_Lift_Off1_20260928_Web_5b2db244f8.mp4",
+    "filename": "Flight_14_Drone_Lift_Off1_20260928_Web_5b2db244f8.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/featured-launch-tiles",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 16645949,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF1D94F53AD170\"",
+    "lastModified": "Mon, 28 Sep 2026 19:16:11 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "02210e44738ef5baf8d2aad841d5d46366e6a02cb350c11673b2db99e3d6ca8d",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Flight_14_Drone_Lift_Off1_20260928_Web_5b2db244f8.mp4",
+    "preservedBytes": 16645949
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/How_To_Orbit_8db623fe72.mp4",
+    "filename": "How_To_Orbit_8db623fe72.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/updates",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 5774658,
+    "capturedStatus": "200",
+    "etag": "\"0x8DF13375ADB0B29\"",
+    "lastModified": "Tue, 15 Sep 2026 14:40:57 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "920efc8e5accf734360682bf5555154252a3e64d5d5aaaf78c01cba71b7ca7b9",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/How_To_Orbit_8db623fe72.mp4",
+    "preservedBytes": 5774658
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Leading_Launch_Service_Mobile_02email_c06f4154a8.mp4",
+    "filename": "Leading_Launch_Service_Mobile_02email_c06f4154a8.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/homepage-tiles",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 1300874,
+    "capturedStatus": "200",
+    "etag": "\"0x8DDCB09ED9371F9\"",
+    "lastModified": "Thu, 24 Jul 2025 23:29:25 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "ef2b3b2164dc2decd1869ec99512421c30b173ca0ac383a8248b2e5e3317def6",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Leading_Launch_Service_Mobile_02email_c06f4154a8.mp4",
+    "preservedBytes": 1300874
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Mars_Rotation_Web_HB_d96299f9de.mp4",
+    "filename": "Mars_Rotation_Web_HB_d96299f9de.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/homepage-tiles",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 11014844,
+    "capturedStatus": "200",
+    "etag": "\"0x8DDCB09FB6BDD8A\"",
+    "lastModified": "Thu, 24 Jul 2025 23:29:48 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "5b37104391c66628c6c980911e966563590b157d744b9ccbed059e7b175738fb",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Mars_Rotation_Web_HB_d96299f9de.mp4",
+    "preservedBytes": 11014844
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Mobile_v4_HB_e1d2eda88f.mp4",
+    "filename": "Mobile_v4_HB_e1d2eda88f.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/homepage-tiles",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 7838098,
+    "capturedStatus": "200",
+    "etag": "\"0x8DDCB09F9B571D6\"",
+    "lastModified": "Thu, 24 Jul 2025 23:29:46 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "02ffc3428680de40d495bdae9c8bd842c92da26a3c72cee12b3e56788288d4ac",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Mobile_v4_HB_e1d2eda88f.mp4",
+    "preservedBytes": 7838098
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Prop_Transfer_4_K_83ce127002.mp4",
+    "filename": "Prop_Transfer_4_K_83ce127002.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/updates",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 92971793,
+    "capturedStatus": "200",
+    "etag": "\"0x8DE17295B17F1E6\"",
+    "lastModified": "Wed, 29 Oct 2025 20:25:52 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "e48e169c72bd2254538dc73537a08403cf621c5318cddbda38f84ebd93f0466e",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Prop_Transfer_4_K_83ce127002.mp4",
+    "preservedBytes": 92971793
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/SX_25_4040_compressed_1_a50d8ebd5a.mp4",
+    "filename": "SX_25_4040_compressed_1_a50d8ebd5a.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/updates",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 113442295,
+    "capturedStatus": "200",
+    "etag": "\"0x8DDF60F340B777B\"",
+    "lastModified": "Wed, 17 Sep 2025 17:25:31 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "3962fd3e6de28a87956054fd8ef6a62c3fa1d79a8d57644b15711d8328edb686",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/SX_25_4040_compressed_1_a50d8ebd5a.mp4",
+    "preservedBytes": 113442295
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Space_X_Falcon_Heavy_UAS_Landing_DESKTOP_compress_b4568daf9c_5e2026727a.mp4",
+    "filename": "Space_X_Falcon_Heavy_UAS_Landing_DESKTOP_compress_b4568daf9c_5e2026727a.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/homepage-tiles",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 2791834,
+    "capturedStatus": "200",
+    "etag": "\"0x8DDCB09FCCFF076\"",
+    "lastModified": "Thu, 24 Jul 2025 23:29:51 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "8384a5414f66e5447022dce1b2846f85eb6fdfd503ff073319f3bd405ce6d40f",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Space_X_Falcon_Heavy_UAS_Landing_DESKTOP_compress_b4568daf9c_5e2026727a.mp4",
+    "preservedBytes": 2791834
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Starlink15_5_Deploy_63862554f5.mp4",
+    "filename": "Starlink15_5_Deploy_63862554f5.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/missions/sl-15-5",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 18596555,
+    "capturedStatus": "200",
+    "etag": "\"0x8DDCB09F3EEDC98\"",
+    "lastModified": "Thu, 24 Jul 2025 23:29:36 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "ad3ba05dfe70de57f8446b21afdf97aaaa12236b4eb1173b69debf4ca1304f0a",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Starlink15_5_Deploy_63862554f5.mp4",
+    "preservedBytes": 18596555
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Starlink_12_24_LIFT_AX_4_A_0088_110b4fc5ab.mp4",
+    "filename": "Starlink_12_24_LIFT_AX_4_A_0088_110b4fc5ab.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/missions/sl-12-24",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 142575592,
+    "capturedStatus": "200",
+    "etag": "\"0x8DDCB09EFD2F529\"",
+    "lastModified": "Thu, 24 Jul 2025 23:29:29 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "b30f6d16747eea8f41b6954844a34078c2147fa8e41c528ab5a35f169a15dab1",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Starlink_12_24_LIFT_AX_4_A_0088_110b4fc5ab.mp4",
+    "preservedBytes": 142575592
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Starlink_12_24_LIFT_A_0001_MOBILE_7f12921389.mp4",
+    "filename": "Starlink_12_24_LIFT_A_0001_MOBILE_7f12921389.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/missions/sl-12-26",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 38168873,
+    "capturedStatus": "200",
+    "etag": "\"0x8DDCB09FC06578D\"",
+    "lastModified": "Thu, 24 Jul 2025 23:29:49 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "10c3d762413af26d4f4118cdc4f8a0d0a3ef7f51889ace6907bcc5185a31d797",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Starlink_12_24_LIFT_A_0001_MOBILE_7f12921389.mp4",
+    "preservedBytes": 38168873
+  },
+  {
+    "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Starlink_G11_22_Launch_Wide_20250604_cb44bd23fb.mp4",
+    "filename": "Starlink_G11_22_Launch_Wide_20250604_cb44bd23fb.mp4",
+    "relationships": [
+      {
+        "route": "/spacex-website/missions/sl-11-22",
+        "mediaRole": "url"
+      }
+    ],
+    "contentType": "video/mp4",
+    "contentTypeBasis": "captured HEAD response",
+    "contentLength": 37488586,
+    "capturedStatus": "200",
+    "etag": "\"0x8DDCB09FAECAF75\"",
+    "lastModified": "Thu, 24 Jul 2025 23:29:48 GMT",
+    "preservationMode": "offline-preserved",
+    "sha256": "dc958fa53946f6732119c280b6588ae7568fa0371390d726caad0cafcd91cb83",
+    "headError": "",
+    "localPath": "capture/sxcontent9668.azureedge.us/cms-assets/assets/Starlink_G11_22_Launch_Wide_20250604_cb44bd23fb.mp4",
+    "preservedBytes": 37488586
+  }
+]

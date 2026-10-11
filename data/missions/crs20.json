@@ -1,0 +1,31 @@
+{
+  "title": "CRS-20 MISSION",
+  "date": "March 06, 2020",
+  "imageDesktop": "public/assets/media/CRS_20_Desktop_d680f95ece.jpg",
+  "imageMobile": "public/assets/media/CRS_20_Mobile_338728483e.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 134,
+      "videoId": "-aoAGdYXp_4&t=1s",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs20/left.html",
+  "rightProse": "prose/missions/crs20/right.html"
+}

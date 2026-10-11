@@ -1,0 +1,20 @@
+{
+  "title": "AsiaSat 6 Mission",
+  "date": "September 07, 2014",
+  "imageDesktop": "public/assets/media/Asia_Sat6_Desktop1_b30669b3a6.jpg",
+  "imageMobile": "public/assets/media/Asia_Sat6_Mobile_f68a278f2a.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/asiasat6/left.html",
+  "rightProse": "prose/missions/asiasat6/right.html"
+}

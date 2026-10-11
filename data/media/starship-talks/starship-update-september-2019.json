@@ -1,0 +1,19 @@
+{
+  "title": "Starship Update",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019_1080P.mp4"
+    }
+  ],
+  "description": "On September 28, 2019, at SpaceX\u2019s facility in Starbase, Texas, SpaceX Chief Engineer and CEO Elon Musk  provided an update on the design and development of Starship.",
+  "chapters": []
+}

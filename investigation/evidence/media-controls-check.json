@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-11",
+  "method": "GUI actions and read-only DOM/media observations through the in-app browser; no complete MP4 downloads or form submissions",
+  "authored": {
+    "route": "/content/starship-flight-tests/flight-13/",
+    "qualitySwitch": "1080p local manifest",
+    "playback": {
+      "readyState": 4,
+      "paused": false
+    },
+    "downloadDefault": "fhd",
+    "downloadFilename": "Flight_13_1080P.mp4",
+    "downloadUrl": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13_1080P.mp4?download=true",
+    "download4kUrl": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13_4K.mp4?download=true",
+    "escapeDismissal": true,
+    "supplierNoWebsiteDisablesWebsite": true,
+    "supplierContactYesRevealsEmail": true
+  },
+  "rendered": {
+    "route": "/content/starship-flight-tests/flight-13/",
+    "playback": {
+      "readyState": 4,
+      "paused": false,
+      "quality": "720p"
+    },
+    "downloadDefault": "fhd",
+    "downloadFilename": "Flight_13_1080P.mp4",
+    "downloadUrl": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13_1080P.mp4?download=true",
+    "cancelDismissal": true
+  },
+  "qualification": "Representative functional checks only; full browser/visual parity remains open. HLS.js fallback is vendored but native HLS was exercised in this browser."
+}

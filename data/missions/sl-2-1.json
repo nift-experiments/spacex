@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "September 13, 2021",
+  "imageDesktop": "public/assets/media/Homepage_SL_2_1_Desktop_Optimized_3da879cbc9.jpg",
+  "imageMobile": "public/assets/media/SL_2_1_Updates_Mobile_c835f7d371.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 126,
+      "videoId": "4372QYiPZB4",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-2-1/left.html",
+  "rightProse": "prose/missions/sl-2-1/right.html"
+}

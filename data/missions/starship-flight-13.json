@@ -1,0 +1,213 @@
+{
+  "title": "Starship's Thirteenth Flight Test",
+  "date": "July 24, 2026",
+  "imageDesktop": "public/assets/media/Flight_13_Website_Desktop_6_c571da0ca7.jpg",
+  "imageMobile": "public/assets/media/Flight_13_Website_Mobile_4_319abe7e02.jpg",
+  "videoDesktop": "public/assets/media/Flight_13_Ship_in_Orbit_NX_20260724_1080_P_0f5ef8c02b.mp4",
+  "videoMobile": "public/assets/media/Flight_13_Ship_in_Orbit_NX_20260724_1080_P_Vertical_ae290559e3.mp4",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2626,
+      "videoId": "1AJEmmYdMDnJL",
+      "streamingVideoType": "x-live-studio",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 238,
+    "name": "Starship's Thirteenth Flight Test",
+    "title": "Countdown",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2026-07-12T20:25:27.152Z",
+    "updatedAt": "2026-07-12T20:26:06.088Z",
+    "publishedAt": "2026-07-12T20:26:06.130Z",
+    "documentId": "jsvd4atg2xg9sk33dwccagn3",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 37924,
+        "time": "00:50:00",
+        "description": "SpaceX Flight Director conducts poll and verifies GO for propellant load"
+      },
+      {
+        "id": 37925,
+        "time": "00:37:30",
+        "description": "Ship LOX (liquid oxygen) load underway"
+      },
+      {
+        "id": 37926,
+        "time": "00:37:00",
+        "description": "Booster LOX load underway"
+      },
+      {
+        "id": 37927,
+        "time": "00:35:25",
+        "description": "Booster fuel (liquid methane) load underway"
+      },
+      {
+        "id": 37928,
+        "time": "00:34:48",
+        "description": "Ship fuel load underway"
+      },
+      {
+        "id": 37929,
+        "time": "00:21:30",
+        "description": "Raptor begins engine chill on booster and ship"
+      },
+      {
+        "id": 37930,
+        "time": "00:02:50",
+        "description": "Booster propellant load complete"
+      },
+      {
+        "id": 37931,
+        "time": "00:02:10",
+        "description": "Ship propellant load complete"
+      },
+      {
+        "id": 37932,
+        "time": "00:00:30",
+        "description": "SpaceX flight director verifies GO for launch"
+      },
+      {
+        "id": 37933,
+        "time": "00:00:17",
+        "description": "Flame diverter activation"
+      },
+      {
+        "id": 37934,
+        "time": "00:00:03",
+        "description": "Booster engine startup command"
+      },
+      {
+        "id": 37935,
+        "time": "00:00:00",
+        "description": "Excitement guaranteed"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2454,
+    "title": "FLIGHT TEST TIMELINE",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 38911,
+        "time": "00:00:00",
+        "description": "Liftoff"
+      },
+      {
+        "id": 38912,
+        "time": "00:00:58",
+        "description": "Max Q (moment of peak aerodynamic stress on the rocket)"
+      },
+      {
+        "id": 38913,
+        "time": "00:02:18",
+        "description": "Super Heavy MECO (most engines cut off)"
+      },
+      {
+        "id": 38914,
+        "time": "00:02:21",
+        "description": "Hot-staging (Starship Raptor ignition and stage separation)"
+      },
+      {
+        "id": 38915,
+        "time": "00:02:25",
+        "description": "Super Heavy boostback burn start"
+      },
+      {
+        "id": 38916,
+        "time": "00:03:03",
+        "description": "Super Heavy boostback burn shutdown"
+      },
+      {
+        "id": 38917,
+        "time": "00:06:27",
+        "description": "Super Heavy landing burn start"
+      },
+      {
+        "id": 38918,
+        "time": "00:06:53",
+        "description": "Super Heavy landing burn shutdown "
+      },
+      {
+        "id": 38919,
+        "time": "00:08:05",
+        "description": "Starship engine cutoff"
+      },
+      {
+        "id": 38920,
+        "time": "00:16:40",
+        "description": "Payload deploy demo start"
+      },
+      {
+        "id": 38921,
+        "time": "00:27:39",
+        "description": "Payload deploy demo complete"
+      },
+      {
+        "id": 38922,
+        "time": "00:38:58",
+        "description": "Raptor in-space relight demo"
+      },
+      {
+        "id": 38923,
+        "time": "00:47:30",
+        "description": "Starship entry"
+      },
+      {
+        "id": 38924,
+        "time": "01:02:23",
+        "description": "Starship is transonic"
+      },
+      {
+        "id": 38925,
+        "time": "01:03:01",
+        "description": "Starship is subsonic"
+      },
+      {
+        "id": 38926,
+        "time": "01:05:01",
+        "description": "Landing burn start"
+      },
+      {
+        "id": 38927,
+        "time": "01:05:03",
+        "description": "Landing flip"
+      },
+      {
+        "id": 38928,
+        "time": "01:05:12",
+        "description": "Landing burn 3 to 2 engines"
+      },
+      {
+        "id": 38929,
+        "time": "01:05:19",
+        "description": "Landing burn 2 to 1 engine"
+      },
+      {
+        "id": 38930,
+        "time": "01:05:21",
+        "description": "An exciting landing!"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/SPACEX_STARSHIP_INFOGRAPHIC_FLIGHT_12_DESKTOP_1_89bf5f162d.png",
+  "infographicMobile": "public/assets/media/SPACEX_STARSHIP_INFOGRAPHIC_FLIGHT_12_MOBILE_1_f39a5707d8.png",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-flight-13/left.html",
+  "rightProse": "prose/missions/starship-flight-13/right.html"
+}

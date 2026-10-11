@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "June 04, 2025",
+  "imageDesktop": "public/assets/media/Starlink_G11_22_San_Miguelito_8438_Desktop_67e859952b.jpg",
+  "imageMobile": "public/assets/media/Starlink_G11_22_San_Miguelito_8438_Mobile_1c9fe3ca7e.jpg",
+  "videoDesktop": "public/assets/media/Starlink_G11_22_Launch_Wide_20250604_cb44bd23fb.mp4",
+  "videoMobile": "public/assets/media/Starlink_G11_22_Launch_Wide_20250604_cb44bd23fb.mp4",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 880,
+      "videoId": "1930025903700226217",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-11-22/left.html",
+  "rightProse": "prose/missions/sl-11-22/right.html"
+}

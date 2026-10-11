@@ -1,0 +1,31 @@
+{
+  "title": "starlink mission",
+  "date": "March 03, 2023",
+  "imageDesktop": "public/assets/media/Starlink_G2_7_Southwest_Hill_Streak_4188_Desktop_c017ddaf10.jpg",
+  "imageMobile": "public/assets/media/Starlink_G2_7_Southwest_Hill_Streak_4188_Mobile_bda78cb39a.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 613,
+      "videoId": "BAkApUbevaA",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-2-7/left.html",
+  "rightProse": "prose/missions/sl-2-7/right.html"
+}

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=5922400,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+@path('assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN10/SN10-720p')
+

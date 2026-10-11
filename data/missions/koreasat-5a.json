@@ -1,0 +1,31 @@
+{
+  "title": "Koreasat-5A Mission ",
+  "date": "October 30, 2017",
+  "imageDesktop": "public/assets/media/Koreasat_5_A_desktop_de755679c7.jpg",
+  "imageMobile": "public/assets/media/Koreasat_5_A_mobile_de8e8b6771.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 466,
+      "videoId": "CNRTNxZSPhE ",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/koreasat-5a/left.html",
+  "rightProse": "prose/missions/koreasat-5a/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Es\u2019hail-2 Mission",
+  "date": "November 15, 2018",
+  "imageDesktop": "public/assets/media/Es_Hail_Desktop_2a907d0c62.jpg",
+  "imageMobile": "public/assets/media/Es_hail_Mobile_b6e8bb5446.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 308,
+      "videoId": "PhTbzc-BqKs",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/eshail2/left.html",
+  "rightProse": "prose/missions/eshail2/right.html"
+}

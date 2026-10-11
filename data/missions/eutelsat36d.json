@@ -1,0 +1,31 @@
+{
+  "title": "EUTELSAT 36D Mission",
+  "date": "March 30, 2024",
+  "imageDesktop": "public/assets/media/Eutelsat_36_D_astronautrd_DSC_7368_desktop_98a41f8977.jpg",
+  "imageMobile": "public/assets/media/Eutelsat_36_D_astronautrd_DSC_7368_mobile_95d5e1edf8.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 546,
+      "videoId": "1773850160856228119",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/eutelsat36d/left.html",
+  "rightProse": "prose/missions/eutelsat36d/right.html"
+}

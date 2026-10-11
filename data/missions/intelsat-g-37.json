@@ -1,0 +1,31 @@
+{
+  "title": "Intelsat G-37 Mission",
+  "date": "August 03, 2023",
+  "imageDesktop": "public/assets/media/Galaxy37_outsideroadh_IMG_0526_desktop_658ad4f2c1.jpg",
+  "imageMobile": "public/assets/media/Galaxy37_outsideroadh_IMG_0528_mobile_dd36a5ee64.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 571,
+      "videoId": "XV2tyCEBctA",
+      "streamingVideoType": null,
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/intelsat-g-37/left.html",
+  "rightProse": "prose/missions/intelsat-g-37/right.html"
+}

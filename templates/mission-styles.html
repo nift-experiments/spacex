@@ -1,0 +1,500 @@
+<style>
+
+.sx-mission .section{
+  --countdown-digit-width: 8px;
+  display:block;
+  position:relative;
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0
+}
+.sx-mission .section   .image-wrapper{
+  text-align:center;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  position:absolute;
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  background-color:#000;
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  overflow:hidden
+}
+.sx-mission .section   .video-wrapper{
+  display:block;
+  position:absolute;
+  width:100%;
+  top:0;
+  left:0;
+  margin:0;
+  padding:0;
+  height:auto;
+  bottom:100px
+}
+.sx-mission .section   .video-wrapper   video{
+  position:absolute;
+  width:100%;
+  height:100%;
+  top:0;
+  left:0;
+  object-fit:cover
+}
+.sx-mission .section   .full-video{
+  bottom:0;
+  height:100%
+}
+.sx-mission .section   .section-inner{
+  max-width:1700px
+}
+.sx-mission .section   .section-inner   .section-left-middle{
+  left:50px;
+  max-width:802px;
+  position:absolute;
+  text-align:left;
+  top:50%;
+  transform:translateY(-50%);
+  width:50%
+}
+.sx-mission .section   .section-inner   .section-left-middle   .countdown{
+  color:var(--white-100);
+  line-height:24px;
+  font-size:12px;
+  font-weight:400;
+  text-transform:uppercase;
+  font-family:Roboto Mono
+}
+.sx-mission .section   .section-inner   .section-title{
+  margin-bottom:20px;
+  letter-spacing:-1px;
+  font-size:5rem
+}
+.sx-mission .black-overlay{
+  background:linear-gradient(180deg,rgba(0,0,0,0) 50%,#000 100%),linear-gradient(270deg,rgba(0,0,0,0) 50%,rgba(0,0,0,.8) 100%);
+  display:block;
+  height:100%;
+  position:absolute;
+  width:100%;
+  z-index:3
+}
+.sx-mission .launch-infographic{
+  padding:42px 0
+}
+.sx-mission .launch-infographic   img{
+  object-fit:contain;
+  width:100%;
+  height:100%
+}
+.sx-mission .bottom{
+  display:grid;
+  grid-column-gap:16px;
+  column-gap:16px;
+  grid-template-columns:1fr 1fr;
+  margin:-50px 60px 120px;
+  position:relative;
+  text-align:left;
+  z-index:10
+}
+.sx-mission .bottom   p{
+  font-family:D-DIN;
+  color:var(--white-100);
+  font-size:1rem;
+  line-height:1.5rem
+}
+.sx-mission .bottom   p   a{
+  color:var(--white-100);
+  font-family:D-DIN;
+  text-decoration:none
+}
+.sx-mission .bottom   a{
+  color:var(--white-80);
+  font-family:D-DIN;
+  text-decoration:none
+}
+.sx-mission .astronauts-wrapper{
+  display:flex;
+  justify-content:space-between;
+  margin:120px 60px
+}
+.sx-mission .astronaut-cards-wrapper{
+  display:flex;
+  gap:10px
+}
+.sx-mission .astronaut-title{
+  font-size:1.5rem;
+  line-height:110%;
+  color:var(--white-100);
+  text-transform:uppercase
+}
+.sx-mission .astronaut-name{
+  font-family:D-DIN;
+  font-weight:700;
+  font-size:16px;
+  line-height:120%;
+  text-transform:uppercase;
+  color:var(--white-100)
+}
+.sx-mission .astronaut-name:hover{
+  color:#fff
+}
+.sx-mission .astronaut-description{
+  font-family:Roboto Mono;
+  font-weight:400;
+  font-size:10px;
+  line-height:120%;
+  text-transform:uppercase;
+  color:var(--white-80)
+}
+.sx-mission .astronaut-card{
+  display:flex;
+  flex-direction:column;
+  justify-content:left;
+  gap:10px
+}
+.sx-mission .astronaut-card   a{
+  text-decoration:none
+}
+.sx-mission .astronaut-image{
+  width:241px
+}
+.sx-mission .inner-right-middle{
+  display:flex;
+  gap:10px
+}
+.sx-mission .timeline-table-wrapper{
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  margin:0 60px
+}
+.sx-mission .timeline-table-wrapper   table{
+  border-collapse:collapse;
+  width:100%
+}
+.sx-mission .timeline-table-wrapper   th,.sx-mission .timeline-table-wrapper   td{
+  font-family:Roboto Mono;
+  font-weight:400;
+  font-size:12px;
+  line-height:140%;
+  text-transform:uppercase;
+  padding:24px 0;
+  text-align:left;
+  color:var(--white-80)
+}
+.sx-mission .timeline-table-wrapper   th:first-child,.sx-mission .timeline-table-wrapper   td:first-child{
+  padding-left:16px;
+  padding-right:24px;
+  min-width:138px
+}
+.sx-mission .timeline-table-wrapper   tbody   tr{
+  border-top:1px solid rgba(255,255,255,.25);
+  transition:border-top-color .2s ease-in
+}
+.sx-mission .timeline-table-header{
+  text-align:left;
+  margin-right:120px
+}
+.sx-mission .timeline-table-header   h1{
+  font-weight:700
+}
+.sx-mission .timeline-table-header   p{
+  font-weight:400;
+  size:1.125rem;
+  line-height:120%;
+  color:var(--white-100);
+  margin-top:22px
+}
+.sx-mission .mb-1{
+  margin-bottom:1rem
+}
+.sx-mission .carousel-wrapper{
+  padding:120px 0
+}
+.sx-mission .webcast-wrapper{
+  margin:25px 60px
+}
+.sx-mission .webcast-header{
+  margin-bottom:24px
+}
+.sx-mission .webcast-header   h2{
+  font-size:18px;
+  line-height:120%
+}
+.sx-mission .webcast-content{
+  border-top:1px solid var(--white-80);
+  padding:16px 35px;
+  display:flex;
+  column-gap:48px;
+  align-items:center;
+  justify-content:space-between
+}
+.sx-mission .webcast-content   img{
+  height:82px;
+  width:164px
+}
+.sx-mission .webcast-content   .webcast-title{
+  font-size:18px;
+  line-height:105%;
+  text-transform:uppercase
+}
+.sx-mission .webcast-content   .webcast-date{
+  color:var(--white-100);
+  font-size:18px;
+  line-height:120%;
+  text-transform:uppercase
+}
+.sx-mission .webcast-info{
+  display:flex;
+  width:100%;
+  justify-content:space-between;
+  align-items:center;
+  margin-right:20%
+}
+.sx-mission .video-overlay{
+  width:100%;
+  height:0;
+  z-index:1000;
+  position:fixed;
+  background:black;
+  transition:top 1s;
+  top:100vh;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center
+}
+.sx-mission .video-overlay   iframe{
+  border:none;
+  overflow-y:hidden
+}
+.sx-mission .video-overlay   iframe.widescreen{
+  aspect-ratio:16/9
+}
+.sx-mission .video-overlay   video{
+  width:80%;
+  height:80%
+}
+.sx-mission .actions{
+  width:95%;
+  display:inline-flex;
+  justify-content:right;
+  visibility:hidden;
+  position:absolute;
+  top:5%
+}
+.sx-mission .open{
+  top:0;
+  height:100%
+}
+.sx-mission .open   .actions{
+  visibility:visible
+}
+.sx-mission .close{
+  animation:slide-up 1s
+}
+.sx-mission .iss-infographic-wrapper{
+  padding:0 60px
+}
+.sx-mission .iss-infographic-header   .destination-text{
+  font-size:24px;
+  line-height:110%;
+  color:var(--white-100)
+}
+.sx-mission .iss-infographic-header   h1{
+  padding:24px 0;
+  font-size:34px;
+  line-height:95%
+}
+.sx-mission .iss-infographic{
+  position:relative
+}
+.sx-mission .iss-infographic   .node-marker{
+  background-color:var(--white-100);
+  border:2px solid;
+  border-color:var(--black-80);
+  border-radius:50%;
+  height:10px;
+  position:absolute;
+  width:10px;
+  transition:transform .3s ease
+}
+.sx-mission .iss-infographic   .node-marker:hover{
+  transform:scale(1.2)
+}
+.sx-mission .iss-infographic   .iss-infographic-text{
+  position:absolute;
+  top:-20px;
+  left:0;
+  max-width:300px
+}
+.sx-mission .iss-infographic   .iss-infographic-text   h2{
+  line-height:120%;
+  font-size:18px;
+  padding-bottom:12px
+}
+.sx-mission .iss-infographic   .iss-infographic-text   p{
+  font-size:1rem;
+  line-height:1.5rem
+}
+.sx-mission .dragon-section-inner,.sx-mission .section   .section-inner.tracker-section-inner{
+  margin-bottom:24px;
+  margin-top:75px;
+  max-height:85vh;
+  max-width:unset
+}
+\@keyframes slide-up{
+0%{
+  top:0;
+  height:100%
+}
+99%{
+  top:-100vh;
+  height:100%
+}
+99.5%{
+  height:0
+}
+to{
+  top:100vh
+}
+}
+\@media (max-width: 961px){
+.sx-mission .timeline-table-wrapper{
+  flex-direction:column;
+  width:100%;
+  margin:0;
+  padding:60px 16px;
+  box-sizing:border-box
+}
+.sx-mission .timeline-table-wrapper   table{
+  padding-top:40px
+}
+.sx-mission .timeline-table-wrapper   thead{
+  display:none
+}
+.sx-mission .timeline-table-wrapper   tr{
+  display:flex;
+  flex-direction:column;
+  row-gap:4px;
+  padding:20px 16px
+}
+.sx-mission .timeline-table-wrapper   td,.sx-mission .timeline-table-wrapper   td:first-child{
+  padding:0
+}
+.sx-mission .timeline-table-header{
+  margin-right:0;
+  margin-bottom:40px
+}
+.sx-mission .timeline-table-header   p{
+  margin-top:16px
+}
+.sx-mission .section   .section-inner{
+  height:100vh
+}
+.sx-mission .section   .section-inner   .section-title{
+  font-size:46px
+}
+.sx-mission .section   .section-inner   .section-left-middle{
+  left:0;
+  width:100%;
+  padding-left:16px;
+  padding-right:16px;
+  box-sizing:border-box
+}
+.sx-mission .bottom{
+  display:flex;
+  flex-direction:column;
+  row-gap:8px;
+  margin:-50px 16px 0
+}
+.sx-mission .launch-infographic{
+  padding:20px 0
+}
+.sx-mission .astronauts-wrapper{
+  margin:80px 16px;
+  flex-direction:column
+}
+.sx-mission .astronaut-cards-wrapper{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  grid-row-gap:16px;
+  row-gap:16px;
+  grid-column-gap:8px;
+  column-gap:8px
+}
+.sx-mission .astronaut-title{
+  font-size:17px;
+  line-height:120%
+}
+.sx-mission .astronaut-name{
+  font-size:15px
+}
+.sx-mission .astronaut-image{
+  width:100%
+}
+.sx-mission .carousel-wrapper{
+  padding:80px 0
+}
+.sx-mission .webcast-wrapper{
+  margin:25px 16px
+}
+.sx-mission .webcast-content{
+  column-gap:24px;
+  padding:24px 0
+}
+.sx-mission .webcast-content   .webcast-title{
+  font-size:21px
+}
+.sx-mission .webcast-info{
+  flex-direction:column;
+  row-gap:8px;
+  align-items:flex-start;
+  margin-right:0
+}
+.sx-mission .iss-infographic-wrapper{
+  padding:60px 16px
+}
+.sx-mission .iss-infographic-header{
+  padding-bottom:60px
+}
+.sx-mission .iss-infographic-header   .destination-text{
+  font-size:17px;
+  text-transform:uppercase
+}
+.sx-mission .iss-infographic-header   h1{
+  font-size:28px
+}
+.sx-mission .iss-infographic{
+  display:flex;
+  flex-direction:column-reverse
+}
+.sx-mission .iss-infographic   .iss-infographic-text{
+  position:relative;
+  text-align:left;
+  max-width:none;
+  top:0
+}
+.sx-mission .iss-infographic   img{
+  height:100%;
+  width:100%
+}
+.sx-mission .iss-infographic   .buttons{
+  display:flex;
+  justify-content:space-between;
+  align-items:center
+}
+.sx-mission .iss-infographic   .buttons   span{
+  padding-top:30px
+}
+.sx-mission .iss-infographic   .buttons   .left-button{
+  transform:scaleX(-1)
+}
+}
+.sx-mission .image-wrapper picture{width:100%;height:100%}
+.sx-mission .countdown{font-family:Roboto Mono,monospace;text-transform:uppercase}
+
+</style>

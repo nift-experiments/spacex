@@ -1,0 +1,284 @@
+{
+  "title": "Bandwagon-4 Mission",
+  "date": "November 02, 2025",
+  "imageDesktop": "public/assets/media/Bandwagon_4_curbstreakh_DSC_6714_desktop_30f432239a.jpg",
+  "imageMobile": "public/assets/media/Bandwagon_4_curbstreakh_DSC_6714_mobile_2259c89f89.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 1464,
+      "videoId": "1984018892629410016",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1552,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 21753,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 21754,
+        "time": "00:02:14",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 21755,
+        "time": "00:02:18",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 21756,
+        "time": "00:02:22",
+        "description": "Stage 1 flip"
+      },
+      {
+        "id": 21757,
+        "time": "00:02:26",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 21758,
+        "time": "00:02:31",
+        "description": "Boostback burn starts"
+      },
+      {
+        "id": 21759,
+        "time": "00:02:41",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 21760,
+        "time": "00:03:13",
+        "description": "Boostback burn ends"
+      },
+      {
+        "id": 21761,
+        "time": "00:06:09",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 21762,
+        "time": "00:06:31",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 21763,
+        "time": "00:07:18",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 21764,
+        "time": "00:07:46",
+        "description": "1st stage landing"
+      },
+      {
+        "id": 21765,
+        "time": "00:09:38",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 21766,
+        "time": "00:12:14",
+        "description": "425 Korea deploys, manifested by Agency for Defense Development (ADD)"
+      },
+      {
+        "id": 21767,
+        "time": "00:37:51",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 21768,
+        "time": "00:37:52",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 21769,
+        "time": "00:59:30",
+        "description": "2nd stage engine starts (SES-3)"
+      },
+      {
+        "id": 21770,
+        "time": "00:59:31",
+        "description": "2nd stage engine cutoff (SECO-3)"
+      },
+      {
+        "id": 21771,
+        "time": "01:09:02",
+        "description": "TAURUS 1-4 deploy, manifested by Exolaunch"
+      },
+      {
+        "id": 21772,
+        "time": "01:09:15",
+        "description": "SEMI-2 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 21773,
+        "time": "01:09:27",
+        "description": "SEMI-3 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 21774,
+        "time": "01:09:30\t",
+        "description": "CEVROSAT-1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 21775,
+        "time": "01:10:13",
+        "description": "LEMUR-2-AFFIE-WAUWIE deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 21776,
+        "time": "01:10:16",
+        "description": "Haven demo deploys, manifested by Vast"
+      },
+      {
+        "id": 21777,
+        "time": "01:10:40",
+        "description": "Tomorrow-S8 deploys, manifested by Tomorrow Companies Inc."
+      },
+      {
+        "id": 21778,
+        "time": "01:10:59",
+        "description": "SEMI-1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 21779,
+        "time": "01:11:15",
+        "description": "ICEYE 2 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 21780,
+        "time": "01:11:37",
+        "description": "Tomorrow-S9 deploys, manifested by Tomorrow Companies Inc."
+      },
+      {
+        "id": 21781,
+        "time": "01:12:20",
+        "description": "ICEYE 1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 21782,
+        "time": "01:12:33",
+        "description": "FGN-100-d2 deploys, manifested by Fergani"
+      },
+      {
+        "id": 21783,
+        "time": "01:13:38\t",
+        "description": "Starcloud-1 deploys, manifested by Starcloud"
+      },
+      {
+        "id": 21784,
+        "time": "01:13:43",
+        "description": "ICEYE 3 deploys, manifested by Exolaunch"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_LANDING_ZONE_DESKTOP_34a3d0ee3c.webp",
+  "infographicMobile": "public/assets/media/F9_LANDING_ZONE_MOBILE_ab942c922a.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Bandwagon_4_pad39a_DSC_4602_DSC_4602_e043777302.jpg",
+      "mobile": "public/assets/media/Bandwagon_4_outsidemediav_DSC_2610_mobile_b28a10dc5e.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Bandwagon_4_outsidemediah_DSC_4354_61dd7ef27a.jpg",
+      "mobile": "public/assets/media/Bandwagon_4_outsidemediah_DSC_4354_61dd7ef27a.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Bandwagon_4_vertical_110125_DSC_5254_desktop_f242097174.jpg",
+      "mobile": "public/assets/media/Bandwagon_4_vertical_110125_DSC_5254_mobile_b2ac6d2d8d.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Bandwagon_4_LZ_2_DSC_2476_b76aeebf15.jpg",
+      "mobile": "public/assets/media/Bandwagon_4_LZ_2_DSC_2476_b76aeebf15.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/bandwagon-4/left.html",
+  "rightProse": "prose/missions/bandwagon-4/right.html"
+}

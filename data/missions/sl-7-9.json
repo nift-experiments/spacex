@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "January 02, 2024",
+  "imageDesktop": "public/assets/media/Starlink_7_9_Launch_20240102_5_D3_0071_b8f78ba5b1.jpg",
+  "imageMobile": "public/assets/media/Starlink_7_9_Launch_20240102_5_D3_0071_b8f78ba5b1.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 516,
+      "videoId": "1739727403910652117",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-7-9/left.html",
+  "rightProse": "prose/missions/sl-7-9/right.html"
+}

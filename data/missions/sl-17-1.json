@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "May 27, 2025",
+  "imageDesktop": "public/assets/media/Starlink_G17_1_OS_56_8303_Desktop_a39468bb12.jpg",
+  "imageMobile": "public/assets/media/Starlink_G17_1_OS_56_8303_Desktop_a39468bb12.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 864,
+      "videoId": "1925922311724584983",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-17-1/left.html",
+  "rightProse": "prose/missions/sl-17-1/right.html"
+}

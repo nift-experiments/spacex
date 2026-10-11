@@ -1,0 +1,31 @@
+{
+  "title": "NROL-167 Mission",
+  "date": "October 24, 2024",
+  "imageDesktop": "public/assets/media/NROL_167_So_Hill_Horiz_6654_Desktop_61ae3bd7ba.jpg",
+  "imageMobile": "public/assets/media/NROL_167_So_Hill_Vert_8496_Mobile_70f6cfdb8a.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 62,
+      "videoId": "1848819898673467572",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/nrol167/left.html",
+  "rightProse": "prose/missions/nrol167/right.html"
+}

@@ -1,0 +1,228 @@
+{
+  "title": "Starship Flight 14",
+  "date": "September 28, 2026",
+  "imageDesktop": "public/assets/media/Flight_14_Website_Desktop_5_4f66593f23.jpg",
+  "imageMobile": "public/assets/media/Flight_14_Website_Mobile_3_fb8b462f51.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2788,
+      "videoId": "1qxvvenMPMQxB",
+      "streamingVideoType": "x-live-studio",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 240,
+    "name": "Starship's Flight 14",
+    "title": "Countdown",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2026-09-15T14:50:32.418Z",
+    "updatedAt": "2026-09-15T14:50:35.502Z",
+    "publishedAt": "2026-09-15T14:50:35.543Z",
+    "documentId": "fhe03ndeensmxn75xpkkneqm",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 40552,
+        "time": "00:50:00",
+        "description": "SpaceX Flight Director conducts poll and verifies GO for propellant load"
+      },
+      {
+        "id": 40553,
+        "time": "00:36:33",
+        "description": "Booster LOX (liquid oxygen) load underway"
+      },
+      {
+        "id": 40554,
+        "time": "00:35:00",
+        "description": "Booster fuel (liquid methane) load underway"
+      },
+      {
+        "id": 40555,
+        "time": "00:34:13",
+        "description": "Ship LOX load underway"
+      },
+      {
+        "id": 40556,
+        "time": "00:34:11",
+        "description": "Ship fuel load underway"
+      },
+      {
+        "id": 40557,
+        "time": "00:21:40",
+        "description": "Raptor begins engine chill on booster and ship"
+      },
+      {
+        "id": 40558,
+        "time": "00:02:50",
+        "description": "Booster propellant load complete"
+      },
+      {
+        "id": 40559,
+        "time": "00:02:10",
+        "description": "Ship propellant load complete"
+      },
+      {
+        "id": 40560,
+        "time": "00:00:30",
+        "description": "SpaceX flight director verifies GO for launch"
+      },
+      {
+        "id": 40561,
+        "time": "00:00:17",
+        "description": "Flame diverter activation"
+      },
+      {
+        "id": 40562,
+        "time": "00:00:03",
+        "description": "Booster engine startup command"
+      },
+      {
+        "id": 40563,
+        "time": "00:00:00",
+        "description": "Excitement guaranteed"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2626,
+    "title": "FLIGHT TIMELINE",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 41658,
+        "time": "00:00:00",
+        "description": "Liftoff"
+      },
+      {
+        "id": 41659,
+        "time": "00:00:58",
+        "description": "Max Q (moment of peak aerodynamic stress on the rocket)"
+      },
+      {
+        "id": 41660,
+        "time": "00:02:20",
+        "description": "Super Heavy MECO (most engines cut off)"
+      },
+      {
+        "id": 41661,
+        "time": "00:02:22",
+        "description": "Hot-staging (Starship Raptor ignition and stage separation)"
+      },
+      {
+        "id": 41662,
+        "time": "00:02:27",
+        "description": "Super Heavy boostback burn start"
+      },
+      {
+        "id": 41663,
+        "time": "00:03:07",
+        "description": "Super Heavy boostback burn shutdown"
+      },
+      {
+        "id": 41664,
+        "time": "00:06:36",
+        "description": "Super Heavy landing burn start"
+      },
+      {
+        "id": 41665,
+        "time": "00:07:01",
+        "description": "Super Heavy landing burn shutdown"
+      },
+      {
+        "id": 41666,
+        "time": "00:08:11",
+        "description": "Starship engine cutoff"
+      },
+      {
+        "id": 41667,
+        "time": "00:25:17",
+        "description": "Starship orbital insertion burn start"
+      },
+      {
+        "id": 41668,
+        "time": "00:25:36",
+        "description": "Starship orbital insertion burn shutdown"
+      },
+      {
+        "id": 41669,
+        "time": "00:34:07",
+        "description": "Payload deploy start"
+      },
+      {
+        "id": 41670,
+        "time": "01:04:39",
+        "description": "Payload deploy complete"
+      },
+      {
+        "id": 41671,
+        "time": "08:52:37",
+        "description": "Deorbit burn start"
+      },
+      {
+        "id": 41672,
+        "time": "08:52:48",
+        "description": "Deorbit burn shutdown"
+      },
+      {
+        "id": 41673,
+        "time": "09:28:56",
+        "description": "Starship entry"
+      },
+      {
+        "id": 41674,
+        "time": "09:47:29",
+        "description": "Starship is transonic"
+      },
+      {
+        "id": 41675,
+        "time": "09:48:07",
+        "description": "Starship is subsonic"
+      },
+      {
+        "id": 41676,
+        "time": "09:50:11",
+        "description": "Landing burn start"
+      },
+      {
+        "id": 41677,
+        "time": "09:50:13",
+        "description": "Landing flip"
+      },
+      {
+        "id": 41678,
+        "time": "09:50:21",
+        "description": "Landing burn 3 to 2 engines"
+      },
+      {
+        "id": 41679,
+        "time": "09:50:28",
+        "description": "Landing burn 2 to 1 engine"
+      },
+      {
+        "id": 41680,
+        "time": "09:50:30",
+        "description": "An exciting landing!"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/Test_Flight_14_Trajectory_090226_web_2_56b3b513b2.png",
+  "infographicMobile": "public/assets/media/Test_Flight_14_Trajectory_090226_mobile_2_2ea0862d4a.png",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-flight-14/left.html",
+  "rightProse": "prose/missions/starship-flight-14/right.html"
+}

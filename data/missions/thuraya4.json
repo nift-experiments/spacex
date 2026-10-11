@@ -1,0 +1,31 @@
+{
+  "title": "Thuraya 4 Mission",
+  "date": "January 03, 2025",
+  "imageDesktop": "public/assets/media/Thuraya_4_outsideentrancerd_IMG_9973_desktop_cf1f194606.jpg",
+  "imageMobile": "public/assets/media/Thuruya_Streak_5_MOBILE_d77af76f1c.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 979,
+      "videoId": "1875002161974616282",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/thuraya4/left.html",
+  "rightProse": "prose/missions/thuraya4/right.html"
+}

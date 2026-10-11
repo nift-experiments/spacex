@@ -1,0 +1,188 @@
+{
+  "title": "Sentinel-6B Mission",
+  "date": "November 16, 2025",
+  "imageDesktop": "public/assets/media/Sentinel_6_B_OS_56_Streak_4418_Desktop_57a05359bb.jpg",
+  "imageMobile": "public/assets/media/Sentinel_6_B_OS_56_Streak_Vertical_4418_Mobile_638f3c06c0.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1617,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 23471,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 23472,
+        "time": "00:02:13",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 23473,
+        "time": "00:02:17",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 23474,
+        "time": "00:02:25",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 23475,
+        "time": "00:02:30",
+        "description": "Boostback burn starts"
+      },
+      {
+        "id": 23476,
+        "time": "00:02:48",
+        "description": "Fairing deployment"
+      },
+      {
+        "id": 23477,
+        "time": "00:03:18",
+        "description": "Boostback burn ends"
+      },
+      {
+        "id": 23478,
+        "time": "00:07:22",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 23479,
+        "time": "00:07:48",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 23480,
+        "time": "00:08:18",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 23481,
+        "time": "00:08:42",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 23482,
+        "time": "00:09:11",
+        "description": "1st stage lands on Landing Zone 4"
+      },
+      {
+        "id": 23483,
+        "time": "00:52:02",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 23484,
+        "time": "00:52:12",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 23485,
+        "time": "00:57:13",
+        "description": "Sentinel-6B deploys "
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_LANDING_ZONE_DESKTOP_34a3d0ee3c.webp",
+  "infographicMobile": "public/assets/media/F9_LANDING_ZONE_MOBILE_ab942c922a.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Sentinel_6_B_Vertical_0675_Desktop_fc62b51647.jpg",
+      "mobile": "public/assets/media/Sentinel_6_B_Vertical_Fairing_0149_Mobile_5a1e3b84ec.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Sentinel_6_B_OS_56_0180_Desktop_5a7e4d9017.jpg",
+      "mobile": "public/assets/media/Sentinel_6_B_OS_56_0180_Full_f5022a2265.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Sentinel_6_B_Theater_Horiz_9510_4d73c354bf.jpg",
+      "mobile": "public/assets/media/Sentinel_6_B_Theater_Vert_1016_d8a05f32f4.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Sentinel_6_B_LZ_West_Horiz_0404_5beaad790d.jpg",
+      "mobile": "public/assets/media/Sentinel_6_B_LZ_West_Vert_0534_10400121785103401132_jpg_cf571382e4.jpeg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sentinel-6b/left.html",
+  "rightProse": "prose/missions/sentinel-6b/right.html"
+}

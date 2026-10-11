@@ -1,0 +1,31 @@
+{
+  "title": "Transporter-7 Mission",
+  "date": "April 14, 2023",
+  "imageDesktop": "public/assets/media/2_Trans_7_OS_56_0469_Desktop_29b5d0c8d7.jpg",
+  "imageMobile": "public/assets/media/Trans_7_OS_56_5830_Mobile_9061b1ff5e.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 940,
+      "videoId": "F_OEbfFvdeE",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/transporter7/left.html",
+  "rightProse": "prose/missions/transporter7/right.html"
+}

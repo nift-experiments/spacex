@@ -1,0 +1,31 @@
+{
+  "title": "KPLO Mission",
+  "date": "August 04, 2022",
+  "imageDesktop": "public/assets/media/desktop_homepage_e8e23a0a2e.jpg",
+  "imageMobile": "public/assets/media/mobile_homepage_59d4d45a82.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 39,
+      "videoId": "rTrkHZjiO_8",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/kplo/left.html",
+  "rightProse": "prose/missions/kplo/right.html"
+}

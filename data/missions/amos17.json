@@ -1,0 +1,31 @@
+{
+  "title": "Amos-17 Mission",
+  "date": "August 06, 2019",
+  "imageDesktop": "public/assets/media/amos17_desktop_929b5ab862.jpg",
+  "imageMobile": "public/assets/media/amos17_mobile_c372cf744b.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 821,
+      "videoId": "fZh82-WcCuo",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/amos17/left.html",
+  "rightProse": "prose/missions/amos17/right.html"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Europa Clipper Mission",
+  "date": "October 14, 2024",
+  "imageDesktop": "public/assets/media/Europa_outside39mound_DSC_4507_desktop_22ea568a76.jpg",
+  "imageMobile": "public/assets/media/Europa_outside39mound_DSC_4508_mobile_da0f1b0715.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/europa-clipper/left.html",
+  "rightProse": "prose/missions/europa-clipper/right.html"
+}

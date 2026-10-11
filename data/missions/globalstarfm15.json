@@ -1,0 +1,31 @@
+{
+  "title": "Globalstar FM15 Mission",
+  "date": "June 19, 2022",
+  "imageDesktop": "public/assets/media/DESKTOP_launches_60e51fb3f0.jpg",
+  "imageMobile": "public/assets/media/MOBILE_Homepage_a06c7251b0.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 21,
+      "videoId": "94cClvOFWH4",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/globalstarfm15/left.html",
+  "rightProse": "prose/missions/globalstarfm15/right.html"
+}

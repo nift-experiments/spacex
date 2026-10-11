@@ -1,0 +1,31 @@
+{
+  "title": "ARABSAT BADR-8 Mission",
+  "date": "May 27, 2023",
+  "imageDesktop": "public/assets/media/Arab_BADR_8_presssite_DSC_6639_desktop_99275f5cb8.jpg",
+  "imageMobile": "public/assets/media/Arab_BADR_8_presssite_DSC_6639_mobile_70f400edc0.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 219,
+      "videoId": "lBJ9uWdCLRI",
+      "streamingVideoType": null,
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ARABSAT-BADR-8/left.html",
+  "rightProse": "prose/missions/ARABSAT-BADR-8/right.html"
+}

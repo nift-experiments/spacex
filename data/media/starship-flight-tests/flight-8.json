@@ -1,0 +1,25 @@
+{
+  "title": "Starship\u2019s Eighth Flight Test",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8_1080P.mp4"
+    },
+    {
+      "key": "uhd",
+      "label": "4k",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-4k",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8_4K.mp4"
+    }
+  ],
+  "description": "Starship\u2019s eighth flight test lifted off from Starbase in Texas at 5:30 p.m. CT on Thursday, March 6. The Super Heavy booster launched and returned, resulting in the third successful catch of a Super Heavy booster. Starship experienced an energetic event during ascent that resulted in an early end to the flight test. \n<br></br>\n<br>\n<a href=\"https://www.spacex.com/launches/starship-flight-8\" target=\"_\">Learn more on the mission page.</a> \n</br>",
+  "chapters": []
+}

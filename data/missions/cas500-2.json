@@ -1,0 +1,429 @@
+{
+  "title": "CAS500-2 Mission",
+  "date": "May 03, 2026",
+  "imageDesktop": "public/assets/media/CAS_500_2_Fig_Mtn_Streak_16mm_9988_Desktop_1cd7fef2e8.jpg",
+  "imageMobile": "public/assets/media/CAS_500_2_Fig_Mtn_4927_Mobile_b9d68d4496.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2354,
+      "videoId": "2047675023356256730",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2168,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 33991,
+        "time": "00:01:05",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 33992,
+        "time": "00:02:15",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 33993,
+        "time": "00:02:18",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 33994,
+        "time": "00:02:22",
+        "description": "Stage 1 flip"
+      },
+      {
+        "id": 33995,
+        "time": "00:02:26",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 33996,
+        "time": "00:02:31 ",
+        "description": "Boostback burn starts"
+      },
+      {
+        "id": 33997,
+        "time": "00:03:06",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 33998,
+        "time": "00:03:26",
+        "description": "Boostback burn ends"
+      },
+      {
+        "id": 33999,
+        "time": "00:06:13",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 34000,
+        "time": "00:06:24",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 34001,
+        "time": "00:07:15",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 34002,
+        "time": "00:07:22",
+        "description": "1st stage landing "
+      },
+      {
+        "id": 34003,
+        "time": "00:08:12",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 34004,
+        "time": "00:54:08",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 34005,
+        "time": "00:54:11",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 34006,
+        "time": "00:59:54",
+        "description": "CAS500-2 deploys, manifested by KAI"
+      },
+      {
+        "id": 34007,
+        "time": "01:16:37",
+        "description": "Selene deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34008,
+        "time": "01:16:46",
+        "description": "KNA's QUBE-II deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34009,
+        "time": "01:16:52",
+        "description": "FrontierSat deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34010,
+        "time": "01:16:54",
+        "description": "Helios deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34011,
+        "time": "01:17:04",
+        "description": "RAVEN deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34012,
+        "time": "01:17:17",
+        "description": "BRO-21 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34013,
+        "time": "01:17:34",
+        "description": "Balkan-2 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34014,
+        "time": "01:17:38",
+        "description": "Hydra-3 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34015,
+        "time": "01:17:59",
+        "description": "SNAPPY deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34016,
+        "time": "01:18:33",
+        "description": "JEN-1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34017,
+        "time": "01:19:01",
+        "description": "Lynk Tower 7 deploys, manifested by Lynk Global"
+      },
+      {
+        "id": 34018,
+        "time": "01:19:22",
+        "description": "BSLT-3 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34019,
+        "time": "01:19:58",
+        "description": "Lynk Tower 8 deploys, manifested by Lynk Global"
+      },
+      {
+        "id": 34020,
+        "time": "01:20:03",
+        "description": "Pelican-8 deploys, manifested by Planet Labs"
+      },
+      {
+        "id": 34021,
+        "time": "01:20:30",
+        "description": "Pelican-7 deploys, manifested by Planet Labs"
+      },
+      {
+        "id": 34022,
+        "time": "01:20:46",
+        "description": "Jackal Autonomous Orbital Vehicle deploys, manifested by True Anomaly"
+      },
+      {
+        "id": 34023,
+        "time": "01:21:00",
+        "description": "Pelican-9 deploys, manifested by Planet Labs"
+      },
+      {
+        "id": 34024,
+        "time": "01:21:21",
+        "description": "Eycore-1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34025,
+        "time": "01:22:08",
+        "description": "GalaxEye\u2019s Mission Drishti deploys, manifested by Impulso.Space"
+      },
+      {
+        "id": 34026,
+        "time": "01:36:06\t",
+        "description": "2nd stage engine starts (SES-3)"
+      },
+      {
+        "id": 34027,
+        "time": "01:36:07",
+        "description": "2nd stage engine cutoff (SECO-3)"
+      },
+      {
+        "id": 34028,
+        "time": "02:13:53",
+        "description": "2nd stage engine starts (SES-4)"
+      },
+      {
+        "id": 34029,
+        "time": "02:13:54",
+        "description": "2nd stage engine cutoff (SECO-4)"
+      },
+      {
+        "id": 34030,
+        "time": "02:22:18",
+        "description": "Gemini-Pollux deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34031,
+        "time": "02:22:24",
+        "description": "FOREST-17 Telperion deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34032,
+        "time": "02:22:35",
+        "description": "NuLink-2 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34033,
+        "time": "02:22:53",
+        "description": "NuLink-1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34034,
+        "time": "02:22:53",
+        "description": "BusanSat deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34035,
+        "time": "02:23:13",
+        "description": "PEARL-1B deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34036,
+        "time": "02:23:39",
+        "description": "PEARL-1A deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34037,
+        "time": "02:24:00",
+        "description": "FOREST-18 MangoShrikhand deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34038,
+        "time": "02:24:22",
+        "description": "FOREST-19 Patadastra deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34039,
+        "time": "02:24:43",
+        "description": "FOREST-16 Sowitasgoht deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34040,
+        "time": "02:24:47",
+        "description": "HEO-07 deploys, manifested by Argotec S.r.l."
+      },
+      {
+        "id": 34041,
+        "time": "02:24:51",
+        "description": "HEO-14 deploys, manifested by Argotec S.r.l."
+      },
+      {
+        "id": 34042,
+        "time": "02:25:00",
+        "description": "HEO-12 deploys, manifested by Argotec S.r.l."
+      },
+      {
+        "id": 34043,
+        "time": "02:25:06",
+        "description": "HEO-13 deploys, manifested by Argotec S.r.l."
+      },
+      {
+        "id": 34044,
+        "time": "02:25:12",
+        "description": "HEO-10 deploys, manifested by Argotec S.r.l."
+      },
+      {
+        "id": 34045,
+        "time": "02:25:53",
+        "description": "ICEYE 2 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34046,
+        "time": "02:25:58",
+        "description": "ICEYE 1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 34047,
+        "time": "02:26:13",
+        "description": "Loft-EarthDaily-5 deploys, manifested by Loft-EarthDaily"
+      },
+      {
+        "id": 34048,
+        "time": "02:26:23",
+        "description": "Loft-EarthDaily-6 deploys, manifested by Loft-EarthDaily"
+      },
+      {
+        "id": 34049,
+        "time": "02:28:34",
+        "description": "HEO-15 deploys, manifested by Argotec S.r.l."
+      },
+      {
+        "id": 34050,
+        "time": "02:29:05",
+        "description": "Loft-EarthDaily-2 deploys, manifested by Loft-EarthDaily"
+      },
+      {
+        "id": 34051,
+        "time": "02:29:15",
+        "description": "Loft-EarthDaily-3 deploys, manifested by Loft-EarthDaily"
+      },
+      {
+        "id": 34052,
+        "time": "02:30:08",
+        "description": "HEO-11 deploys, manifested by Argotec S.r.l."
+      },
+      {
+        "id": 34053,
+        "time": "02:30:21",
+        "description": "Loft-EarthDaily-4 deploys, manifested by Loft-EarthDaily"
+      },
+      {
+        "id": 34054,
+        "time": "02:30:46",
+        "description": "Loft-EarthDaily-7 deploys, manifested by Loft-EarthDaily"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_LANDING_ZONE_DESKTOP_34a3d0ee3c.webp",
+  "infographicMobile": "public/assets/media/F9_LANDING_ZONE_MOBILE_ab942c922a.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/CAS_500_2_South_Hill_Composite_Full_cbd191c46e.jpg",
+      "mobile": "public/assets/media/CAS_500_2_South_Hill_Composite_Full_cbd191c46e.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/cas500-2/left.html",
+  "rightProse": "prose/missions/cas500-2/right.html"
+}

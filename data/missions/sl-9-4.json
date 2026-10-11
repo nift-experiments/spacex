@@ -1,0 +1,31 @@
+{
+  "title": "STARLINK MISSION",
+  "date": "July 28, 2024",
+  "imageDesktop": "public/assets/media/Starlink_G9_4_Gaviota_3119_Desktop_034b775697.jpg",
+  "imageMobile": "public/assets/media/Starlink_G9_4_Gaviota_3097_Mobile_ead877ede3.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 638,
+      "videoId": "1817302523130396763",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-9-4/left.html",
+  "rightProse": "prose/missions/sl-9-4/right.html"
+}

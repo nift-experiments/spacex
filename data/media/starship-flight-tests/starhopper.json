@@ -1,0 +1,13 @@
+{
+  "title": "Starhopper",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Starhopper/Starhopper-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Starhopper_720P.mp4"
+    }
+  ],
+  "description": "On Tuesday, August 27, the Starhopper development vehicle completed a test flight in Cameron County, Texas. The vehicle lifted-off from the small launch pad and flew to a height of 150 meters before successfully touching down. Starhopper was an important first step in demonstrating components like the Raptor engine that form the core of Starship. ",
+  "chapters": []
+}

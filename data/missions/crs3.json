@@ -1,0 +1,20 @@
+{
+  "title": "CRS-3 Mission",
+  "date": "April 18, 2014",
+  "imageDesktop": "public/assets/media/CRS_3_Desktop_6be4dbe54f.jpg",
+  "imageMobile": "public/assets/media/CRS_3_Mobile_1143a7861c.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs3/left.html",
+  "rightProse": "prose/missions/crs3/right.html"
+}

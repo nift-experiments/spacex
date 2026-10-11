@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "November 14, 2024",
+  "imageDesktop": "public/assets/media/Star6_68_111424_DSC_4617_desktop_71a0d978cf.jpg",
+  "imageMobile": "public/assets/media/Star6_68_111424_DSC_4617_mobile_ffa54b2ef9.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 910,
+      "videoId": "1856739490833768485\t",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-6-68/left.html",
+  "rightProse": "prose/missions/sl-6-68/right.html"
+}

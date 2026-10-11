@@ -1,0 +1,31 @@
+{
+  "title": "ESA Euclid Mission",
+  "date": "July 01, 2023",
+  "imageDesktop": "public/assets/media/Euclid_PPF_DSC_7204_desktop_160ade3d9b.jpg",
+  "imageMobile": "public/assets/media/Euclid_PPF_DSC_7209_mobile_c820b3463b.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 518,
+      "videoId": "NIwvwYVUuxg",
+      "streamingVideoType": null,
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/euclid/left.html",
+  "rightProse": "prose/missions/euclid/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "SES-22 Mission",
+  "date": "June 29, 2022",
+  "imageDesktop": "public/assets/media/DESKTOP_launches1_dc785e380b.jpg",
+  "imageMobile": "public/assets/media/MOBILE_launches1_80aec90e27.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 769,
+      "videoId": "ZjUvXWg2_fE",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ses22/left.html",
+  "rightProse": "prose/missions/ses22/right.html"
+}

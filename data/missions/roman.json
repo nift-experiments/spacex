@@ -1,0 +1,244 @@
+{
+  "title": "Roman Space Telescope Mission",
+  "date": "August 30, 2026",
+  "imageDesktop": "public/assets/media/20260830_CC_Roman_westsun_DSC_8116_desktop_177f76c933.jpg",
+  "imageMobile": "public/assets/media/20260830_CC_Roman_ramp_IMG_5971_5db0db5208.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2714,
+      "videoId": "1jxXgBanvZeJZ",
+      "streamingVideoType": "x-live-studio",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 216,
+    "name": "Falcon Heavy",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2023-01-10T22:29:39.146Z",
+    "updatedAt": "2023-04-12T17:24:14.864Z",
+    "publishedAt": "2023-01-11T20:49:41.613Z",
+    "documentId": "i4gh0wu191da5k58ctvq0ucr",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14951,
+        "time": "- 00:53:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14952,
+        "time": "- 00:50:00",
+        "description": "1st stage RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14953,
+        "time": "- 00:45:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14954,
+        "time": "- 00:35:00",
+        "description": "2nd stage RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14955,
+        "time": "- 00:18:30",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14956,
+        "time": "- 00:07:00",
+        "description": "Falcon Heavy begins engine chill"
+      },
+      {
+        "id": 14957,
+        "time": "- 00:00:59",
+        "description": "Flight computer commanded to begin final pre-launch checks"
+      },
+      {
+        "id": 14958,
+        "time": "- 00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14959,
+        "time": "- 00:00:20",
+        "description": "Propellant tanks pressurize for flight"
+      },
+      {
+        "id": 14960,
+        "time": "- 00:00:06",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14961,
+        "time": "- 00:00:00",
+        "description": "Falcon Heavy liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2539,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 40121,
+        "time": "00:01:08",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 40122,
+        "time": "00:02:24",
+        "description": "Side booster engine cutoff (BECO) "
+      },
+      {
+        "id": 40123,
+        "time": "00:02:27",
+        "description": "Side boosters separate"
+      },
+      {
+        "id": 40124,
+        "time": "00:02:32",
+        "description": "Side boosters flip"
+      },
+      {
+        "id": 40125,
+        "time": "00:02:43",
+        "description": "Side boosters boostback burn begins"
+      },
+      {
+        "id": 40126,
+        "time": "00:03:48",
+        "description": "Side boosters boostback burn ends"
+      },
+      {
+        "id": 40127,
+        "time": "00:03:51",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 40128,
+        "time": "00:03:54",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 40129,
+        "time": "00:04:00",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 40130,
+        "time": "00:04:15",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 40131,
+        "time": "00:06:19",
+        "description": "Side boosters entry burn begins"
+      },
+      {
+        "id": 40132,
+        "time": "00:06:29",
+        "description": "Side boosters entry burn ends"
+      },
+      {
+        "id": 40133,
+        "time": "00:07:23\t",
+        "description": "Side boosters landing burns start"
+      },
+      {
+        "id": 40134,
+        "time": "00:07:40",
+        "description": "Side boosters landing"
+      },
+      {
+        "id": 40135,
+        "time": "00:08:28",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 40136,
+        "time": "00:24:33",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 40137,
+        "time": "00:26:32",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 40138,
+        "time": "00:31:31",
+        "description": "Roman deploys "
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/FH_Core_Exp_Horiz_36638e758a.png",
+  "infographicMobile": "public/assets/media/FH_Core_Exp_Vert_028f9fd2b1.png",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260830_CC_Roman_deck_SW_DSC_9706_desktop_e085a5b098.jpg",
+      "mobile": "public/assets/media/20260830_CC_Roman_belowdeck_DSC_0035_mobile_59f8cd49d4.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260830_CC_Roman_deckengine_IMG_1873_desktop_542db7dd6d.jpg",
+      "mobile": "public/assets/media/20260830_CC_Roman_deckengine_IMG_1873_mobile_5aaba30177.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260830_CC_Roman_DSC_5090_desktop_2f3a913c61.jpg",
+      "mobile": "public/assets/media/20260830_CC_Roman_DSC_5090_mobile_8feb1e9145.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260829_CC_Roman_DSC_9781_desktop_6c9ca5fd57.jpg",
+      "mobile": "public/assets/media/20260829_CC_Roman_DSC_9804_mobile_31f5af8d99.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260829_CC_Roman_DSC_9887_desktop_3bbe6c3064.jpg",
+      "mobile": "public/assets/media/20260829_CC_Roman_DSC_9887_2a69b121ed.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260829_CC_Roman_DSC_9884_desktop_2b0a2bc0f1.jpg",
+      "mobile": "public/assets/media/20260829_CC_Roman_DSC_9882_mobile_110c830247.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260826_Falcon_Heavy_13_Roman_Space_Telescope_Hangar_Lift_DSC_08755_5870b0bb60.jpg",
+      "mobile": "public/assets/media/20260826_Falcon_Heavy_13_Roman_Space_Telescope_Hangar_Lift_DSC_08755_5870b0bb60.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260821_CC_Roman_encapsulation_DSC_9638_e29902ba9e.jpg",
+      "mobile": "public/assets/media/20260821_CC_Roman_encapsulation_DSC_9642_5179665a3d.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260826_Falcon_Heavy_13_Roman_Space_Telescope_Hangar_Lift_DSC_08220_fb2e329cb1.jpg",
+      "mobile": "public/assets/media/20260826_Falcon_Heavy_13_Roman_Space_Telescope_Hangar_Lift_DSC_08220_fb2e329cb1.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/roman/left.html",
+  "rightProse": "prose/missions/roman/right.html"
+}

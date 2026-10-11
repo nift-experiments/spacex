@@ -1,0 +1,82 @@
+{
+  "title": "Starship's Eighth Flight Test",
+  "date": "March 06, 2025",
+  "imageDesktop": "public/assets/media/Flight_8_Website_Desktop_4_62344783aa.jpg",
+  "imageMobile": "public/assets/media/Flight_8_Website_Desktop_4_62344783aa.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 783,
+      "videoId": "1896909928381768044",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Flight_8_Website_Desktop_3_b8f32a248d.jpg",
+      "mobile": "public/assets/media/Flight_8_Website_Mobile_3_fce6ee8ccb.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Flight_8_Website_Desktop_4_4d01bb2276.jpg",
+      "mobile": "public/assets/media/Flight_8_Website_Mobile_4_2b76c98102.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Flight_8_level24_Npc_20250307002154_desktop_d77c230a45.jpg",
+      "mobile": "public/assets/media/Flight_8_level24_Npc_20250307002154_mobile_de8883b41f.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Flight_8_Beach_20250307002179_desktop_b91b558884.jpg",
+      "mobile": "public/assets/media/Flight_8_Beach_20250307002179_mobile_b8f8c76bad.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Flight_8_Drone_20250306002108_desktop_9eaded798c.jpg",
+      "mobile": "public/assets/media/Flight_8_Drone_20250306002108_mobile_e2ffa1bc03.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Flight_8_Website_Desktop_5_bf4d664a68.jpg",
+      "mobile": "public/assets/media/Flight_8_Website_Mobile_5_960add4162.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Flight_8_Drone_20250306002096_desktop_2c79bded3e.jpg",
+      "mobile": "public/assets/media/Flight_8_Drone_20250306002096_mobile_48764f5fe9.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Flight_8_Drone_20250306002113_52dc0e56f5.jpg",
+      "mobile": "public/assets/media/Flight_8_Drone_20250306002113_mobile_cddafa1e3a.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Flight_8_Beach_20250307002181_desktop_26f4b6dad0.jpg",
+      "mobile": "public/assets/media/Flight_8_Beach_20250307002181_mobile_da7278ea8d.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Flight_8_level16_20250307002145_desktop_7754dfd471.jpg",
+      "mobile": "public/assets/media/Flight_8_level16_20250307002145_mobile_01e004a15d.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-flight-8/left.html",
+  "rightProse": "prose/missions/starship-flight-8/right.html"
+}

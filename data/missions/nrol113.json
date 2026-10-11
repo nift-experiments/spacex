@@ -1,0 +1,31 @@
+{
+  "title": "NROL-113 Mission",
+  "date": "September 05, 2024",
+  "imageDesktop": "public/assets/media/NROL_113_OS_56_Streak_0640_Desktop_4ecdb1ce0f.jpg",
+  "imageMobile": "public/assets/media/NROL_113_OS_56_Streak_0640_Mobile_84457a71ed.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 27,
+      "videoId": "1831042926367129675",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/nrol113/left.html",
+  "rightProse": "prose/missions/nrol113/right.html"
+}

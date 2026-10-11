@@ -1,0 +1,47 @@
+{
+  "title": "Falcon Heavy Demonstration Mission",
+  "date": "February 06, 2018",
+  "imageDesktop": "public/assets/media/Falcon_Heavy_Demo_Portrait_Desktop_High_Res_fe4e6bc140.jpg",
+  "imageMobile": "public/assets/media/Falcon_Heavy_Demo_Portrait_Mobile_High_Res_b1cfb654a8.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 129,
+      "videoId": "wbSwFU6tY1c",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Falcon_Heavy_Demo_Desktop_c2480be4ef.jpg",
+      "mobile": "public/assets/media/Falcon_Heavy_Demo_Sunset_Mobile_e7ecd73502.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Falcon_Heavy_Flight_000_Demo_Launch_2_6c90fa773e.jpeg",
+      "mobile": "public/assets/media/Falcon_Heavy_Demo_Launch2_Mobile_e74f18b712.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Falcon_Heavy_Demo_Launch_Desktop_05b06ba174.jpg",
+      "mobile": "public/assets/media/CRS_12_Mobile_2d04504384.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/fhdemo/left.html",
+  "rightProse": "prose/missions/fhdemo/right.html"
+}

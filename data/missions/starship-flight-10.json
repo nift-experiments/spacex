@@ -1,0 +1,208 @@
+{
+  "title": "Starship's Tenth Flight Test",
+  "date": "August 26, 2025",
+  "imageDesktop": "public/assets/media/Flight_10_Website_Desktop_3_2d3ade143a.jpg",
+  "imageMobile": "public/assets/media/Flight_10_Website_Mobile_3_39310629e9.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 1165,
+      "videoId": "1960178606212063307",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 220,
+    "name": "Starship's Tenth Flight Test",
+    "title": "Countdown",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2024-05-21T16:17:21.287Z",
+    "updatedAt": "2025-08-19T15:13:18.653Z",
+    "publishedAt": "2025-08-19T15:13:18.703Z",
+    "documentId": "y7e6yzzsrjec5lx1kdjadjaq",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 16532,
+        "time": "01:15:00",
+        "description": "SpaceX Flight Director conducts poll and verifies GO for propellant load"
+      },
+      {
+        "id": 16533,
+        "time": "00:53:00",
+        "description": "Ship fuel (liquid methane) load underway"
+      },
+      {
+        "id": 16534,
+        "time": "00:45:20",
+        "description": "Ship LOX (liquid oxygen) load underway"
+      },
+      {
+        "id": 16535,
+        "time": "00:41:37",
+        "description": "Booster fuel load underway"
+      },
+      {
+        "id": 16536,
+        "time": "00:35:52",
+        "description": "Booster LOX load underway"
+      },
+      {
+        "id": 16537,
+        "time": "00:19:40",
+        "description": "Raptor begins engine chill on booster and ship"
+      },
+      {
+        "id": 16538,
+        "time": "00:03:20",
+        "description": "Ship propellant load complete"
+      },
+      {
+        "id": 16539,
+        "time": "00:02:50",
+        "description": "Booster propellant load complete"
+      },
+      {
+        "id": 16540,
+        "time": "00:00:30",
+        "description": "SpaceX flight director verifies GO for launch"
+      },
+      {
+        "id": 16541,
+        "time": "00:00:10",
+        "description": "Flame deflector activation"
+      },
+      {
+        "id": 16542,
+        "time": "00:00:03",
+        "description": "Raptor ignition sequence begins"
+      },
+      {
+        "id": 16543,
+        "time": "00:00:00",
+        "description": "Excitement guaranteed"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1226,
+    "title": "FLIGHT TEST TIMELINE",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 17127,
+        "time": "00:00:02",
+        "description": "Liftoff"
+      },
+      {
+        "id": 17128,
+        "time": "00:01:02",
+        "description": "Max Q (moment of peak aerodynamic stress on the rocket)"
+      },
+      {
+        "id": 17129,
+        "time": "00:02:36",
+        "description": "Super Heavy MECO (most engines cut off)"
+      },
+      {
+        "id": 17130,
+        "time": "00:02:38",
+        "description": "Hot-staging (Starship Raptor ignition and stage separation)"
+      },
+      {
+        "id": 17131,
+        "time": "00:02:48",
+        "description": "Super Heavy boostback burn start"
+      },
+      {
+        "id": 17132,
+        "time": "00:03:38",
+        "description": "Super Heavy boostback burn shutdown"
+      },
+      {
+        "id": 17133,
+        "time": "00:03:40",
+        "description": "Hot-stage jettison"
+      },
+      {
+        "id": 17134,
+        "time": "00:06:20",
+        "description": "Super Heavy landing burn start"
+      },
+      {
+        "id": 17135,
+        "time": "00:06:40",
+        "description": "Super Heavy landing burn shutdown "
+      },
+      {
+        "id": 17136,
+        "time": "00:08:57",
+        "description": "Starship engine cutoff"
+      },
+      {
+        "id": 17137,
+        "time": "00:18:27",
+        "description": "Payload deploy demo start"
+      },
+      {
+        "id": 17138,
+        "time": "00:25:32",
+        "description": "Payload deploy demo complete"
+      },
+      {
+        "id": 17139,
+        "time": "00:37:48",
+        "description": "Raptor in-space relight demo"
+      },
+      {
+        "id": 17140,
+        "time": "00:47:29",
+        "description": "Starship entry"
+      },
+      {
+        "id": 17141,
+        "time": "01:03:15",
+        "description": "Starship is transonic"
+      },
+      {
+        "id": 17142,
+        "time": "01:04:30",
+        "description": "Starship is subsonic"
+      },
+      {
+        "id": 17143,
+        "time": "01:06:14",
+        "description": "Landing flip"
+      },
+      {
+        "id": 17144,
+        "time": "01:06:20",
+        "description": "Landing burn start"
+      },
+      {
+        "id": 17145,
+        "time": "01:06:30",
+        "description": "An exciting landing!"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/SPACEX_STARSHIP_INFOGRAPHIC_032425_DESKTOP_769fc7b3bc.jpg",
+  "infographicMobile": "public/assets/media/SPACEX_STARSHIP_INFOGRAPHIC_032425_MOBILE_77b91b2dda.jpg",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-flight-10/left.html",
+  "rightProse": "prose/missions/starship-flight-10/right.html"
+}

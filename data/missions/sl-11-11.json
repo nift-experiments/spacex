@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "April 07, 2025",
+  "imageDesktop": "public/assets/media/Starlink_G11_11_San_Miguelito_7374_Desktop_f5e6957d55.jpg",
+  "imageMobile": "public/assets/media/Starlink_G11_11_San_Miguelito_7397_Mobile_ccf6e24cab.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 716,
+      "videoId": "1908208150689570929",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-11-11/left.html",
+  "rightProse": "prose/missions/sl-11-11/right.html"
+}

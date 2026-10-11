@@ -1,0 +1,31 @@
+{
+  "title": "THAICOM 8 Mission ",
+  "date": "May 27, 2016",
+  "imageDesktop": "public/assets/media/Thaicom_8_desktop_7eb6286311.jpg",
+  "imageMobile": "public/assets/media/Thaicom_8_desktop_7eb6286311.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 845,
+      "videoId": "zBYC4f79iXc",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/thaicom8/left.html",
+  "rightProse": "prose/missions/thaicom8/right.html"
+}

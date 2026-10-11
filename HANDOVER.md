@@ -317,3 +317,13 @@ Prefer documented Nift behaviour and the existing project structure over guessin
 ## SpaceX campaign S0
 
 Initialized authored reconstruction from observable production. See investigation/STATUS.md. Baseline capture is in sibling spacex-baseline; scaffold is placeholder. Exact next action: reconcile lazy routes, public CMS inputs and required media before translating content. No private source/build benchmark is available.
+
+### Runtime-media scope decision
+
+The user authorized remote-reference preservation for large downloadable catalogue media; playback-critical assets remain frozen locally. The storage pause is resolved. Continue S1 acquisition and interaction reconciliation, then homepage-first native implementation. Heavy reference remains in ../spacex-baseline. No completed S1/S3 claim.
+
+Current implementation: homepage plus 710 mission pages built in both source models. Marketing-family recovery is in progress from public DOM captures, with semantic scoped CSS and native @path references. Do not count empty publication directories as pages. Do not accept partial asset transfers, zero animation-state statistics, or inert media controls as parity. Heavy reference remains outside both maintained projects; Git asset packaging is unresolved and large files must not be added blindly.
+
+### Current route and media checkpoint
+
+Both registries contain 806 page/redirect outputs and 89 HLS outputs. Native forms use declarative shadow DOM recovered from the public open shadow roots; private submissions remain outside the reproduction contract. Browser parity is still open. Media playback/quality/download controls are implemented; playlists preserve the authored JSON versus maintained HTML distinction. See STATUS.md for the remaining closure work.

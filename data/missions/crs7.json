@@ -1,0 +1,20 @@
+{
+  "title": "CRS-7 Mission ",
+  "date": "June 28, 2015",
+  "imageDesktop": "public/assets/media/CRS_7_LAUNCH_Lightning_Tower_b753334d08.jpg",
+  "imageMobile": "public/assets/media/CRS_7_LAUNCH_Mound_3fad1cd7da.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Learn More",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs7/left.html",
+  "rightProse": "prose/missions/crs7/right.html"
+}

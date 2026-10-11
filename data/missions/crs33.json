@@ -1,0 +1,179 @@
+{
+  "title": "CRS-33 Mission",
+  "date": "August 24, 2025",
+  "imageDesktop": "public/assets/media/CRS_33_WEBSITE_DESKTOP_template_e8f9720eff.jpg",
+  "imageMobile": "public/assets/media/CRS_33_WEBSITE_MOBILE_30b75f1f32.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2134,
+      "videoId": "1956482956366884947",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": true,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 214,
+    "name": "Dragon - Cargo",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:17:30.932Z",
+    "updatedAt": "2023-05-19T19:48:03.135Z",
+    "publishedAt": "2022-12-14T22:17:33.342Z",
+    "documentId": "qyzqu9qoz2uaduqc2f9zy34x",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14933,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14934,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14935,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14936,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14937,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins pre-launch engine chill"
+      },
+      {
+        "id": 14938,
+        "time": "00:05:00",
+        "description": "Dragon transitions to internal power"
+      },
+      {
+        "id": 14939,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14940,
+        "time": "00:01:00",
+        "description": "Propellant tanks pressurize for flight"
+      },
+      {
+        "id": 14941,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14942,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14943,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1960,
+    "title": "LAUNCH, LANDING, AND DEPLOYMENT",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 29726,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 29727,
+        "time": "00:02:27",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 29728,
+        "time": "00:02:30\t",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 29729,
+        "time": "00:02:38\t",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 29730,
+        "time": "00:06:32",
+        "description": "1st stage entry burn starts"
+      },
+      {
+        "id": 29731,
+        "time": "00:06:59",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 29732,
+        "time": "00:08:16",
+        "description": "1st stage landing burn starts"
+      },
+      {
+        "id": 29733,
+        "time": "00:08:41",
+        "description": "1st stage landing"
+      },
+      {
+        "id": 29734,
+        "time": "00:08:47",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 29735,
+        "time": "00:09:45",
+        "description": "Dragon separates from 2nd stage"
+      },
+      {
+        "id": 29736,
+        "time": "00:10:33",
+        "description": "Dragon nosecone open sequence begins"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/CARGO_DRAGON_AUTONOMOUS_DRONESHIP_DESKTOP_e2f843179f.webp",
+  "infographicMobile": "public/assets/media/CARGO_DRAGON_AUTONOMOUS_DRONESHIP_MOBILE_512c79311e.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/CRS_33_vertical_082225_DSC_4589_desktop_aaf2c466f5.jpg",
+      "mobile": "public/assets/media/CRS_33_vertical_082225_DSC_4589_desktop_aaf2c466f5.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/CRS_33_vertical_082225_DSC_4623_desktop_254ab19e2e.jpg",
+      "mobile": "public/assets/media/CRS_33_vertical_082225_DSC_4623_desktop_254ab19e2e.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/CRS_33_causeway_DSC_4641_desktop_0ce5561bd8.jpg",
+      "mobile": "public/assets/media/CRS_33_causeway_DSC_4641_desktop_0ce5561bd8.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs33/left.html",
+  "rightProse": "prose/missions/crs33/right.html"
+}

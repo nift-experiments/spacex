@@ -1,0 +1,20 @@
+{
+  "title": "Thales Mission",
+  "date": "April 27, 2015",
+  "imageDesktop": "public/assets/media/Thales_Desktop_1a6fe29947.jpg",
+  "imageMobile": "public/assets/media/Thales_Mobile_001e5db548.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/thales/left.html",
+  "rightProse": "prose/missions/thales/right.html"
+}

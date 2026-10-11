@@ -1,0 +1,31 @@
+{
+  "title": "CRS-15 Mission",
+  "date": "June 29, 2018",
+  "imageDesktop": "public/assets/media/CRS_15_Desktop_d68b9150bd.jpg",
+  "imageMobile": "public/assets/media/CRS_15_Mobile_5e73bc267d.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 45,
+      "videoId": "ycMagB1s8XM",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs15/left.html",
+  "rightProse": "prose/missions/crs15/right.html"
+}

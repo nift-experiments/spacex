@@ -1,0 +1,31 @@
+{
+  "title": "Astranis: From One to Many Mission",
+  "date": "December 29, 2024",
+  "imageDesktop": "public/assets/media/Astranis_Micro_GEO_pad39a_DSC_7524_desktop_df67d8c120.jpg",
+  "imageMobile": "public/assets/media/Astranis_Micro_GEO_outsidebuilding_IMG_9925_mobile_1e21b8e258.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 980,
+      "videoId": "1872738102940451206",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/astranis-from-one-to-many/left.html",
+  "rightProse": "prose/missions/astranis-from-one-to-many/right.html"
+}

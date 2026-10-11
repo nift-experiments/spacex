@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "August 11, 2023",
+  "imageDesktop": "public/assets/media/Star6_9_081123_DSC_9104_desktop_6c7753773d.jpg",
+  "imageMobile": "public/assets/media/Star6_9_081123_DSC_9104_mobile_a8536ab722.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 575,
+      "videoId": "aKrbUe2sNr0\t",
+      "streamingVideoType": null,
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-6-9/left.html",
+  "rightProse": "prose/missions/sl-6-9/right.html"
+}

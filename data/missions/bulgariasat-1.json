@@ -1,0 +1,31 @@
+{
+  "title": "BulgariaSat-1 Mission",
+  "date": "June 23, 2017",
+  "imageDesktop": "public/assets/media/Bulgaria_Sat_1_desktop_b4688939ca.jpg",
+  "imageMobile": "public/assets/media/Bulgaria_Sat_1_desktop_b4688939ca.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 1407,
+      "videoId": "Y8mLi-rRTh8",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/bulgariasat-1/left.html",
+  "rightProse": "prose/missions/bulgariasat-1/right.html"
+}

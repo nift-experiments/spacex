@@ -1,0 +1,31 @@
+{
+  "title": "SES O3b mPOWER Misson",
+  "date": "November 12, 2023",
+  "imageDesktop": "public/assets/media/O3b_m_POWER_C_engine_DSC_7646_desktop_cb8407bf24.jpg",
+  "imageMobile": "public/assets/media/O3b_m_POWER_C_engine_DSC_7647_mobile_834092d3eb.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 559,
+      "videoId": "1722685279008620719",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/mpower-c/left.html",
+  "rightProse": "prose/missions/mpower-c/right.html"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "RazakSAT Mission",
+  "date": "July 14, 2009",
+  "imageDesktop": "public/assets/media/Razak_Sat_Desktop_0b1f337edd.jpg",
+  "imageMobile": "public/assets/media/Razak_Sat_Mobile_4e4ddf1c98.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Razak_Sat_Desktop2_8c4db99216.jpg",
+      "mobile": "public/assets/media/Razak_Sat_Mobile2_70edab0416.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/razaksat/left.html",
+  "rightProse": "prose/missions/razaksat/right.html"
+}

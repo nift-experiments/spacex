@@ -1,0 +1,31 @@
+{
+  "title": "CRS-31 Mission",
+  "date": "November 04, 2024",
+  "imageDesktop": "public/assets/media/CRS_31_outside39ab_DSC_6060_desktop_1f037cf3ba.jpg",
+  "imageMobile": "public/assets/media/CRS_31_outside39ab_DSC_6060_mobile_fa30b58c1f.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 1624,
+      "videoId": "1853421078317539509",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs-31/left.html",
+  "rightProse": "prose/missions/crs-31/right.html"
+}

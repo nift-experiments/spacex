@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "June 17, 2022",
+  "imageDesktop": "public/assets/media/Launches_Star4_19_DSC_5165_Desktop_be21374437.jpg",
+  "imageMobile": "public/assets/media/Star4_19_IMG_8709_Mobile_af6b51472e.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 168,
+      "videoId": "oCN-BMU9-hM",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-4-19/left.html",
+  "rightProse": "prose/missions/sl-4-19/right.html"
+}

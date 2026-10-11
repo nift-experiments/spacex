@@ -1,0 +1,219 @@
+{
+  "title": "NROL-97 Mission",
+  "date": "October 01, 2026",
+  "imageDesktop": "public/assets/media/20261001_CC_NROL_97_DSC_0100_desktop_e2b12d8a5e.jpg",
+  "imageMobile": "public/assets/media/20261001_CC_NROL_97_IMG_3402_mobile_dd2cae2fe1.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2809,
+      "videoId": "1oJMvNkPPXlxQ",
+      "streamingVideoType": "x-live-studio",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 216,
+    "name": "Falcon Heavy",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2023-01-10T22:29:39.146Z",
+    "updatedAt": "2023-04-12T17:24:14.864Z",
+    "publishedAt": "2023-01-11T20:49:41.613Z",
+    "documentId": "i4gh0wu191da5k58ctvq0ucr",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14951,
+        "time": "- 00:53:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14952,
+        "time": "- 00:50:00",
+        "description": "1st stage RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14953,
+        "time": "- 00:45:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14954,
+        "time": "- 00:35:00",
+        "description": "2nd stage RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14955,
+        "time": "- 00:18:30",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14956,
+        "time": "- 00:07:00",
+        "description": "Falcon Heavy begins engine chill"
+      },
+      {
+        "id": 14957,
+        "time": "- 00:00:59",
+        "description": "Flight computer commanded to begin final pre-launch checks"
+      },
+      {
+        "id": 14958,
+        "time": "- 00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14959,
+        "time": "- 00:00:20",
+        "description": "Propellant tanks pressurize for flight"
+      },
+      {
+        "id": 14960,
+        "time": "- 00:00:06",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14961,
+        "time": "- 00:00:00",
+        "description": "Falcon Heavy liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2643,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 42258,
+        "time": "00:01:09",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 42259,
+        "time": "00:02:24",
+        "description": "Side booster engine cutoff (BECO) "
+      },
+      {
+        "id": 42260,
+        "time": "00:02:27",
+        "description": "Side boosters separate"
+      },
+      {
+        "id": 42261,
+        "time": "00:02:31\t",
+        "description": "Side boosters flip"
+      },
+      {
+        "id": 42262,
+        "time": "00:02:42",
+        "description": "Side boosters boostback burn begins"
+      },
+      {
+        "id": 42263,
+        "time": "00:03:47",
+        "description": "Side boosters boostback burn ends"
+      },
+      {
+        "id": 42264,
+        "time": "00:03:51",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 42265,
+        "time": "00:03:54",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 42266,
+        "time": "00:04:00",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 42267,
+        "time": "00:04:17",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 42268,
+        "time": "00:06:29",
+        "description": "Side boosters entry burn begins"
+      },
+      {
+        "id": 42269,
+        "time": "00:06:37",
+        "description": "Side boosters entry burn ends"
+      },
+      {
+        "id": 42270,
+        "time": "00:07:30",
+        "description": "Side boosters landing burns begin"
+      },
+      {
+        "id": 42271,
+        "time": "00:07:47",
+        "description": "Side boosters land at LZ-1 and LZ-2"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/FH_Core_Exp_Horiz_36638e758a.png",
+  "infographicMobile": "public/assets/media/FH_Core_Exp_Vert_028f9fd2b1.png",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20261001_CC_NROL_97_DSC_8261_757b23416c.jpg",
+      "mobile": "public/assets/media/20261001_CC_NROL_97_IMG_3402_mobile_dd2cae2fe1.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20261001_CC_NROL_97_DSC_8200_53b282b4b4.jpg",
+      "mobile": "public/assets/media/20261001_CC_NROL_97_DSC_8200_mobile_69c73aa802.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20261001_CC_NROL_97_DSC_0544_desktop_53f3996d70.jpg",
+      "mobile": "public/assets/media/20261001_CC_NROL_97_DSC_0544_mobile_3bfb524193.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260930_CC_NROL_97_sunset_DSC_0488_desktop_ce213d8f30.jpg",
+      "mobile": "public/assets/media/20260930_CC_NROL_97_sunset_DSC_0489_mobile_aa33f198ed.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260930_CC_NROL_97_sunset_DSC_0504_desktop_32cdaaf193.jpg",
+      "mobile": "public/assets/media/20260930_CC_NROL_97_sunset_DSC_0519_mobile_ff2926e936.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260930_CC_NROL_97_vertical_DSC_0302_desktop_90244184fd.jpg",
+      "mobile": "public/assets/media/20260930_CC_NROL_97_vertical_DSC_0307_mobile_7bc0f6f48e.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260930_CC_NROL_97_vertical_DSC_0310_desktop_6306ace031.jpg",
+      "mobile": "public/assets/media/20260930_CC_NROL_97_vertical_DSC_0315_mobile_fbb7239c27.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260930_CC_NROL_97_vertical_DSC_0353_desktop_fcf06ac980.jpg",
+      "mobile": "public/assets/media/20260930_CC_NROL_97_vertical_DSC_0353_mobile_cfde530ff3.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/nrol97/left.html",
+  "rightProse": "prose/missions/nrol97/right.html"
+}

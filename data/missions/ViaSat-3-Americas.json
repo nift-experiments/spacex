@@ -1,0 +1,31 @@
+{
+  "title": "ViaSat-3 Americas Mission",
+  "date": "April 30, 2023",
+  "imageDesktop": "public/assets/media/Via_Sat_3_Amer_ramp_IMG_1964_1_desktop_a327646ff5.jpg",
+  "imageMobile": "public/assets/media/Via_Sat_3_outsidetracks_IMG_2068_mobile_02c7286a68.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 811,
+      "videoId": "YFbp6PVbJQA",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ViaSat-3-Americas/left.html",
+  "rightProse": "prose/missions/ViaSat-3-Americas/right.html"
+}

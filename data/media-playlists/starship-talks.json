@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Mars 2026",
+      "route": "content/starship-talks/mars-2026/",
+      "poster": "public/assets/recovered/sxcontent9668.azureedge.us/cms-assets/assets/Mars_2026_player_6ffd4606bd_47eedea2a3.jpg",
+      "duration": "00:42:20"
+    },
+    {
+      "title": "Starship Update",
+      "route": "content/starship-talks/starship-update-april-2024/",
+      "poster": "public/assets/recovered/sxcontent9668.azureedge.us/cms-assets/assets/Starship_Update_April_2024_player_7be21f3824_4c1cec954b.jpg",
+      "duration": "00:44:20"
+    },
+    {
+      "title": "Starship Update",
+      "route": "content/starship-talks/starship-update-january-2024/",
+      "poster": "public/assets/recovered/sxcontent9668.azureedge.us/cms-assets/assets/Starship_Update_January_2024_player_5882ed0a58_8ea8578360.jpg",
+      "duration": "00:58:59"
+    },
+    {
+      "title": "Starship Update",
+      "route": "content/starship-talks/starship-update-february-2022/",
+      "poster": "public/assets/recovered/sxcontent9668.azureedge.us/cms-assets/assets/Starship_Update_February_2022_player_bac5b1b9b6_b445a37b55.jpg",
+      "duration": "01:20:45"
+    },
+    {
+      "title": "Starship Update",
+      "route": "content/starship-talks/starship-update-september-2019/",
+      "poster": "public/assets/recovered/sxcontent9668.azureedge.us/cms-assets/assets/Starship_Update_September_2019_player_977471d2d6_2e0b2f9364.jpg",
+      "duration": "01:25:29"
+    },
+    {
+      "title": "Making Life Multiplanetary",
+      "route": "content/starship-talks/making-life-multiplanetary/",
+      "poster": "public/assets/recovered/sxcontent9668.azureedge.us/cms-assets/assets/Making_Life_Multiplanetary_player_8b753e8e78_beb23b1506.jpg",
+      "duration": "00:43:29"
+    }
+  ]
+}

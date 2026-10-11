@@ -1,0 +1,31 @@
+{
+  "title": "MAXAR 2 MISSION",
+  "date": "August 15, 2024",
+  "imageDesktop": "public/assets/media/Maxar_2_outsideloop_IMG_3618_desktop_c8c835ce63.jpg",
+  "imageMobile": "public/assets/media/Maxar_2_outsideloop_IMG_3618_desktop_c8c835ce63.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 662,
+      "videoId": "1823802409065566653\t",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/maxar2/left.html",
+  "rightProse": "prose/missions/maxar2/right.html"
+}

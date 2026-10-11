@@ -1,0 +1,20 @@
+{
+  "title": "Trailblazer Mission",
+  "date": "August 03, 2008",
+  "imageDesktop": "public/assets/media/Trailblazer_Desktop_331979019e.jpg",
+  "imageMobile": "public/assets/media/Trailblazer_Mobile_d4789dee42.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/trailblazer/left.html",
+  "rightProse": "prose/missions/trailblazer/right.html"
+}

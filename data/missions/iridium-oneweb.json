@@ -1,0 +1,31 @@
+{
+  "title": "Iridium OneWeb Mission ",
+  "date": "May 20, 2023",
+  "imageDesktop": "public/assets/media/One_Web_Iridium_San_Miq_Cyn_6179_Desktop_2_596ec2325f.jpg",
+  "imageMobile": "public/assets/media/One_Web_Iridium_Tran_Q_9531_Mobile_ebcbabd9b4.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 580,
+      "videoId": "crdFx4HiSFw",
+      "streamingVideoType": null,
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/iridium-oneweb/left.html",
+  "rightProse": "prose/missions/iridium-oneweb/right.html"
+}

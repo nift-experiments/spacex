@@ -1,0 +1,31 @@
+{
+  "title": "STARLINK MISSION",
+  "date": "January 31, 2023",
+  "imageDesktop": "public/assets/media/missionslaunches_desktop_08765b7af2.jpg",
+  "imageMobile": "public/assets/media/homepage_mobile_ddd87261e7.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 855,
+      "videoId": "yVxV3-xqJO0",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-2-6/left.html",
+  "rightProse": "prose/missions/sl-2-6/right.html"
+}

@@ -1,0 +1,249 @@
+{
+  "title": "Viasat-3 F3 Mission",
+  "date": "April 29, 2026",
+  "imageDesktop": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_PPF_DSC_8982_desktop_bc2c654236.jpg",
+  "imageMobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_PPF_DSC_8986_mobile_07f9ad6da6.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2343,
+      "videoId": "2048823719355613419",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 216,
+    "name": "Falcon Heavy",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2023-01-10T22:29:39.146Z",
+    "updatedAt": "2023-04-12T17:24:14.864Z",
+    "publishedAt": "2023-01-11T20:49:41.613Z",
+    "documentId": "i4gh0wu191da5k58ctvq0ucr",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14951,
+        "time": "- 00:53:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14952,
+        "time": "- 00:50:00",
+        "description": "1st stage RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14953,
+        "time": "- 00:45:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14954,
+        "time": "- 00:35:00",
+        "description": "2nd stage RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14955,
+        "time": "- 00:18:30",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14956,
+        "time": "- 00:07:00",
+        "description": "Falcon Heavy begins engine chill"
+      },
+      {
+        "id": 14957,
+        "time": "- 00:00:59",
+        "description": "Flight computer commanded to begin final pre-launch checks"
+      },
+      {
+        "id": 14958,
+        "time": "- 00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14959,
+        "time": "- 00:00:20",
+        "description": "Propellant tanks pressurize for flight"
+      },
+      {
+        "id": 14960,
+        "time": "- 00:00:06",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14961,
+        "time": "- 00:00:00",
+        "description": "Falcon Heavy liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2155,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 33544,
+        "time": "00:01:09",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 33545,
+        "time": "00:02:21",
+        "description": "Side booster engine cutoff (BECO) "
+      },
+      {
+        "id": 33546,
+        "time": "00:02:25",
+        "description": "Side boosters separate"
+      },
+      {
+        "id": 33547,
+        "time": "00:02:30",
+        "description": "Side boosters flip"
+      },
+      {
+        "id": 33548,
+        "time": "00:02:41",
+        "description": "Side boosters boostback burn begins"
+      },
+      {
+        "id": 33549,
+        "time": "00:03:47",
+        "description": "Side boosters boostback burn ends"
+      },
+      {
+        "id": 33550,
+        "time": "00:03:50",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 33551,
+        "time": "00:03:54",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 33552,
+        "time": "00:04:01",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 33553,
+        "time": "00:04:17",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 33554,
+        "time": "00:06:28",
+        "description": "Side boosters entry burn begins"
+      },
+      {
+        "id": 33555,
+        "time": "00:06:44",
+        "description": "Side boosters entry burn ends"
+      },
+      {
+        "id": 33556,
+        "time": "00:07:41",
+        "description": "Side boosters landing burns start"
+      },
+      {
+        "id": 33557,
+        "time": "00:07:58",
+        "description": "Side boosters landing"
+      },
+      {
+        "id": 33558,
+        "time": "00:08:13",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 33559,
+        "time": "00:26:05",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 33560,
+        "time": "00:27:33",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 33561,
+        "time": "04:47:47",
+        "description": "2nd stage engine starts (SES-3)"
+      },
+      {
+        "id": 33562,
+        "time": "04:48:30",
+        "description": "2nd stage engine cutoff (SECO-3)"
+      },
+      {
+        "id": 33563,
+        "time": "04:57:31",
+        "description": "ViaSat-3 F3 deploys "
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/FH_Core_Exp_Horiz_36638e758a.png",
+  "infographicMobile": "public/assets/media/FH_Core_Exp_Vert_028f9fd2b1.png",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260423_CC_FH_Via_Sat3_F3_lift_DSC_8011_69957bbd99.jpg",
+      "mobile": "public/assets/media/20260423_CC_FH_Via_Sat3_F3_lift_DSC_8011_69957bbd99.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260423_CC_FH_Via_Sat3_F3_engines_DSC_7951_1_5f7ddea9a6.jpg",
+      "mobile": "public/assets/media/20260423_CC_FH_Via_Sat3_F3_engines_DSC_7951_1_5f7ddea9a6.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260426_CC_FH_Via_Sat3_F3_sunset_vertical_DSC_8030_d6e3a447f4.jpg",
+      "mobile": "public/assets/media/20260426_CC_FH_Via_Sat3_F3_sunset_vertical_DSC_8040_mobile_a60a9b4eb5.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260426_CC_FH_Via_Sat3_F3_sunset_vertical_DSC_8024_desktop_a201deebff.jpg",
+      "mobile": "public/assets/media/20260426_CC_FH_Via_Sat3_F3_sunset_vertical_DSC_8025_mobile_bfef72b9e9.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_rampenginev_DSC_4878_desktop_0ddd00307b.jpg",
+      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_rampenginev_DSC_4879_mobile_3703392491.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_outsidehangarh_IMG_8285_desktop_8bd74cb1de.jpg",
+      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_outsidehangarh_IMG_8285_desktop_8bd74cb1de.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_LZ_40_DSC_7819_windsockremoved_6a24070bcd.jpg",
+      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_LZ_40_DSC_7819_windsockremoved_6a24070bcd.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_LZ_2_IMG_1648_adbab87908.jpg",
+      "mobile": "public/assets/media/20260429_CC_FH_Via_Sat3_F3_LZ_2_IMG_1648_adbab87908.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/viasat3f3/left.html",
+  "rightProse": "prose/missions/viasat3f3/right.html"
+}

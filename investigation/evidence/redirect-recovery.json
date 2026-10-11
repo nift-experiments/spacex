@@ -1,0 +1,192 @@
+[
+  {
+    "route": "mars",
+    "target": "humanspaceflight/mars/",
+    "reason": "Delivered client route redirect",
+    "bundle": "main.38aaaafc31bc4ec8.js"
+  },
+  {
+    "route": "mid-south",
+    "target": "Mid-South/",
+    "reason": "Delivered client route redirect",
+    "bundle": "main.38aaaafc31bc4ec8.js"
+  },
+  {
+    "route": "sites/memphis",
+    "target": "Mid-South/",
+    "reason": "Delivered client route redirect",
+    "bundle": "6543.b709ea243764f7ad.js"
+  },
+  {
+    "route": "sites/memphis-tn",
+    "target": "Mid-South/",
+    "reason": "Delivered client route redirect",
+    "bundle": "6543.b709ea243764f7ad.js"
+  },
+  {
+    "route": "sites/Mid-South",
+    "target": "Mid-South/",
+    "reason": "Delivered client route redirect",
+    "bundle": "6543.b709ea243764f7ad.js"
+  },
+  {
+    "route": "sites/mid-south",
+    "target": "Mid-South/",
+    "reason": "Delivered client route redirect",
+    "bundle": "6543.b709ea243764f7ad.js"
+  },
+  {
+    "route": "launches/SL-4-35",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/crs-29",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/discovr",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-1",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-10",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-11",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-12",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-13",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-14",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-15",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-2",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-3",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-4",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-5",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-6",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-7",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-8",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl-9",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/sl3-5",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/starlink",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "launches/telstar19vintage",
+    "target": "launches/",
+    "reason": "Inherited CMS 404; delivered mission error handler redirects to launches",
+    "bundle": "8800.85e5c607ebe65b77.js",
+    "bundleSha256": "70291dd1c454ecbdfe9d59e1b5aa715f06b965b738c63b9e2ab46b4de882da45"
+  },
+  {
+    "route": "legal",
+    "target": "https://supplierportal.spacex.com/",
+    "external": true,
+    "reason": "Delivered external navigation boundary",
+    "bundle": "main.38aaaafc31bc4ec8.js"
+  }
+]

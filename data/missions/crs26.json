@@ -1,0 +1,52 @@
+{
+  "title": "CRS-26 MISSION",
+  "date": "November 26, 2022",
+  "imageDesktop": "public/assets/media/Homepage_CRS_26_PPF_DSC_7683_Desktop_a94061e52a.jpg",
+  "imageMobile": "public/assets/media/Homepage_CRS_26_PPF_DSC_7683_Mobile_3e4deed606.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [
+    {
+      "id": 942,
+      "videoId": "1xCrWbJQXgE",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Launches_CRS_26_PPF_DSC_7686_a0b7ab8b35.jpg",
+      "mobile": "public/assets/media/CRS_26_Mobile2_1cb05d209a.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Launches_CRS_26_Splashdown_20230111_Microsoft_Teams_image_31_Desktop_434c856a6f.jpg",
+      "mobile": "public/assets/media/Space_X_CRS_26_Splashdown_20230111_31_311346c343.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Missions_CRS_26_Splashdown_20230111_Desktop_9a6fc1f1bc.jpg",
+      "mobile": "public/assets/media/Missions_CRS_26_Splashdown_20230111_Microsoft_Teams_image_Mobile_ada31cb530.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/DESKTOP_CRS_26_Undocking_001_b42067e5a0.jpg",
+      "mobile": "public/assets/media/MOBILE_CRS_26_Undocking_001_ad6f1ea68b.jpeg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs26/left.html",
+  "rightProse": "prose/missions/crs26/right.html"
+}

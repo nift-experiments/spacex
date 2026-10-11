@@ -1,0 +1,31 @@
+{
+  "title": "USSF-62 Mission",
+  "date": "April 11, 2024",
+  "imageDesktop": "public/assets/media/USSF_62_OS_56_1582_Desktop_e50586690a.jpg",
+  "imageMobile": "public/assets/media/USSF_62_OS_56_1582_Full_26be61da14.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 284,
+      "videoId": "1778136733806371003",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ussf62/left.html",
+  "rightProse": "prose/missions/ussf62/right.html"
+}

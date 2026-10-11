@@ -1,0 +1,20 @@
+{
+  "title": "CRS-4 Mission",
+  "date": "September 21, 2014",
+  "imageDesktop": "public/assets/media/CRS_4_Streak_3243a0e53d.jpg",
+  "imageMobile": "public/assets/media/CRS_4_Mobile_fe897f7405.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs4/left.html",
+  "rightProse": "prose/missions/crs4/right.html"
+}

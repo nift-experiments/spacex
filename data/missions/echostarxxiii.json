@@ -1,0 +1,31 @@
+{
+  "title": "EchoStar XXIII Mission ",
+  "date": "March 16, 2017",
+  "imageDesktop": "public/assets/media/echostar23_DESKTOP_template_eae44ce4a1.jpg",
+  "imageMobile": "public/assets/media/echostar23_DESKTOP_template_eae44ce4a1.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 762,
+      "videoId": "lZmqbL-hz7U",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/echostarxxiii/left.html",
+  "rightProse": "prose/missions/echostarxxiii/right.html"
+}

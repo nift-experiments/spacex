@@ -1,0 +1,31 @@
+{
+  "title": "Starship's Third Flight Test",
+  "date": "March 14, 2024",
+  "imageDesktop": "public/assets/media/Flight_3_Website_Desktop_2_8cd1983689.jpg",
+  "imageMobile": "public/assets/media/Flight_3_Website_Desktop_2_8cd1983689.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 225,
+      "videoId": "1768258691319689232",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-flight-3/left.html",
+  "rightProse": "prose/missions/starship-flight-3/right.html"
+}

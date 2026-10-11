@@ -1,0 +1,31 @@
+{
+  "title": "SAOCOM 1A Mission",
+  "date": "October 07, 2018",
+  "imageDesktop": "public/assets/media/SAOCOM_20181007_KK_Streak_d65d3aa749.jpeg",
+  "imageMobile": "public/assets/media/SAOCOM_02_DSC_5131_460343c539.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 585,
+      "videoId": "C6LQ7mHc",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/saocom1a/left.html",
+  "rightProse": "prose/missions/saocom1a/right.html"
+}

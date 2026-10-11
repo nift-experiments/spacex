@@ -1,0 +1,31 @@
+{
+  "title": "Commercial GTO-1 Mission",
+  "date": "July 13, 2025",
+  "imageDesktop": "public/assets/media/GTO_1_pad39a_DSC_3873_desktop_60348008d8.jpg",
+  "imageMobile": "public/assets/media/GTO_1_outsidesouthtwrv_IMG_2872_mobile_866724f2de.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 970,
+      "videoId": "1943793837647728997",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/commercial-gto-1/left.html",
+  "rightProse": "prose/missions/commercial-gto-1/right.html"
+}

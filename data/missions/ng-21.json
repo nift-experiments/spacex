@@ -1,0 +1,31 @@
+{
+  "title": "NG-21 MISSION",
+  "date": "August 04, 2024",
+  "imageDesktop": "public/assets/media/Cygnus_NG_21_PPF_DSC_1044_desktop_1_901b64e9bb.jpg",
+  "imageMobile": "public/assets/media/Cygnus_NG_21_PPF_DSC_1044_desktop_1_901b64e9bb.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 928,
+      "videoId": "1819416749155942893",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ng-21/left.html",
+  "rightProse": "prose/missions/ng-21/right.html"
+}

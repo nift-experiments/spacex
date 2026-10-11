@@ -1,0 +1,13 @@
+{
+  "title": "Starship High Altitude Test - SN10",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN10/SN10-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/SN10_720P.mp4"
+    }
+  ],
+  "description": "On Wednesday, March 3, Starship serial number (SN10) successfully completed SpaceX\u2019s third high-altitude flight test of a Starship prototype from our site in Cameron County, Texas.\n<br></br>\n<br>\n<a href=\"https://www.spacex.com/launches/starship-sn10\" target=\"_\">Learn more on the mission page.</a> \n</br>",
+  "chapters": []
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SDA's Second Tranche 0 Mission",
+  "date": "September 02, 2023",
+  "imageDesktop": "public/assets/media/SDA_0_B_OS_56_4813_Desktop_516dd2df29.jpg",
+  "imageMobile": "public/assets/media/SDA_0_B_OS_56_7642_Mobile_7361073253.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/SDA-Tranche0B/left.html",
+  "rightProse": "prose/missions/SDA-Tranche0B/right.html"
+}

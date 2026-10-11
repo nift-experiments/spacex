@@ -1,0 +1,199 @@
+{
+  "title": "NG-23 MISSION",
+  "date": "September 14, 2025",
+  "imageDesktop": "public/assets/media/Cygnus_NG_23_pad39_A_streak_desktop_9a53b46603.jpg",
+  "imageMobile": "public/assets/media/Cygnus_NG_23_pad39_A_streak_mobile_96289db72f.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 1285,
+      "videoId": "1961211298093638038",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1357,
+    "title": "LAUNCH, LANDING, AND DEPLOYMENT",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 18849,
+        "time": "00:01:12\t",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 18850,
+        "time": "00:02:12\t",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 18851,
+        "time": "00:02:16\t",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 18852,
+        "time": "00:02:24\t",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 18853,
+        "time": "00:02:29\t",
+        "description": "Boostback Burn Starts"
+      },
+      {
+        "id": 18854,
+        "time": "00:02:52\t",
+        "description": "Fairing deployment"
+      },
+      {
+        "id": 18855,
+        "time": "00:03:21\t",
+        "description": "Boostback Burn Ends"
+      },
+      {
+        "id": 18856,
+        "time": "00:06:10\t",
+        "description": "1st stage entry burn start"
+      },
+      {
+        "id": 18857,
+        "time": "00:06:30\t",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 18858,
+        "time": "00:07:21\t",
+        "description": "1st stage landing burn start"
+      },
+      {
+        "id": 18859,
+        "time": "00:07:54\t",
+        "description": "1st stage landing"
+      },
+      {
+        "id": 18860,
+        "time": "00:08:31\t",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 18861,
+        "time": "00:14:33\t",
+        "description": "NG-23 Deployment"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/Cygnus_LZ_082925_ec16a2b4c6.png",
+  "infographicMobile": "public/assets/media/Cygnus_mobile_LZ_082925_2d10e2e703.png",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Cygnus_NG_23_pad39_A_DSC_5223_desktop_61efdec8c5.jpg",
+      "mobile": "public/assets/media/Cygnus_NG_23_pad39_A_DSC_5223_desktop_61efdec8c5.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Cygnus_NG_23_outsidewhiteh_IMG_9571_desktop_d2108f1c71.jpg",
+      "mobile": "public/assets/media/Cygnus_NG_23_outsidewhiteh_IMG_9571_desktop_d2108f1c71.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Cygnus_NG_23_outsidelooph_DSC_4386_desktop_ffb7522352.jpg",
+      "mobile": "public/assets/media/Cygnus_NG_23_outsidelooph_DSC_4386_desktop_ffb7522352.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Cygnus_NG_23_outsidewhiteh_IMG_9573_11e307eaf1.jpg",
+      "mobile": "public/assets/media/Cygnus_NG_23_outsidewhiteh_IMG_9573_11e307eaf1.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Cygnus_NG_23_vertical_091425_DSC_5201_desktop_3c6261aa77.jpg",
+      "mobile": "public/assets/media/Cygnus_NG_23_vertical_091425_DSC_5201_desktop_3c6261aa77.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Cygnus_NG_23_vertical_091425_DSC_4623_desktop_0f6fc7c72b.jpg",
+      "mobile": "public/assets/media/Cygnus_NG_23_vertical_091425_DSC_4623_desktop_0f6fc7c72b.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ng23/left.html",
+  "rightProse": "prose/missions/ng23/right.html"
+}

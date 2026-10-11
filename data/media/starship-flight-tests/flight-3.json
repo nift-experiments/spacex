@@ -1,0 +1,19 @@
+{
+  "title": "Starship's Third Flight Test",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3-1080p",
+      "download": ""
+    }
+  ],
+  "description": "On March 14, 2024, Starship successfully lifted off for the third time at 8:25 a.m. CT from Starbase in Texas and went on to accomplish several major milestones and firsts. Starship made its first ever entry from space, providing valuable data on heating and vehicle control during hypersonic reentry. Live views of entry were made possible by Starlink terminals operating on Starship.\n<br>\n<a href=\"https://www.spacex.com/launches/starship-flight-3\" target=\"_\">Learn more on the mission page.</a> \n</br>",
+  "chapters": []
+}

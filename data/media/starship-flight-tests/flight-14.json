@@ -1,0 +1,25 @@
+{
+  "title": "Starship Flight 14",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14_1080P.mp4"
+    },
+    {
+      "key": "uhd",
+      "label": "4k",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-4k",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14_4K.mp4"
+    }
+  ],
+  "description": "On Monday, September 28 at 7:48 a.m. CT, Starship lifted off from Starbase, Texas on its 14th flight and first attempt to go to orbit. This was the first orbital Starship flight and the first to deliver meaningful payload to orbit with 26 Starlink V3 satellites.",
+  "chapters": []
+}

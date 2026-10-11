@@ -1,0 +1,31 @@
+{
+  "title": "IM-2 MISSION",
+  "date": "February 26, 2025",
+  "imageDesktop": "public/assets/media/IM_2_outisde39mound_DSC_2501_desktop_0bc6cfe12b.jpg",
+  "imageMobile": "public/assets/media/IM_2_outisde39mound_DSC_2501_desktop_0bc6cfe12b.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 713,
+      "videoId": "1894850957596348891",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/im-2/left.html",
+  "rightProse": "prose/missions/im-2/right.html"
+}

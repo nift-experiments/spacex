@@ -1,0 +1,31 @@
+{
+  "title": "STARLINK MISSION",
+  "date": "August 02, 2024",
+  "imageDesktop": "public/assets/media/STARLINK_10_6_LAUNCH_20240801_2_DESKTOP_0e429e2a69.jpg",
+  "imageMobile": "public/assets/media/Launch_Page_Starlink1_vertical_18_MOBILE_aa4942760b.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 639,
+      "videoId": "1819035415472677270",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-10-6/left.html",
+  "rightProse": "prose/missions/sl-10-6/right.html"
+}

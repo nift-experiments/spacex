@@ -1,0 +1,31 @@
+{
+  "title": "USSF-44",
+  "date": "November 01, 2022",
+  "imageDesktop": "public/assets/media/USSF_44_PPF_DSC_7967_b683101abe.jpg",
+  "imageMobile": "public/assets/media/USSF_44_PPF_DSC_7963_1_8686fa8559.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 304,
+      "videoId": "pY628jRd6gM&t",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ussf44/left.html",
+  "rightProse": "prose/missions/ussf44/right.html"
+}

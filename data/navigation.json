@@ -1,0 +1,176 @@
+[
+  {
+    "label": "Vehicles",
+    "id": "vehicles",
+    "links": [
+      {
+        "label": "Starship",
+        "url": "public/vehicles/starship/",
+        "external": false
+      },
+      {
+        "label": "Dragon",
+        "url": "public/vehicles/dragon/",
+        "external": false
+      },
+      {
+        "label": "Falcon 9",
+        "url": "public/vehicles/falcon-9/",
+        "external": false
+      },
+      {
+        "label": "Falcon Heavy",
+        "url": "public/vehicles/falcon-heavy/",
+        "external": false
+      }
+    ],
+    "group": true,
+    "url": "",
+    "external": false
+  },
+  {
+    "label": "Human Spaceflight",
+    "id": "human-spaceflight",
+    "links": [
+      {
+        "label": "Overview",
+        "url": "public/humanspaceflight/overview/",
+        "external": false
+      },
+      {
+        "label": "Space Station",
+        "url": "public/humanspaceflight/iss/",
+        "external": false
+      },
+      {
+        "label": "Earth Orbit",
+        "url": "public/humanspaceflight/earth/",
+        "external": false
+      },
+      {
+        "label": "The Moon",
+        "url": "public/humanspaceflight/moon/",
+        "external": false
+      },
+      {
+        "label": "Mars & Beyond",
+        "url": "public/humanspaceflight/mars/",
+        "external": false
+      }
+    ],
+    "group": true,
+    "url": "",
+    "external": false
+  },
+  {
+    "label": "Starlink",
+    "url": "https://starlink.com",
+    "external": true,
+    "group": false,
+    "id": "",
+    "links": []
+  },
+  {
+    "label": "Starshield",
+    "url": "public/starshield/",
+    "external": false,
+    "group": false,
+    "id": "",
+    "links": []
+  },
+  {
+    "label": "SPACEXAI",
+    "id": "xai",
+    "links": [
+      {
+        "label": "STARMIND",
+        "url": "public/spacexai/starmind/",
+        "external": false
+      },
+      {
+        "label": "GROK",
+        "url": "https://x.ai",
+        "external": true
+      },
+      {
+        "label": "GROKIPEDIA",
+        "url": "https://grokipedia.com",
+        "external": true
+      },
+      {
+        "label": "\ud835\udd4f",
+        "url": "https://x.com",
+        "external": true
+      }
+    ],
+    "group": true,
+    "url": "",
+    "external": false
+  },
+  {
+    "label": "Terafab",
+    "url": "https://terafab.ai",
+    "external": true,
+    "group": false,
+    "id": "",
+    "links": []
+  },
+  {
+    "label": "Company",
+    "id": "company",
+    "links": [
+      {
+        "label": "Mission",
+        "url": "public/mission/",
+        "external": false
+      },
+      {
+        "label": "Careers",
+        "url": "public/careers/",
+        "external": false
+      },
+      {
+        "label": "Sites",
+        "url": "public/sites/",
+        "external": false
+      },
+      {
+        "label": "Updates",
+        "url": "public/updates/",
+        "external": false
+      },
+      {
+        "label": "Content",
+        "url": "public/content/",
+        "external": false
+      },
+      {
+        "label": "Investors",
+        "url": "https://ir.spacex.com",
+        "external": true
+      }
+    ],
+    "group": true,
+    "url": "",
+    "external": false
+  },
+  {
+    "label": "Shop",
+    "id": "shop",
+    "links": [
+      {
+        "label": "SpaceX",
+        "url": "https://shop.spacex.com",
+        "external": true
+      },
+      {
+        "label": "SPACEXAI",
+        "url": "https://shop.x.com",
+        "external": true
+      }
+    ],
+    "group": true,
+    "url": "",
+    "external": false
+  }
+]

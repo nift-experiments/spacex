@@ -1,0 +1,20 @@
+{
+  "title": "Psyche Mission",
+  "date": "October 13, 2023",
+  "imageDesktop": "public/assets/media/Psyche_outsidehangar_IMG_3705_desktop_0eaa6fdd97.jpg",
+  "imageMobile": "public/assets/media/Psyche_outsidebeachrd_IMG_9792_mobile_9cacc50dbe.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/psyche/left.html",
+  "rightProse": "prose/missions/psyche/right.html"
+}

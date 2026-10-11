@@ -1,0 +1,179 @@
+{
+  "title": "EchoStar XXV Mission",
+  "date": "March 10, 2026",
+  "imageDesktop": "public/assets/media/Echostar_XXV_presssite_DSC_6820_desktop_94b3980e38.jpg",
+  "imageMobile": "public/assets/media/Echostar_XXV_outside_Sbldgv_IMG_0289_e5ce896561.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2195,
+      "videoId": "2027446074286149670",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2020,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 30510,
+        "time": "00:01:10",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 30511,
+        "time": "00:02:28",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 30512,
+        "time": "00:02:31",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 30513,
+        "time": "00:02:39",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 30514,
+        "time": "00:03:13",
+        "description": "Fairing separation "
+      },
+      {
+        "id": 30515,
+        "time": "00:06:45",
+        "description": "1st stage entry burn start"
+      },
+      {
+        "id": 30516,
+        "time": "00:07:08",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 30517,
+        "time": "00:08:02",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 30518,
+        "time": "00:08:31",
+        "description": "1st stage landing burn start"
+      },
+      {
+        "id": 30519,
+        "time": "00:08:40",
+        "description": "1st stage landing "
+      },
+      {
+        "id": 30520,
+        "time": "00:26:51",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 30521,
+        "time": "00:27:40",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 30522,
+        "time": "00:34:53",
+        "description": "EchoStar XXV deploys"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp",
+  "infographicMobile": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_MOBILE_8043528837.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Echostar_XXV_curbh_IMG_9947_3278b8a0a3.jpg",
+      "mobile": "public/assets/media/Echostar_XXV_outside_Sbldgv_IMG_0289_e5ce896561.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260309_Echostar_25_Vertical_STL_0191_0e0d27b70c.jpg",
+      "mobile": "public/assets/media/20260309_Echostar_25_Vertical_STL_0191_0e0d27b70c.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/echostarxxv/left.html",
+  "rightProse": "prose/missions/echostarxxv/right.html"
+}

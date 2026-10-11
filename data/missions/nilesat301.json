@@ -1,0 +1,31 @@
+{
+  "title": "Nilesat 301 Mission",
+  "date": "June 08, 2022",
+  "imageDesktop": "public/assets/media/DESKTOP_homepage_86d7194d98.jpg",
+  "imageMobile": "public/assets/media/MOBILE_homepage_2ca0967644.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 960,
+      "videoId": "UpCZu89zb5Y",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/nilesat301/left.html",
+  "rightProse": "prose/missions/nilesat301/right.html"
+}

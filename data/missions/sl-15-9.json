@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "June 16, 2025",
+  "imageDesktop": "public/assets/media/Starlink_G15_9_OS_56_8545_Desktop_a8eb7e521d.jpg",
+  "imageMobile": "public/assets/media/Starlink_G15_9_OS_56_8544_Mobile_9238b2799a.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Watch",
+  "webcasts": [
+    {
+      "id": 645,
+      "videoId": "1934693484973445540",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-15-9/left.html",
+  "rightProse": "prose/missions/sl-15-9/right.html"
+}

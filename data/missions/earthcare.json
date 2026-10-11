@@ -1,0 +1,31 @@
+{
+  "title": "ESA EarthCARE Mission",
+  "date": "May 28, 2024",
+  "imageDesktop": "public/assets/media/Earth_CARE_South_LZ_to_Pad_3741_9ce11e9f82.jpg",
+  "imageMobile": "public/assets/media/Earth_CARE_South_LZ_to_Pad_3741_9ce11e9f82.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 623,
+      "videoId": "1795147849455501630",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/earthcare/left.html",
+  "rightProse": "prose/missions/earthcare/right.html"
+}

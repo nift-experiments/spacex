@@ -1,0 +1,20 @@
+{
+  "title": "NROL-108 Mission",
+  "date": "December 19, 2020",
+  "imageDesktop": "public/assets/media/NROL_108_outsidehangar_IMG_4722_aabb16f231.jpg",
+  "imageMobile": "public/assets/media/NROL_108_deck_NE_IMG_9290_4ebc0c2722.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/nrol108/left.html",
+  "rightProse": "prose/missions/nrol108/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Intelsat IS-40e Mission",
+  "date": "April 07, 2023",
+  "imageDesktop": "public/assets/media/Intelsat40e_causeway_DSC_0385_desktop_f2530f7f25.jpg",
+  "imageMobile": "public/assets/media/Intelsat40e_engine_DSC_1197_mobile_22cb9d15f3.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 51,
+      "videoId": "TyWpP0fCxy8",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/intelsat-IS40e/left.html",
+  "rightProse": "prose/missions/intelsat-IS40e/right.html"
+}

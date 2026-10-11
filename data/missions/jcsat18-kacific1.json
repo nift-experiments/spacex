@@ -1,0 +1,31 @@
+{
+  "title": "JCSAT-18/KACIFIC1 MISSION",
+  "date": "December 16, 2019",
+  "imageDesktop": "public/assets/media/JCSAT_18_Desktop_0f13adc228.jpg",
+  "imageMobile": "public/assets/media/JCSAT_18_Mobile_266a9c6c56.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 830,
+      "videoId": "sbXgZg9JmkI",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/jcsat18-kacific1/left.html",
+  "rightProse": "prose/missions/jcsat18-kacific1/right.html"
+}

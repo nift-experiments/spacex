@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "December 28, 2024",
+  "imageDesktop": "public/assets/media/Starlink_G11_3_Mt_Figueroa_5475_Desktop_79adab46a5.jpg",
+  "imageMobile": "public/assets/media/Starlink_G11_3_Mt_Figueroa_5475_Desktop_79adab46a5.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 871,
+      "videoId": "1872753971284328511",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-11-3/left.html",
+  "rightProse": "prose/missions/sl-11-3/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "February 15, 2021",
+  "imageDesktop": "public/assets/media/Desktop_Star_L19_DSC_1291_4b54d2c8c0.jpg",
+  "imageMobile": "public/assets/media/Mobile_Launch_Star_L19_DSC_3781_c6bd66b3d2.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 896,
+      "videoId": "L0dkyV09Zso",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-19/left.html",
+  "rightProse": "prose/missions/sl-19/right.html"
+}

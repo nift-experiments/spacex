@@ -1,0 +1,47 @@
+{
+  "title": "CRS-23 MISSION",
+  "date": "August 29, 2021",
+  "imageDesktop": "public/assets/media/Launches_CRS_23_causeway_streak_Desktop_7b83bfdf0e.jpg",
+  "imageMobile": "public/assets/media/Launches_CRS_23_causeway_streak_Mobile_9a4e580cc1.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 342,
+      "videoId": "x-KiDqxAMU0",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/HP_CRS_23_causeway_DSC_7027_Desktop_dbb4930bf1.jpg",
+      "mobile": "public/assets/media/HP_CRS_23_causeway_DSC_7032_Mobile_a9655bc3d1.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Launches_CRS_23_vertical082521_DSC_2787_Desktop_0e09860c5d.jpg",
+      "mobile": "public/assets/media/Launches_CRS_23_Vertical_WEBSITE_MOBILE_99a2077a09.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/HP_CRS_23_Vertical_WEBSITE_DESKTOP_2_099f5ae41d.jpg",
+      "mobile": "public/assets/media/HP_CRS_23_vertical082521_DSC_2795_Mobile_84997c36ee.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs23/left.html",
+  "rightProse": "prose/missions/crs23/right.html"
+}

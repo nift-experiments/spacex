@@ -1,0 +1,10 @@
+{
+  "name": "hls.js",
+  "version": "1.7.3",
+  "source": "https://www.npmjs.com/package/hls.js/v/1.7.3",
+  "upstream": "https://github.com/video-dev/hls.js",
+  "purpose": "HLS playback fallback for browsers without native HLS; no Angular/runtime framework",
+  "sha256": "a12e7ee1cd64a69dcdb314157e45dafcba705bfb0b1440b7935cb265d374423e",
+  "bytes": 619692,
+  "routineBuildDownload": false
+}

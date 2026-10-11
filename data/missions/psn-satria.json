@@ -1,0 +1,31 @@
+{
+  "title": "PSN SATRIA Mission",
+  "date": "June 18, 2023",
+  "imageDesktop": "public/assets/media/PSN_Satria_curbh_DSC_2969_desktop_b183afee3c.jpg",
+  "imageMobile": "public/assets/media/PSN_Satria_curbh_DSC_2969_mobile_v2_b8691b5026.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 204,
+      "videoId": "4fEMCn2L3OY",
+      "streamingVideoType": null,
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/psn-satria/left.html",
+  "rightProse": "prose/missions/psn-satria/right.html"
+}

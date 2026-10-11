@@ -1,0 +1,31 @@
+{
+  "title": "HISPASAT AMAZONAS NEXUS MISSION",
+  "date": "February 06, 2023",
+  "imageDesktop": "public/assets/media/Amazonas_Nexus_SLC_40_2023_02_06_DSC_5094_Website_9fb499a40f.jpg",
+  "imageMobile": "public/assets/media/Amazonas_Nexus_SLC_40_2023_02_06_DSC_1276_Mobile_dbca0d83fb.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 593,
+      "videoId": "ChVawmhYde8",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/hispasat-amazonas-nexus/left.html",
+  "rightProse": "prose/missions/hispasat-amazonas-nexus/right.html"
+}

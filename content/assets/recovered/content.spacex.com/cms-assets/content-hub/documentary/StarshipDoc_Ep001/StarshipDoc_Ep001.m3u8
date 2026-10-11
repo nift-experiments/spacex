@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=5922400,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+@path('assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-720p')
+
+#EXT-X-STREAM-INF:BANDWIDTH=8940800,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+@path('assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-1080p')
+
+#EXT-X-STREAM-INF:BANDWIDTH=38640800,RESOLUTION=3840x2160,CODECS="avc1.640033,mp4a.40.2"
+@path('assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-4k')
+

@@ -1,0 +1,31 @@
+{
+  "title": "DRAGON LAUNCH ESCAPE DEMONSTRATION",
+  "date": "January 19, 2020",
+  "imageDesktop": "public/assets/media/IFA_Desktop_8ef69e810d.jpg",
+  "imageMobile": "public/assets/media/IFA_Mobile_4f47875e5a.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [
+    {
+      "id": 115,
+      "videoId": "DJ70N5HahDU",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/dragoninflightabort/left.html",
+  "rightProse": "prose/missions/dragoninflightabort/right.html"
+}

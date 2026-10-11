@@ -1,0 +1,31 @@
+{
+  "title": "starlink mission",
+  "date": "May 10, 2023",
+  "imageDesktop": "public/assets/media/Starlink_G2_9_South_Hill_0199_Desktop_2ffc18cade.jpg",
+  "imageMobile": "public/assets/media/Starlink_G2_9_OS_56_6066_Full_c6966d72df.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 596,
+      "videoId": "bzAcO60OPrk",
+      "streamingVideoType": null,
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl2-9/left.html",
+  "rightProse": "prose/missions/sl2-9/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "CRS-16 Mission",
+  "date": "December 05, 2018",
+  "imageDesktop": "public/assets/media/CRS_16_Desktop_521bfbfa10.jpg",
+  "imageMobile": "public/assets/media/CRS_16_Mobile2_0328811d6e.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 346,
+      "videoId": "Esh1jHT9oTA",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs16/left.html",
+  "rightProse": "prose/missions/crs16/right.html"
+}

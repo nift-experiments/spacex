@@ -1,0 +1,20 @@
+{
+  "title": "GOES-U Mission",
+  "date": "June 25, 2024",
+  "imageDesktop": "public/assets/media/GOES_U_pad40_DSC_1996_desktop_16be3588d7.jpg",
+  "imageMobile": "public/assets/media/GOES_U_pad40_DSC_5605_mobile_6a8d427732.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/goes-u/left.html",
+  "rightProse": "prose/missions/goes-u/right.html"
+}

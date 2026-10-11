@@ -1,0 +1,25 @@
+{
+  "title": "Test Like You Fly",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/documentary/20260424_StarshipDoc_Ep001_FINAL_FF3_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/documentary/Documentary_1080P.mp4"
+    },
+    {
+      "key": "uhd",
+      "label": "4k",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-4k",
+      "download": "https://content.spacex.com/cms-assets/content-hub/documentary/Documentary_4K.mp4"
+    }
+  ],
+  "description": "Three years since the first flight of Starship, the next generation is here. New ship. New booster. New engines. New pad and new test site. SpaceX engineers are working to solve one of the most difficult engineering challenges in history: developing a fully, rapidly reusable rocket. \u201cTest Like You Fly\u201d launches a series that takes you inside the factories and onto the launch pads where humanity's future in space is unfolding.",
+  "chapters": []
+}

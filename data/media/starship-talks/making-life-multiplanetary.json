@@ -1,0 +1,19 @@
+{
+  "title": "Making Life Multiplanetary",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary_1080P.mp4"
+    }
+  ],
+  "description": "On September 29th, 2017, at the International Astronautical Congress (IAC) in Adelaide, Australia, SpaceX CEO Elon Musk discussed Starship, designed to make life multiplanetary.",
+  "chapters": []
+}

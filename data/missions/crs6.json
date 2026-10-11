@@ -1,0 +1,20 @@
+{
+  "title": "CRS-6 Mission",
+  "date": "April 14, 2015",
+  "imageDesktop": "public/assets/media/CRS_6_Desktop_7d59a68341.jpg",
+  "imageMobile": "public/assets/media/CRS_6_Mobile_5013f9e940.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs6/left.html",
+  "rightProse": "prose/missions/crs6/right.html"
+}

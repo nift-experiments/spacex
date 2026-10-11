@@ -1,0 +1,20 @@
+{
+  "title": "GPS III Space Vehicle 05 Mission",
+  "date": "June 17, 2021",
+  "imageDesktop": "public/assets/media/Launches_GPSIIISV_05_pad39_A_DSC_8183_Desktop_35abdadc51.jpg",
+  "imageMobile": "public/assets/media/Launches_GPSIIISV_05_outsidebuilding_IMG_8256_mobile_d6ea7d9918.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/gpsiii5/left.html",
+  "rightProse": "prose/missions/gpsiii5/right.html"
+}

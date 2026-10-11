@@ -1,0 +1,31 @@
+{
+  "title": "Eutelsat HOTBIRD 13G Mission",
+  "date": "November 03, 2022",
+  "imageDesktop": "public/assets/media/DESKTOP_HOMEPAGE_c9b445b490.jpg",
+  "imageMobile": "public/assets/media/MOBILE_LAUNCHES_a7bca5bbc1.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 320,
+      "videoId": "McV40hM7aI8",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/eutelsathotbird13g/left.html",
+  "rightProse": "prose/missions/eutelsathotbird13g/right.html"
+}

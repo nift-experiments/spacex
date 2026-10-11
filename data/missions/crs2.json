@@ -1,0 +1,26 @@
+{
+  "title": "CRS-2 Mission",
+  "date": "March 01, 2013",
+  "imageDesktop": "public/assets/media/CRS_2_DSC_9391_Desktop_41c339dec8.jpg",
+  "imageMobile": "public/assets/media/CRS_2_DSC_9391_Mobile_2751ef3d49.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "",
+      "mobile": ""
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs2/left.html",
+  "rightProse": "prose/missions/crs2/right.html"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Critical Path",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002_1080P.mp4"
+    },
+    {
+      "key": "uhd",
+      "label": "4k",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-4k",
+      "download": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002_4K.mp4"
+    }
+  ],
+  "description": "The path to launch is filled with obstacles and success is only possible through the tireless efforts of many working together towards a common goal. \u201cCritical Path\u201d continues the ongoing Starship series, following SpaceX engineers through the final days before launch of the first Starship V3 and the challenges that come with development of the world\u2019s most powerful and fully reusable rocket.",
+  "chapters": []
+}

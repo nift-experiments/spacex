@@ -1,54 +1,13 @@
-# BASELINE.md
+# Observable-production reference — acquisition in progress
 
-The frozen upstream reference. Complete this before migrating content.
+Canonical origin: https://www.spacex.com/. This campaign does not possess original authored source or a reproducible private upstream build. No official public website source was located in the initial public search; absence is not proven. Community clones are not authoritative.
 
-## Upstream reference
+The delivered homepage is an Angular application shell. Captured vendor bytes contain Angular 13.0.3; main bundle declares lazy route modules and CMS endpoints. Technology detector claims are not implementation requirements.
 
-- Upstream repository:
-- Upstream commit SHA:
-- Upstream source directory:
-- Production build command:
-- Toolchain / runtime versions:
-- Tool/binary hashes (where relevant):
+Maintained source model: **authored**. Both projects reconstruct the same observable behavior, with vanilla CSS/JS as default. User authorization explicitly replaces generated MIGRATION.md source-checkout/build prerequisites with a frozen public-output reference, and permits source recovery rather than private-framework reconstruction.
 
-## Source model
+Separate reference workspace: sibling `spacex-baseline/capture`. Offline browser replay: sibling `spacex-baseline/replay`; derived replay only rewrites origin locations, preserves originals and uses CSP to block all outbound requests and form actions. This is reference tooling, not a migration publication server. Final reference identity is pending complete acquisition and reconciliation.
 
-Choose exactly one and describe it:
+Initial probes: homepage 200; robots.txt and sitemap.xml 404. 67 lazy chunks and 13 public CMS inputs acquired, plus environment/bootstrap/styles. Provisional discovery: 807 route candidates, including 731 unique mission links; not yet an accepted authoritative route count.
 
-- [ ] authored (human + agent; Markdown/MDX/frontmatter preserved)
-- [ ] rendered (agent-primary; rendered HTML/CSS/JS + explicit metadata/nav)
-- [ ] hybrid (describe):
-
-Publication/behaviour parity does not require different source models to
-preserve identical source semantics.
-
-## Complete production pipeline
-
-A successful build is not necessarily the complete publication. List every
-production step in order (build, search/index generation, post-processing,
-API/reference generation, downloads/exports, asset processing, deployment
-transforms, registry-generated data, client-island/bundle preparation, multi-stage re-builds):
-
-1.
-
-## Frozen reference output
-
-REFERENCE OUTPUT (immutable, upstream):
-    <absolute path>
-MIGRATION OUTPUT (Nift, changes over time):
-    <absolute path>
-
-Never point parity comparison at MIGRATION OUTPUT on both sides.
-
-## Upstream nondeterminism classification
-
-- [ ] byte deterministic
-- [ ] semantic deterministic
-- [ ] nondeterministic but bounded/understood (describe)
-- [ ] unresolved
-
-## Baseline measurements
-
-- Upstream build time (method, median/range):
-- Upstream peak RSS:
-- Environment / hardware:
+Upstream build time/RSS: **unavailable, not measured or inferred**. Frozen assets and CMS responses—not live CMS requests—will supply normal builds. Original dynamic content is bounded by capture timestamps and explicitly recorded data fixtures.

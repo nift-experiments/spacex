@@ -1,0 +1,944 @@
+{
+  "title": "Crew-12 Mission",
+  "date": "February 13, 2026",
+  "imageDesktop": "public/assets/media/Crew_12_LZ_double_DSC_2902_desktop_ff5c4392f2.jpg",
+  "imageMobile": "public/assets/media/Crew_12_outsideengine_DSC_8750_mobile_0b9742f9f3.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2869,
+      "videoId": "2019911782102335993",
+      "streamingVideoType": "x.com",
+      "title": "Crew-12 | Launch",
+      "date": "2026-02-13",
+      "isFeatured": null,
+      "imageDesktop": {
+        "id": 6799,
+        "name": "Crew-12_curbh_IMG_8465_desktop.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2600,
+        "height": 1200,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/large_Crew_12_curbh_IMG_8465_desktop_32e844b456.jpg",
+            "hash": "large_Crew_12_curbh_IMG_8465_desktop_32e844b456",
+            "mime": "image/jpeg",
+            "name": "large_Crew-12_curbh_IMG_8465_desktop.jpg",
+            "path": null,
+            "size": 63.75,
+            "width": 1000,
+            "height": 462,
+            "sizeInBytes": 63750
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/small_Crew_12_curbh_IMG_8465_desktop_32e844b456.jpg",
+            "hash": "small_Crew_12_curbh_IMG_8465_desktop_32e844b456",
+            "mime": "image/jpeg",
+            "name": "small_Crew-12_curbh_IMG_8465_desktop.jpg",
+            "path": null,
+            "size": 19.05,
+            "width": 500,
+            "height": 231,
+            "sizeInBytes": 19048
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/medium_Crew_12_curbh_IMG_8465_desktop_32e844b456.jpg",
+            "hash": "medium_Crew_12_curbh_IMG_8465_desktop_32e844b456",
+            "mime": "image/jpeg",
+            "name": "medium_Crew-12_curbh_IMG_8465_desktop.jpg",
+            "path": null,
+            "size": 38.86,
+            "width": 750,
+            "height": 346,
+            "sizeInBytes": 38857
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/thumbnail_Crew_12_curbh_IMG_8465_desktop_32e844b456.jpg",
+            "hash": "thumbnail_Crew_12_curbh_IMG_8465_desktop_32e844b456",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Crew-12_curbh_IMG_8465_desktop.jpg",
+            "path": null,
+            "size": 5.9,
+            "width": 245,
+            "height": 113,
+            "sizeInBytes": 5902
+          }
+        },
+        "hash": "Crew_12_curbh_IMG_8465_desktop_32e844b456",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 318.38,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Crew_12_curbh_IMG_8465_desktop_32e844b456.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/751",
+        "createdAt": "2026-02-13T14:05:01.147Z",
+        "updatedAt": "2026-02-13T14:05:01.147Z",
+        "documentId": "l4l7bophlt7cpm6uwijcc72d",
+        "locale": null,
+        "publishedAt": "2026-02-13T14:05:01.148Z"
+      },
+      "imageMobile": {
+        "id": 6799,
+        "name": "Crew-12_curbh_IMG_8465_desktop.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2600,
+        "height": 1200,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/large_Crew_12_curbh_IMG_8465_desktop_32e844b456.jpg",
+            "hash": "large_Crew_12_curbh_IMG_8465_desktop_32e844b456",
+            "mime": "image/jpeg",
+            "name": "large_Crew-12_curbh_IMG_8465_desktop.jpg",
+            "path": null,
+            "size": 63.75,
+            "width": 1000,
+            "height": 462,
+            "sizeInBytes": 63750
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/small_Crew_12_curbh_IMG_8465_desktop_32e844b456.jpg",
+            "hash": "small_Crew_12_curbh_IMG_8465_desktop_32e844b456",
+            "mime": "image/jpeg",
+            "name": "small_Crew-12_curbh_IMG_8465_desktop.jpg",
+            "path": null,
+            "size": 19.05,
+            "width": 500,
+            "height": 231,
+            "sizeInBytes": 19048
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/medium_Crew_12_curbh_IMG_8465_desktop_32e844b456.jpg",
+            "hash": "medium_Crew_12_curbh_IMG_8465_desktop_32e844b456",
+            "mime": "image/jpeg",
+            "name": "medium_Crew-12_curbh_IMG_8465_desktop.jpg",
+            "path": null,
+            "size": 38.86,
+            "width": 750,
+            "height": 346,
+            "sizeInBytes": 38857
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/thumbnail_Crew_12_curbh_IMG_8465_desktop_32e844b456.jpg",
+            "hash": "thumbnail_Crew_12_curbh_IMG_8465_desktop_32e844b456",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Crew-12_curbh_IMG_8465_desktop.jpg",
+            "path": null,
+            "size": 5.9,
+            "width": 245,
+            "height": 113,
+            "sizeInBytes": 5902
+          }
+        },
+        "hash": "Crew_12_curbh_IMG_8465_desktop_32e844b456",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 318.38,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Crew_12_curbh_IMG_8465_desktop_32e844b456.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/751",
+        "createdAt": "2026-02-13T14:05:01.147Z",
+        "updatedAt": "2026-02-13T14:05:01.147Z",
+        "documentId": "l4l7bophlt7cpm6uwijcc72d",
+        "locale": null,
+        "publishedAt": "2026-02-13T14:05:01.148Z"
+      }
+    },
+    {
+      "id": 2870,
+      "videoId": "2022407437504938237",
+      "streamingVideoType": "x.com",
+      "title": "Crew-12 | Docking",
+      "date": "2026-02-14",
+      "isFeatured": false,
+      "imageDesktop": {
+        "id": 6820,
+        "name": "iss074e0315932 164x82.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 164,
+        "height": 82,
+        "formats": null,
+        "hash": "iss074e0315932_164x82_957783e180",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 2.41,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/iss074e0315932_164x82_957783e180.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/751",
+        "createdAt": "2026-02-18T20:39:02.255Z",
+        "updatedAt": "2026-02-18T20:39:02.255Z",
+        "documentId": "ix80fxuo25ompqghc27scrag",
+        "locale": null,
+        "publishedAt": "2026-02-18T20:39:02.256Z"
+      },
+      "imageMobile": {
+        "id": 6820,
+        "name": "iss074e0315932 164x82.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 164,
+        "height": 82,
+        "formats": null,
+        "hash": "iss074e0315932_164x82_957783e180",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 2.41,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/iss074e0315932_164x82_957783e180.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/751",
+        "createdAt": "2026-02-18T20:39:02.255Z",
+        "updatedAt": "2026-02-18T20:39:02.255Z",
+        "documentId": "ix80fxuo25ompqghc27scrag",
+        "locale": null,
+        "publishedAt": "2026-02-18T20:39:02.256Z"
+      }
+    },
+    {
+      "id": 2871,
+      "videoId": "1jxXgBQZAQyJZ",
+      "streamingVideoType": "x-live-studio",
+      "title": "Crew-12 | Undocking",
+      "date": "2026-10-07",
+      "isFeatured": false,
+      "imageDesktop": {
+        "id": 6781,
+        "name": "crew9_undocking.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2600,
+        "height": 1200,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/large_crew9_undocking_aca34fed2e.png",
+            "hash": "large_crew9_undocking_aca34fed2e",
+            "mime": "image/png",
+            "name": "large_crew9_undocking.png",
+            "path": null,
+            "size": 835.26,
+            "width": 1000,
+            "height": 462,
+            "sizeInBytes": 835255
+          },
+          "small": {
+            "ext": ".png",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/small_crew9_undocking_aca34fed2e.png",
+            "hash": "small_crew9_undocking_aca34fed2e",
+            "mime": "image/png",
+            "name": "small_crew9_undocking.png",
+            "path": null,
+            "size": 236.74,
+            "width": 500,
+            "height": 231,
+            "sizeInBytes": 236743
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/medium_crew9_undocking_aca34fed2e.png",
+            "hash": "medium_crew9_undocking_aca34fed2e",
+            "mime": "image/png",
+            "name": "medium_crew9_undocking.png",
+            "path": null,
+            "size": 492.77,
+            "width": 750,
+            "height": 346,
+            "sizeInBytes": 492772
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/thumbnail_crew9_undocking_aca34fed2e.png",
+            "hash": "thumbnail_crew9_undocking_aca34fed2e",
+            "mime": "image/png",
+            "name": "thumbnail_crew9_undocking.png",
+            "path": null,
+            "size": 64.22,
+            "width": 245,
+            "height": 113,
+            "sizeInBytes": 64225
+          }
+        },
+        "hash": "crew9_undocking_aca34fed2e",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 1068.25,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/crew9_undocking_aca34fed2e.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/290/376",
+        "createdAt": "2026-02-09T20:43:00.028Z",
+        "updatedAt": "2026-02-09T20:43:00.028Z",
+        "documentId": "h05760p1yh8oaeqsyql81nlg",
+        "locale": null,
+        "publishedAt": "2026-02-09T20:43:00.029Z"
+      },
+      "imageMobile": {
+        "id": 6781,
+        "name": "crew9_undocking.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2600,
+        "height": 1200,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/large_crew9_undocking_aca34fed2e.png",
+            "hash": "large_crew9_undocking_aca34fed2e",
+            "mime": "image/png",
+            "name": "large_crew9_undocking.png",
+            "path": null,
+            "size": 835.26,
+            "width": 1000,
+            "height": 462,
+            "sizeInBytes": 835255
+          },
+          "small": {
+            "ext": ".png",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/small_crew9_undocking_aca34fed2e.png",
+            "hash": "small_crew9_undocking_aca34fed2e",
+            "mime": "image/png",
+            "name": "small_crew9_undocking.png",
+            "path": null,
+            "size": 236.74,
+            "width": 500,
+            "height": 231,
+            "sizeInBytes": 236743
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/medium_crew9_undocking_aca34fed2e.png",
+            "hash": "medium_crew9_undocking_aca34fed2e",
+            "mime": "image/png",
+            "name": "medium_crew9_undocking.png",
+            "path": null,
+            "size": 492.77,
+            "width": 750,
+            "height": 346,
+            "sizeInBytes": 492772
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/thumbnail_crew9_undocking_aca34fed2e.png",
+            "hash": "thumbnail_crew9_undocking_aca34fed2e",
+            "mime": "image/png",
+            "name": "thumbnail_crew9_undocking.png",
+            "path": null,
+            "size": 64.22,
+            "width": 245,
+            "height": 113,
+            "sizeInBytes": 64225
+          }
+        },
+        "hash": "crew9_undocking_aca34fed2e",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 1068.25,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/crew9_undocking_aca34fed2e.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/290/376",
+        "createdAt": "2026-02-09T20:43:00.028Z",
+        "updatedAt": "2026-02-09T20:43:00.028Z",
+        "documentId": "h05760p1yh8oaeqsyql81nlg",
+        "locale": null,
+        "publishedAt": "2026-02-09T20:43:00.029Z"
+      }
+    },
+    {
+      "id": 2872,
+      "videoId": "1DGLdZyZZpbGm",
+      "streamingVideoType": "x-live-studio",
+      "title": "Crew-12 | Splashdown",
+      "date": "2026-10-08",
+      "isFeatured": true,
+      "imageDesktop": {
+        "id": 7596,
+        "name": "Crew-12 164x82.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 164,
+        "height": 82,
+        "formats": null,
+        "hash": "Crew_12_164x82_54c8ee8420",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 10.49,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Crew_12_164x82_54c8ee8420.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/751",
+        "createdAt": "2026-10-07T17:06:34.032Z",
+        "updatedAt": "2026-10-07T17:06:34.032Z",
+        "documentId": "wzbwbg97mwdguwyzv0ycn93f",
+        "locale": null,
+        "publishedAt": "2026-10-07T17:06:34.032Z"
+      },
+      "imageMobile": {
+        "id": 7596,
+        "name": "Crew-12 164x82.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 164,
+        "height": 82,
+        "formats": null,
+        "hash": "Crew_12_164x82_54c8ee8420",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 10.49,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Crew_12_164x82_54c8ee8420.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/751",
+        "createdAt": "2026-10-07T17:06:34.032Z",
+        "updatedAt": "2026-10-07T17:06:34.032Z",
+        "documentId": "wzbwbg97mwdguwyzv0ycn93f",
+        "locale": null,
+        "publishedAt": "2026-10-07T17:06:34.032Z"
+      }
+    }
+  ],
+  "preTimeline": {
+    "id": 213,
+    "name": "Dragon - Crew",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:20:09.553Z",
+    "updatedAt": "2023-05-19T19:47:46.344Z",
+    "publishedAt": "2022-12-14T22:20:17.486Z",
+    "documentId": "zcxbll1dyl9vr828c8i6u902",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14920,
+        "time": "00:45:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14921,
+        "time": "00:42:00",
+        "description": "Crew access arm retracts"
+      },
+      {
+        "id": 14922,
+        "time": "00:39:00",
+        "description": "Dragon's launch escape system is armed"
+      },
+      {
+        "id": 14923,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14924,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14925,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14926,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14927,
+        "time": "00:05:00",
+        "description": "Dragon transitions to internal power"
+      },
+      {
+        "id": 14928,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14929,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14930,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14931,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14932,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2676,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 42913,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 42914,
+        "time": "00:02:24\t",
+        "description": "1st stage main engine cutoff (MECO) "
+      },
+      {
+        "id": 42915,
+        "time": "00:02:27\t",
+        "description": "1st and 2nd stages separate "
+      },
+      {
+        "id": 42916,
+        "time": "00:02:31\t",
+        "description": "Stage 1 flip"
+      },
+      {
+        "id": 42917,
+        "time": "00:02:35\t",
+        "description": "2nd stage engine starts (SES-1) "
+      },
+      {
+        "id": 42918,
+        "time": "00:02:41",
+        "description": "Boostback burn starts"
+      },
+      {
+        "id": 42919,
+        "time": "00:03:27\t",
+        "description": "Boostback burn ends"
+      },
+      {
+        "id": 42920,
+        "time": "00:06:20\t",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 42921,
+        "time": "00:06:33",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 42922,
+        "time": "00:07:17\t",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 42923,
+        "time": "00:07:42\t",
+        "description": "1st stage landing"
+      },
+      {
+        "id": 42924,
+        "time": "00:08:47\t",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 42925,
+        "time": "00:09:37\t",
+        "description": "Dragon separates from 2nd stage"
+      },
+      {
+        "id": 42926,
+        "time": "00:10:25\t",
+        "description": "Dragon nosecone open sequence begins"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/Dragon_Human_Spaceflight_Landing_Zone_051623_desktop_3efc9c45fe.png",
+  "infographicMobile": "public/assets/media/Dragon_Human_Spaceflight_Landing_Zone_051623_mobile_7fb6fbb6e4.png",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Crew_12_Vertical_Sunset_20260209_DSC_02381_5fca4c95fa.jpg",
+      "mobile": "public/assets/media/Crew_12_moon_020826_DSC_8304_fd658d5fca.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Crew_12_moon_020826_DSC_8307_0d45c54f8d.jpg",
+      "mobile": "public/assets/media/Crew_12_moon_020826_DSC_8307_0d45c54f8d.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Crew_12_causeway_DSC_8350_8ddfa58abe.jpg",
+      "mobile": "public/assets/media/Crew_12_causeway_DSC_8350_8ddfa58abe.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Crew_12_Vertical_Sunset_20260209_DSC_02337_8c8d760957.jpg",
+      "mobile": "public/assets/media/Crew_12_Vertical_Sunset_20260209_DSC_02337_8c8d760957.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Crew_12_curbh_IMG_8471_39806f6fe4.jpg",
+      "mobile": "public/assets/media/Crew_12_curbh_IMG_8471_39806f6fe4.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Crew_12_outside_L_Zh_DSC_3161_418ff2209f.jpg",
+      "mobile": "public/assets/media/Crew_12_outside_L_Zh_DSC_3161_418ff2209f.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Crew_12_LZ_post_landing_DSC_6785_0fe10d45d6.jpg",
+      "mobile": "public/assets/media/Crew_12_LZ_post_landing_DSC_6785_0fe10d45d6.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Crew_12_LZ_doublestreak_DSC_8038_ef136de632.jpg",
+      "mobile": "public/assets/media/Crew_12_LZ_doublestreak_DSC_8038_ef136de632.jpg"
+    }
+  ],
+  "astronauts": [
+    {
+      "id": 1367,
+      "name": "Jessica Meir ",
+      "bioLink": "https://www.nasa.gov/humans-in-space/astronauts/jessica-u-meir/",
+      "description": null,
+      "portrait": {
+        "id": 6749,
+        "name": "Crew-12_Portrait_Jessica.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2800,
+        "height": 3500,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/large_Crew_12_Portrait_Jessica_f966a71532.jpg",
+            "hash": "large_Crew_12_Portrait_Jessica_f966a71532",
+            "mime": "image/jpeg",
+            "name": "large_Crew-12_Portrait_Jessica.jpg",
+            "path": null,
+            "size": 92.18,
+            "width": 800,
+            "height": 1000,
+            "sizeInBytes": 92175
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/small_Crew_12_Portrait_Jessica_f966a71532.jpg",
+            "hash": "small_Crew_12_Portrait_Jessica_f966a71532",
+            "mime": "image/jpeg",
+            "name": "small_Crew-12_Portrait_Jessica.jpg",
+            "path": null,
+            "size": 28.54,
+            "width": 400,
+            "height": 500,
+            "sizeInBytes": 28535
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/medium_Crew_12_Portrait_Jessica_f966a71532.jpg",
+            "hash": "medium_Crew_12_Portrait_Jessica_f966a71532",
+            "mime": "image/jpeg",
+            "name": "medium_Crew-12_Portrait_Jessica.jpg",
+            "path": null,
+            "size": 55.53,
+            "width": 600,
+            "height": 750,
+            "sizeInBytes": 55531
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/thumbnail_Crew_12_Portrait_Jessica_f966a71532.jpg",
+            "hash": "thumbnail_Crew_12_Portrait_Jessica_f966a71532",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Crew-12_Portrait_Jessica.jpg",
+            "path": null,
+            "size": 5.3,
+            "width": 125,
+            "height": 156,
+            "sizeInBytes": 5296
+          }
+        },
+        "hash": "Crew_12_Portrait_Jessica_f966a71532",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 987.3,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Crew_12_Portrait_Jessica_f966a71532.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/751",
+        "createdAt": "2026-02-06T22:59:52.836Z",
+        "updatedAt": "2026-02-06T22:59:52.836Z",
+        "documentId": "vzh46da1qok5mjr6zmj5gnoc",
+        "locale": null,
+        "publishedAt": "2026-02-06T22:59:52.838Z"
+      }
+    },
+    {
+      "id": 1368,
+      "name": "Jack Hathaway",
+      "bioLink": "https://www.nasa.gov/humans-in-space/astronauts/nasa-astronaut-jack-hathaway/",
+      "description": null,
+      "portrait": {
+        "id": 6751,
+        "name": "Crew-12_Portrait_Jack.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2800,
+        "height": 3500,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/large_Crew_12_Portrait_Jack_b3c1231cea.jpg",
+            "hash": "large_Crew_12_Portrait_Jack_b3c1231cea",
+            "mime": "image/jpeg",
+            "name": "large_Crew-12_Portrait_Jack.jpg",
+            "path": null,
+            "size": 87.35,
+            "width": 800,
+            "height": 1000,
+            "sizeInBytes": 87348
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/small_Crew_12_Portrait_Jack_b3c1231cea.jpg",
+            "hash": "small_Crew_12_Portrait_Jack_b3c1231cea",
+            "mime": "image/jpeg",
+            "name": "small_Crew-12_Portrait_Jack.jpg",
+            "path": null,
+            "size": 27.58,
+            "width": 400,
+            "height": 500,
+            "sizeInBytes": 27580
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/medium_Crew_12_Portrait_Jack_b3c1231cea.jpg",
+            "hash": "medium_Crew_12_Portrait_Jack_b3c1231cea",
+            "mime": "image/jpeg",
+            "name": "medium_Crew-12_Portrait_Jack.jpg",
+            "path": null,
+            "size": 53.41,
+            "width": 600,
+            "height": 750,
+            "sizeInBytes": 53411
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/thumbnail_Crew_12_Portrait_Jack_b3c1231cea.jpg",
+            "hash": "thumbnail_Crew_12_Portrait_Jack_b3c1231cea",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Crew-12_Portrait_Jack.jpg",
+            "path": null,
+            "size": 4.95,
+            "width": 125,
+            "height": 156,
+            "sizeInBytes": 4947
+          }
+        },
+        "hash": "Crew_12_Portrait_Jack_b3c1231cea",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 915.94,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Crew_12_Portrait_Jack_b3c1231cea.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/751",
+        "createdAt": "2026-02-06T22:59:56.341Z",
+        "updatedAt": "2026-02-06T22:59:56.341Z",
+        "documentId": "f9tps4tcn53xgjupzhrpc6ww",
+        "locale": null,
+        "publishedAt": "2026-02-06T22:59:56.341Z"
+      }
+    },
+    {
+      "id": 1369,
+      "name": "Sophie Adenot ",
+      "bioLink": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Sophie_Adenot",
+      "description": null,
+      "portrait": {
+        "id": 6750,
+        "name": "Crew-12_Portrait_Sophie.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2800,
+        "height": 3500,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/large_Crew_12_Portrait_Sophie_6ff7e825ba.jpg",
+            "hash": "large_Crew_12_Portrait_Sophie_6ff7e825ba",
+            "mime": "image/jpeg",
+            "name": "large_Crew-12_Portrait_Sophie.jpg",
+            "path": null,
+            "size": 96.12,
+            "width": 800,
+            "height": 1000,
+            "sizeInBytes": 96117
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/small_Crew_12_Portrait_Sophie_6ff7e825ba.jpg",
+            "hash": "small_Crew_12_Portrait_Sophie_6ff7e825ba",
+            "mime": "image/jpeg",
+            "name": "small_Crew-12_Portrait_Sophie.jpg",
+            "path": null,
+            "size": 29.44,
+            "width": 400,
+            "height": 500,
+            "sizeInBytes": 29441
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/medium_Crew_12_Portrait_Sophie_6ff7e825ba.jpg",
+            "hash": "medium_Crew_12_Portrait_Sophie_6ff7e825ba",
+            "mime": "image/jpeg",
+            "name": "medium_Crew-12_Portrait_Sophie.jpg",
+            "path": null,
+            "size": 58,
+            "width": 600,
+            "height": 750,
+            "sizeInBytes": 57999
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/thumbnail_Crew_12_Portrait_Sophie_6ff7e825ba.jpg",
+            "hash": "thumbnail_Crew_12_Portrait_Sophie_6ff7e825ba",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Crew-12_Portrait_Sophie.jpg",
+            "path": null,
+            "size": 5.23,
+            "width": 125,
+            "height": 156,
+            "sizeInBytes": 5230
+          }
+        },
+        "hash": "Crew_12_Portrait_Sophie_6ff7e825ba",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 916.18,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Crew_12_Portrait_Sophie_6ff7e825ba.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/751",
+        "createdAt": "2026-02-06T22:59:55.945Z",
+        "updatedAt": "2026-02-06T22:59:55.945Z",
+        "documentId": "l927pf76iaee24cw3kqy014x",
+        "locale": null,
+        "publishedAt": "2026-02-06T22:59:55.946Z"
+      }
+    },
+    {
+      "id": 1370,
+      "name": "Andrey Fedyaev",
+      "bioLink": null,
+      "description": null,
+      "portrait": {
+        "id": 6752,
+        "name": "Crew-12_Portrait_Andrey.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2800,
+        "height": 3500,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/large_Crew_12_Portrait_Andrey_753b36eda8.jpg",
+            "hash": "large_Crew_12_Portrait_Andrey_753b36eda8",
+            "mime": "image/jpeg",
+            "name": "large_Crew-12_Portrait_Andrey.jpg",
+            "path": null,
+            "size": 96.71,
+            "width": 800,
+            "height": 1000,
+            "sizeInBytes": 96711
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/small_Crew_12_Portrait_Andrey_753b36eda8.jpg",
+            "hash": "small_Crew_12_Portrait_Andrey_753b36eda8",
+            "mime": "image/jpeg",
+            "name": "small_Crew-12_Portrait_Andrey.jpg",
+            "path": null,
+            "size": 29.19,
+            "width": 400,
+            "height": 500,
+            "sizeInBytes": 29188
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/medium_Crew_12_Portrait_Andrey_753b36eda8.jpg",
+            "hash": "medium_Crew_12_Portrait_Andrey_753b36eda8",
+            "mime": "image/jpeg",
+            "name": "medium_Crew-12_Portrait_Andrey.jpg",
+            "path": null,
+            "size": 57.91,
+            "width": 600,
+            "height": 750,
+            "sizeInBytes": 57910
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/thumbnail_Crew_12_Portrait_Andrey_753b36eda8.jpg",
+            "hash": "thumbnail_Crew_12_Portrait_Andrey_753b36eda8",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Crew-12_Portrait_Andrey.jpg",
+            "path": null,
+            "size": 5.09,
+            "width": 125,
+            "height": 156,
+            "sizeInBytes": 5089
+          }
+        },
+        "hash": "Crew_12_Portrait_Andrey_753b36eda8",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 1107.15,
+        "url": "https://sxcontent9668.azureedge.us/cms-assets/assets/Crew_12_Portrait_Andrey_753b36eda8.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-azure-storage",
+        "provider_metadata": null,
+        "folderPath": "/102/751",
+        "createdAt": "2026-02-06T22:59:57.156Z",
+        "updatedAt": "2026-02-06T22:59:57.156Z",
+        "documentId": "zrjbtlrgbl4gn7c24grzpzx7",
+        "locale": null,
+        "publishedAt": "2026-02-06T22:59:57.157Z"
+      }
+    }
+  ],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crew12/left.html",
+  "rightProse": "prose/missions/crew12/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "KF-01 Mission",
+  "date": "July 16, 2025",
+  "imageDesktop": "public/assets/media/Kuiper_KF_01_outsidesouthtwrh_IMG_8248_desktop_41aab93cd2.jpg",
+  "imageMobile": "public/assets/media/Kuiper_KF_01_outsidetowerv_DSC_1314_mobile_e8ce33f48d.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 969,
+      "videoId": "1944899778439254031",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/kf-01/left.html",
+  "rightProse": "prose/missions/kf-01/right.html"
+}

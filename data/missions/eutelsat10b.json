@@ -1,0 +1,31 @@
+{
+  "title": "Eutelsat 10B Mission",
+  "date": "November 22, 2022",
+  "imageDesktop": "public/assets/media/Eutelsat_10_B_desktop_LAUNCHES_DSC_8253_1_afbf3c89cc.jpg",
+  "imageMobile": "public/assets/media/Eutelsat_10_B_mobile_DSC_8251_cc0c959282.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 302,
+      "videoId": "QCpfvj1eiLs",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/eutelsat10b/left.html",
+  "rightProse": "prose/missions/eutelsat10b/right.html"
+}

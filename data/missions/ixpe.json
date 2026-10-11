@@ -1,0 +1,31 @@
+{
+  "title": "IXPE",
+  "date": "December 09, 2021",
+  "imageDesktop": "public/assets/media/IXPE_presssite_9ac219b3cc.jpg",
+  "imageMobile": "public/assets/media/IXPE_outsidefield_IMG_1394_e0114ffac7.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 42,
+      "videoId": "CpmHsN5GUn8",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ixpe/left.html",
+  "rightProse": "prose/missions/ixpe/right.html"
+}

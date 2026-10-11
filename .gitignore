@@ -1,1 +1,12 @@
 .nift/.lock
+
+__pycache__/
+*.pyc
+
+# Generated publication and build state
+public/**/*.html
+public/**/*.m3u8
+.nift/public/
+# Pinned maintained media is acquired once from the shared asset bundle.
+public/assets/media/
+public/assets/recovered/

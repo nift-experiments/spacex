@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "July 02, 2025",
+  "imageDesktop": "public/assets/media/Star10_25_070225_DSC_3588_desktop_066e9e6982.jpg",
+  "imageMobile": "public/assets/media/Star10_25_070225_DSC_3588_desktop_066e9e6982.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 866,
+      "videoId": "1940064147640639498",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-10-25/left.html",
+  "rightProse": "prose/missions/sl-10-25/right.html"
+}

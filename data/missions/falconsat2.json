@@ -1,0 +1,20 @@
+{
+  "title": "FalconSAT-2 Mission",
+  "date": "March 24, 2006",
+  "imageDesktop": "public/assets/media/Falcon_SAT_2_DESKTOP_b38e18d43b.jpg",
+  "imageMobile": "public/assets/media/Falcon_SAT_2_MOBILE_ad0ed512e7.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/falconsat2/left.html",
+  "rightProse": "prose/missions/falconsat2/right.html"
+}

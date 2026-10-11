@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "June 28, 2025",
+  "imageDesktop": "public/assets/media/Starlink_G15_7_Hwy_246_8829_Full_eeca8a4a8a.jpg",
+  "imageMobile": "public/assets/media/Starlink_G15_7_Hwy_246_8829_Full_eeca8a4a8a.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 873,
+      "videoId": "1938728402279899442",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-15-7/left.html",
+  "rightProse": "prose/missions/sl-15-7/right.html"
+}

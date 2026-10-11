@@ -1,0 +1,31 @@
+{
+  "title": "Intelsat G-31/G-32 Mission",
+  "date": "November 12, 2022",
+  "imageDesktop": "public/assets/media/DESKTOP_LAUNCHES_afb827013e.jpg",
+  "imageMobile": "public/assets/media/MOBILE_HOMEPAGE_0ec83e8325.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 174,
+      "videoId": "ERmF7WvCXuk",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/intelsatg31g32/left.html",
+  "rightProse": "prose/missions/intelsatg31g32/right.html"
+}

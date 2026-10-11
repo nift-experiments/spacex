@@ -1,0 +1,31 @@
+{
+  "title": "Turksat 6A Mission",
+  "date": "July 08, 2024",
+  "imageDesktop": "public/assets/media/Turksat_6_A_outsidesouthtwr_IMG_4865_desktop_f76015a49a.jpg",
+  "imageMobile": "public/assets/media/Turksat_6_A_outsidesouthtwr_IMG_4865_mobile_0909555f2f.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 171,
+      "videoId": "1810357749865394646",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/turksat6a/left.html",
+  "rightProse": "prose/missions/turksat6a/right.html"
+}

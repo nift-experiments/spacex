@@ -1,0 +1,31 @@
+{
+  "title": "CRS-17 Mission",
+  "date": "May 04, 2019",
+  "imageDesktop": "public/assets/media/CRS_17_Desktop_9a793ff00e.jpg",
+  "imageMobile": "public/assets/media/CRS_17_Mobile_5467d6760c.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 90,
+      "videoId": "AQFhX5TvP0M",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs17/left.html",
+  "rightProse": "prose/missions/crs17/right.html"
+}

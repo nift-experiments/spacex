@@ -1,0 +1,31 @@
+{
+  "title": "Maxar 3 Mission",
+  "date": "February 04, 2025",
+  "imageDesktop": "public/assets/media/Maxar_3_titusville_DSC_9200_desktop_31a60c6f5e.jpg",
+  "imageMobile": "public/assets/media/Maxar_3_titusville_DSC_9200_mobile_1ec9685344.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 976,
+      "videoId": "1885496650480968171",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/maxar3/left.html",
+  "rightProse": "prose/missions/maxar3/right.html"
+}

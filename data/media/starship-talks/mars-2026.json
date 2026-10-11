@@ -1,0 +1,19 @@
+{
+  "title": "Mars 2026",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026_1080P.mp4"
+    }
+  ],
+  "description": "On May 28, 2025, SpaceX CEO Elon Musk walked through SpaceX\u2019s plans to make life multiplanetary and covered recent achievements, upcoming milestones, and plans for Mars.",
+  "chapters": []
+}

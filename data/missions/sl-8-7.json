@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "May 14, 2024",
+  "imageDesktop": "public/assets/media/Starlink_G8_7_SW_Hill_Horiz_9864_Desktop_a85ed2f242.jpg",
+  "imageMobile": "public/assets/media/Starlink_G8_7_SW_Hill_Horiz_9864_Desktop_a85ed2f242.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 633,
+      "videoId": "1788305952548298804",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-8-7/left.html",
+  "rightProse": "prose/missions/sl-8-7/right.html"
+}

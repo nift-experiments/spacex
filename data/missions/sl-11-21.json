@@ -1,0 +1,179 @@
+{
+  "title": "Starlink Mission",
+  "date": "October 27, 2025",
+  "imageDesktop": "public/assets/media/20251027_starlink_g11_21_hill_00041_11_jpg_f0073b119d.jpeg",
+  "imageMobile": "public/assets/media/20251027_starlink_g11_21_hill_00072_9_jpg_3bc24509f1.jpeg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2173,
+      "videoId": "1978869779956945380",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1999,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 30235,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 30236,
+        "time": "00:02:25",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 30237,
+        "time": "00:02:28",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 30238,
+        "time": "00:02:35",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 30239,
+        "time": "00:02:57",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 30240,
+        "time": "00:06:05",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 30241,
+        "time": "00:06:31",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 30242,
+        "time": "00:08:00",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 30243,
+        "time": "00:08:23",
+        "description": "1st stage landing"
+      },
+      {
+        "id": 30244,
+        "time": "00:08:39",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 30245,
+        "time": "00:53:01",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 30246,
+        "time": "00:53:02",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 30247,
+        "time": "00:59:52",
+        "description": "Starlink satellites deploy"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp",
+  "infographicMobile": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_MOBILE_8043528837.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Starlink_G11_21_730_2320_Desktop_9_jpg_ba51bc9720.jpeg",
+      "mobile": "public/assets/media/8e13d743_3599_4104_871e_288e9b7881c1_e11e184471.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Starlink_G11_21_OS_56_0424_Desktop_8b0f38bd39.jpg",
+      "mobile": "public/assets/media/Starlink_G11_21_OS_56_0422_Full_49_jpg_41934e4284.jpeg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-11-21/left.html",
+  "rightProse": "prose/missions/sl-11-21/right.html"
+}

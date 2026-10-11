@@ -1,0 +1,31 @@
+{
+  "title": "RADARSAT Constellation Mission",
+  "date": "June 12, 2019",
+  "imageDesktop": "public/assets/media/Radar_Sat_Desktop_d75e59dfba.jpg",
+  "imageMobile": "public/assets/media/Radarsat_Mobile_623bd3bb5f.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 694,
+      "videoId": "8A2nJd9Urk8",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/radarsatconstellation/left.html",
+  "rightProse": "prose/missions/radarsatconstellation/right.html"
+}

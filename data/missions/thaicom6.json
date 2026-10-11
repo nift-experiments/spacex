@@ -1,0 +1,26 @@
+{
+  "title": "Thaicom-6 Mission",
+  "date": "January 06, 2014",
+  "imageDesktop": "public/assets/media/Thaicom_Desktop1_2a5ca1784f.jpg",
+  "imageMobile": "public/assets/media/Thaicom_Mobile1_acff0337e3.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Thaicom_Desktop2_735ad3c3d2.jpg",
+      "mobile": "public/assets/media/Thaicom_Mobile2_1e52041d01.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/thaicom6/left.html",
+  "rightProse": "prose/missions/thaicom6/right.html"
+}

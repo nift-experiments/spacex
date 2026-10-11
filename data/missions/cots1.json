@@ -1,0 +1,20 @@
+{
+  "title": "COTS 1 Mission",
+  "date": "December 08, 2010",
+  "imageDesktop": "public/assets/media/COTS_1_Desktop_16dbbc4a81.jpg",
+  "imageMobile": "public/assets/media/COTS_1_Mobile_0f9d609d6c.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/cots1/left.html",
+  "rightProse": "prose/missions/cots1/right.html"
+}

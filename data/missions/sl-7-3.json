@@ -1,0 +1,20 @@
+{
+  "title": "Starlink Mission",
+  "date": "September 25, 2023",
+  "imageDesktop": "public/assets/media/Starlink_G7_3_Horiz_SW_Hill_7450_Desktop_96002ba3ec.jpg",
+  "imageMobile": "public/assets/media/Starlink_G7_3_Streak_South_West_Hill_7564_Mobile_c52c3892c2.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "LEARN MORE",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-7-3/left.html",
+  "rightProse": "prose/missions/sl-7-3/right.html"
+}

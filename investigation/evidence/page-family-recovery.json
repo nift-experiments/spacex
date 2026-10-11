@@ -1,0 +1,940 @@
+[
+  {
+    "route": "/Mid-South",
+    "capture": "Mid-South.1280x720.ebc242428217.json",
+    "captureSha256": "ebc242428217995431ad1cac0644ffc4a018674c30984549f4859806ac85e2bf",
+    "ownedAssets": 0,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/careers/jobs",
+    "capture": "careers-jobs.1280x720.1ef53dd63ec8.json",
+    "captureSha256": "1ef53dd63ec89a3918a81cc7f78d14e905b4f5c502002aeaa0f2f69d7b28ff6e",
+    "ownedAssets": 0,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/careers",
+    "capture": "careers.1280x720.450fabc73ffd.json",
+    "captureSha256": "450fabc73ffdd796c905097ca48a4ae88e3bdeb46c10d49fdec7b5128fa70a8e",
+    "ownedAssets": 7,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship/critical-path",
+    "capture": "content-starship-critical-path.1280x720.05df95072b4a.json",
+    "captureSha256": "05df95072b4a108129cf68ed271a42a02ee080e0f9a0b5d25873b272c797cc34",
+    "ownedAssets": 4,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-1",
+    "capture": "content-starship-flight-tests-flight-1.1280x720.72369b0cb23a.json",
+    "captureSha256": "72369b0cb23a5ccd3a4a09d71a6655dc95c8811a96bd20deead02c69eeea94f2",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-10",
+    "capture": "content-starship-flight-tests-flight-10.1280x720.355418543f34.json",
+    "captureSha256": "355418543f34bd959af6e700251a429c8c2235dd1d824009655963347a1900da",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-11",
+    "capture": "content-starship-flight-tests-flight-11.1280x720.de1222a85aa7.json",
+    "captureSha256": "de1222a85aa750295b37d67d66b42e130ef566b54bf7844f94215f37363fdbfe",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-12",
+    "capture": "content-starship-flight-tests-flight-12.1280x720.3fe91c632f2e.json",
+    "captureSha256": "3fe91c632f2e59f39894afa3bc77430eb6f7922441024a88e01526ad5a733e54",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-13",
+    "capture": "content-starship-flight-tests-flight-13.1280x720.547efed62dbe.json",
+    "captureSha256": "547efed62dbe4f0645f58f967c1f69b6eb0f3ee4beeb15dc2df2a039b1c03755",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-14",
+    "capture": "content-starship-flight-tests-flight-14.1280x720.6114270bd19b.json",
+    "captureSha256": "6114270bd19b284d61821588b395f79edc5afb5a4260f3774eb09236d39cd7d7",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-2",
+    "capture": "content-starship-flight-tests-flight-2.1280x720.ca2bef0c4d6c.json",
+    "captureSha256": "ca2bef0c4d6c1d64f7838440af97e3c7ee6a8a967976861671cc72cef1f3c791",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-3",
+    "capture": "content-starship-flight-tests-flight-3.1280x720.2fe5b3e222b8.json",
+    "captureSha256": "2fe5b3e222b88ab8411cd36c7b05151e4a627fece7d504c895cabd6099019229",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-4",
+    "capture": "content-starship-flight-tests-flight-4.1280x720.0f66480240b0.json",
+    "captureSha256": "0f66480240b0f577ededca6872e9651ad27daaf0a98d41aaa82874015504b85d",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-5",
+    "capture": "content-starship-flight-tests-flight-5.1280x720.54bdc3b6a966.json",
+    "captureSha256": "54bdc3b6a966d5b1ffc960f0712f5704c9358ba7bc7440177e6712483000a5fd",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-6",
+    "capture": "content-starship-flight-tests-flight-6.1280x720.4fd9e4315619.json",
+    "captureSha256": "4fd9e43156191db3faeb043b8256ce0573abafdad25f47dfd00030f42b848a88",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-7",
+    "capture": "content-starship-flight-tests-flight-7.1280x720.d953a51ee9dd.json",
+    "captureSha256": "d953a51ee9dd5d52998aa6999197639d8fd5e5a885fd35040f07c229171550d6",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-8",
+    "capture": "content-starship-flight-tests-flight-8.1280x720.2f86b5383600.json",
+    "captureSha256": "2f86b53836003a639065a80a765ebad8f7e06548039baf349a0dbc7bc1e5a604",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/flight-9",
+    "capture": "content-starship-flight-tests-flight-9.1280x720.0565a19e32f9.json",
+    "captureSha256": "0565a19e32f9dbbd996a7b1e947400782be7a8bb10dd956c5ef393529d84932d",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/sn10",
+    "capture": "content-starship-flight-tests-sn10.1280x720.fa362bf196e9.json",
+    "captureSha256": "fa362bf196e9cc7e948c9cc1f62de25ad993cfc60647b537f602328efc524846",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/sn15",
+    "capture": "content-starship-flight-tests-sn15.1280x720.e769f07fc0f9.json",
+    "captureSha256": "e769f07fc0f9a82dbe063ee4519c33e4d2c55215342a49ee1df45b4c48ffec1a",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/sn5",
+    "capture": "content-starship-flight-tests-sn5.1280x720.8cbbc5ac15b7.json",
+    "captureSha256": "8cbbc5ac15b75874ff6290d53f33047eec5f51ba6e54996b00488357fc5ff377",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/sn6",
+    "capture": "content-starship-flight-tests-sn6.1280x720.ed612b9481d5.json",
+    "captureSha256": "ed612b9481d5a5a8836ca4842e4608657407e7da40e204579988feb4f9cb7544",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/sn8",
+    "capture": "content-starship-flight-tests-sn8.1280x720.f370fe548042.json",
+    "captureSha256": "f370fe548042d6ddf849a8d0d22d696d56b94191eeb79dcbb6a1d27c19cca8b1",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests/starhopper",
+    "capture": "content-starship-flight-tests-starhopper.1280x720.0104d639b107.json",
+    "captureSha256": "0104d639b107e0d48692c566312d541f5562a011457363acbd856a466edf80ee",
+    "ownedAssets": 21,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-flight-tests",
+    "capture": "content-starship-flight-tests.1280x720.a7bec465de16.json",
+    "captureSha256": "a7bec465de162fc73eaf191141509f57f516afda4c68361cfa06b11c2bfd63b4",
+    "ownedAssets": 0,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship/holy-grail-of-rocketry",
+    "capture": "content-starship-holy-grail-of-rocketry.1280x720.a51778fa2719.json",
+    "captureSha256": "a51778fa2719fd832171227afa1d4f68169f8e2799d16b25b54d5b898fddbd2e",
+    "ownedAssets": 4,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-talks/making-life-multiplanetary",
+    "capture": "content-starship-talks-making-life-multiplanetary.1280x720.fb3df6b014e8.json",
+    "captureSha256": "fb3df6b014e8220c07edcc000e38476fd7b7f1084797dc51d70656eef91f426f",
+    "ownedAssets": 7,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-talks/mars-2026",
+    "capture": "content-starship-talks-mars-2026.1280x720.504d780383d5.json",
+    "captureSha256": "504d780383d59842ca7e23fcfd8e4aa291610306db9c6dea7be5d34f3386a7d8",
+    "ownedAssets": 7,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-talks/starship-update-april-2024",
+    "capture": "content-starship-talks-starship-update-april-2024.1280x720.2034992bea78.json",
+    "captureSha256": "2034992bea7883c06f88fcd0e3115dda3d8bb1ba28d3246868852ded196dc1a8",
+    "ownedAssets": 7,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-talks/starship-update-february-2022",
+    "capture": "content-starship-talks-starship-update-february-2022.1280x720.059ea5ebae15.json",
+    "captureSha256": "059ea5ebae150c98b66ca56b4f6ad8d9ff2737c5969578192e5dd22d1bbe1a63",
+    "ownedAssets": 7,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-talks/starship-update-january-2024",
+    "capture": "content-starship-talks-starship-update-january-2024.1280x720.dca5f2cdde71.json",
+    "captureSha256": "dca5f2cdde712bb87ffebd4e3ac4b5a5e41994b3d203e28fae86f890b08adacc",
+    "ownedAssets": 7,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-talks/starship-update-september-2019",
+    "capture": "content-starship-talks-starship-update-september-2019.1280x720.eaee3912e46a.json",
+    "captureSha256": "eaee3912e46a77139ffa70537b50ef9dcaf3f5ff5e1c5ebb04bb2b2322c0d1ec",
+    "ownedAssets": 7,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship-talks",
+    "capture": "content-starship-talks.1280x720.37d01d85046b.json",
+    "captureSha256": "37d01d85046ba09ab61cbf261362afb69b43654d7499db1d392f7428c501016d",
+    "ownedAssets": 0,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship/test-like-you-fly",
+    "capture": "content-starship-test-like-you-fly.1280x720.e67ce5c86b9e.json",
+    "captureSha256": "e67ce5c86b9ea8bf608d3e154453459809c277a0a2eb861902fac0c1f662783b",
+    "ownedAssets": 4,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content/starship",
+    "capture": "content-starship.1280x720.a2aa665513ec.json",
+    "captureSha256": "a2aa665513ecf52e35e8967f648b6a56991613dfe97f5088412d9ce177551d57",
+    "ownedAssets": 0,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/content",
+    "capture": "content.1280x720.08b417074282.json",
+    "captureSha256": "08b4170742820bb88017cd84db2b6eaffeaa20108d81c3203edf26a8e5f5c59b",
+    "ownedAssets": 30,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/follow-dragon",
+    "capture": "follow-dragon.1280x720.f372972b2f6a.json",
+    "captureSha256": "f372972b2f6aa9e49e889bc7270a123ae47e1d2c3141b32e7828f0e87b237b8f",
+    "ownedAssets": 13,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/humanspaceflight/earth",
+    "capture": "humanspaceflight-earth.1280x720.1673f8e9707f.json",
+    "captureSha256": "1673f8e9707f8bfff1e5c0462754f28300f0738c95b64bca3105eeb03c77dc87",
+    "ownedAssets": 7,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/humanspaceflight/iss",
+    "capture": "humanspaceflight-iss.1280x720.0cadea268ca5.json",
+    "captureSha256": "0cadea268ca5e9b210c8180561d9d691d272defa2e2b8d111eaf3d15d7babd48",
+    "ownedAssets": 16,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/humanspaceflight/mars",
+    "capture": "humanspaceflight-mars.1280x720.a2c692abe2ea.json",
+    "captureSha256": "a2c692abe2ea17337ad751aa6aee2ae42f82462efdb9e7051fa2a878e4928436",
+    "ownedAssets": 12,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/humanspaceflight/moon",
+    "capture": "humanspaceflight-moon.1280x720.8bd3dc9a9668.json",
+    "captureSha256": "8bd3dc9a9668c7a8cda85c880035626a306dc4119265489ef9c3887db33cd7d2",
+    "ownedAssets": 13,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/humanspaceflight/overview",
+    "capture": "humanspaceflight-overview.1280x720.7f8782c1bba9.json",
+    "captureSha256": "7f8782c1bba9e26994ce8198db7332abbdb6007ded5e9d9ef121471c8c5bfb82",
+    "ownedAssets": 30,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/humanspaceflight/research/submit",
+    "capture": "humanspaceflight-research-submit.1280x720.52a12768eeb9.json",
+    "captureSha256": "52a12768eeb9a15f3f0b271c44426119ee8fec564c8f624efb2b66d446aebda7",
+    "ownedAssets": 8,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/humanspaceflight/research",
+    "capture": "humanspaceflight-research.1280x720.2ef96960b2a3.json",
+    "captureSha256": "2ef96960b2a334997bef5f54201de4ff36f07b085c60a5c4b876deb9f58ca88d",
+    "ownedAssets": 8,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/humanspaceflight",
+    "capture": "humanspaceflight.1280x720.1c52279f9197.json",
+    "captureSha256": "1c52279f9197158378211da887523ae0ef4b8ad32230744f558ef51d5684ab0c",
+    "ownedAssets": 30,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/internships",
+    "capture": "internships.1280x720.931a971df3b4.json",
+    "captureSha256": "931a971df3b450946dacbe89e7b4786582b0ea76a5901df9522ffd8a021e3456",
+    "ownedAssets": 1,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/launches",
+    "capture": "launches.1280x720.bfc2522788f6.json",
+    "captureSha256": "bfc2522788f60707a8dbc25a128fbfcd226d3448cd962f188226c6aea7c6ce4d",
+    "ownedAssets": 5,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/mission",
+    "capture": "mission.1280x720.fce046b679df.json",
+    "captureSha256": "fce046b679df3879f02737cdb741bcb96e523bb7c59fce94982f481e7c782680",
+    "ownedAssets": 16,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/rideshare",
+    "capture": "rideshare.1280x720.864822d4d95e.json",
+    "captureSha256": "864822d4d95e17c18a25fb4d525df87cc54edb0b5d9f9b224d19efae2e5399e6",
+    "ownedAssets": 6,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/sites/starbase-la",
+    "capture": "sites-starbase-la.1280x720.39bca6183103.json",
+    "captureSha256": "39bca6183103057ee72da46dad986e64cd27ca50cbf27bf3e1965df05183967d",
+    "ownedAssets": 12,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/sites/starbase-tx",
+    "capture": "sites-starbase-tx.1280x720.2fba9e8f6b1c.json",
+    "captureSha256": "2fba9e8f6b1cf53ee8b78c43fbab3e25022413ebd551d2960a3a957a470aa592",
+    "ownedAssets": 17,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/sites",
+    "capture": "sites.1280x720.f325edc8dfc3.json",
+    "captureSha256": "f325edc8dfc3271bf6111f258e851c334f89353936450fcf885dda12aeba94a8",
+    "ownedAssets": 20,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/spacexai/starmind",
+    "capture": "spacexai-starmind.1280x720.3052fe1e58dc.json",
+    "captureSha256": "3052fe1e58dc589458524efb59f59d902ab9b1ce1508591d772e561831d22794",
+    "ownedAssets": 9,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/starshield",
+    "capture": "starshield.1280x720.9291ab07930d.json",
+    "captureSha256": "9291ab07930da324bdda212a2493d88f7311373994cc63eed9d79ca7be05ebb4",
+    "ownedAssets": 10,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/supplier",
+    "capture": "supplier.1280x720.982cf7fb59c3.json",
+    "captureSha256": "982cf7fb59c3708e5573fb9576c361281a100930ce59e721368b4a9c0aed4da1",
+    "ownedAssets": 0,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/trademark",
+    "capture": "trademark.1280x720.9f5a7eee462c.json",
+    "captureSha256": "9f5a7eee462c95ef0c1e60644e6535538eaeafbc35085fb0c2e8509e4f50b8e1",
+    "ownedAssets": 0,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/updates",
+    "capture": "updates.1280x720.ec49633a54c2.json",
+    "captureSha256": "ec49633a54c2066fd0d222c8a3a3bcc3bd6a0346cd1b13f2e1ec43e983df9735",
+    "ownedAssets": 74,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/vehicle-tracker",
+    "capture": "vehicle-tracker.1280x720.20182e3b50a1.json",
+    "captureSha256": "20182e3b50a19a0d41bfb8434ed24e6eabdfbee162ab9115b22977fc835eced8",
+    "ownedAssets": 5,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/vehicles/dragon",
+    "capture": "vehicles-dragon.1280x720.21ccd200ec41.json",
+    "captureSha256": "21ccd200ec4182e1bd026fd757742bb01910ba0e386e1bfe24e55a6b52af3a5a",
+    "ownedAssets": 15,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/vehicles/falcon-9",
+    "capture": "vehicles-falcon-9.1280x720.06ec7481a789.json",
+    "captureSha256": "06ec7481a789a84b806c67cd5e3e7e6ddbaf25d028b0dd540de3475f99c979c9",
+    "ownedAssets": 26,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/vehicles/falcon-heavy",
+    "capture": "vehicles-falcon-heavy.1280x720.c98fe77fd5f5.json",
+    "captureSha256": "c98fe77fd5f584e5e65ce413e15a8508ef8f1f2b97246bd0c1fcffec587aa49f",
+    "ownedAssets": 25,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/vehicles/starship",
+    "capture": "vehicles-starship.1280x720.85cdc5fd2ed0.json",
+    "captureSha256": "85cdc5fd2ed0d6dd48020d5d16ce1249e7ed740f80b1cc742172ee931ad557a6",
+    "ownedAssets": 15,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/vehicles",
+    "capture": "vehicles.1280x720.55da3d0e37c7.json",
+    "captureSha256": "55da3d0e37c71d2fe3755ad391ad5fc7f48b55b5b849da4ecc18af87ec8f1fea",
+    "ownedAssets": 15,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/humanspaceflight/submit/confirmation",
+    "capture": "humanspaceflight-submit-confirmation.1280x720.71e4535859c8.json",
+    "captureSha256": "71e4535859c8d4f1b43d9ef5d3f33c2fed64a38c7f42fe0274153f99cccad8b6",
+    "ownedAssets": 143,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/humanspaceflight/submit",
+    "capture": "humanspaceflight-submit.1280x720.a0f180715b79.json",
+    "captureSha256": "a0f180715b794fa182e1e75782fba9412f6ec42c63b887b31497fe78577bc8ed",
+    "ownedAssets": 146,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/supplier/submit/confirmation",
+    "capture": "supplier-submit-confirmation.1280x720.749fd71f7cf1.json",
+    "captureSha256": "749fd71f7cf127bda74350ec1950ebb52b6d71af64259f7939256a5e127c809f",
+    "ownedAssets": 143,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/supplier/submit",
+    "capture": "supplier-submit.1280x720.613d7a1446b0.json",
+    "captureSha256": "613d7a1446b0c3948f739d49f7a249da569d2dc109c6e867484040ef4887001c",
+    "ownedAssets": 146,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  }
+]

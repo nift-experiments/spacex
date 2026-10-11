@@ -1,0 +1,25 @@
+{
+  "title": "Holy Grail Of Rocketry",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003_1080P.mp4"
+    },
+    {
+      "key": "uhd",
+      "label": "4k",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-4k",
+      "download": "https://content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003_4K.mp4"
+    }
+  ],
+  "description": "A fully and rapidly reusable rocket will fundamentally change how humanity accesses outer space. \u201cThe Holy Grail of Rocketry\u201d continues the ongoing Starship series with a look back at the scrappy days of SpaceX engineers proving reuse was possible and takes you onboard a high-seas race to recover a floating Starship.",
+  "chapters": []
+}

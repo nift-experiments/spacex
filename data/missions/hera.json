@@ -1,0 +1,31 @@
+{
+  "title": "Hera Mission",
+  "date": "October 07, 2024",
+  "imageDesktop": "public/assets/media/Hera_outsidemedia_IMG_9784_desktop_c9da571924.jpg",
+  "imageMobile": "public/assets/media/Hera_outsidemedia_IMG_9784_desktop_c9da571924.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 151,
+      "videoId": "1842918230202909183",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/hera/left.html",
+  "rightProse": "prose/missions/hera/right.html"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Starlink Mission",
+  "date": "January 28, 2024",
+  "imageDesktop": "public/assets/media/Star_6_38_012824_streak_desktop_d9457376fc.jpg",
+  "imageMobile": "public/assets/media/Star_6_38_012824_streak_desktop_d9457376fc.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Learn more",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-6-38/left.html",
+  "rightProse": "prose/missions/sl-6-38/right.html"
+}

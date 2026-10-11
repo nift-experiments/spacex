@@ -1,0 +1,47 @@
+{
+  "title": "SPHEREx Mission",
+  "date": "March 11, 2025",
+  "imageDesktop": "public/assets/media/SPHER_Ex_Vertical_6487_Desktop_0fb43a506f.jpg",
+  "imageMobile": "public/assets/media/SPHER_Ex_Vertical_7376_Mobile_1304b7e7fb.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 917,
+      "videoId": "1899287249092743600",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/SPHER_Ex_Vertical_6497_Desktop_8c399f315c.jpg",
+      "mobile": "public/assets/media/SPHER_Ex_Vertical_7384_Mobile_526f50ce04.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/SPHER_Ex_Vertical_6487_Desktop_0fb43a506f.jpg",
+      "mobile": "public/assets/media/SPHER_Ex_Vertical_7376_Mobile_1304b7e7fb.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/NASA_SPHER_Ex_SW_Hill_Horiz_2062_Desktop_4be6753053.jpg",
+      "mobile": "public/assets/media/NASA_SPHER_Ex_SW_Hill_Vert_4891_Mobile_bfec8ab17e.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/spherex/left.html",
+  "rightProse": "prose/missions/spherex/right.html"
+}

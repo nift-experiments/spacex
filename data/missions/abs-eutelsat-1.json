@@ -1,0 +1,20 @@
+{
+  "title": "ABS/Eutelsat-1 Mission",
+  "date": "March 01, 2015",
+  "imageDesktop": "public/assets/media/abs_eutelsat_launch_streak_b402b934be.jpg",
+  "imageMobile": "public/assets/media/ABS_Eutelsat1_Mobile_d5864c489d.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/abs-eutelsat-1/left.html",
+  "rightProse": "prose/missions/abs-eutelsat-1/right.html"
+}

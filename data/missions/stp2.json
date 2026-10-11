@@ -1,0 +1,31 @@
+{
+  "title": "STP-2 Mission",
+  "date": "June 25, 2019",
+  "imageDesktop": "public/assets/media/STP_2_Desktop_7d786fbb73.jpg",
+  "imageMobile": "public/assets/media/STP_2_Mobile_80ead61440.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 772,
+      "videoId": "WxH4CAlhtiQ",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/stp2/left.html",
+  "rightProse": "prose/missions/stp2/right.html"
+}

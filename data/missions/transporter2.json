@@ -1,0 +1,20 @@
+{
+  "title": "Transporter-2 Mission",
+  "date": "June 30, 2021",
+  "imageDesktop": "public/assets/media/Launches_Trans2_landing_IMG_4680_Desktop_3b7791576d.jpg",
+  "imageMobile": "public/assets/media/Launches_Trans2_landing_IMG_4680_Mobile_4021fea4a6.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/transporter2/left.html",
+  "rightProse": "prose/missions/transporter2/right.html"
+}

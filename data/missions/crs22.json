@@ -1,0 +1,52 @@
+{
+  "title": "CRS-22 MISSION",
+  "date": "June 03, 2021",
+  "imageDesktop": "public/assets/media/Launches_CRS_22_9758_Desktop_b78c600c4c.jpg",
+  "imageMobile": "public/assets/media/Launches_CRS_22_8001_1_Mobile_dc2368a47e.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 357,
+      "videoId": "QXf9mRWbXDM&t=1s",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Homepage_CRS_22_8035_Desktop_7cd866911b.jpg",
+      "mobile": "public/assets/media/Homepage_CRS_22_8035_1_Mobile_4fc096ce49.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Launches_CRS_22_0657_Desktop_v2_2e23300cf9.jpg",
+      "mobile": "public/assets/media/CRS_22_Mobile3_186727c1a6.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Launches_7937_Desktop_d68adde1e8.jpg",
+      "mobile": "public/assets/media/Launches_7937_Mobile_1a03459fa7.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Homepage_7946_Edit_Desktop_RECO_e15ce6e3fe.jpg",
+      "mobile": "public/assets/media/Homepage_7946_Edit_Mobile_ec451aa2f8.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs22/left.html",
+  "rightProse": "prose/missions/crs22/right.html"
+}

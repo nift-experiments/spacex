@@ -1,0 +1,209 @@
+{
+  "title": "Globalstar 2-R Launch 1 Mission",
+  "date": "August 15, 2026",
+  "imageDesktop": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_9622_desktop_ee91d7ff5c.jpg",
+  "imageMobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_9622_mobile_2c1f6fca51.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2681,
+      "videoId": "1pJkOOkmyQyJj",
+      "streamingVideoType": "x-live-studio",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2507,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 39627,
+        "time": "00:01:06",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 39628,
+        "time": "00:02:12",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 39629,
+        "time": "00:02:15",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 39630,
+        "time": "00:02:17",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 39631,
+        "time": "00:02:20",
+        "description": "Stage 1 flip "
+      },
+      {
+        "id": 39632,
+        "time": "00:02:29",
+        "description": "Boostback burn starts"
+      },
+      {
+        "id": 39633,
+        "time": "00:02:58",
+        "description": "Fairing separation "
+      },
+      {
+        "id": 39634,
+        "time": "00:03:24",
+        "description": "Boostback burn ends"
+      },
+      {
+        "id": 39635,
+        "time": "00:06:14",
+        "description": "1st stage entry burn start"
+      },
+      {
+        "id": 39636,
+        "time": "00:06:31",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 39637,
+        "time": "00:07:30",
+        "description": "1st stage landing burn start"
+      },
+      {
+        "id": 39638,
+        "time": "00:07:54",
+        "description": "1st stage landing "
+      },
+      {
+        "id": 39639,
+        "time": "00:08:20",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 39640,
+        "time": "00:52:14",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 39641,
+        "time": "00:52:26",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 39642,
+        "time": "00:56:29 ",
+        "description": "Globalstar 2-R deployment sequence begins"
+      },
+      {
+        "id": 39643,
+        "time": "01:02:42",
+        "description": "Globalstar 2-R deployment sequence ends"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_LANDING_ZONE_DESKTOP_34a3d0ee3c.webp",
+  "infographicMobile": "public/assets/media/F9_LANDING_ZONE_MOBILE_ab942c922a.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0108_desktop_fccc054839.jpg",
+      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0108_mobile_12389eff08.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0109_desktop_1ceb1252ef.jpg",
+      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0109_mobile_84b441b24b.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0101_desktop_feede0ed74.jpg",
+      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_causeway_DSC_0103_mobile_5eddfaef53.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260815_CC_Globalstar_2_R_1_egrassh_DSC_9928_desktop_ec26a32e63.jpg",
+      "mobile": "public/assets/media/20260815_CC_Globalstar_2_R_1_egrassh_DSC_9928_mobile_bbed232973.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/globalstar2-rlaunch1/left.html",
+  "rightProse": "prose/missions/globalstar2-rlaunch1/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "JCSAT-16 Mission",
+  "date": "August 14, 2016",
+  "imageDesktop": "public/assets/media/JCSAT_16_desktop_571dd904b6.jpg",
+  "imageMobile": "public/assets/media/JCSAT_16_desktop_571dd904b6.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 1151,
+      "videoId": "QZTCEO0gvLo",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/jcsat-16/left.html",
+  "rightProse": "prose/missions/jcsat-16/right.html"
+}

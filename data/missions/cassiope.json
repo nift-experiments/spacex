@@ -1,0 +1,20 @@
+{
+  "title": "Cassiope Mission",
+  "date": "September 29, 2013",
+  "imageDesktop": "public/assets/media/F9_F6_Launch_17_1687945c63.jpg",
+  "imageMobile": "public/assets/media/Cassiope_Mobile_1206e99488.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/cassiope/left.html",
+  "rightProse": "prose/missions/cassiope/right.html"
+}

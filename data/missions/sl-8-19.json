@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "October 18, 2024",
+  "imageDesktop": "public/assets/media/Star8_19_101824_DSC_2283_desktop_9a35d14e12.jpg",
+  "imageMobile": "public/assets/media/Star8_19_101824_DSC_2283_desktop_9a35d14e12.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 666,
+      "videoId": "1847329874245275758",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-8-19/left.html",
+  "rightProse": "prose/missions/sl-8-19/right.html"
+}

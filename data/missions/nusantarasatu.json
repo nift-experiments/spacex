@@ -1,0 +1,20 @@
+{
+  "title": "Nusantara Satu Mission",
+  "date": "February 21, 2019",
+  "imageDesktop": "public/assets/media/Nusantara_Desktop_070b896c4a.jpg",
+  "imageMobile": "public/assets/media/Nusantara_Mobile_4928a06482.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/nusantarasatu/left.html",
+  "rightProse": "prose/missions/nusantarasatu/right.html"
+}

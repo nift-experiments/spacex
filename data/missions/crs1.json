@@ -1,0 +1,26 @@
+{
+  "title": "CRS-1 Mission",
+  "date": "October 07, 2012",
+  "imageDesktop": "public/assets/media/CRS_1_DSC_7069_Desktop_a0abb18db3.jpg",
+  "imageMobile": "public/assets/media/CRS_1_DSC_7069_Mobile_02701dbdfe.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/CRS_1_Streak_Desktop_16a5fa8d4e.jpg",
+      "mobile": "public/assets/media/CRS_1_Streak_Mobile_e34f3db885.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs1/left.html",
+  "rightProse": "prose/missions/crs1/right.html"
+}

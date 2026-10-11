@@ -1,0 +1,36 @@
+@input('templates/families/vehicle-tracker.html')
+<vehicle-tracker-page data-sx-host="vehicle-tracker-page"><div class="section" data-sx="vehicle-tracker-page"><div class="section-inner" data-sx="vehicle-tracker-page"><vehicle-tracker data-sx="vehicle-tracker-page" data-sx-host="vehicle-tracker"><html data-sx="vehicle-tracker"><head data-sx="vehicle-tracker"><meta charset="utf-8" data-sx="vehicle-tracker"/><meta content="width=device-width, initial-scale=1.0, user-scalable=no" data-sx="vehicle-tracker" name="viewport"/><script data-sx="vehicle-tracker" src="@path('public/assets/recovered/www.spacex.com/assets/js/vehicle-tracker/three/three.min.js')" type="text/javascript"></script><script data-sx="vehicle-tracker" src="@path('public/assets/recovered/www.spacex.com/assets/js/vehicle-tracker/three/WebGL.js')" type="text/javascript"></script><script data-sx="vehicle-tracker" src="@path('public/assets/recovered/www.spacex.com/assets/js/vehicle-tracker/gsap/gsap.min.js')" type="text/javascript"></script><script data-sx="vehicle-tracker" src="@path('public/assets/recovered/www.spacex.com/assets/js/vehicle-tracker/gsap/DrawSVGPlugin.min.js')" type="text/javascript"></script><script data-sx="vehicle-tracker" id="line_vertexshader" type="x-shader/x-fragment">
+      attribute float alpha;
+      varying float vAlpha;
+
+      void main() {
+        vAlpha = alpha;
+        vec4 mvPosition = modelViewMatrix * vec4(position, 1.0);
+        gl_Position = projectionMatrix * mvPosition;
+      }
+    </script><script data-sx="vehicle-tracker" id="line_fragmentshader" type="x-shader/x-fragment">
+      uniform vec3 color;
+      varying float vAlpha;
+
+      uniform vec3 fogColor;
+      uniform float fogNear;
+      uniform float fogFar;
+
+      void main() {
+        gl_FragColor = vec4(color, 1.0);
+        gl_FragColor = vec4(color, vAlpha);
+
+        #ifdef USE_FOG
+          #ifdef USE_LOGDEPTHBUF_EXT
+            float depth = gl_FragDepthEXT / gl_FragCoord.w;
+          #else
+            float depth = gl_FragCoord.z / gl_FragCoord.w;
+          #endif
+          float fogFactor = smoothstep(fogNear, fogFar, depth);
+          gl_FragColor.rgb = mix(gl_FragColor.rgb, fogColor, fogFactor);
+        #endif
+      }
+    </script></head><body class="isDesktop" data-sx="vehicle-tracker" id="vehicle-tracker"><div class="noselect" data-sx="vehicle-tracker" id="interactive"><canvas height="720" style="width: 1280px; height: 720px;" width="1280"></canvas></div><div class="inner-left-top" data-sx="vehicle-tracker" id="vehicle-tracker-details"><p class="subheader" data-sx="vehicle-tracker">On-Orbit</p><h1 data-sx="vehicle-tracker">Vehicle Tracker</h1><div data-sx="vehicle-tracker" id="vehicles"></div><table data-sx="vehicle-tracker" id="telemetry"><tr data-sx="vehicle-tracker"><td class="telemetry-label" data-sx="vehicle-tracker">Mission Time</td><td class="telemetry-value" data-sx="vehicle-tracker" id="vehicle_time">0</td></tr><tr data-sx="vehicle-tracker"><td class="telemetry-label" data-sx="vehicle-tracker">Speed</td><td class="telemetry-value" data-sx="vehicle-tracker" id="vehicle_speed">0</td></tr><tr data-sx="vehicle-tracker"><td class="telemetry-label" data-sx="vehicle-tracker">Altitude</td><td class="telemetry-value" data-sx="vehicle-tracker" id="vehicle_altitude">0</td></tr></table></div><div class="noselect" data-sx="vehicle-tracker" id="preloader"><div data-sx="vehicle-tracker" id="preloader-inner" style="opacity: 0.331; visibility: inherit;"><svg aria-hidden="true" data-sx="vehicle-tracker" id="preloader-circle" style="transform: rotate(-90deg);" viewbox="0 0 50 50" xmlns="http://www.w3.org/2000/svg"><circle class="circle-grey" cx="25" cy="25" data-sx="vehicle-tracker" fill="none" r="23" stroke-width="2" style="opacity: 0.331; visibility: inherit; stroke-dashoffset: 148.087; stroke-dasharray: 148.423px, 155.513px;"></circle><circle class="circle-color" cx="25" cy="25" data-sx="vehicle-tracker" fill="none" r="23" stroke-width="3" style="opacity: 0; visibility: hidden; stroke-dashoffset: 37.9877; stroke-dasharray: 145.513px, 155.513px;"></circle></svg><div data-sx="vehicle-tracker" id="preloader-percent">100</div></div></div><script data-sx="vehicle-tracker" type="text/javascript">
+      const contentBaseUrl = "http://127.0.0.1:4201/_reference/content.spacex.com/";
+      const assetsBaseUrl = "http://127.0.0.1:4201/_reference/content.spacex.com//cms-assets";
+    </script><script data-sx="vehicle-tracker" src="@path('public/assets/recovered/www.spacex.com/assets/js/vehicle-tracker/threed.js')" type="text/javascript"></script></body></html></vehicle-tracker></div></div></vehicle-tracker-page>

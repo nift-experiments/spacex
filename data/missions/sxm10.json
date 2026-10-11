@@ -1,0 +1,31 @@
+{
+  "title": "SXM-10 Mission",
+  "date": "June 07, 2025",
+  "imageDesktop": "public/assets/media/Sirius_XM_10_outsidesouthengine_DSC_4578_desktop_3df6c297dd.jpg",
+  "imageMobile": "public/assets/media/Sirius_XM_10_outsidesouthengine_DSC_4578_mobile_b20108ef12.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 973,
+      "videoId": "1930747598958436561",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sxm10/left.html",
+  "rightProse": "prose/missions/sxm10/right.html"
+}

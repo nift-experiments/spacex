@@ -1,0 +1,31 @@
+{
+  "title": "Starship Test - SN5",
+  "date": "August 04, 2020",
+  "imageDesktop": "public/assets/media/Ship_5_SN_5_08062020_47f022e27c.jpeg",
+  "imageMobile": "public/assets/media/Ship_5_SN_5_08062020_Mobile_bfdec8c4ec.jpeg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 2296,
+      "videoId": "s1HA9LlFNM0",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-sn5/left.html",
+  "rightProse": "prose/missions/starship-sn5/right.html"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SES-8 Mission",
+  "date": "December 03, 2013",
+  "imageDesktop": "public/assets/media/SES_8_Launch_41_60afff37ad.jpg",
+  "imageMobile": "public/assets/media/SES_8_Mobile_09e79c01dd.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ses8/left.html",
+  "rightProse": "prose/missions/ses8/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "SES O3b mPOWER Mission",
+  "date": "December 16, 2022",
+  "imageDesktop": "public/assets/media/desktop_launches_mission_8360b10690.jpg",
+  "imageMobile": "public/assets/media/mobile_launches_mission_16c26ba0ed.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 281,
+      "videoId": "1WAQD83ElZY",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/SES-O3b-mPOWER/left.html",
+  "rightProse": "prose/missions/SES-O3b-mPOWER/right.html"
+}

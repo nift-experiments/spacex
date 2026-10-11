@@ -1,0 +1,31 @@
+{
+  "title": "Firefly Blue Ghost Mission 1",
+  "date": "January 15, 2025",
+  "imageDesktop": "public/assets/media/Firefly_i_Space_outside39mound_DSC_1723_desktop_463a0c9a28.jpg",
+  "imageMobile": "public/assets/media/Firefly_i_Space_outside39mound_DSC_1723_mobile_b83cf34d2c.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 959,
+      "videoId": "1878891982778482964",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/firefly-blueghost-mission-1/left.html",
+  "rightProse": "prose/missions/firefly-blueghost-mission-1/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "NASA\u2019s SWOT Mission",
+  "date": "December 16, 2022",
+  "imageDesktop": "public/assets/media/SWOT_Home_Desktop_0589894a58.jpg",
+  "imageMobile": "public/assets/media/SWOT_Home_Mobile_2d8af55e9c.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 47,
+      "videoId": "maI09QHicTg",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/SWOT/left.html",
+  "rightProse": "prose/missions/SWOT/right.html"
+}

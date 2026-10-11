@@ -1,0 +1,31 @@
+{
+  "title": "CRS-12 Mission ",
+  "date": "August 14, 2017",
+  "imageDesktop": "public/assets/media/crs_12_DESKTOP_template_eee19ad2c5.jpg",
+  "imageMobile": "public/assets/media/crs_12_DESKTOP_template_eee19ad2c5.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 161,
+      "videoId": "vLxWsYx8dbo",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs12/left.html",
+  "rightProse": "prose/missions/crs12/right.html"
+}

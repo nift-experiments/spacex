@@ -1,0 +1,31 @@
+{
+  "title": "Starship High Altitude Test - SN8",
+  "date": "December 09, 2020",
+  "imageDesktop": "public/assets/media/Ship_8_SN_8_Test_Flight_Landing_12102020_cac252e9fb.jpg",
+  "imageMobile": "public/assets/media/Ship_8_SN_8_Test_Flight_Landing_12102020_Mobile_6ee496ed2e.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 119,
+      "videoId": "ap-BkkrRg-o",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-sn8/left.html",
+  "rightProse": "prose/missions/starship-sn8/right.html"
+}

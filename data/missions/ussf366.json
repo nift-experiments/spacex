@@ -1,0 +1,164 @@
+{
+  "title": "USSF-366 Mission",
+  "date": "August 15, 2026",
+  "imageDesktop": "public/assets/media/USSF_366_R_1_OS_56_6705_Desktop_a42f9ff389.jpg",
+  "imageMobile": "public/assets/media/USSF_366_R_1_OS_56_7097_Mobile_ddb6126062.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2684,
+      "videoId": "1DxleVErQBdKL",
+      "streamingVideoType": "x-live-studio",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2511,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 39677,
+        "time": "00:01:07",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 39678,
+        "time": "00:02:25",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 39679,
+        "time": "00:02:29",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 39680,
+        "time": "00:02:36",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 39681,
+        "time": "00:02:55",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 39682,
+        "time": "00:06:06",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 39683,
+        "time": "00:06:29",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 39684,
+        "time": "00:08:02",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 39685,
+        "time": "00:08:24",
+        "description": "1st stage landing"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp",
+  "infographicMobile": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_MOBILE_8043528837.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/USSF_366_R_1_South_Hill_3325_Desktop_99222ef209.jpg",
+      "mobile": "public/assets/media/USSF_366_R_1_South_Hill_Vert_0826_Mobile_d922b1df1f.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/USSF_366_R_1_Theater_1082_Desktop_080a0786cd.jpg",
+      "mobile": "public/assets/media/USSF_366_R_1_Theater_0741_Mobile_3b521b91e7.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/USSF_366_R_1_Vertical_6676_Desktop_adfc54ab2d.jpg",
+      "mobile": "public/assets/media/USSF_366_R_1_Vertical_6672_Mobile_80012bed29.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ussf366/left.html",
+  "rightProse": "prose/missions/ussf366/right.html"
+}

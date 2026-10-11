@@ -1,0 +1,31 @@
+{
+  "title": "USSF-52 Mission",
+  "date": "December 28, 2023",
+  "imageDesktop": "public/assets/media/USSF_52_outsidebeachrd_H_IMG_2986_desktop_92c5fb938f.jpg",
+  "imageMobile": "public/assets/media/USSF_52_outsidebeachrd_V_IMG_0061_mobile_d33a12b437.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 266,
+      "videoId": "1739719161834856640",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ussf52/left.html",
+  "rightProse": "prose/missions/ussf52/right.html"
+}

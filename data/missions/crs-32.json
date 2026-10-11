@@ -1,0 +1,31 @@
+{
+  "title": "CRS-32 Mission",
+  "date": "April 21, 2025",
+  "imageDesktop": "public/assets/media/CRS_32_causeway_DSC_2569_desktop_485e909d72.jpg",
+  "imageMobile": "public/assets/media/CRS_32_causeway_DSC_2569_mobile_5cd9fc6046.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 2124,
+      "videoId": "1913286157687013412",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs-32/left.html",
+  "rightProse": "prose/missions/crs-32/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "CRS-27 Mission",
+  "date": "March 14, 2023",
+  "imageDesktop": "public/assets/media/CRS_27_outside39abmound_DSC_4413_desktop_28c0579d13.jpg",
+  "imageMobile": "public/assets/media/CRS_27_outside39abmound_DSC_4413_mobile_d91b519953.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 1628,
+      "videoId": "8tteM4Q2Lh0",
+      "streamingVideoType": null,
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs-27/left.html",
+  "rightProse": "prose/missions/crs-27/right.html"
+}

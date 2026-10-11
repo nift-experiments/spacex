@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "April 24, 2025",
+  "imageDesktop": "public/assets/media/Starlink_6_74_ENGINE_DSC_00037_2_ENGINE_Desktop_bdaebd3a90.jpg",
+  "imageMobile": "public/assets/media/Starlink_6_74_ENGINE_DSC_00037_3_MOBILE_740d7dcc7e.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 775,
+      "videoId": "1915138896955949220",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-6-74/left.html",
+  "rightProse": "prose/missions/sl-6-74/right.html"
+}

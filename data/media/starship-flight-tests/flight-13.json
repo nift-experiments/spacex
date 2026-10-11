@@ -1,0 +1,25 @@
+{
+  "title": "Starship's Thirteenth Flight Test",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13_1080P.mp4"
+    },
+    {
+      "key": "uhd",
+      "label": "4k",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-4k",
+      "download": "https://content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13_4K.mp4"
+    }
+  ],
+  "description": "On Friday, July 24, 2026, at 5:51 p.m. CT, Starship lifted off from Starbase, Texas on its thirteenth flight test. This was the second flight of the Starship and Super Heavy V3 vehicles and the first Starship flight to deploy the next generation Starlink V3 satellites.",
+  "chapters": []
+}

@@ -1,0 +1,184 @@
+{
+  "title": "GPS III-9 Mission",
+  "date": "January 27, 2026",
+  "imageDesktop": "public/assets/media/GPS_III_SV_09_slidewireh_IMG_3662_desktop_42919310c8.jpg",
+  "imageMobile": "public/assets/media/GPS_III_SV_09_curbv_IMG_8001_b05201cb6a.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 1815,
+      "videoId": "2013985289023132110",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1858,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 28366,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 28367,
+        "time": "00:02:29",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 28368,
+        "time": "00:02:32",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 28369,
+        "time": "00:02:40",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 28370,
+        "time": "00:03:29",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 28371,
+        "time": "00:06:10",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 28372,
+        "time": "00:06:39",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 28373,
+        "time": "00:08:05",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 28374,
+        "time": "00:08:10",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 28375,
+        "time": "00:08:34",
+        "description": "1st stage landing"
+      },
+      {
+        "id": 28376,
+        "time": "01:03:30",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 28377,
+        "time": "01:04:18",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 28378,
+        "time": "01:29:19",
+        "description": "GPS III-9 deploys"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp",
+  "infographicMobile": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_MOBILE_8043528837.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/GPS_III_SV_09_outsidenewtowerh_DSC_9303_desktop_02d5149596.jpg",
+      "mobile": "public/assets/media/GPS_III_SV_09_outsidebldgv_IMG_9628_mobile_8cef61e26e.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/GPS_III_SV_09_vertical_sunset_012626_DSC_6412_e495155fa3.jpg",
+      "mobile": "public/assets/media/GPS_III_SV_09_vertical_sunset_012626_DSC_6412_mobile_7d409e3402.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260121_GPS_III_9_ENCAP_Astrotech_STL_0054_85b714e4e7.jpg",
+      "mobile": "public/assets/media/20260121_GPS_III_9_ENCAP_Astrotech_STL_0093_1fc7404151.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/gpsiii9/left.html",
+  "rightProse": "prose/missions/gpsiii9/right.html"
+}

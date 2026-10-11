@@ -1,0 +1,31 @@
+{
+  "title": "ISI EROS C-3 Mission",
+  "date": "December 29, 2022",
+  "imageDesktop": "public/assets/media/mission_launches_Desktop_677dec992a.jpg",
+  "imageMobile": "public/assets/media/homepage_Mobile_4ac8146326.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 220,
+      "videoId": "V0OQfukN-Ec",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ISI-EROS-C-3/left.html",
+  "rightProse": "prose/missions/ISI-EROS-C-3/right.html"
+}

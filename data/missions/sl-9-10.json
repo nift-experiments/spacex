@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "November 08, 2024",
+  "imageDesktop": "public/assets/media/Starlink_G9_10_SW_Hill_Horiz_0974_Desktop_7a8f27f003.jpg",
+  "imageMobile": "public/assets/media/Starlink_G9_10_SW_Hill_Horiz_0974_Desktop_7a8f27f003.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 258,
+      "videoId": "1853844789634154921",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-9-10/left.html",
+  "rightProse": "prose/missions/sl-9-10/right.html"
+}

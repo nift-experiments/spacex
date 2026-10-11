@@ -1,0 +1,6 @@
+@json(home, "data/home.json")
+<div class="homepage-wrapper">
+<section class="featured-mission"><div class="section"><span class="image-wrapper black-background-gradient-bottom"></span><span class="video-wrapper full-video"><video aria-hidden="true" autoplay muted loop playsinline preload="auto" data-mobile="@path('$[home.featured.mobileVideo]')"><source type="video/mp4" src="@path('$[home.featured.desktopVideo]')"></video></span><div class="section-inner feature"><div class="section-left-bottom"><div class="countdown">$[home.featured.date]</div><h2 class="section-title">$[home.featured.title]</h2><span class="sx-button"><a class="spx-button primary" href="@path('$[home.featured.link]')" style="padding-left:20px;padding-right:20px;margin-top:30px"><div class="text">$[home.featured.cta]</div><div class="arrow icon slide">@input('templates/arrow.html')</div></a></span></div></div></div></section>
+<div class="sections">
+@for(section : home.sections){@input('templates/home-section.html')}
+</div></div>

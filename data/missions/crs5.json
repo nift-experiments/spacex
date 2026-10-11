@@ -1,0 +1,20 @@
+{
+  "title": "CRS-5 Mission",
+  "date": "January 10, 2015",
+  "imageDesktop": "public/assets/media/CRS_5_Desktop_37bd20e667.jpg",
+  "imageMobile": "public/assets/media/CRS_5_Mobile_258bb96a4d.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs5/left.html",
+  "rightProse": "prose/missions/crs5/right.html"
+}

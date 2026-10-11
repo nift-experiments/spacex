@@ -1,0 +1,31 @@
+{
+  "title": "SES O3b mPOWER Mission",
+  "date": "December 17, 2024",
+  "imageDesktop": "public/assets/media/O3b_m_POWER_E_retentionpond_DSC_0745_desktop_b2eed9dbce.jpg",
+  "imageMobile": "public/assets/media/O3b_m_POWER_E_retentionpond_DSC_0745_desktop_b2eed9dbce.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 774,
+      "videoId": "1868808179200802911",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/SES-O3b-mPOWER-e/left.html",
+  "rightProse": "prose/missions/SES-O3b-mPOWER-e/right.html"
+}

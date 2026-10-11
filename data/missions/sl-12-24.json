@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "June 10, 2025",
+  "imageDesktop": "public/assets/media/Star12_24_061025_DSC_5554_desktop_acf785f075.jpg",
+  "imageMobile": "public/assets/media/Star12_24_061025_DSC_5555_mobile_39641768a0.jpg",
+  "videoDesktop": "public/assets/media/Starlink_12_24_LIFT_AX_4_A_0088_110b4fc5ab.mp4",
+  "videoMobile": "public/assets/media/Starlink_12_24_LIFT_AX_4_A_0088_110b4fc5ab.mp4",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 891,
+      "videoId": "1932195198828007603",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-12-24/left.html",
+  "rightProse": "prose/missions/sl-12-24/right.html"
+}

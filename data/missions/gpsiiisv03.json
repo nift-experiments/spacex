@@ -1,0 +1,31 @@
+{
+  "title": "GPS III Space Vehicle 03 MISSION",
+  "date": "June 30, 2020",
+  "imageDesktop": "public/assets/media/GPS_III_SV_03_Desktop_002b2f79c2.jpg",
+  "imageMobile": "public/assets/media/GPS_III_SV_03_Mobile_2ba96b0dcc.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 553,
+      "videoId": "6zr0nfG3Xy4",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/gpsiiisv03/left.html",
+  "rightProse": "prose/missions/gpsiiisv03/right.html"
+}

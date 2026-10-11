@@ -1,0 +1,20 @@
+{
+  "title": "Starlink Mission",
+  "date": "October 09, 2023",
+  "imageDesktop": "public/assets/media/Starlink_G7_4_Gaviota_7924_Desktop_548d71ee04.jpg",
+  "imageMobile": "public/assets/media/Starlink_G7_4_Gaviota_7919_Mobile_a9c8375824.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "LEARN MORE",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-7-4/left.html",
+  "rightProse": "prose/missions/sl-7-4/right.html"
+}

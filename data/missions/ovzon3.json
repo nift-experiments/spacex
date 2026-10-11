@@ -1,0 +1,31 @@
+{
+  "title": "Ovzon 3 Mission",
+  "date": "January 03, 2024",
+  "imageDesktop": "public/assets/media/Ovzon_2_pad39a_DSC_2434_desktop_0ff998bdc9.jpg",
+  "imageMobile": "public/assets/media/Ovzon_2_pad39a_DSC_2434_desktop_0ff998bdc9.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 599,
+      "videoId": "1742306814170222832",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ovzon3/left.html",
+  "rightProse": "prose/missions/ovzon3/right.html"
+}

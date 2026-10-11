@@ -1,0 +1,31 @@
+{
+  "title": "SpainSat NG I Mission",
+  "date": "January 29, 2025",
+  "imageDesktop": "public/assets/media/Spain_Sat_NG_I_LC_39_A_2025_01_29_DSC_2953_Website_264192ef54.jpg",
+  "imageMobile": "public/assets/media/Spain_Sat_NG_I_LC_39_A_2025_01_29_DSC_5850_Mobile_bfb0bbabf3.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 977,
+      "videoId": "1884369718724706713",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/spainsatng1/left.html",
+  "rightProse": "prose/missions/spainsatng1/right.html"
+}

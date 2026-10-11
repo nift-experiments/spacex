@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "November 18, 2023",
+  "imageDesktop": "public/assets/media/LAUNCHES_Starlink_SLC_40_Desktop_ad41fa5a42.jpg",
+  "imageMobile": "public/assets/media/Homepage_Starlink_SLC_40_Mobile_2bdec9b451.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 504,
+      "videoId": "1725193534788288741",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-6-28/left.html",
+  "rightProse": "prose/missions/sl-6-28/right.html"
+}

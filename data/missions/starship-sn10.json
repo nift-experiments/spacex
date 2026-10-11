@@ -1,0 +1,31 @@
+{
+  "title": "Starship High Altitude Test - SN10",
+  "date": "March 03, 2021",
+  "imageDesktop": "public/assets/media/Ship_10_SN_10_Burn_03052021_ec7f23d326.jpg",
+  "imageMobile": "public/assets/media/Ship_10_SN_10_Burn_03052021_Mobile_bdf403a43e.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 184,
+      "videoId": "ODY6JWzS8WU",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-sn10/left.html",
+  "rightProse": "prose/missions/starship-sn10/right.html"
+}

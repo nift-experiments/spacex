@@ -1,0 +1,31 @@
+{
+  "title": "Zuma Mission",
+  "date": "January 07, 2018",
+  "imageDesktop": "public/assets/media/Zuma_Desktop_2f2f83edfd.jpg",
+  "imageMobile": "public/assets/media/Zuma_Mobile_49a20de821.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 183,
+      "videoId": "0PWu3BRxn60",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/zuma/left.html",
+  "rightProse": "prose/missions/zuma/right.html"
+}

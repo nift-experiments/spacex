@@ -1,0 +1,31 @@
+{
+  "title": "GovSat-1 Mission",
+  "date": "January 31, 2018",
+  "imageDesktop": "public/assets/media/Gov_Sat_Desktop_048b08f6fd.jpg",
+  "imageMobile": "public/assets/media/Gov_Sat_Mobile_91cfadfac5.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 197,
+      "videoId": "ScYUA51-POQ",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/govsat1/left.html",
+  "rightProse": "prose/missions/govsat1/right.html"
+}

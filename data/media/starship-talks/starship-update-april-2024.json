@@ -1,0 +1,19 @@
+{
+  "title": "Starship Update",
+  "qualities": [
+    {
+      "key": "hd",
+      "label": "720p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024-720p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024_720P.mp4"
+    },
+    {
+      "key": "fhd",
+      "label": "1080p",
+      "stream": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024-1080p",
+      "download": "https://content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024_1080P.mp4"
+    }
+  ],
+  "description": "On April 4, 2024, SpaceX CEO Elon Musk provided an update on SpaceX\u2019s future plans for Starship and what it will realistically take to build a self-sustaining city on Mars.",
+  "chapters": []
+}

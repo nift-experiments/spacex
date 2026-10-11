@@ -1,0 +1,47 @@
+{
+  "title": "CRS-14 Mission",
+  "date": "April 02, 2018",
+  "imageDesktop": "public/assets/media/CRS_14_Approach2_Desktop_15ac5c7a9f.jpg",
+  "imageMobile": "public/assets/media/CRS_14_Approach3_Mobile_3382a01078.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [
+    {
+      "id": 331,
+      "videoId": "BPQHG-LevZM",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/CRS_14_Launch_Desktop_a6cb13abac.jpg",
+      "mobile": "public/assets/media/CRS_14_Launch_Mobile_88ef3466dc.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/CRS_14_Approach_Desktop_6841afaf86.jpg",
+      "mobile": "public/assets/media/CRS_14_Approach2_Mobile_7be3c39f98.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/CRS_14_Approach_EDIT_Desktop_c1567a7a47.jpg",
+      "mobile": "public/assets/media/CRS_14_Approach_Mobile_0ab29df02f.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs14/left.html",
+  "rightProse": "prose/missions/crs14/right.html"
+}

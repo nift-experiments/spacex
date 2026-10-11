@@ -1,0 +1,31 @@
+{
+  "title": "Intelsat 35e Mission ",
+  "date": "July 05, 2017",
+  "imageDesktop": "public/assets/media/Intelsat_35e_desktop_a5fd85f72b.jpg",
+  "imageMobile": "public/assets/media/Intelsat_35e_desktop_a5fd85f72b.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 794,
+      "videoId": "MIHVPCj25Z0",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/intelsat35e/left.html",
+  "rightProse": "prose/missions/intelsat35e/right.html"
+}

@@ -1,0 +1,439 @@
+{
+  "title": "Twilight Mission",
+  "date": "January 11, 2026",
+  "imageDesktop": "public/assets/media/Twilight_OS_56_1495_Desktop_aa03c72829.jpg",
+  "imageMobile": "public/assets/media/Twilight_OS_56_2450_Mobile_090b64e8c2.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 1679,
+      "videoId": "2009019170562658552",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1764,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 27065,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 27066,
+        "time": "00:02:15",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 27067,
+        "time": "00:02:18",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 27068,
+        "time": "00:02:22",
+        "description": "Stage 1 flip"
+      },
+      {
+        "id": 27069,
+        "time": "00:02:26",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 27070,
+        "time": "00:02:32 ",
+        "description": "Boostback burn starts"
+      },
+      {
+        "id": 27071,
+        "time": "00:02:56",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 27072,
+        "time": "00:03:26",
+        "description": "Boostback burn ends"
+      },
+      {
+        "id": 27073,
+        "time": "00:06:08",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 27074,
+        "time": "00:06:19",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 27075,
+        "time": "00:07:16",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 27076,
+        "time": "00:07:34",
+        "description": "1st stage landing "
+      },
+      {
+        "id": 27077,
+        "time": "00:08:09",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 27078,
+        "time": "00:56:55",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 27079,
+        "time": "00:56:56",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 27080,
+        "time": "01:01:33",
+        "description": "Connecta IoT-14 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27081,
+        "time": "01:01:49",
+        "description": "HYDRA-2 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27082,
+        "time": "01:01:56",
+        "description": "LEMUR-2-KUTAR deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27083,
+        "time": "01:02:02",
+        "description": "Connecta IoT-13 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27084,
+        "time": "01:02:07",
+        "description": "Hawk-13B deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27085,
+        "time": "01:03:04",
+        "description": "Tomorrow-S11 deploys, manifested by The Tomorrow Companies, Inc"
+      },
+      {
+        "id": 27086,
+        "time": "01:03:16",
+        "description": "Tomorrow-S10 deploys, manifested by The Tomorrow Companies, Inc"
+      },
+      {
+        "id": 27087,
+        "time": "01:03:56",
+        "description": "Connecta IoT-16 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27088,
+        "time": "01:04:09",
+        "description": "Connecta IoT-15 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27089,
+        "time": "01:04:36",
+        "description": "Hawk-13A deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27090,
+        "time": "01:06:59",
+        "description": "Flamingo-1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27091,
+        "time": "01:07:50",
+        "description": "Hawk-13C deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27092,
+        "time": "01:08:22",
+        "description": "CarbSAR IOD deploys, manifested by SSTL"
+      },
+      {
+        "id": 27093,
+        "time": "01:43:04",
+        "description": "2nd stage engine starts (SES-3)"
+      },
+      {
+        "id": 27094,
+        "time": "01:43:05",
+        "description": "2nd stage engine cutoff (SECO-3)"
+      },
+      {
+        "id": 27095,
+        "time": "02:14:51",
+        "description": "2nd stage engine starts (SES-4)"
+      },
+      {
+        "id": 27096,
+        "time": "02:14:52",
+        "description": "2nd stage engine cutoff (SECO-4)"
+      },
+      {
+        "id": 27097,
+        "time": "02:19:56 ",
+        "description": "LEMUR-2-HCS-BAZUS deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27098,
+        "time": "02:19:59",
+        "description": "LEMUR-2-CALLUM-K-J deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27099,
+        "time": "02:20:01",
+        "description": "BlackCAT deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27100,
+        "time": "02:20:17",
+        "description": "LEMUR-2-KATIE deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27101,
+        "time": "02:20:18",
+        "description": "Dcubed-1 / Araqys-D1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27102,
+        "time": "02:20:20",
+        "description": "LEMUR-2-MARIO-SOUSA deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27103,
+        "time": "02:20:21",
+        "description": "Star-Planet Activity Research CubeSat (SPARCS) deploys, manifested through NASA's CubeSat Launch Initiative, integrated by Maverick Space Systems"
+      },
+      {
+        "id": 27104,
+        "time": "02:20:31",
+        "description": "LEMUR-2-SONNENBLUME deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27105,
+        "time": "02:20:43",
+        "description": "LEMUR-2-GRAM-E-SUE deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27106,
+        "time": "02:21:11",
+        "description": "LEMUR-2-WOBLER deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27107,
+        "time": "02:21:33\t",
+        "description": "LEMUR-2-FIKRETDENGIZ deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27108,
+        "time": "02:21:41",
+        "description": "Acadia-8 deploys, manifested by Capella"
+      },
+      {
+        "id": 27109,
+        "time": "02:21:49",
+        "description": "Umbra-12 deploys, manifested by Umbra"
+      },
+      {
+        "id": 27110,
+        "time": "02:21:56",
+        "description": "AETHER-8 deploys, manifested by Kepler Communications"
+      },
+      {
+        "id": 27111,
+        "time": "02:22:52",
+        "description": "ICEYE 2 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27112,
+        "time": "02:23:11",
+        "description": "Acadia-9 deploys, manifested by Capella"
+      },
+      {
+        "id": 27113,
+        "time": "02:23:27",
+        "description": "AETHER-12 deploys, manifested by Kepler Communications"
+      },
+      {
+        "id": 27114,
+        "time": "02:23:28",
+        "description": "AETHER-11 deploys, manifested by Kepler Communications"
+      },
+      {
+        "id": 27115,
+        "time": "02:24:09",
+        "description": "AETHER-5 deploys, manifested by Kepler Communications"
+      },
+      {
+        "id": 27116,
+        "time": "02:24:15",
+        "description": "ICEYE 1 deploys, manifested by Exolaunch"
+      },
+      {
+        "id": 27117,
+        "time": "02:25:00",
+        "description": "AETHER-9 deploys, manifested by Kepler Communications"
+      },
+      {
+        "id": 27118,
+        "time": "02:25:40",
+        "description": "AETHER-6 deploys, manifested by Kepler Communications"
+      },
+      {
+        "id": 27119,
+        "time": "02:26:44",
+        "description": "AETHER-4 deploys, manifested by Kepler Communications"
+      },
+      {
+        "id": 27120,
+        "time": "02:27:58",
+        "description": "Pandora deploys, manifested by NASA"
+      },
+      {
+        "id": 27121,
+        "time": "02:30:55",
+        "description": "AETHER-3 deploys, manifested by Kepler Communications"
+      },
+      {
+        "id": 27122,
+        "time": "02:32:00",
+        "description": "AETHER-7 deploys, manifested by Kepler Communications"
+      },
+      {
+        "id": 27123,
+        "time": "02:32:59",
+        "description": "AETHER-10 deploys, manifested by Kepler Communications"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_LANDING_ZONE_DESKTOP_34a3d0ee3c.webp",
+  "infographicMobile": "public/assets/media/F9_LANDING_ZONE_MOBILE_ab942c922a.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Twilight_South_Hill_9750_Full_52be99ef0b.jpg",
+      "mobile": "public/assets/media/Twilight_South_Hill_9750_Full_52be99ef0b.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Twilight_OS_56_1495_Desktop_856b9b2962.jpg",
+      "mobile": "public/assets/media/Twilight_OS_56_1495_Desktop_856b9b2962.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Twilight_Launch_20260111_DSC_00064_14a6a9add3.jpg",
+      "mobile": "public/assets/media/Twilight_Launch_20260111_DSC_00064_14a6a9add3.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Twilight_OS_56_LZ_2549_Full_890b7431dc.jpg",
+      "mobile": "public/assets/media/Twilight_OS_56_LZ_2549_Full_890b7431dc.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Twilight_OS_56_Streak_9885_Desktop_9da9e46b69.jpg",
+      "mobile": "public/assets/media/Twilight_OS_56_Streak_9885_Desktop_9da9e46b69.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Twilight_South_Hill_Composite_Desktop_fd9baff210.jpg",
+      "mobile": "public/assets/media/Twilight_South_Hill_Composite_Desktop_fd9baff210.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Twilight_LZ_West_Horiz_2115_Desktop_c2b46c479d.jpg",
+      "mobile": "public/assets/media/Twilight_LZ_West_Horiz_2115_Desktop_c2b46c479d.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "",
+      "mobile": ""
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/twilight/left.html",
+  "rightProse": "prose/missions/twilight/right.html"
+}

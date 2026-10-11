@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "December 08, 2023",
+  "imageDesktop": "public/assets/media/Desktop_2_94ed24c2cb.jpg",
+  "imageMobile": "public/assets/media/Mobile_2_37424afdee.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 567,
+      "videoId": "1732458862656037316",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-7-8/left.html",
+  "rightProse": "prose/missions/sl-7-8/right.html"
+}

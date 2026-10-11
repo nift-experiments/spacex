@@ -1,0 +1,31 @@
+{
+  "title": "SXM-7 Mission",
+  "date": "December 13, 2020",
+  "imageDesktop": "public/assets/media/SXM_7_Desktop_c7b3847fc8.jpg",
+  "imageMobile": "public/assets/media/SXM_7_Mobile_ac7a66478d.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 19,
+      "videoId": "gONuvx4hU6A",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sxm7/left.html",
+  "rightProse": "prose/missions/sxm7/right.html"
+}

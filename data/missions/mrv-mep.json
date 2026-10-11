@@ -1,0 +1,179 @@
+{
+  "title": "MRV-MEP Mission",
+  "date": "July 21, 2026",
+  "imageDesktop": "public/assets/media/20260721_CC_MRV_MEP_curbh_IMG_0499_desktop_50fcc26e88.jpg",
+  "imageMobile": "public/assets/media/20260721_CC_MRV_MEP_curbv_IMG_5740_mobile_ebc43b3905.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2605,
+      "videoId": "2077108076432298360",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2434,
+    "title": "Launch and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 38612,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 38613,
+        "time": "00:02:37",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 38614,
+        "time": "00:02:41",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 38615,
+        "time": "00:02:48",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 38616,
+        "time": "00:03:29",
+        "description": "Fairing separation "
+      },
+      {
+        "id": 38617,
+        "time": "00:07:55",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 38618,
+        "time": "00:29:00",
+        "description": "2nd stage engine starts (SES-2)"
+      },
+      {
+        "id": 38619,
+        "time": "00:30:05",
+        "description": "2nd stage engine cutoff (SECO-2)"
+      },
+      {
+        "id": 38620,
+        "time": "00:35:34",
+        "description": "Mission Robotic Vehicle deploys"
+      },
+      {
+        "id": 38621,
+        "time": "00:45:34",
+        "description": "First Mission Extension Pod deploys"
+      },
+      {
+        "id": 38622,
+        "time": "00:55:34",
+        "description": "Second Mission Extension Pod deploys"
+      },
+      {
+        "id": 38623,
+        "time": "01:05:34",
+        "description": "Third Mission Extension Pod deploys"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_NO_RECOVERY_DESKTOP_36d0aa5739.webp",
+  "infographicMobile": "public/assets/media/F9_NO_RECOVERY_MOBILE_3991f51965.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260721_CC_MRV_MEP_slidewireh_IMG_5737_desktop_317cf268f3.jpg",
+      "mobile": "public/assets/media/20260721_CC_MRV_MEP_lightningbasev_IMG_8156_mobile_3b6f637a8d.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260721_CC_MRV_MEP_outsidewaterh_DSC_6091_desktop_e73124b506.jpg",
+      "mobile": "public/assets/media/20260721_CC_MRV_MEP_outsidewaterh_DSC_6095_mobile_b882b8c075.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260721_CC_MRV_MEP_patrolrd_DSC_8960_desktop_43f325b83a.jpg",
+      "mobile": "public/assets/media/20260721_CC_MRV_MEP_patrolrd_DSC_8960_mobile_7637cd276c.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/mrv-mep/left.html",
+  "rightProse": "prose/missions/mrv-mep/right.html"
+}

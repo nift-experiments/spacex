@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "May 28, 2024",
+  "imageDesktop": "public/assets/media/Star_6_60_052824_DSC_1368_desktop_e52a5f273a.jpg",
+  "imageMobile": "public/assets/media/Star_6_60_052824_DSC_5377_mobile_5802a52111.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 611,
+      "videoId": "1794033037711475035",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-6-60/left.html",
+  "rightProse": "prose/missions/sl-6-60/right.html"
+}

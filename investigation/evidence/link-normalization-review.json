@@ -1,0 +1,32 @@
+[
+  {
+    "source": "prose/missions/transporter13/right.html",
+    "original": "https://www.spacex.com/rideshare/index.html",
+    "normalization": "legacy index path; browser behavior review required"
+  },
+  {
+    "source": "prose/missions/transporter16/right.html",
+    "original": "https://www.spacex.com/rideshare/index.html",
+    "normalization": "legacy index path; browser behavior review required"
+  },
+  {
+    "source": "prose/missions/transporter6/left.html",
+    "original": " https://www.spacex.com/rideshare/index.html",
+    "normalization": "legacy index path; browser behavior review required"
+  },
+  {
+    "source": "prose/missions/transporter8/left.html",
+    "original": "https://www.spacex.com/rideshare/index.html",
+    "normalization": "legacy index path; browser behavior review required"
+  },
+  {
+    "source": "prose/missions/transporter12/right.html",
+    "original": "https://www.spacex.com/rideshare/index.html",
+    "normalization": "legacy index path; browser behavior review required"
+  },
+  {
+    "source": "prose/missions/transporter11/left.html",
+    "original": "https://www.spacex.com/rideshare/index.html",
+    "normalization": "legacy index path; browser behavior review required"
+  }
+]

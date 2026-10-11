@@ -1,0 +1,31 @@
+{
+  "title": "CRS-9 Mission",
+  "date": "July 18, 2016",
+  "imageDesktop": "public/assets/media/crs_9_desktop_e6873ed320.jpg",
+  "imageMobile": "public/assets/media/crs_9_desktop_e6873ed320.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 107,
+      "videoId": "ThIdCuSsJh8",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/crs9/left.html",
+  "rightProse": "prose/missions/crs9/right.html"
+}

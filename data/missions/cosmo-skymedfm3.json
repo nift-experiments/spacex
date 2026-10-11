@@ -1,0 +1,189 @@
+{
+  "title": "COSMO-SkyMed Second Generation Mission",
+  "date": "January 02, 2026",
+  "imageDesktop": "public/assets/media/Cosmo_Sky_Med_FM_3_OS_56_1422_Desktop_7276cafa0c.jpg",
+  "imageMobile": "public/assets/media/Cosmo_Sky_Med_FM_3_Southwest_Hill_0149_Mobile_08e475df49.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 1647,
+      "videoId": "2006410107391758689",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 1738,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 26381,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 26382,
+        "time": "00:02:15",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 26383,
+        "time": "00:02:18",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 26384,
+        "time": "00:02:22",
+        "description": "Stage 1 flip"
+      },
+      {
+        "id": 26385,
+        "time": "00:02:26",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 26386,
+        "time": "00:02:31 ",
+        "description": "Boostback burn starts"
+      },
+      {
+        "id": 26387,
+        "time": "00:02:37",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 26388,
+        "time": "00:03:11\t",
+        "description": "Boostback burn ends"
+      },
+      {
+        "id": 26389,
+        "time": "00:06:37",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 26390,
+        "time": "00:07:02",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 26391,
+        "time": "00:07:53",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 26392,
+        "time": "00:08:23",
+        "description": "1st stage landing "
+      },
+      {
+        "id": 26393,
+        "time": "00:10:31",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 26394,
+        "time": "00:12:52",
+        "description": "CSG Flight Model 3 (CSG-FM3) deploys"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_LANDING_ZONE_DESKTOP_34a3d0ee3c.webp",
+  "infographicMobile": "public/assets/media/F9_LANDING_ZONE_MOBILE_ab942c922a.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Cosmo_Sky_Med_FM_3_OS_56_Streak_9882_Full_e29670b8fa.jpg",
+      "mobile": "public/assets/media/Cosmo_Sky_Med_FM_3_OS_56_Streak_Comp_Mobile_db75c534c0.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/Cosmo_Sky_Med_FM_3_South_Hill_9551_Desktop_fc090a27eb.jpg",
+      "mobile": "public/assets/media/Cosmo_Sky_Med_FM_3_South_Hill_9551_Mobile_13d2e6b7bb.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20251227_COSMO_Sky_Med_FM_3_Hill_00152_Vertical_8936459267.jpg",
+      "mobile": "public/assets/media/20251227_COSMO_Sky_Med_FM_3_Hill_00150_Vertical_968af94dff.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/cosmo-skymedfm3/left.html",
+  "rightProse": "prose/missions/cosmo-skymedfm3/right.html"
+}

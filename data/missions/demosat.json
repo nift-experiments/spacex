@@ -1,0 +1,20 @@
+{
+  "title": "DemoSat Mission",
+  "date": "March 21, 2007",
+  "imageDesktop": "public/assets/media/Demo_Sat_Desktop_dfd525181a.jpg",
+  "imageMobile": "public/assets/media/Demo_Sat_Mobile_d259da59a3.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/demosat/left.html",
+  "rightProse": "prose/missions/demosat/right.html"
+}

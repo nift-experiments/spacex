@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "December 18, 2021",
+  "imageDesktop": "public/assets/media/Starlink_4_4_5916_DESKTOP_UPDATES_98b9b4c8dd.jpg",
+  "imageMobile": "public/assets/media/Starlink_4_4_9377_HOMEPAGE_MOBILE_43da3a2690.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 178,
+      "videoId": "q4Ed3EBx90s",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-4-4/left.html",
+  "rightProse": "prose/missions/sl-4-4/right.html"
+}

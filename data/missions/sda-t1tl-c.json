@@ -1,0 +1,110 @@
+{
+  "title": "SDA's TRANCHE 1 TRANSPORT MISSION",
+  "date": "October 15, 2025",
+  "imageDesktop": "public/assets/media/SDA_TI_TL_C_South_Hill_0981_Desktop_cb328c7977.jpg",
+  "imageMobile": "public/assets/media/SDA_TI_TL_C_Streak_730_0111_Mobile_953329b48f.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2100,
+      "videoId": "1973509977902878864",
+      "streamingVideoType": "x.com",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": {
+    "id": 1933,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 29378,
+        "time": "00:01:12",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 29379,
+        "time": "00:02:29",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 29380,
+        "time": "00:02:33",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 29381,
+        "time": "00:02:40",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 29382,
+        "time": "00:03:16",
+        "description": "Fairing deployment"
+      },
+      {
+        "id": 29383,
+        "time": "00:06:33",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 29384,
+        "time": "00:06:58",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 29385,
+        "time": "00:08:17",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 29386,
+        "time": "00:08:33",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 29387,
+        "time": "00:08:41",
+        "description": "1st stage landing"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp",
+  "infographicMobile": "public/assets/media/F9_AUTONOMOUS_DRONESHIP_MOBILE_8043528837.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/SDA_T1_TL_C_Launch_NPC_Theatre_Rd_20251015_DSC_00066_ea9bfd5b0e.jpg",
+      "mobile": "public/assets/media/SDA_T1_TL_C_Launch_NPC_Theatre_Rd_20251015_DSC_00066_ea9bfd5b0e.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/SDA_TI_TL_C_South_Hill_0981_Full_ce32036f37.jpg",
+      "mobile": "public/assets/media/SDA_TI_TL_C_South_Hill_0981_Full_ce32036f37.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/SDA_T1_TL_C_Launch_NPC_Turn_Around_20251015_DSC_00060_e5cc1cbfbc.jpg",
+      "mobile": "public/assets/media/SDA_T1_TL_C_Launch_NPC_Turn_Around_20251015_DSC_00060_e5cc1cbfbc.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/SDA_TI_TL_C_Theater_Horiz_9412_Full_c72875004a.jpg",
+      "mobile": "public/assets/media/SDA_TI_TL_C_Theater_Horiz_9412_Full_c72875004a.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sda-t1tl-c/left.html",
+  "rightProse": "prose/missions/sda-t1tl-c/right.html"
+}

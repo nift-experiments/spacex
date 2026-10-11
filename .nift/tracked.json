@@ -2,7 +2,4655 @@
   "tracked": [
     {
       "name": "/",
-      "title": "index",
+      "title": "SpaceX",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ARABSAT-BADR-8/",
+      "title": "SpaceX - ARABSAT BADR-8 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/GPSiii6/",
+      "title": "SpaceX - GPS III Space Vehicle 06 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ISI-EROS-C-3/",
+      "title": "SpaceX - ISI EROS C-3 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/Inmarsat-I-6-F2/",
+      "title": "SpaceX - Inmarsat\u2019s I-6 F2 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/SDA-Tranche0A/",
+      "title": "SpaceX - SDA\u2019s Tranche 0 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/SDA-Tranche0B/",
+      "title": "SpaceX - SDA's Second Tranche 0 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/SES-03b-mPOWERb/",
+      "title": "SpaceX - SES O3b mPOWER Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/SES-18-SES-19/",
+      "title": "SpaceX - SES-18 and SES-19 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/SES-O3b-mPOWER/",
+      "title": "SpaceX - SES O3b mPOWER Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/SES-O3b-mPOWER-e/",
+      "title": "SpaceX - SES O3b mPOWER Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/SL-4-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/SWOT/",
+      "title": "SpaceX - NASA\u2019s SWOT Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ViaSat-3-Americas/",
+      "title": "SpaceX - ViaSat-3 Americas Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/abs-eutelsat-1/",
+      "title": "SpaceX - ABS/Eutelsat-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/amos17/",
+      "title": "SpaceX - Amos-17 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/arabsat6a/",
+      "title": "SpaceX - Arabsat-6A Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/asbm/",
+      "title": "SpaceX - ASBM Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/asiasat6/",
+      "title": "SpaceX - AsiaSat 6 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/asiasat8/",
+      "title": "SpaceX - AsiaSat 8 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/astra1p/",
+      "title": "SpaceX - ASTRA 1P Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/astranis-from-one-to-many/",
+      "title": "SpaceX - Astranis: From One to Many Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ax1/",
+      "title": "SpaceX - AX-1 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ax2/",
+      "title": "SpaceX - Ax-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ax3/",
+      "title": "SpaceX - Ax-3 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ax4/",
+      "title": "SpaceX - AX-4 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/bandwagon-1/",
+      "title": "SpaceX - Bandwagon-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/bandwagon-2/",
+      "title": "SpaceX - Bandwagon-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/bandwagon-3/",
+      "title": "SpaceX - Bandwagon-3 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/bandwagon-4/",
+      "title": "SpaceX - Bandwagon-4 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/bangabandhusatellite1/",
+      "title": "SpaceX - Bangabandhu Satellite-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/bluebird1-5/",
+      "title": "SpaceX - BlueBird 1-5 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/bluebird11-13/",
+      "title": "SpaceX - BlueBird 11-13 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/bluebird8-10/",
+      "title": "SpaceX - Bluebird 8-10 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/bulgariasat-1/",
+      "title": "SpaceX - BulgariaSat-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/cas500-2/",
+      "title": "SpaceX - CAS500-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/cassiope/",
+      "title": "SpaceX - Cassiope Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/commercial-gto-1/",
+      "title": "SpaceX - Commercial GTO-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/cosmo-skymedfm3/",
+      "title": "SpaceX - COSMO-SkyMed Second Generation Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/cosmoskymed/",
+      "title": "SpaceX - COSMO-SkyMed Second Generation FM2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/cots1/",
+      "title": "SpaceX - COTS 1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/cots2/",
+      "title": "SpaceX - COTS 2+ Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew-9/",
+      "title": "SpaceX - CREW-9 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew1/",
+      "title": "SpaceX - CREW-1 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew10/",
+      "title": "SpaceX - CREW-10 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew11/",
+      "title": "SpaceX - Crew-11 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew12/",
+      "title": "SpaceX - Crew-12 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew13/",
+      "title": "SpaceX - Crew-13 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew2/",
+      "title": "SpaceX - CREW-2 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew3/",
+      "title": "SpaceX - CREW-3 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew4/",
+      "title": "SpaceX - CREW-4 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew5/",
+      "title": "SpaceX - CREW-5 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew6/",
+      "title": "SpaceX - Crew-6 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew7/",
+      "title": "SpaceX - Crew-7 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew8/",
+      "title": "SpaceX - Crew-8 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs-27/",
+      "title": "SpaceX - CRS-27 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs-28/",
+      "title": "SpaceX - CRS-28 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs-30/",
+      "title": "SpaceX - CRS-30 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs-31/",
+      "title": "SpaceX - CRS-31 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs-32/",
+      "title": "SpaceX - CRS-32 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs1/",
+      "title": "SpaceX - CRS-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs10/",
+      "title": "SpaceX - CRS-10 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs11/",
+      "title": "SpaceX - CRS-11 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs12/",
+      "title": "SpaceX - CRS-12 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs13/",
+      "title": "SpaceX - CRS-13 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs14/",
+      "title": "SpaceX - CRS-14 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs15/",
+      "title": "SpaceX - CRS-15 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs16/",
+      "title": "SpaceX - CRS-16 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs17/",
+      "title": "SpaceX - CRS-17 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs18/",
+      "title": "SpaceX - CRS-18 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs19/",
+      "title": "SpaceX - CRS-19 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs2/",
+      "title": "SpaceX - CRS-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs20/",
+      "title": "SpaceX - CRS-20 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs21/",
+      "title": "SpaceX - CRS-21 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs22/",
+      "title": "SpaceX - CRS-22 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs23/",
+      "title": "SpaceX - CRS-23 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs24/",
+      "title": "SpaceX - CRS-24 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs25/",
+      "title": "SpaceX - CRS-25 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs26/",
+      "title": "SpaceX - CRS-26 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs3/",
+      "title": "SpaceX - CRS-3 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs33/",
+      "title": "SpaceX - CRS-33 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs34/",
+      "title": "SpaceX - CRS-34 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs35/",
+      "title": "SpaceX - CRS-35 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs4/",
+      "title": "SpaceX - CRS-4 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs5/",
+      "title": "SpaceX - CRS-5 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs6/",
+      "title": "SpaceX - CRS-6 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs7/",
+      "title": "SpaceX - CRS-7 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs8/",
+      "title": "SpaceX - CRS-8 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crs9/",
+      "title": "SpaceX - CRS-9 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/dart/",
+      "title": "SpaceX - DART",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/demo1/",
+      "title": "SpaceX - Demo-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/demo2/",
+      "title": "SpaceX - Demo-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/demosat/",
+      "title": "SpaceX - DemoSat Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/dragoninflightabort/",
+      "title": "SpaceX - DRAGON LAUNCH ESCAPE DEMONSTRATION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/earthcare/",
+      "title": "SpaceX - ESA EarthCARE Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/echostarxxiii/",
+      "title": "SpaceX - EchoStar XXIII Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/echostarxxv/",
+      "title": "SpaceX - EchoStar XXV Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/eshail2/",
+      "title": "SpaceX - Es\u2019hail-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/euclid/",
+      "title": "SpaceX - ESA Euclid Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/europa-clipper/",
+      "title": "SpaceX - Europa Clipper Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/eutelsat10b/",
+      "title": "SpaceX - Eutelsat 10B Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/eutelsat36d/",
+      "title": "SpaceX - EUTELSAT 36D Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/eutelsatabs/",
+      "title": "SpaceX - Eutelsat/ABS Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/eutelsathotbird13f/",
+      "title": "SpaceX - Eutelsat HOTBIRD 13F Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/eutelsathotbird13g/",
+      "title": "SpaceX - Eutelsat HOTBIRD 13G Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/falcon9demo/",
+      "title": "SpaceX - Falcon 9 Demo Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/falconsat2/",
+      "title": "SpaceX - FalconSAT-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/fhdemo/",
+      "title": "SpaceX - Falcon Heavy Demonstration Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/firefly-blueghost-mission-1/",
+      "title": "SpaceX - Firefly Blue Ghost Mission 1",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/formosat-5/",
+      "title": "SpaceX - FORMOSAT-5 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/fram2/",
+      "title": "SpaceX - FRAM2 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/galileol12/",
+      "title": "SpaceX - Galileo L12 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/galileol13/",
+      "title": "SpaceX - Galileo L13 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/globalstar2-rlaunch1/",
+      "title": "SpaceX - Globalstar 2-R Launch 1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/globalstarfm15/",
+      "title": "SpaceX - Globalstar FM15 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/goes-u/",
+      "title": "SpaceX - GOES-U Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/govsat1/",
+      "title": "SpaceX - GovSat-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/gpsiii5/",
+      "title": "SpaceX - GPS III Space Vehicle 05 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/gpsiii7/",
+      "title": "SpaceX - GPS III-7 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/gpsiii8/",
+      "title": "SpaceX - GPS III-8 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/gpsiii9/",
+      "title": "SpaceX - GPS III-9 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/gpsiiisv01/",
+      "title": "SpaceX - GPS III Space Vehicle 01 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/gpsiiisv03/",
+      "title": "SpaceX - GPS III Space Vehicle 03 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/gpsiiisv04/",
+      "title": "SpaceX - GPS III Space Vehicle 04 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/gsat-n2/",
+      "title": "SpaceX - NSIL GSAT-N2 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/hera/",
+      "title": "SpaceX - Hera Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/hispasat-amazonas-nexus/",
+      "title": "SpaceX - HISPASAT AMAZONAS NEXUS MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/hispasat30w6/",
+      "title": "SpaceX - HISPASAT 30W-6 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/im-2/",
+      "title": "SpaceX - IM-2 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/im1/",
+      "title": "SpaceX - Intuitive Machines IM-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/imap/",
+      "title": "SpaceX - IMAP Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/inmarsat-5f4/",
+      "title": "SpaceX - Inmarsat-5 F4 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/inspiration4/",
+      "title": "SpaceX - Inspiration4 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/intelsat-IS40e/",
+      "title": "SpaceX - Intelsat IS-40e Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/intelsat-g-37/",
+      "title": "SpaceX - Intelsat G-37 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/intelsat35e/",
+      "title": "SpaceX - Intelsat 35e Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/intelsatg31g32/",
+      "title": "SpaceX - Intelsat G-31/G-32 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/intelsatg33g34/",
+      "title": "SpaceX - Intelsat G-33/G-34 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/iridium-1/",
+      "title": "SpaceX - Iridium-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/iridium-2/",
+      "title": "SpaceX - Iridium-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/iridium-3/",
+      "title": "SpaceX - Iridium-3 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/iridium-4/",
+      "title": "SpaceX - Iridium-4 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/iridium-oneweb/",
+      "title": "SpaceX - Iridium OneWeb Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/iridium5/",
+      "title": "SpaceX - Iridium-5 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/iridium6gracefo/",
+      "title": "SpaceX - Iridium-6/GRACE-FO Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ispace-m1/",
+      "title": "SpaceX - iSpace's Hakuto-R Mission 1",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ixpe/",
+      "title": "SpaceX - IXPE",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/jason-3/",
+      "title": "SpaceX - Jason-3 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/jcsat-16/",
+      "title": "SpaceX - JCSAT-16 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/jcsat14/",
+      "title": "SpaceX - JCSAT-14 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/jcsat18-kacific1/",
+      "title": "SpaceX - JCSAT-18/KACIFIC1 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/jupiter3/",
+      "title": "SpaceX - Hughes JUPITER 3 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/kf-01/",
+      "title": "SpaceX - KF-01 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/kf-02/",
+      "title": "SpaceX - KF-02 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/kf-03/",
+      "title": "SpaceX - KF-03 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/korea425/",
+      "title": "SpaceX - Korea 425 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/koreasat-5a/",
+      "title": "SpaceX - Koreasat-5A Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/koreasat-6a/",
+      "title": "SpaceX - Koreasat-6A Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/kplo/",
+      "title": "SpaceX - KPLO Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/maxar1/",
+      "title": "SpaceX - Maxar 1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/maxar2/",
+      "title": "SpaceX - MAXAR 2 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/maxar3/",
+      "title": "SpaceX - Maxar 3 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/merahputih/",
+      "title": "SpaceX - Merah Putih Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/merahputih2/",
+      "title": "SpaceX - Telkomsat Merah Putih 2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/mpower-c/",
+      "title": "SpaceX - SES O3b mPOWER Misson",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/mpower-d/",
+      "title": "SpaceX - O3b mPOWER Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/mpower-f/",
+      "title": "SpaceX - O3b mPOWER Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/mrv-mep/",
+      "title": "SpaceX - MRV-MEP Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/mtgs1/",
+      "title": "SpaceX - MTG-S1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/naos/",
+      "title": "SpaceX - NAOS Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ng-20/",
+      "title": "SpaceX - NG-20 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ng-21/",
+      "title": "SpaceX - NG-21 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ng23/",
+      "title": "SpaceX - NG-23 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ng24/",
+      "title": "SpaceX - NG-24 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nilesat301/",
+      "title": "SpaceX - Nilesat 301 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol105/",
+      "title": "SpaceX - NROL-105 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol108/",
+      "title": "SpaceX - NROL-108 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol113/",
+      "title": "SpaceX - NROL-113 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol126/",
+      "title": "SpaceX - NROL-126 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol145/",
+      "title": "SpaceX - NROL-145 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol146/",
+      "title": "SpaceX - NROL-146 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol149/",
+      "title": "SpaceX - NROL-149 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol153/",
+      "title": "SpaceX - NROL-153 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol167/",
+      "title": "SpaceX - NROL-167 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol172/",
+      "title": "SpaceX - NROL-172 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol179/",
+      "title": "SpaceX - NROL-179 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol186/",
+      "title": "SpaceX - NROL-186 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol192/",
+      "title": "SpaceX - NROL-192 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol48/",
+      "title": "SpaceX - NROL-48 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol57/",
+      "title": "SpaceX - NROL-57 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol69/",
+      "title": "SpaceX - NROL-69 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol76/",
+      "title": "SpaceX - NROL-76 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol77/",
+      "title": "SpaceX - NROL-77 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol85/",
+      "title": "SpaceX - NROL-85 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol87/",
+      "title": "SpaceX - NROL-87 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol95/",
+      "title": "SpaceX - NROL-95 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nrol97/",
+      "title": "SpaceX - NROL-97 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nusantaralima/",
+      "title": "SpaceX - Nusantara Lima Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/nusantarasatu/",
+      "title": "SpaceX - Nusantara Satu Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/oneweb-1/",
+      "title": "SpaceX - OneWeb 1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/oneweblaunch16/",
+      "title": "SpaceX - ONEWEB LAUNCH 16 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/oneweblaunch17/",
+      "title": "SpaceX - ONEWEB LAUNCH 17 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/oneweblaunch20/",
+      "title": "SpaceX - OneWeb Launch 20 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/orbcomm1/",
+      "title": "SpaceX - ORBCOMM-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/orbcomm2/",
+      "title": "SpaceX - ORBCOMM-2 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/otv-5/",
+      "title": "SpaceX - Orbital Test Vehicle 5 (OTV-5) Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ovzon3/",
+      "title": "SpaceX - Ovzon 3 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/pace/",
+      "title": "SpaceX - PACE MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/paz/",
+      "title": "SpaceX - Paz Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/polarisdawn/",
+      "title": "SpaceX - POLARIS DAWN",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/psn-satria/",
+      "title": "SpaceX - PSN SATRIA Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/psyche/",
+      "title": "SpaceX - Psyche Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/radarsatconstellation/",
+      "title": "SpaceX - RADARSAT Constellation Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ratsat/",
+      "title": "SpaceX - RatSat Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/razaksat/",
+      "title": "SpaceX - RazakSAT Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/roman/",
+      "title": "SpaceX - Roman Space Telescope Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/rrt-1/",
+      "title": "SpaceX - RRT-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/saocom1a/",
+      "title": "SpaceX - SAOCOM 1A Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/saocom1b/",
+      "title": "SpaceX - SAOCOM 1B Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sarah-2/",
+      "title": "SpaceX - SARah-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sarah1/",
+      "title": "SpaceX - SARah-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sda-t1tl-a/",
+      "title": "SpaceX - SDA\u2019s Fourth Tranche 1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sda-t1tl-b/",
+      "title": "SpaceX - SDA's First Tranche 1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sda-t1tl-c/",
+      "title": "SpaceX - SDA's TRANCHE 1 TRANSPORT MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sda-t1tl-e/",
+      "title": "SpaceX - SDA\u2019s Third Tranche 1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sentinel-6b/",
+      "title": "SpaceX - Sentinel-6B Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sentinel6/",
+      "title": "SpaceX - Sentinel-6 Michael Freilich",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ses-9/",
+      "title": "SpaceX - SES-9 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ses10/",
+      "title": "SpaceX - SES-10 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ses12/",
+      "title": "SpaceX - SES-12 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ses22/",
+      "title": "SpaceX - SES-22 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ses8/",
+      "title": "SpaceX - SES-8 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-10/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-12/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-13/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-14/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-15/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-16/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-17/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-18/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-19/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-2/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-20/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-21/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-22/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-23/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-24/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-25/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-26/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-27/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-28/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-29/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-3/",
+      "title": "SpaceX - Starlink Misison",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-30/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-31/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-32/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-33/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-34/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-35/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-36/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-37/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-38/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-39/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-4/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-40/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-41/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-42/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-43/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-44/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-45/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-46/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-47/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-48/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-49/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-50/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-51/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-52/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-53/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-54/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-56/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-57/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-58/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-59/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-6/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-61/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-62/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-8/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-10-9/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-1/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-10/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-12/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-13/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-14/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-15/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-16/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-17/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-18/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-19/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-2/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-20/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-21/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-23/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-25/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-3/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-30/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-39/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-4/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-6/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-8/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-9/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-10/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-12/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-13/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-14/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-15/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-16/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-17/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-18/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-19/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-2/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-20/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-21/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-22/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-23/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-25/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-3/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-4/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-6/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-8/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-9/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-13-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-13-4/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-10/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-12/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-13/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-14/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-2/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-20/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-22/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-23/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-24/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-25/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-27/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-3/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-4/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-6/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-8/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-9/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-16/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-10/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-12/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-13/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-14/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-15/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-16/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-17/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-18/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-19/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-2/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-20/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-21/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-22/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-23/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-24/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-25/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-26/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-27/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-28/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-29/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-3/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-30/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-31/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-32/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-33/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-34/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-35/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-36/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-37/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-38/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-39/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-4/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-40/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-41/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-42/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-43/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-44/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-45/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-46/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-47/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-48/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-49/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-50/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-51/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-52/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-53/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-54/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-6/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-8/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-17-9/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-18/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-19/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-2-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-2-4/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-2-5/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-2-6/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-2-7/",
+      "title": "SpaceX - starlink mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-2-8/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-20/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-21/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-22/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-23/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-24/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-25/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-26/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-27/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-28/",
+      "title": "SpaceX - Starlink MIssion",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-3-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-3-2/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-3-3/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-3-4/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-10/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-12/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-13/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-14/",
+      "title": "SpaceX - Stalrink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-15/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-16/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-17/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-18/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-19/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-2/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-20/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-21/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-22/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-23/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-25/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-26/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-27/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-29/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-3/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-31/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-34/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-36/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-37/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-4/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-6/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-8/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-4-9/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-5-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-5-10/",
+      "title": "SpaceX - starlink mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-5-13/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-5-15/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-5-2/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-5-3/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-5-4/",
+      "title": "SpaceX - starlink mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-1/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-10/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-100/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-101/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-103/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-104/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-108/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-110/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-12/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-13/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-14/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-15/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-16/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-17/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-18/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-19/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-2/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-21/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-22/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-23/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-24/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-25/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-26/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-27/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-28/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-29/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-30/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-31/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-32/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-33/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-34/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-35/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-36/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-37/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-38/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-39/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-40/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-41/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-42/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-43/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-44/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-45/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-46/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-47/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-48/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-49/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-51/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-52/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-53/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-54/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-55/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-56/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-57/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-58/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-59/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-6/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-60/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-61/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-62/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-63/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-64/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-65/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-66/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-67/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-68/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-69/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-70/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-71/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-72/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-73/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-74/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-75/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-76/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-77/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-78/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-79/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-8/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-80/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-81/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-82/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-83/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-84/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-85/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-86/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-87/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-88/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-89/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-9/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-90/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-91/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-92/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-93/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-94/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-95/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-96/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-97/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-98/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-6-99/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-10/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-12/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-13/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-14/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-15/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-16/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-17/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-18/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-2/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-3/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-4/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-6/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-8/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-7-9/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-10/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-19/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-2/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-3/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-6/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-8/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-8-9/",
+      "title": "SpaceX - Starlink Misison",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-1/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-10/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-12/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-13/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-14/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-17/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-2/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-3/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-4/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-6/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-8/",
+      "title": "SpaceX - Starlink Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-9-9/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl2-10/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl2-9/",
+      "title": "SpaceX - starlink mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl5-11/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl5-12/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl5-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl5-6/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl5-7/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl5-9/",
+      "title": "SpaceX - STARLINK MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl6-20/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl6-3/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl6-4/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/spaceflightssoa/",
+      "title": "SpaceX - Spaceflight SSO-A: Smallsat Express Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/spainsatng1/",
+      "title": "SpaceX - SpainSat NG I Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/spainsatngii/",
+      "title": "SpaceX - SpainSat NG II Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/spherex/",
+      "title": "SpaceX - SPHEREx Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starfalldemo/",
+      "title": "SpaceX - Starfall Demo Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-10/",
+      "title": "SpaceX - Starship's Tenth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-11/",
+      "title": "SpaceX - Starship's Eleventh Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-12/",
+      "title": "SpaceX - Starship's Twelfth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-14/",
+      "title": "SpaceX - Starship Flight 14",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-2/",
+      "title": "SpaceX - Starship's Second Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-3/",
+      "title": "SpaceX - Starship's Third Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-4/",
+      "title": "SpaceX - Starship's Fourth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-6/",
+      "title": "SpaceX - Starship's Sixth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-7/",
+      "title": "SpaceX - Starship's Seventh Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-8/",
+      "title": "SpaceX - Starship's Eighth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-9/",
+      "title": "SpaceX - Starship's Ninth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-test/",
+      "title": "SpaceX - Starship Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-sn10/",
+      "title": "SpaceX - Starship High Altitude Test - SN10",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-sn11/",
+      "title": "SpaceX - Starship High Altitude Test - SN11",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-sn15/",
+      "title": "SpaceX - Starship High Altitude Test - SN15",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-sn5/",
+      "title": "SpaceX - Starship Test - SN5",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-sn8/",
+      "title": "SpaceX - Starship High Altitude Test - SN8",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-sn9/",
+      "title": "SpaceX - Starship High Altitude Test - SN9",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/stp2/",
+      "title": "SpaceX - STP-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sxm-9/",
+      "title": "SpaceX - SXM-9 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sxm10/",
+      "title": "SpaceX - SXM-10 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sxm11/",
+      "title": "SpaceX - SXM-11 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sxm7/",
+      "title": "SpaceX - SXM-7 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sxm8/",
+      "title": "SpaceX - SXM-8 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/td7/",
+      "title": "SpaceX - TD7 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/telstar18vantage/",
+      "title": "SpaceX - Telstar 18 VANTAGE Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/tess/",
+      "title": "SpaceX - TESS Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/thaicom6/",
+      "title": "SpaceX - Thaicom-6 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/thaicom8/",
+      "title": "SpaceX - THAICOM 8 Mission ",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/thales/",
+      "title": "SpaceX - Thales Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/thuraya4/",
+      "title": "SpaceX - Thuraya 4 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/tracers/",
+      "title": "SpaceX - TRACERS Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/trailblazer/",
+      "title": "SpaceX - Trailblazer Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter-9/",
+      "title": "SpaceX - Transporter-9 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter1/",
+      "title": "SpaceX - Transporter-1 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter10/",
+      "title": "SpaceX - Transporter-10 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter11/",
+      "title": "SpaceX - Transporter-11 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter12/",
+      "title": "SpaceX - Transporter-12 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter13/",
+      "title": "SpaceX - Transporter-13 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter14/",
+      "title": "SpaceX - Transporter-14 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter15/",
+      "title": "SpaceX - Transporter-15 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter16/",
+      "title": "SpaceX - Transporter-16 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter17/",
+      "title": "SpaceX - Transporter-17 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter18/",
+      "title": "SpaceX - Transporter-18 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter2/",
+      "title": "SpaceX - Transporter-2 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter3/",
+      "title": "SpaceX - Transporter-3 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter4/",
+      "title": "SpaceX - Transporter-4 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter5/",
+      "title": "SpaceX - Transporter-5 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter6/",
+      "title": "SpaceX - TRANSPORTER-6 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter7/",
+      "title": "SpaceX - Transporter-7 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/transporter8/",
+      "title": "SpaceX - Transporter-8 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/turksat5a/",
+      "title": "SpaceX - Turksat 5A Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/turksat5b/",
+      "title": "SpaceX - Turksat 5B Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/turksat6a/",
+      "title": "SpaceX - Turksat 6A Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/twilight/",
+      "title": "SpaceX - Twilight Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf124/",
+      "title": "SpaceX - USSF-124 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf153/",
+      "title": "SpaceX - USSF-153 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf259/",
+      "title": "SpaceX - USSF-259 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf36/",
+      "title": "SpaceX - USSF-36 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf366/",
+      "title": "SpaceX - USSF-366 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf385/",
+      "title": "SpaceX - USSF-385 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf44/",
+      "title": "SpaceX - USSF-44",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf481/",
+      "title": "SpaceX - USSF-481 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf52/",
+      "title": "SpaceX - USSF-52 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf62/",
+      "title": "SpaceX - USSF-62 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/ussf67/",
+      "title": "SpaceX - USSF-67 MISSION",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/viasat3f3/",
+      "title": "SpaceX - Viasat-3 F3 Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/zuma/",
+      "title": "SpaceX - Zuma Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-11-22/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-24/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-12-26/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/sl-15-5/",
+      "title": "SpaceX - Starlink Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-13/",
+      "title": "SpaceX - Starship's Thirteenth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-flight-5/",
+      "title": "SpaceX - Starship's Fifth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary-1080p",
+      "title": "Making_Life_Multiplanetary-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary-720p",
+      "title": "Making_Life_Multiplanetary-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Making_Life_Multiplanetary/Making_Life_Multiplanetary",
+      "title": "Making_Life_Multiplanetary.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026-1080p",
+      "title": "Mars_2026-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026-720p",
+      "title": "Mars_2026-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Mars_2026/Mars_2026",
+      "title": "Mars_2026.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024-1080p",
+      "title": "Starship_Update_April_2024-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024-720p",
+      "title": "Starship_Update_April_2024-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_April_2024/Starship_Update_April_2024",
+      "title": "Starship_Update_April_2024.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022-1080p",
+      "title": "Starship_Update_February_2022-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022-720p",
+      "title": "Starship_Update_February_2022-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_February_2022/Starship_Update_February_2022",
+      "title": "Starship_Update_February_2022.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_January_2024/Starship_Update_January_2024-720p",
+      "title": "Starship_Update_January_2024-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_January_2024/Starship_Update_January_2024",
+      "title": "Starship_Update_January_2024.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019-1080p",
+      "title": "Starship_Update_September_2019-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019-720p",
+      "title": "Starship_Update_September_2019-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/company-talks/Starship_Update_September_2019/Starship_Update_September_2019",
+      "title": "Starship_Update_September_2019.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-1080p",
+      "title": "StarshipDoc_Ep001-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-4k",
+      "title": "StarshipDoc_Ep001-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001-720p",
+      "title": "StarshipDoc_Ep001-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep001/StarshipDoc_Ep001",
+      "title": "StarshipDoc_Ep001.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-1080p",
+      "title": "StarshipDoc_Ep002-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-4k",
+      "title": "StarshipDoc_Ep002-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002-720p",
+      "title": "StarshipDoc_Ep002-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep002/StarshipDoc_Ep002",
+      "title": "StarshipDoc_Ep002.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-1080p",
+      "title": "StarshipDoc_Ep003-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-4k",
+      "title": "StarshipDoc_Ep003-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/documentary/StarshipDoc_Ep003/StarshipDoc_Ep003-720p",
+      "title": "StarshipDoc_Ep003-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1/Flight_1-1080p",
+      "title": "Flight_1-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1/Flight_1-720p",
+      "title": "Flight_1-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1/Flight_1",
+      "title": "Flight_1.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10-1080p",
+      "title": "Flight_10-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10-4k",
+      "title": "Flight_10-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10-720p",
+      "title": "Flight_10-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_10/Flight_10",
+      "title": "Flight_10.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11-1080p",
+      "title": "Flight_11-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11-4k",
+      "title": "Flight_11-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11-720p",
+      "title": "Flight_11-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_11/Flight_11",
+      "title": "Flight_11.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12-1080p",
+      "title": "Flight_12-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12-4k",
+      "title": "Flight_12-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12-720p",
+      "title": "Flight_12-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_12/Flight_12",
+      "title": "Flight_12.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-1080p",
+      "title": "Flight_13-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-4k",
+      "title": "Flight_13-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_13/Flight_13-720p",
+      "title": "Flight_13-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-1080p",
+      "title": "Flight_14-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-4k",
+      "title": "Flight_14-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_14/Flight_14-720p",
+      "title": "Flight_14-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2/Flight_2-1080p",
+      "title": "Flight_2-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2/Flight_2-720p",
+      "title": "Flight_2-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2/Flight_2",
+      "title": "Flight_2.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3-1080p",
+      "title": "Flight_3-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3-720p",
+      "title": "Flight_3-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_3/Flight_3",
+      "title": "Flight_3.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4/Flight_4-1080p",
+      "title": "Flight_4-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4/Flight_4-720p",
+      "title": "Flight_4-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4/Flight_4",
+      "title": "Flight_4.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5/Flight_5-1080p",
+      "title": "Flight_5-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5/Flight_5-720p",
+      "title": "Flight_5-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_5/Flight_5",
+      "title": "Flight_5.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_6/Flight_6-720p",
+      "title": "Flight_6-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7/Flight_7-1080p",
+      "title": "Flight_7-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7/Flight_7-720p",
+      "title": "Flight_7-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7/Flight_7",
+      "title": "Flight_7.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-1080p",
+      "title": "Flight_8-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-4k",
+      "title": "Flight_8-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8-720p",
+      "title": "Flight_8-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_8/Flight_8",
+      "title": "Flight_8.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9/Flight_9-1080p",
+      "title": "Flight_9-1080p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9/Flight_9-720p",
+      "title": "Flight_9-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9/Flight_9",
+      "title": "Flight_9.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN10/SN10-720p",
+      "title": "SN10-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN10/SN10",
+      "title": "SN10.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN15/SN15-720p",
+      "title": "SN15-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN15/SN15",
+      "title": "SN15.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN5/SN5-720p",
+      "title": "SN5-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN5/SN5",
+      "title": "SN5.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN6/SN6-720p",
+      "title": "SN6-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN6/SN6",
+      "title": "SN6.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN8/SN8-720p",
+      "title": "SN8-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/SN8/SN8",
+      "title": "SN8.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Starhopper/Starhopper-720p",
+      "title": "Starhopper-720p.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Starhopper/Starhopper",
+      "title": "Starhopper.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_1/Flight_1-4k",
+      "title": "Flight_1-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_2/Flight_2-4k",
+      "title": "Flight_2-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_4/Flight_4-4k",
+      "title": "Flight_4-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_7/Flight_7-4k",
+      "title": "Flight_7-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "assets/recovered/content.spacex.com/cms-assets/content-hub/starship-flights/Flight_9/Flight_9-4k",
+      "title": "Flight_9-4k.m3u8",
+      "content-ext": ".m3u8",
+      "output-ext": ".m3u8",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "mars/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "mid-south/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "sites/memphis/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "sites/memphis-tn/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "sites/Mid-South/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "sites/mid-south/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/SL-4-35/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/crs-29/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/discovr/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-1/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-10/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-11/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-12/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-13/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-14/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-15/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-2/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-3/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-4/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-5/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-6/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-7/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-8/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl-9/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl3-5/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/starlink/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/telstar19vintage/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "legal/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "Mid-South/",
+      "title": "SpaceX - Memphis, TN / Southaven, MS",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "careers/jobs/",
+      "title": "SpaceX - Jobs",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "careers/",
+      "title": "SpaceX - Careers",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship/critical-path/",
+      "title": "SpaceX - Critical Path",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-1/",
+      "title": "SpaceX - Starship's First Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-10/",
+      "title": "SpaceX - Starship\u2019s Tenth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-11/",
+      "title": "SpaceX - Starship\u2019s Eleventh Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-12/",
+      "title": "SpaceX - Starship\u2019s Twelfth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-13/",
+      "title": "SpaceX - Starship's Thirteenth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-14/",
+      "title": "SpaceX - Starship Flight 14",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-2/",
+      "title": "SpaceX - Starship's Second Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-3/",
+      "title": "SpaceX - Starship's Third Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-4/",
+      "title": "SpaceX - Starship's Fourth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-5/",
+      "title": "SpaceX - Starship's Fifth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-6/",
+      "title": "SpaceX - Starship's Sixth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-7/",
+      "title": "SpaceX - Starship's Seventh Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-8/",
+      "title": "SpaceX - Starship\u2019s Eighth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/flight-9/",
+      "title": "SpaceX - Starship's Ninth Flight Test",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/sn10/",
+      "title": "SpaceX - Starship High Altitude Test - SN10",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/sn15/",
+      "title": "SpaceX - Starship High Altitude Test - SN15",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/sn5/",
+      "title": "SpaceX - Starship 150 Meter Test - SN5",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/sn6/",
+      "title": "SpaceX - Starship 150 Meter Test - SN6",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/sn8/",
+      "title": "SpaceX - Starship High Altitude Test - SN8",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/starhopper/",
+      "title": "SpaceX - Starhopper",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-flight-tests/",
+      "title": "SpaceX - Video Player",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship/holy-grail-of-rocketry/",
+      "title": "SpaceX - Holy Grail Of Rocketry",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-talks/making-life-multiplanetary/",
+      "title": "SpaceX - Making Life Multiplanetary",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-talks/mars-2026/",
+      "title": "SpaceX - Mars 2026",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-talks/starship-update-april-2024/",
+      "title": "SpaceX - Starship Update",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-talks/starship-update-february-2022/",
+      "title": "SpaceX - Starship Update",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-talks/starship-update-january-2024/",
+      "title": "SpaceX - Starship Update",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-talks/starship-update-september-2019/",
+      "title": "SpaceX - Starship Update",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship-talks/",
+      "title": "SpaceX - Video Player",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship/test-like-you-fly/",
+      "title": "SpaceX - Test Like You Fly",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/starship/",
+      "title": "SpaceX - Video Player",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "content/",
+      "title": "Content Hub",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "follow-dragon/",
+      "title": "SpaceX - Follow Dragon",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "humanspaceflight/earth/",
+      "title": "SpaceX - Mission: Earth",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "humanspaceflight/iss/",
+      "title": "SpaceX - Mission: ISS",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "humanspaceflight/mars/",
+      "title": "SpaceX - Mission: Mars",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "humanspaceflight/moon/",
+      "title": "SpaceX - Mission: Moon",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "humanspaceflight/overview/",
+      "title": "SpaceX - Human Spaceflight",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "humanspaceflight/research/submit/",
+      "title": "SpaceX - Research",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "humanspaceflight/research/",
+      "title": "SpaceX - Research",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "humanspaceflight/",
+      "title": "SpaceX - Human Spaceflight",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "internships/",
+      "title": "SpaceX - Internships",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/",
+      "title": "SpaceX - Launches",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "mission/",
+      "title": "SpaceX - Mission",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "rideshare/",
+      "title": "SpaceX - Rideshare",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "sites/starbase-la/",
+      "title": "SpaceX - Starbase, LA",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "sites/starbase-tx/",
+      "title": "SpaceX - Starbase, TX",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "sites/",
+      "title": "SpaceX - Sites",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "spacexai/starmind/",
+      "title": "SpaceX - AI Satellite",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "starshield/",
+      "title": "SpaceX - Starshield",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "supplier/",
+      "title": "SpaceX - Suppliers",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "trademark/",
+      "title": "SpaceX - Trademark",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "updates/",
+      "title": "SpaceX - Updates",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "vehicle-tracker/",
+      "title": "SpaceX - Vehicle Tracker",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "vehicles/dragon/",
+      "title": "SpaceX - Dragon",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "vehicles/falcon-9/",
+      "title": "SpaceX - Falcon 9",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "vehicles/falcon-heavy/",
+      "title": "SpaceX - Falcon Heavy",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "vehicles/starship/",
+      "title": "SpaceX - Starship",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "vehicles/",
+      "title": "SpaceX - Dragon",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "humanspaceflight/submit/confirmation/",
+      "title": "SpaceX",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "humanspaceflight/submit/",
+      "title": "SpaceX",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "supplier/submit/confirmation/",
+      "title": "SpaceX",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "supplier/submit/",
+      "title": "SpaceX",
       "template": "templates/template.html"
     }
   ]

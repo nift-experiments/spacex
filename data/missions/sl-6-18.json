@@ -1,0 +1,20 @@
+{
+  "title": "Starlink Mission",
+  "date": "September 23, 2023",
+  "imageDesktop": "public/assets/media/Star6_18_092323_DSC_8011_desktop_9e1cff5245.jpg",
+  "imageMobile": "public/assets/media/Star6_18_092323_DSC_5937_mobile_54791c3e80.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "LEARN MORE",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-6-18/left.html",
+  "rightProse": "prose/missions/sl-6-18/right.html"
+}

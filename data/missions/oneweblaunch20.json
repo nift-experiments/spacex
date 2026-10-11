@@ -1,0 +1,31 @@
+{
+  "title": "OneWeb Launch 20 Mission",
+  "date": "October 19, 2024",
+  "imageDesktop": "public/assets/media/One_Web_F20_SW_Hill_Horiz_0804_Desktop_75a3e16f42.jpg",
+  "imageMobile": "public/assets/media/One_Web_F20_SW_Hill_Vert_9427_Mobile_9d4cd767db.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 658,
+      "videoId": "1847459660246503808",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/oneweblaunch20/left.html",
+  "rightProse": "prose/missions/oneweblaunch20/right.html"
+}

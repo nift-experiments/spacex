@@ -1,0 +1,20 @@
+{
+  "title": "RatSat Mission",
+  "date": "September 29, 2008",
+  "imageDesktop": "public/assets/media/Rat_Sat_Desktop_075c6408c5.jpg",
+  "imageMobile": "public/assets/media/Rat_Sat_Mobile_3ab292d19c.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "",
+  "webcasts": [],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/ratsat/left.html",
+  "rightProse": "prose/missions/ratsat/right.html"
+}

@@ -1,0 +1,199 @@
+{
+  "title": "NROL-95 Mission",
+  "date": "July 30, 2026",
+  "imageDesktop": "public/assets/media/20260730_CC_NROL_95_DSC_8963_desktop_229a06d469.jpg",
+  "imageMobile": "public/assets/media/20260730_CC_NROL_95_DSC_8963_mobile_b7dc89b448.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "WATCH",
+  "webcasts": [
+    {
+      "id": 2644,
+      "videoId": "1DxLddLoqayxm",
+      "streamingVideoType": "x-live-studio",
+      "title": null,
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": {
+    "id": 209,
+    "name": "Falcon 9 Payload",
+    "title": "Countdown",
+    "disclaimer": null,
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "createdAt": "2022-12-14T22:11:12.963Z",
+    "updatedAt": "2022-12-14T22:12:28.245Z",
+    "publishedAt": "2022-12-14T22:11:42.480Z",
+    "documentId": "ig8ykoo4qgrofai23dtyb06m",
+    "locale": null,
+    "timelineEntries": [
+      {
+        "id": 14873,
+        "time": "00:38:00",
+        "description": "SpaceX Launch Director verifies go for propellant load"
+      },
+      {
+        "id": 14874,
+        "time": "00:35:00",
+        "description": "RP-1 (rocket grade kerosene) loading begins"
+      },
+      {
+        "id": 14875,
+        "time": "00:35:00",
+        "description": "1st stage LOX (liquid oxygen) loading begins"
+      },
+      {
+        "id": 14876,
+        "time": "00:16:00",
+        "description": "2nd stage LOX loading begins"
+      },
+      {
+        "id": 14877,
+        "time": "00:07:00",
+        "description": "Falcon 9 begins engine chill prior to launch"
+      },
+      {
+        "id": 14878,
+        "time": "00:01:00",
+        "description": "Command flight computer to begin final prelaunch checks"
+      },
+      {
+        "id": 14879,
+        "time": "00:01:00",
+        "description": "Propellant tank pressurization to flight pressure begins"
+      },
+      {
+        "id": 14880,
+        "time": "00:00:45",
+        "description": "SpaceX Launch Director verifies go for launch"
+      },
+      {
+        "id": 14881,
+        "time": "00:00:03",
+        "description": "Engine controller commands engine ignition sequence to start"
+      },
+      {
+        "id": 14882,
+        "time": "00:00:00",
+        "description": "Falcon 9 liftoff"
+      }
+    ]
+  },
+  "postTimeline": {
+    "id": 2473,
+    "title": "Launch, Landing, and Deployment",
+    "disclaimer": "All Times Approximate",
+    "timeHeader": "Hr/Min/Sec",
+    "descriptionHeader": "Event",
+    "timelineEntries": [
+      {
+        "id": 39169,
+        "time": "00:01:07",
+        "description": "Max Q (moment of peak mechanical stress on the rocket)"
+      },
+      {
+        "id": 39170,
+        "time": "00:02:11",
+        "description": "1st stage main engine cutoff (MECO)"
+      },
+      {
+        "id": 39171,
+        "time": "00:02:15",
+        "description": "1st and 2nd stages separate"
+      },
+      {
+        "id": 39172,
+        "time": "00:02:23",
+        "description": "2nd stage engine starts (SES-1)"
+      },
+      {
+        "id": 39173,
+        "time": "00:02:28             ",
+        "description": "Boostback burn begins"
+      },
+      {
+        "id": 39174,
+        "time": "00:03:03",
+        "description": "Fairing separation"
+      },
+      {
+        "id": 39175,
+        "time": "00:03:22             ",
+        "description": "Boostback burn ends"
+      },
+      {
+        "id": 39176,
+        "time": "00:06:44",
+        "description": "1st stage entry burn begins"
+      },
+      {
+        "id": 39177,
+        "time": "00:07:04             ",
+        "description": "1st stage entry burn ends"
+      },
+      {
+        "id": 39178,
+        "time": "00:08:01",
+        "description": "1st stage landing burn begins"
+      },
+      {
+        "id": 39179,
+        "time": "00:08:12               ",
+        "description": "2nd stage engine cutoff (SECO-1)"
+      },
+      {
+        "id": 39180,
+        "time": "00:08:28               ",
+        "description": "1st stage lands on Landing Zone 2"
+      }
+    ]
+  },
+  "infographicDesktop": "public/assets/media/F9_LANDING_ZONE_DESKTOP_34a3d0ee3c.webp",
+  "infographicMobile": "public/assets/media/F9_LANDING_ZONE_MOBILE_ab942c922a.webp",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260730_CC_NROL_95_DSC_0309_desktop_c4a378059f.jpg",
+      "mobile": "public/assets/media/20260730_CC_NROL_95_DSC_0309_mobile_bbe21b1822.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260730_CC_NROL_95_DSC_3914_desktop_f4642c9ec2.jpg",
+      "mobile": "public/assets/media/20260730_CC_NROL_95_DSC_3916_mobile_820a7f0f61.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260730_CC_NROL_95_LZ_2_DSC_9857_f10f8bf6f2.jpg",
+      "mobile": "public/assets/media/20260730_CC_NROL_95_LZ_2_IMG_0567_mobile_6124ef949e.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260730_CC_NROL_95_LZ_2_IMG_0567_3566deb944.jpg",
+      "mobile": "public/assets/media/20260730_CC_NROL_95_LZ_2_IMG_0567_mobile_4f51d7449e.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260728_CC_NROL_95_DSC_9345_desktop_b014ecd612.jpg",
+      "mobile": "public/assets/media/20260728_CC_NROL_95_DSC_9345_mobile_78cbc85cc6.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260728_CC_NROL_95_DSC_9382_desktop_8b10483c5e.jpg",
+      "mobile": "public/assets/media/20260728_CC_NROL_95_DSC_9380_mobile_3a6158ebe8.jpg"
+    },
+    {
+      "caption": "",
+      "desktop": "public/assets/media/20260728_CC_NROL_95_DSC_9369_desktop_f7a6f0294e.jpg",
+      "mobile": "public/assets/media/20260728_CC_NROL_95_DSC_9369_mobile_908ac82fa1.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/nrol95/left.html",
+  "rightProse": "prose/missions/nrol95/right.html"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "SDA\u2019s Tranche 0 Mission",
+  "date": "April 02, 2023",
+  "imageDesktop": "public/assets/media/Desktop_Missions_Launches_SDA_0_A_0146_OS_56_f9e176f2fe.jpg",
+  "imageMobile": "public/assets/media/SDA_0_B_OS_56_7617_Mobile_148a20a918.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 2102,
+      "videoId": "vnnUoZ66ihg",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [
+    {
+      "caption": "",
+      "desktop": "public/assets/media/SDA_0_B_South_West_Hill_Horz_7288_Desktop_c8503fe26d.jpg",
+      "mobile": "public/assets/media/SDA_0_B_South_West_Hill_Vert_7209_Mobile_b8617c09f5.jpg"
+    }
+  ],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/SDA-Tranche0A/left.html",
+  "rightProse": "prose/missions/SDA-Tranche0A/right.html"
+}

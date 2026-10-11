@@ -1,0 +1,31 @@
+{
+  "title": "Bandwagon-2 Mission",
+  "date": "December 21, 2024",
+  "imageDesktop": "public/assets/media/Bandwagon_2_OS_56_Streak_6864_Desktop_dadeb08f5d.jpg",
+  "imageMobile": "public/assets/media/Bandwagon_2_OS_56_Streak_6864_Mobile_65100ecb16.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 981,
+      "videoId": "1869897441564369207",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/bandwagon-2/left.html",
+  "rightProse": "prose/missions/bandwagon-2/right.html"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Starlink Mission",
+  "date": "February 22, 2025",
+  "imageDesktop": "public/assets/media/Starlink_G15_1_OS_56_Streak_7255_Desktop_a95a5a8f36.jpg",
+  "imageMobile": "public/assets/media/Starlink_G15_1_OS_56_Streak_7255_Mobile_c720ee84f9.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 719,
+      "videoId": "1893001880420393142",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-15-1/left.html",
+  "rightProse": "prose/missions/sl-15-1/right.html"
+}

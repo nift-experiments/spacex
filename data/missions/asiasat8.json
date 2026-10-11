@@ -1,0 +1,31 @@
+{
+  "title": "AsiaSat 8 Mission",
+  "date": "August 05, 2014",
+  "imageDesktop": "public/assets/media/asiasat_8_streak_3_3ad86a6009.jpg",
+  "imageMobile": "public/assets/media/Asia_Sat8_Mobile_9dcf9d2fd5.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 614,
+      "videoId": "essrkMGlw5s",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/asiasat8/left.html",
+  "rightProse": "prose/missions/asiasat8/right.html"
+}

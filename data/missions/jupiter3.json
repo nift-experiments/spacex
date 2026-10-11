@@ -1,0 +1,31 @@
+{
+  "title": "Hughes JUPITER 3 Mission",
+  "date": "July 28, 2023",
+  "imageDesktop": "public/assets/media/Jup3_Echo24_VAB_DSC_5124_desktop_59c237f1c2.jpg",
+  "imageMobile": "public/assets/media/Jup3_Echo24_VAB_DSC_5124_mobile_01066c0041.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 727,
+      "videoId": "5ixbPMe6684",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/jupiter3/left.html",
+  "rightProse": "prose/missions/jupiter3/right.html"
+}

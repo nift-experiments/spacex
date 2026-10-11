@@ -1,0 +1,31 @@
+{
+  "title": "Starship's Seventh Flight Test",
+  "date": "January 16, 2025",
+  "imageDesktop": "public/assets/media/Flight_7_Website_Desktop_7_4afb3a9d9a.jpg",
+  "imageMobile": "public/assets/media/Flight_7_Website_Desktop_7_4afb3a9d9a.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 667,
+      "videoId": "1879288668101497144",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/starship-flight-7/left.html",
+  "rightProse": "prose/missions/starship-flight-7/right.html"
+}

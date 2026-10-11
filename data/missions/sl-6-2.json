@@ -1,0 +1,31 @@
+{
+  "title": "STARLINK MISSION",
+  "date": "April 19, 2023",
+  "imageDesktop": "public/assets/media/Starlink_6_2_DSC_5298_desktop_a40af88434.jpg",
+  "imageMobile": "public/assets/media/Starlink_6_2_DSC_5298_mobile_24a0169ea5.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "REWATCH",
+  "webcasts": [
+    {
+      "id": 317,
+      "videoId": "kpoMcjTvylk",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/sl-6-2/left.html",
+  "rightProse": "prose/missions/sl-6-2/right.html"
+}

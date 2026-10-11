@@ -1,0 +1,31 @@
+{
+  "title": "Eutelsat/ABS Mission",
+  "date": "June 15, 2016",
+  "imageDesktop": "public/assets/media/abseutelsat_desktop_24fb8a1602.jpg",
+  "imageMobile": "public/assets/media/abseutelsat_desktop_24fb8a1602.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 802,
+      "videoId": "gLNmtUEvI5A",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/eutelsatabs/left.html",
+  "rightProse": "prose/missions/eutelsatabs/right.html"
+}

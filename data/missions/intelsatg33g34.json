@@ -1,0 +1,31 @@
+{
+  "title": "Intelsat G-33/G-34 Mission",
+  "date": "October 08, 2022",
+  "imageDesktop": "public/assets/media/Desktop_homepage_8cb3cf93e5.jpg",
+  "imageMobile": "public/assets/media/Mobile_homepage_2608fee8c9.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 28,
+      "videoId": "mm_KatKutDY",
+      "streamingVideoType": "youtube",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/intelsatg33g34/left.html",
+  "rightProse": "prose/missions/intelsatg33g34/right.html"
+}

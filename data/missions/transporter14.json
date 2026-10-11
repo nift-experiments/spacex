@@ -1,0 +1,31 @@
+{
+  "title": "Transporter-14 Mission",
+  "date": "June 23, 2025",
+  "imageDesktop": "public/assets/media/Transporter_14_Streak_1042_Desktop_8d8b07e625.jpg",
+  "imageMobile": "public/assets/media/Transporter_14_Streak_Vert_1042_Mobile_ea191bae12.jpg",
+  "videoDesktop": "",
+  "videoMobile": "",
+  "cta": "Rewatch",
+  "webcasts": [
+    {
+      "id": 1295,
+      "videoId": "1936217821627007331",
+      "streamingVideoType": "x.com",
+      "title": "",
+      "date": null,
+      "isFeatured": null,
+      "imageDesktop": null,
+      "imageMobile": null
+    }
+  ],
+  "preTimeline": null,
+  "postTimeline": null,
+  "infographicDesktop": "",
+  "infographicMobile": "",
+  "gallery": [],
+  "astronauts": [],
+  "followDragonEnabled": false,
+  "vehicleTrackerEnabled": false,
+  "leftProse": "prose/missions/transporter14/left.html",
+  "rightProse": "prose/missions/transporter14/right.html"
+}
