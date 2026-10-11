@@ -1,0 +1,16 @@
+{
+  "route": "launches/starship-flight-14/",
+  "referenceEmbed": "https://studio.x.com/embed/broadcast/1qxvvenMPMQxB",
+  "authored": {
+    "sameEmbed": true,
+    "closeFocus": true,
+    "escapeReturnsFocus": true
+  },
+  "rendered": {
+    "sameEmbed": true,
+    "closeButtonReturnsFocus": true
+  },
+  "externalServiceMode": "Explicit offline preview CSP blocks frames, connections and form submission; no external playback claim",
+  "implementedMissionMetadataPages": 661,
+  "browserParityAccepted": false
+}

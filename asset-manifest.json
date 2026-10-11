@@ -13598,82 +13598,304 @@
   ],
   "parts": [
     {
-      "name": "assets-000.tar.part",
-      "bytes": 268435456,
-      "sha256": "cc79bfb3e5e08033e989842369afc17d36c3e9a58ba54ab32867e5f54e6ce6bf",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-000.tar.part"
+      "name": "assets-64m-000.tar.part",
+      "bytes": 67108864,
+      "sha256": "328ddcfe448a81829fe99a4a380b9f5a43828be29bf1107ea352c16773fa0ef6",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-000.tar.part"
     },
     {
-      "name": "assets-001.tar.part",
-      "bytes": 268435456,
-      "sha256": "23eaea0c751badc6103dee5bb4fbbd6f50a2e348721ed3e711f929394f8277e5",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-001.tar.part"
+      "name": "assets-64m-001.tar.part",
+      "bytes": 67108864,
+      "sha256": "85413d37adef1511f60630d7003ea903e4e022938ec2f39e7dbbf04232f7a249",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-001.tar.part"
     },
     {
-      "name": "assets-002.tar.part",
-      "bytes": 268435456,
-      "sha256": "300cbafbb874767dd24f14b757b0c69bca8a0644b6a6438c07edceb888c38e04",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-002.tar.part"
+      "name": "assets-64m-002.tar.part",
+      "bytes": 67108864,
+      "sha256": "492f920af1da96c246af6d529974c47d4ca5bb51fe13669f7cd305781cdff470",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-002.tar.part"
     },
     {
-      "name": "assets-003.tar.part",
-      "bytes": 268435456,
-      "sha256": "dbef28a42674c402a6f34a8cddbab97006274dfac1934f8c0269a6b35ed5e82a",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-003.tar.part"
+      "name": "assets-64m-003.tar.part",
+      "bytes": 67108864,
+      "sha256": "992e1e5b7bcd098712e6a6cb13a3e117922c806e8ea369c7063d4719bb8ef1de",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-003.tar.part"
     },
     {
-      "name": "assets-004.tar.part",
-      "bytes": 268435456,
-      "sha256": "17b3202e1cf217f7d01bef34fdc09a112045fd696eee929a51fb3d50e60b9074",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-004.tar.part"
+      "name": "assets-64m-004.tar.part",
+      "bytes": 67108864,
+      "sha256": "219710f1bdb0d63f627ba55e09707f4cb46c60e29a9bcb193aa6c0342457208a",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-004.tar.part"
     },
     {
-      "name": "assets-005.tar.part",
-      "bytes": 268435456,
-      "sha256": "4567f98a1549ab6ae8b083b1242a43ad500cff1f989d00f9947f854ab6310e5b",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-005.tar.part"
+      "name": "assets-64m-005.tar.part",
+      "bytes": 67108864,
+      "sha256": "472d31296a7cb449e06f4f31cba68d86a02354ecdc8a764e6ab3fea2006a9418",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-005.tar.part"
     },
     {
-      "name": "assets-006.tar.part",
-      "bytes": 268435456,
-      "sha256": "5d50b334d65ea6690d8e70bacd773f8f38f44a8e32e1e1bab2e6527daf1bb803",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-006.tar.part"
+      "name": "assets-64m-006.tar.part",
+      "bytes": 67108864,
+      "sha256": "a52242174874920018b5407e798361f584720bec0ab0820fa299f08395d2ca23",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-006.tar.part"
     },
     {
-      "name": "assets-007.tar.part",
-      "bytes": 268435456,
-      "sha256": "5c2140b8d6a09bbb426dc8b14b2b99b10b82f8dff6b181b061921f20fc0f7f85",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-007.tar.part"
+      "name": "assets-64m-007.tar.part",
+      "bytes": 67108864,
+      "sha256": "1171449c345af0afffb0db06e07642bcf012d2f20e57d2817bc88f4e66551f16",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-007.tar.part"
     },
     {
-      "name": "assets-008.tar.part",
-      "bytes": 268435456,
-      "sha256": "495ceb62d60a1e81e4d686daad6c486220b449606d83cbec322eb1da407274fd",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-008.tar.part"
+      "name": "assets-64m-008.tar.part",
+      "bytes": 67108864,
+      "sha256": "4acf2ccf60910c83099a793c36445f32f3a1ee4ed468aa52b4302c4e7b13d17b",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-008.tar.part"
     },
     {
-      "name": "assets-009.tar.part",
-      "bytes": 268435456,
-      "sha256": "bd7355950566359df1d33a85d632de6f6845fd1980df92886a503488ee0b0e05",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-009.tar.part"
+      "name": "assets-64m-009.tar.part",
+      "bytes": 67108864,
+      "sha256": "f33129b3787b8787a837b412e529718e8917b69b0c753536e30b3697403d5cb0",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-009.tar.part"
     },
     {
-      "name": "assets-010.tar.part",
-      "bytes": 268435456,
-      "sha256": "80c1a11c7a891e762c263eeece69291dcd67ccb8401314b76e036db7d271d46f",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-010.tar.part"
+      "name": "assets-64m-010.tar.part",
+      "bytes": 67108864,
+      "sha256": "8e1a54dbcb28e10ca87a8be675a8ab34d0a922b2e6f3c352d77dfc3b4e00feeb",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-010.tar.part"
     },
     {
-      "name": "assets-011.tar.part",
-      "bytes": 268435456,
-      "sha256": "4a43b97c00c0aa960405ca19632c80208678b3f086eb4b3ae08c66e67ce0713f",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-011.tar.part"
+      "name": "assets-64m-011.tar.part",
+      "bytes": 67108864,
+      "sha256": "14e95b319d2dfa6b77eb7970f747762ae7b8b78c2020492b49ce3aaa4dd1e903",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-011.tar.part"
     },
     {
-      "name": "assets-012.tar.part",
-      "bytes": 127817728,
-      "sha256": "117c8838548f642d44f1402a911330ffcb850c480d222d039003d3ae502f3ed0",
-      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-012.tar.part"
+      "name": "assets-64m-012.tar.part",
+      "bytes": 67108864,
+      "sha256": "281968049e3dc20355b62dba44cdc2a308c68df805619b33e1a78756c3b069c2",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-012.tar.part"
+    },
+    {
+      "name": "assets-64m-013.tar.part",
+      "bytes": 67108864,
+      "sha256": "e1c4b7905a16e2d5c43147c24a8ca9a09796f8ac4a1bc1d605ea6bb5772f19ae",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-013.tar.part"
+    },
+    {
+      "name": "assets-64m-014.tar.part",
+      "bytes": 67108864,
+      "sha256": "994a439711e657523fff20dbf9842e2056d8355dceb27aec51d942a7db371f0e",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-014.tar.part"
+    },
+    {
+      "name": "assets-64m-015.tar.part",
+      "bytes": 67108864,
+      "sha256": "55fb2164893aae8a4d778f9d961d6df9ff43da9ca77c2dd4edb423f0823e6c27",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-015.tar.part"
+    },
+    {
+      "name": "assets-64m-016.tar.part",
+      "bytes": 67108864,
+      "sha256": "d8e874f57e3e06ede2b28b68eb3fefe4404fcfc041304b7bc5ec54b87db8d118",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-016.tar.part"
+    },
+    {
+      "name": "assets-64m-017.tar.part",
+      "bytes": 67108864,
+      "sha256": "9635efd284ef6c739de86eebea6de05e4a04af97b7a814cec6b780a03cb7f84a",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-017.tar.part"
+    },
+    {
+      "name": "assets-64m-018.tar.part",
+      "bytes": 67108864,
+      "sha256": "584b721a0fa220e0a331c5ac3abad0b9a0f51f5b7226aa669a1f5766f276077f",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-018.tar.part"
+    },
+    {
+      "name": "assets-64m-019.tar.part",
+      "bytes": 67108864,
+      "sha256": "84533d926ec32da1ca6e74a4e9e24cad81ef3f05c658d5721dc8165d783ed038",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-019.tar.part"
+    },
+    {
+      "name": "assets-64m-020.tar.part",
+      "bytes": 67108864,
+      "sha256": "5931f4104cce7261af1c0315d57dbab7b522abf62ce400b461ea03f1ae31a628",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-020.tar.part"
+    },
+    {
+      "name": "assets-64m-021.tar.part",
+      "bytes": 67108864,
+      "sha256": "90b985a5bfc693f431b52db510215b6db8cc2b444fb1d88941ebacf236963940",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-021.tar.part"
+    },
+    {
+      "name": "assets-64m-022.tar.part",
+      "bytes": 67108864,
+      "sha256": "196dc38f8997cc5b0f9a69141047fa1c96401efa97c83fb59a52dc7b6eba3e3d",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-022.tar.part"
+    },
+    {
+      "name": "assets-64m-023.tar.part",
+      "bytes": 67108864,
+      "sha256": "f9e9e06ec44aec4690c79d0491729db7960eed4125b64623ef5c1bc2d7185351",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-023.tar.part"
+    },
+    {
+      "name": "assets-64m-024.tar.part",
+      "bytes": 67108864,
+      "sha256": "8f319d46062164bfcd0647274ac58f29efa973e1051d4dac726f5b08bb77961f",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-024.tar.part"
+    },
+    {
+      "name": "assets-64m-025.tar.part",
+      "bytes": 67108864,
+      "sha256": "534eb769575809c98526ecb3fe04222316baa85571e5a6b850ef2fc20721753a",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-025.tar.part"
+    },
+    {
+      "name": "assets-64m-026.tar.part",
+      "bytes": 67108864,
+      "sha256": "a2e9801d519317c6e0f206a310b255056621a1aacadfb561d807c3d590e37f7e",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-026.tar.part"
+    },
+    {
+      "name": "assets-64m-027.tar.part",
+      "bytes": 67108864,
+      "sha256": "3540d27aaeed6f75c724f613ca07d2e250980ebd7aeb38f378af2b30adc58101",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-027.tar.part"
+    },
+    {
+      "name": "assets-64m-028.tar.part",
+      "bytes": 67108864,
+      "sha256": "b0f79958d62b1c8536e677096d32fc0b30b204c43ff519fdb75b388b134e3ad6",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-028.tar.part"
+    },
+    {
+      "name": "assets-64m-029.tar.part",
+      "bytes": 67108864,
+      "sha256": "c398d66e1f0443818c03386b8f804f34ec82e5be611f9e0c8dafa35b7beb017f",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-029.tar.part"
+    },
+    {
+      "name": "assets-64m-030.tar.part",
+      "bytes": 67108864,
+      "sha256": "d78cc957da98bac3ebb04e483fa4acac1eaaca1951cbf949e1c18a5573bbd1ad",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-030.tar.part"
+    },
+    {
+      "name": "assets-64m-031.tar.part",
+      "bytes": 67108864,
+      "sha256": "db4491e2188bc18c4d1063dd1e5fc6aebd1671b2e0c7df2271d11e201a466e87",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-031.tar.part"
+    },
+    {
+      "name": "assets-64m-032.tar.part",
+      "bytes": 67108864,
+      "sha256": "c606944b83d1235b11f407b0749df2853f9bf7503c7930a90cee3c0c60046e5b",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-032.tar.part"
+    },
+    {
+      "name": "assets-64m-033.tar.part",
+      "bytes": 67108864,
+      "sha256": "207f9059f3c369b0ad15116a9187a5d4515a9cc8e6b03760d4e86991540bf5e7",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-033.tar.part"
+    },
+    {
+      "name": "assets-64m-034.tar.part",
+      "bytes": 67108864,
+      "sha256": "6cf969d3cd666bc3c7346145e8cc13897d1fd6340cd1ba2315647ce89b49b4c2",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-034.tar.part"
+    },
+    {
+      "name": "assets-64m-035.tar.part",
+      "bytes": 67108864,
+      "sha256": "fe6b61e1f404140026cd425c49ad1c15270d158af0956d3a08d4ba7c4f2b5d3e",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-035.tar.part"
+    },
+    {
+      "name": "assets-64m-036.tar.part",
+      "bytes": 67108864,
+      "sha256": "4695d064eb5b8a439144cba440a001a170a42e1c6b24fe6d02c4faec0ac12b8d",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-036.tar.part"
+    },
+    {
+      "name": "assets-64m-037.tar.part",
+      "bytes": 67108864,
+      "sha256": "06d8d6be143b19b59074dc8750ab912ee291bad44f81ded0c9959dda1774d872",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-037.tar.part"
+    },
+    {
+      "name": "assets-64m-038.tar.part",
+      "bytes": 67108864,
+      "sha256": "f6c17fb1c7b5906c17bd687eeea8f4baf0a39028ddb26d5e36a3c2c1950458f2",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-038.tar.part"
+    },
+    {
+      "name": "assets-64m-039.tar.part",
+      "bytes": 67108864,
+      "sha256": "bbe3d01cfd11792aaaa61f336adbe564533ca47a3e0a44074d568197f4517e10",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-039.tar.part"
+    },
+    {
+      "name": "assets-64m-040.tar.part",
+      "bytes": 67108864,
+      "sha256": "3ad81d6d3921916985bd1520fe53e7a19e0188ba3f8a7c429286aa44829c4344",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-040.tar.part"
+    },
+    {
+      "name": "assets-64m-041.tar.part",
+      "bytes": 67108864,
+      "sha256": "a5b9eb1874b73800683b983e0a5a501cb178a385dd15ac852c59942a7cbea93c",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-041.tar.part"
+    },
+    {
+      "name": "assets-64m-042.tar.part",
+      "bytes": 67108864,
+      "sha256": "3281659c27fec249115feffbba615db8da6e2e75a33408c1b9755231109ade61",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-042.tar.part"
+    },
+    {
+      "name": "assets-64m-043.tar.part",
+      "bytes": 67108864,
+      "sha256": "057233f1a5fbc129d8c06bfc1d897a708f85d57b88cf9faa33f39f159674a786",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-043.tar.part"
+    },
+    {
+      "name": "assets-64m-044.tar.part",
+      "bytes": 67108864,
+      "sha256": "cd97a66278692143d3f30f0087c180e1d5cd2f145b9feb44631ecb16dd0f5dd8",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-044.tar.part"
+    },
+    {
+      "name": "assets-64m-045.tar.part",
+      "bytes": 67108864,
+      "sha256": "9427835a3392678dffb69a7a35350151c11e68042c94217b9234bfdca1cc513b",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-045.tar.part"
+    },
+    {
+      "name": "assets-64m-046.tar.part",
+      "bytes": 67108864,
+      "sha256": "dc93de8ad3a37864ebaee4480b2b6f33022dff60ca0e80ef7be3154ea589186f",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-046.tar.part"
+    },
+    {
+      "name": "assets-64m-047.tar.part",
+      "bytes": 67108864,
+      "sha256": "b5273bd5c788ce67e1a1c59f533d1c2cf9faffb65d474e950d0214db04c8099e",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-047.tar.part"
+    },
+    {
+      "name": "assets-64m-048.tar.part",
+      "bytes": 67108864,
+      "sha256": "9670b28e9dda202b374f39e919e515b7ab76a550a27cc231648cd8cef3feb9dd",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-048.tar.part"
+    },
+    {
+      "name": "assets-64m-049.tar.part",
+      "bytes": 60708864,
+      "sha256": "a58b1d987cb156adea0aa7902b91a4ac991219b6cbc4e48699332b89eec6df0b",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-assets-422bec034f684306/assets-64m-049.tar.part"
     }
   ]
 }

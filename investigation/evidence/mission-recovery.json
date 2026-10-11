@@ -6463,6 +6463,24 @@
       "openFeatures": [
         "webcast playback"
       ]
+    },
+    {
+      "route": "/launches/starship-sn6",
+      "name": "launches/starship-sn6/",
+      "title": "SpaceX - Starship Test - SN6",
+      "sourceSha256": "40a24e352a209a8115f0315e95382ace746a5b73fb1e7a1067d5771040c83c1e",
+      "openFeatures": [
+        "webcast playback"
+      ]
+    },
+    {
+      "route": "/launches/echostar105-ses11 ",
+      "name": "launches/echostar105-ses11 /",
+      "title": "SpaceX - EchoStar 105 / SES-11 Mission ",
+      "sourceSha256": "ffbb868947088f1ba4975422a5d31537f406aba1a5f8f466deea3d5b33a4e91c",
+      "openFeatures": [
+        "webcast playback"
+      ]
     }
   ],
   "gaps": [

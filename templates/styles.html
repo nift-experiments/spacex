@@ -1371,7 +1371,7 @@ to{
   padding-top:24px;
   padding-bottom:0
 }
-.sx-header ..sx-upcoming{
+.sx-header .upcoming-launch-widget{
   margin-top:20px
 }
 .sx-header .pull-right{
@@ -1468,7 +1468,7 @@ to{
 }
 }
 /* Recovered public .sx-upcoming presentation. */
-.sx-upcoming ..sx-upcoming{
+.sx-upcoming .upcoming-launch-widget{
   --countdown-digit-width: 8px;
   text-wrap:nowrap;
   display:inline-flex;
@@ -1482,20 +1482,20 @@ to{
   padding-right:10px;
   line-height:1.7
 }
-.sx-upcoming ..sx-upcoming:hover   .card-container{
+.sx-upcoming .upcoming-launch-widget:hover   .card-container{
   pointer-events:all;
   left:0;
   visibility:visible;
   opacity:1
 }
-.sx-upcoming ..sx-upcoming:hover   .time{
+.sx-upcoming .upcoming-launch-widget:hover   .time{
   visibility:hidden;
   width:0
 }
-.sx-upcoming ..sx-upcoming:hover   .hidden{
+.sx-upcoming .upcoming-launch-widget:hover   .hidden{
   visibility:visible
 }
-.sx-upcoming ..sx-upcoming:hover   .arrow{
+.sx-upcoming .upcoming-launch-widget:hover   .arrow{
   visibility:visible;
   width:8rem
 }
@@ -1596,13 +1596,13 @@ to{
 }
 }
 \@media (max-width: 1279px){
-.sx-upcoming ..sx-upcoming{
+.sx-upcoming .upcoming-launch-widget{
   display:block;
   padding:30px 12px 16px 16px;
   border:none;
   height:auto
 }
-.sx-upcoming ..sx-upcoming   .title{
+.sx-upcoming .upcoming-launch-widget   .title{
   font-size:1.125rem;
   margin-top:32px;
   color:var(--white-80);
@@ -1756,4 +1756,14 @@ body.menu-open{
 }
 }
 
+.sx-header .down-arrow-icon svg{display:none}
+.sx-header .sub-menu{visibility:hidden;pointer-events:none}
+.sx-header .sub-menu.open{visibility:visible;pointer-events:all}
+\@media(max-width:1279px){
+.sx-header .header:not(.menu-open) .nav-links,.sx-header .header:not(.menu-open) .sx-upcoming{display:none}
+.sx-header .down-arrow-icon svg{display:block}
+}
+.homepage-upcoming{display:none}
+\@media(max-width:961px){.homepage-upcoming{display:inline}.featured-mission .countdown{display:none}.sx-section .buttons .sx-button a{margin-top:10px!important}}
+[hidden]{display:none!important}
 </style>

@@ -1,0 +1,4 @@
+@if(mission.webcasts){
+<template class="mission-webcasts">@for(webcast : mission.webcasts){<span data-video-id="$[webcast.videoId]" data-video-type="$[webcast.streamingVideoType]" data-featured="$[webcast.isFeatured]"></span>}</template>
+<div class="video-overlay" role="dialog" aria-modal="true" aria-label="Mission webcast" aria-hidden="true"><div class="actions"><button type="button" class="mission-video-close" aria-label="Close webcast"><svg width="24" height="24" viewBox="0 -960 960 960" fill="#e8eaed" aria-hidden="true"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"></path></svg></button></div></div>
+}

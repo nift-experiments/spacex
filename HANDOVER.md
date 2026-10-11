@@ -327,3 +327,17 @@ Current implementation: homepage plus 710 mission pages built in both source mod
 ### Current route and media checkpoint
 
 Both registries contain 806 page/redirect outputs and 89 HLS outputs. Native forms use declarative shadow DOM recovered from the public open shadow roots; private submissions remain outside the reproduction contract. Browser parity is still open. Media playback/quality/download controls are implemented; playlists preserve the authored JSON versus maintained HTML distinction. See STATUS.md for the remaining closure work.
+
+### Legacy-route and navigation checkpoint
+
+Both projects now build 828 page/redirect outputs plus 89 HLS manifests (917 tracked outputs). This includes 711 real missions, the new Starship SN6 source, and 21 legacy destinations reconciled against public behavior. All 805 initial unique route paths have maintained outputs. The 34,500-reference audit leaves two inherited public-source defects, documented in investigation/evidence/inherited-source-defects.json; these are not claims of complete browser parity.
+
+Upcoming-launch cards now use the frozen future-mission ordering and pad images. Desktop heading/header geometry matches the captured reference; representative native keyboard dropdown open/Escape behavior passes. Responsive testing remains open because the browser viewport override did not change the actual viewport. Shared asset release upload is being retried serially after GitHub timed out; do not claim clean-network asset setup until all 13 parts are verified remotely.
+
+### Complete launch-table and webcast controller checkpoint
+
+There are now 829 page/redirect outputs and 89 HLS manifests (918 tracked outputs), including 712 real mission pages. EchoStar 105 / SES-11 requires its original trailing-space ID: exact API ID returns 200, trimmed ID returns 404. All 729 completed launch records are represented, with local search/filter/pagination and native route paths. Representative authored next-page, page-size, text search and category filtering pass; Starship search matches the frozen reference (20 results). Rendered launch-table checks are still being completed.
+
+Webcast controllers cover maintained metadata for 661 mission pages; representative authored/rendered Flight 14 opening, canonical external embed URL and dismissal/focus checks pass in explicit offline-service previews. No external service success is fabricated. Mobile header checks now run in the selected 390×844 tab. The mobile homepage alignment and missing upcoming block are corrected; final viewport/pixel parity remains open.
+
+Asset transport is now 50 parts of at most 64 MiB, with unchanged content identity and publication bytes. The smaller-part upload is in progress; clean-network setup is not yet accepted.

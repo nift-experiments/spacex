@@ -1,0 +1,26 @@
+{
+  "scope": "representative desktop keyboard navigation",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "checks": {
+    "vehiclesEnterOpens": true,
+    "expandedLinks": [
+      "Starship",
+      "Dragon",
+      "Falcon 9",
+      "Falcon Heavy"
+    ],
+    "submenuHeight": 130.1875,
+    "escapeCloses": true
+  },
+  "responsiveQualification": "Viewport override affected the selected tab only. Verified agent tab actual innerWidth=390 and innerHeight=844; mobile open/submenu/Escape passes. Desktop and mobile reference comparisons remain separately scoped.",
+  "mobileChecks": {
+    "width": 390,
+    "height": 844,
+    "menuOpen": true,
+    "vehicleSubmenuLinks": 4,
+    "escapeClosesNavigation": true
+  }
+}

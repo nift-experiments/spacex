@@ -10,4 +10,5 @@
 @if(mission.infographicDesktop){<div class="launch-infographic"><picture><source media="(max-width:961px)" srcset="@path('$[mission.infographicMobile]')"><img loading="lazy" src="@path('$[mission.infographicDesktop]')" alt=""></picture></div>}
 @if(mission.postTimeline){@input('templates/post-timeline.html')}
 @if(mission.gallery){<div class="mission-gallery">@for(photo : mission.gallery){@if(photo.desktop){<figure><picture><source media="(max-width:961px)" srcset="@path('$[photo.mobile]')"><img loading="lazy" src="@path('$[photo.desktop]')" alt=""></picture><figcaption>$[photo.caption]</figcaption></figure>}}</div>}
+@input('templates/mission-webcasts.html')
 </article>

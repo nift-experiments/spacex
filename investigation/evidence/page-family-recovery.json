@@ -868,20 +868,6 @@
     ]
   },
   {
-    "route": "/vehicles",
-    "capture": "vehicles.1280x720.55da3d0e37c7.json",
-    "captureSha256": "55da3d0e37c71d2fe3755ad391ad5fc7f48b55b5b849da4ecc18af87ec8f1fea",
-    "ownedAssets": 15,
-    "parityAccepted": false,
-    "openItems": [
-      "responsive geometry",
-      "carousels and tabs",
-      "media controls",
-      "animated statistics",
-      "link and asset closure"
-    ]
-  },
-  {
     "route": "/humanspaceflight/submit/confirmation",
     "capture": "humanspaceflight-submit-confirmation.1280x720.71e4535859c8.json",
     "captureSha256": "71e4535859c8d4f1b43d9ef5d3f33c2fed64a38c7f42fe0274153f99cccad8b6",
@@ -928,6 +914,20 @@
     "capture": "supplier-submit.1280x720.613d7a1446b0.json",
     "captureSha256": "613d7a1446b0c3948f739d49f7a249da569d2dc109c6e867484040ef4887001c",
     "ownedAssets": 146,
+    "parityAccepted": false,
+    "openItems": [
+      "responsive geometry",
+      "carousels and tabs",
+      "media controls",
+      "animated statistics",
+      "link and asset closure"
+    ]
+  },
+  {
+    "route": "/vehicles",
+    "capture": "vehicles.1280x720.55da3d0e37c7.json",
+    "captureSha256": "55da3d0e37c71d2fe3755ad391ad5fc7f48b55b5b849da4ecc18af87ec8f1fea",
+    "ownedAssets": 15,
     "parityAccepted": false,
     "openItems": [
       "responsive geometry",

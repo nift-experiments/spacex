@@ -19,7 +19,7 @@
       "desktopVideo": "public/assets/media/Mars_Rotation_Web_HB_d96299f9de.mp4",
       "mobileVideo": "public/assets/media/Mobile_v4_HB_e1d2eda88f.mp4",
       "cta": "EXPLORE",
-      "link": "public/humanspaceflight/mars/",
+      "link": "humanspaceflight/mars/",
       "external": false,
       "newTab": false,
       "id": "section-0"
@@ -35,7 +35,7 @@
       "desktopVideo": "",
       "mobileVideo": "",
       "cta": "LEARN MORE",
-      "link": "public/vehicles/starship/",
+      "link": "vehicles/starship/",
       "external": false,
       "newTab": false,
       "id": "section-1"
@@ -51,7 +51,7 @@
       "desktopVideo": "public/assets/media/Space_X_Falcon_Heavy_UAS_Landing_DESKTOP_compress_b4568daf9c_5e2026727a.mp4",
       "mobileVideo": "public/assets/media/Leading_Launch_Service_Mobile_02email_c06f4154a8.mp4",
       "cta": "RESERVE YOUR RIDE",
-      "link": "public/rideshare/",
+      "link": "rideshare/",
       "external": false,
       "newTab": false,
       "id": "section-2"
@@ -67,7 +67,7 @@
       "desktopVideo": "",
       "mobileVideo": "",
       "cta": "JOIN A MISSION",
-      "link": "public/humanspaceflight/",
+      "link": "humanspaceflight/",
       "external": false,
       "newTab": false,
       "id": "section-4"
@@ -99,7 +99,7 @@
       "desktopVideo": "",
       "mobileVideo": "",
       "cta": "STARMIND",
-      "link": "public/spacexai/starmind/",
+      "link": "spacexai/starmind/",
       "external": false,
       "newTab": false,
       "id": "section-6"

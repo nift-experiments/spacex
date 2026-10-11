@@ -7,21 +7,34 @@ toggle.addEventListener('click', () => {
   header.classList.toggle('menu-open', open);
   document.body.classList.toggle('menu-open', open);
 });
-for (const trigger of header.querySelectorAll('.sub-menu-header')) {
-  const change = () => {
-    const open = trigger.getAttribute('aria-expanded') !== 'true';
-    trigger.setAttribute('aria-expanded', String(open));
-    trigger.parentElement.classList.toggle('submenu-open', open);
-  };
+const submenuTriggers = [...header.querySelectorAll('.sub-menu-header')];
+const backdrop = header.querySelector('.menu-backdrop');
+const setSubmenu = (trigger, open) => {
+  trigger.setAttribute('aria-expanded', String(open));
+  trigger.parentElement.classList.toggle('submenu-open', open);
+  trigger.parentElement.querySelector('.sub-menu').classList.toggle('open', open);
+  trigger.querySelector('.down-arrow-icon').classList.toggle('open', open);
+  backdrop.classList.toggle('open', submenuTriggers.some(item => item.getAttribute('aria-expanded') === 'true'));
+};
+for (const trigger of submenuTriggers) {
+  const change = () => setSubmenu(trigger, trigger.getAttribute('aria-expanded') !== 'true');
   trigger.addEventListener('click', change);
   trigger.addEventListener('keydown', event => {
     if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); change(); }
   });
+  trigger.parentElement.addEventListener('mouseenter', () => {
+    if (matchMedia('(min-width:1280px)').matches) setSubmenu(trigger, true);
+  });
+  trigger.parentElement.addEventListener('mouseleave', () => {
+    if (matchMedia('(min-width:1280px)').matches) setSubmenu(trigger, false);
+  });
 }
 document.addEventListener('keydown', event => {
-  if (event.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') {
-    toggle.click(); toggle.focus();
-  }
+  if (event.key !== 'Escape') return;
+  const expanded = submenuTriggers.find(item => item.getAttribute('aria-expanded') === 'true');
+  submenuTriggers.forEach(item => setSubmenu(item, false));
+  if (toggle.getAttribute('aria-expanded') === 'true') { toggle.click(); toggle.focus(); }
+  else expanded?.focus();
 });
 if (matchMedia('(max-width:961px)').matches) {
   for (const video of document.querySelectorAll('video[data-mobile]')) {
@@ -57,8 +70,8 @@ for (const carousel of document.querySelectorAll('.sx-carousel')) {
   const wrapper = carousel.querySelector(':scope > .swiper-wrapper');
   const slides = Array.from(wrapper.children);
   const family = carousel.closest('[data-sx-host]');
-  const previous = family?.querySelector('.swiper-previous');
-  const next = family?.querySelector('.swiper-next');
+  const previous = family?.querySelector('.swiper-previous') || family?.querySelector('.swiper-controls button:first-child');
+  const next = family?.querySelector('.swiper-next') || family?.querySelector('.swiper-controls button:nth-child(2)');
   let index = 0;
   const gap = Number(carousel.dataset.carouselGap) || 0;
   carousel.style.setProperty('--sx-carousel-gap', gap + 'px');
@@ -91,3 +104,14 @@ for (const carousel of document.querySelectorAll('.sx-carousel')) {
   new ResizeObserver(() => show(index)).observe(carousel);
   show(0);
 }
+
+// Public homepage changes its text alignment at the mobile breakpoint.
+const homepageBreakpoint = matchMedia('(max-width:961px)');
+const alignHomepage = () => {
+  for (const block of document.querySelectorAll('[data-desktop-alignment]')) {
+    block.classList.remove(block.dataset.desktopAlignment, 'inner-left-bottom');
+    block.classList.add(homepageBreakpoint.matches ? 'inner-left-bottom' : block.dataset.desktopAlignment);
+  }
+};
+homepageBreakpoint.addEventListener('change', alignHomepage);
+alignHomepage();

@@ -1,0 +1,146 @@
+[
+  {
+    "route": "launches/crew-1-docks-to-iss/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/crew-1-returns-to-earth/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/crew-2-mission/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/crew-2-return/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/crew-3/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/crew-demo-2-mission/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/crew-demo-2-mission-update-5-30-2020/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/crew-dragon-launch-escape-demonstration/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/mission/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/return-human-spaceflight-america-08-02-2020/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/sl4-7/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/starlink-mission-10-24-2020/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/starship-150m-hop/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/starship-sn10-flight-test/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/starship-sn11-flight-test/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/starship-sn15-flight-test/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/starship-sn8-takes-flight/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "launches/starship-sn9-flight-test/",
+    "kind": "redirect",
+    "target": "launches/",
+    "basis": "Captured public mission API 404 and delivered mission error redirect; representative crew-3 browser redirect verified",
+    "responseSha256": "6d304fd7558be1037f05e0aa5ce9a103729bf5e64147830f988e0eb46d6737bf"
+  },
+  {
+    "route": "updates/nasa-certification-11-10-2020/",
+    "kind": "page-alias",
+    "target": "updates/",
+    "basis": "Delivered wildcard family renders existing page at the legacy URL; updates and news representative browser states verified"
+  },
+  {
+    "route": "news/2020/01/19/crew-dragon-launch-escape-demonstration/",
+    "kind": "page-alias",
+    "target": "/",
+    "basis": "Delivered wildcard family renders existing page at the legacy URL; updates and news representative browser states verified"
+  },
+  {
+    "route": "crew-dragon-launch-escape-demonstration/",
+    "kind": "page-alias",
+    "target": "/",
+    "basis": "Delivered wildcard family renders existing page at the legacy URL; updates and news representative browser states verified"
+  }
+]

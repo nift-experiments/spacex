@@ -4629,11 +4629,6 @@
       "template": "templates/template.html"
     },
     {
-      "name": "vehicles/",
-      "title": "SpaceX - Dragon",
-      "template": "templates/template.html"
-    },
-    {
       "name": "humanspaceflight/submit/confirmation/",
       "title": "SpaceX",
       "template": "templates/template.html"
@@ -4651,6 +4646,126 @@
     {
       "name": "supplier/submit/",
       "title": "SpaceX",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/starship-sn6/",
+      "title": "SpaceX - Starship Test - SN6",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/crew-1-docks-to-iss/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/crew-1-returns-to-earth/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/crew-2-mission/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/crew-2-return/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/crew-3/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/crew-demo-2-mission/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/crew-demo-2-mission-update-5-30-2020/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/crew-dragon-launch-escape-demonstration/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/mission/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/return-human-spaceflight-america-08-02-2020/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/sl4-7/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/starlink-mission-10-24-2020/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/starship-150m-hop/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/starship-sn10-flight-test/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/starship-sn11-flight-test/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/starship-sn15-flight-test/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/starship-sn8-takes-flight/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "launches/starship-sn9-flight-test/",
+      "title": "SpaceX",
+      "template": "templates/raw.html"
+    },
+    {
+      "name": "updates/nasa-certification-11-10-2020/",
+      "title": "SpaceX - Updates",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "news/2020/01/19/crew-dragon-launch-escape-demonstration/",
+      "title": "SpaceX",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "crew-dragon-launch-escape-demonstration/",
+      "title": "SpaceX",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "vehicles/",
+      "title": "SpaceX - Dragon",
+      "template": "templates/template.html"
+    },
+    {
+      "name": "launches/echostar105-ses11 /",
+      "title": "SpaceX - EchoStar 105 / SES-11 Mission ",
       "template": "templates/template.html"
     }
   ]

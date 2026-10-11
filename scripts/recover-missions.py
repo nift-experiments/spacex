@@ -4,15 +4,19 @@ Authored pages retain compact structured data and editable prose partials.
 from pathlib import Path
 from urllib.parse import urlsplit
 from datetime import date
-import json,shutil,hashlib,re,html
+import json,shutil,hashlib,re,html,argparse
 W=Path(__file__).resolve().parents[2];B=W/'spacex-baseline';H=W/'spacex';A=W/'spacex-agent';source=B/'capture/content.spacex.com/api/spacex-website'
 launches=json.loads((source/'launches-page-tiles/index.html').read_text())+json.loads((source/'launches-page-tiles/upcoming/index.html').read_text());dates={x['link']:x.get('launchDate') for x in launches}
+options=argparse.ArgumentParser(description=__doc__)
+options.add_argument('--missions',nargs='+')
+options.add_argument('--asset-dir',default='public/assets/media')
+args=options.parse_args()
 assets={};gaps=[];recovered=[]
 def asset(value):
  if not value:return ''
  u=urlsplit(value['url']);p=B/'capture'/u.netloc/u.path.lstrip('/');receipt=Path(str(p)+'.receipt.json')
  if not p.is_file() or (receipt.exists() and not json.loads(receipt.read_text()).get('transferComplete')):raise FileNotFoundError(value['url'])
- target='public/assets/media/'+Path(u.path).name
+ target=args.asset_dir.rstrip('/')+'/'+Path(u.path).name
  for root in [H,A]:
   output=root/target;output.parent.mkdir(parents=True,exist_ok=True)
   if output.exists() and hashlib.sha256(output.read_bytes()).digest()!=hashlib.sha256(p.read_bytes()).digest():raise ValueError('asset filename collision '+target)
@@ -23,11 +27,14 @@ def asset(value):
 def prose(text):
  def internal(m):
   url=m.group(2)
+  parsed=urlsplit(url)
+  if parsed.netloc in ('www.spacex.com','spacex.com'):url=parsed.path+('?' + parsed.query if parsed.query else '')+('#'+parsed.fragment if parsed.fragment else '')
   if not url.startswith('/') or url.startswith('//'):return m.group(0)
   target,sep,fragment=url.partition('#');name=target.strip('/')+'/' if target!='/' else '/'
-  return m.group(1)+'="@path(\''+name+'\')"'+(('#'+fragment) if sep else '')
+  return m.group(1)+'="@path(\''+name+'\')'+(('#'+fragment) if sep else '')+'"'
  return re.sub(r'(href)="([^"]*)"',internal,text)
 for path in sorted((source/'missions').glob('*/index.html')):
+ if args.missions and path.parent.name not in args.missions:continue
  original=json.loads(path.read_text());key=original.get('missionId')
  if not key:
   gaps.append({'route':'/launches/'+path.parent.name,'class':'inherited API failure','status':404});continue
@@ -51,6 +58,11 @@ for root in [H,A]:
  p=root/'.nift/tracked.json';tracked=json.loads(p.read_text());lookup={x['name']:x for x in tracked['tracked']}
  for row in recovered:lookup.setdefault(row['name'],{'name':row['name'],'title':row['title'],'template':'templates/template.html'})['title']=row['title']
  tracked['tracked']=list(lookup.values());p.write_text(json.dumps(tracked,indent=2)+'\n')
- (root/'investigation/evidence/mission-recovery.json').write_text(json.dumps({'scope':'generated source coverage; not accepted browser parity','recovered':recovered,'gaps':gaps},indent=2)+'\n')
-(B/'mission-owned-assets.json').write_text(json.dumps(assets,indent=2)+'\n')
+ ledger=root/'investigation/evidence/mission-recovery.json'
+ prior=json.loads(ledger.read_text()) if args.missions and ledger.exists() else {'recovered':[],'gaps':[]}
+ replaced={'/launches/'+key for key in args.missions or []}
+ ledger.write_text(json.dumps({'scope':'generated source coverage; not accepted browser parity','recovered':[x for x in prior['recovered'] if x['route'] not in replaced]+recovered,'gaps':[x for x in prior['gaps'] if x['route'] not in replaced]+gaps},indent=2)+'\n')
+asset_ledger=B/'mission-owned-assets.json'
+prior_assets=json.loads(asset_ledger.read_text()) if args.missions and asset_ledger.exists() else {}
+asset_ledger.write_text(json.dumps({**prior_assets,**assets},indent=2)+'\n')
 print('Authored mission source recovered',len(recovered),'gaps',len(gaps),'distinct maintained assets',len(assets),flush=True)

@@ -1,0 +1,20 @@
+{
+  "classification": "inherited-public-source-defects",
+  "exceptions": [
+    {
+      "route": "launches/demosat/",
+      "role": "href",
+      "reason": "Public CMS prose contains a curly opening quote in the DemoSat patch href; retained verbatim.",
+      "reference": "capture/content.spacex.com/api/spacex-website/missions/demosat/index.html",
+      "sha256": "59fb3110e6ff77c771f5aa67129d6bafcb05c3419b798a6bcf90e3ef67d98057"
+    },
+    {
+      "route": "humanspaceflight/earth/",
+      "role": "iframe src",
+      "reason": "Captured public video overlay has literal src=undefined. This is an unavailable embed, not a missing image or a locally preserved media asset.",
+      "reference": "browser-captures/humanspaceflight-earth.1280x720.1673f8e9707f.json",
+      "sha256": "1673f8e9707f8bfff1e5c0462754f28300f0738c95b64bca3105eeb03c77dc87"
+    }
+  ],
+  "browserParityAccepted": false
+}

@@ -1,5 +1,6 @@
 from pathlib import Path
 import hashlib,json,tarfile
+PART_BYTES=64*1024*1024
 W=Path(__file__).resolve().parents[2];P=Path(__file__).resolve().parents[1];rows=[];objects={}
 def digest(path):
  h=hashlib.sha256()
@@ -18,10 +19,10 @@ class Parts:
  def write(self,data):
   total=len(data)
   while data:
-   if not self.stream or self.size==256*1024*1024:
+   if not self.stream or self.size==PART_BYTES:
     if self.stream:self.stream.close()
-    path=out/f'assets-{self.number:03d}.tar.part';self.number+=1;self.paths.append(path);self.stream=path.open('wb');self.size=0
-   n=min(len(data),256*1024*1024-self.size);self.stream.write(data[:n]);self.size+=n;data=data[n:]
+    path=out/f'assets-64m-{self.number:03d}.tar.part';self.number+=1;self.paths.append(path);self.stream=path.open('wb');self.size=0
+   n=min(len(data),PART_BYTES-self.size);self.stream.write(data[:n]);self.size+=n;data=data[n:]
   return total
  def close(self):
   if self.stream:self.stream.close()

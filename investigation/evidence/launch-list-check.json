@@ -1,0 +1,18 @@
+{
+  "maintainedCompletedRows": 729,
+  "referenceStarshipSearch": "1-10 OF 20",
+  "authored": {
+    "default": "1-10 OF 729",
+    "next": "11-20 OF 729",
+    "starshipSearch": "1-10 OF 20",
+    "pageSize25": "1-20 OF 20",
+    "starshipCategory": "1-10 OF 20"
+  },
+  "rendered": {
+    "viewportWidth": 390,
+    "starshipSearch": "1-10 OF 20",
+    "next": "11-20 OF 20",
+    "visibleRows": 10
+  },
+  "browserParityAccepted": false
+}

@@ -5,7 +5,7 @@ does not implement Angular or accept captured interactions as working parity.
 """
 from pathlib import Path
 from urllib.parse import urlsplit, unquote
-import hashlib, json, re, shutil, argparse
+import hashlib, json, re, shutil, argparse, posixpath
 from bs4 import BeautifulSoup, Comment
 
 W = Path(__file__).resolve().parents[2]
@@ -60,6 +60,7 @@ for capture in sorted(value[1] for value in latest.values()):
         'vehicles/falcon-heavy': ('falcon-heavy-stats', ['totalLaunches', 'totalLandings', 'totalReflights']),
         'vehicles/dragon': ('dragon-stats', ['totalLaunches', 'totalIssVisits', 'totalReflights']),
     }
+    statistics['vehicles'] = statistics['vehicles/dragon']
     statistic_source = statistics.get(route)
     statistics_data = None
     if statistic_source:
@@ -127,7 +128,7 @@ for capture in sorted(value[1] for value in latest.values()):
             if parsed.scheme:
                 return value
             host = 'www.spacex.com'
-            path = '/' + path.lstrip('/')
+            path = posixpath.normpath('/' + path.lstrip('/'))
         source = R / 'capture' / host / path.lstrip('/')
         if source.is_file() and (path.startswith(('/assets/', '/cms-assets/', '/site-media/')) or Path(path).suffix.lower() in ('.woff', '.woff2', '.ttf', '.otf', '.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg', '.ico', '.pdf', '.mp4', '.m3u8', '.ts', '.m4s', '.aac', '.mp3')):
             receipt = Path(str(source) + '.receipt.json')

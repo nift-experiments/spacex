@@ -1,12 +1,48 @@
 {
-  "sourceBackedPagesAndRedirects": 806,
+  "documentedInheritedSourceDefects": [
+    {
+      "route": "launches/demosat/",
+      "role": "href",
+      "url": "\u201chttps://sxcontent9668.azureedge.us/cms-assets/assets/F_1_Demo_2_patch_0c30259c20.png\""
+    },
+    {
+      "route": "humanspaceflight/earth/",
+      "role": "src",
+      "url": "../../undefined/"
+    }
+  ],
+  "unclassifiedMissingReferences": [],
+  "sourceBackedPagesAndRedirects": 829,
   "hlsManifests": 89,
   "uniqueReferenceRoutes": 805,
   "missingRoutes": [],
   "additionalRoutes": [
-    "/humanspaceflight/overview"
+    "/crew-dragon-launch-escape-demonstration",
+    "/humanspaceflight/overview",
+    "/launches/crew-1-docks-to-iss",
+    "/launches/crew-1-returns-to-earth",
+    "/launches/crew-2-mission",
+    "/launches/crew-2-return",
+    "/launches/crew-3",
+    "/launches/crew-demo-2-mission",
+    "/launches/crew-demo-2-mission-update-5-30-2020",
+    "/launches/crew-dragon-launch-escape-demonstration",
+    "/launches/echostar105-ses11 ",
+    "/launches/mission",
+    "/launches/return-human-spaceflight-america-08-02-2020",
+    "/launches/sl4-7",
+    "/launches/starlink-mission-10-24-2020",
+    "/launches/starship-150m-hop",
+    "/launches/starship-sn10-flight-test",
+    "/launches/starship-sn11-flight-test",
+    "/launches/starship-sn15-flight-test",
+    "/launches/starship-sn6",
+    "/launches/starship-sn8-takes-flight",
+    "/launches/starship-sn9-flight-test",
+    "/news/2020/01/19/crew-dragon-launch-escape-demonstration",
+    "/updates/nasa-certification-11-10-2020"
   ],
-  "localReferencesChecked": 34111,
+  "localReferencesChecked": 36850,
   "missingLocalReferences": [
     {
       "route": "launches/demosat/",
@@ -14,149 +50,9 @@
       "url": "\u201chttps://sxcontent9668.azureedge.us/cms-assets/assets/F_1_Demo_2_patch_0c30259c20.png\""
     },
     {
-      "route": "launches/transporter17/",
-      "role": "href",
-      "url": "../../rideshare/index/"
-    },
-    {
-      "route": "launches/transporter18/",
-      "role": "href",
-      "url": "../../rideshare/index/"
-    },
-    {
-      "route": "content/starship-flight-tests/sn6/",
-      "role": "href",
-      "url": "../../../launches/starship-sn6/"
-    },
-    {
       "route": "humanspaceflight/earth/",
       "role": "src",
       "url": "../../undefined/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/mission/?missionId=starship-flight-test"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/mission/?missionId=starship-flight-2"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/mission/?missionId=starship-flight-3"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/mission/?missionId=starship-flight-4"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/mission/?missionId=sl-9-3"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/sl4-7/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/crew-3/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/crew-2-return/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/starship-sn15-flight-test/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/crew-1-returns-to-earth/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/crew-2-mission/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/starship-sn11-flight-test/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/starship-sn10-flight-test/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/starship-sn9-flight-test/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/starship-sn8-takes-flight/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/crew-1-docks-to-iss/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "nasa-certification-11-10-2020/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/starlink-mission-10-24-2020/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/starship-150m-hop/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/return-human-spaceflight-america-08-02-2020/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/crew-demo-2-mission-update-5-30-2020/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/crew-demo-2-mission/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../../crew-dragon-launch-escape-demonstration/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../news/2020/01/19/crew-dragon-launch-escape-demonstration/"
-    },
-    {
-      "route": "updates/",
-      "role": "href",
-      "url": "../launches/crew-dragon-launch-escape-demonstration/"
     }
   ],
   "browserParityAccepted": false
