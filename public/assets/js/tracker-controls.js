@@ -31,14 +31,14 @@ if (trackerHost) {
         button = document.createElement('a');
         button.className = 'spx-button thin'; button.dataset.sx = 'spx-button'; button.dataset.vehicleId = id;
         button.tabIndex = 0; button.setAttribute('role', 'button');
-        button.style.paddingLeft = '12px'; button.style.paddingRight = '12px'; button.style.marginTop = '0';
+        button.style.paddingLeft = '12px'; button.style.paddingRight = '12px'; button.style.marginTop = '30px';
         const text = document.createElement('div'); text.className = 'text'; text.dataset.sx = 'spx-button'; text.textContent = displayName(id);
         button.append(text); owner.append(button); container.append(owner);
         button.addEventListener('click', () => select(id));
         button.addEventListener('keydown', event => {if (event.key === 'Enter' || event.key === ' ') {event.preventDefault(); select(id);}});
       }
       const selected = id === window.featuredVehicle;
-      button.classList.toggle('selected', selected); button.setAttribute('aria-pressed', String(selected));
+      button.setAttribute('aria-selected', String(selected)); button.setAttribute('aria-pressed', String(selected));
     }
   };
   window.onTrackerUpdate = update;

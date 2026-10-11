@@ -1,0 +1,48 @@
+{
+  "sourceAppRootModule": "main.38aaaafc31bc4ec8.js",
+  "sourceAppRootSha256": "e8748c9d512f76be7677c7074987010e9f71e04c11fda41c198b83f6972b72bf",
+  "homepage": {
+    "fixtures": [
+      [
+        1440,
+        1000
+      ],
+      [
+        768,
+        1000
+      ],
+      [
+        390,
+        844
+      ],
+      [
+        320,
+        844
+      ]
+    ],
+    "referenceAndBothProjectBodyHeights": [
+      7072,
+      7509,
+      6417,
+      6429
+    ],
+    "comparedHeadingFooterBoxesPerState": 8,
+    "exactBothModelsAllFixtures": true,
+    "unsettledFontAndWidgetSamplesExcluded": true
+  },
+  "vehicleTracker": {
+    "exactHeadingSelectorTableCanvasAndTelemetryBothModelsAllFixtures": true,
+    "buttonMarginTop": "30px",
+    "selectedAttribute": "aria-selected",
+    "wrapperDesktopMinimum": "calc(100svh + 74px)",
+    "wrapperMobileMinimum": "calc(100svh + 134px)",
+    "correctedMobileOffsetsPx": [
+      13.203125,
+      37
+    ],
+    "authoredKeyboardSelectionVerified": true,
+    "pointerTouchVerified": false,
+    "wheelZoomListenerActiveInSource": false
+  },
+  "fullParityAccepted": false
+}

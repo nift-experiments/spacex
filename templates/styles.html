@@ -1,4 +1,12 @@
 <style>
+/* Delivered app-root page wrapper: short pages align above the footer. */
+.page-wrapper{display:flex;flex-direction:column;min-height:100svh}
+.page-wrapper>.root-page-content{flex:1}
+/* Delivered jobs-page module uses a viewport-only wrapper minimum. */
+.page-wrapper:has(jobs-page) .page-content-inner{min-height:100svh!important}
+.page-wrapper>.root-page-content>.page-content-inner{width:100%;min-height:calc(100svh + 74px);display:flex;flex-direction:column;justify-content:flex-end}
+\@media(max-width:961px){.page-wrapper>.root-page-content>.page-content-inner{min-height:calc(100svh + 134px)}}
+
 
 .cdk-overlay-container,.cdk-global-overlay-wrapper{
   pointer-events:none;
