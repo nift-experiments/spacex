@@ -145,5 +145,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/ussf385/left.html",
   "rightProse": "prose/missions/ussf385/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "ussf385"
 }

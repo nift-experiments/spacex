@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/iridium-4/left.html",
   "rightProse": "prose/missions/iridium-4/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "iridium-4"
 }

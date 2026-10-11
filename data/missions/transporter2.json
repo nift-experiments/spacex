@@ -17,5 +17,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/transporter2/left.html",
   "rightProse": "prose/missions/transporter2/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "transporter2"
 }

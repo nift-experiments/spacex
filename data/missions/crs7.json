@@ -17,5 +17,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/crs7/left.html",
   "rightProse": "prose/missions/crs7/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "crs7"
 }

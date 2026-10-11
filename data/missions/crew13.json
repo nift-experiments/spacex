@@ -647,5 +647,6 @@
   "vehicleTrackerEnabled": true,
   "leftProse": "prose/missions/crew13/left.html",
   "rightProse": "prose/missions/crew13/right.html",
-  "toTheIssEnabled": true
+  "toTheIssEnabled": true,
+  "timingKey": "crew13"
 }

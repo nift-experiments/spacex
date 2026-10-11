@@ -270,5 +270,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/viasat3f3/left.html",
   "rightProse": "prose/missions/viasat3f3/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "viasat3f3"
 }

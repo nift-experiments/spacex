@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/commercial-gto-1/left.html",
   "rightProse": "prose/missions/commercial-gto-1/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "commercial-gto-1"
 }

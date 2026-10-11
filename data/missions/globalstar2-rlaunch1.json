@@ -218,5 +218,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/globalstar2-rlaunch1/left.html",
   "rightProse": "prose/missions/globalstar2-rlaunch1/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "globalstar2-rlaunch1"
 }

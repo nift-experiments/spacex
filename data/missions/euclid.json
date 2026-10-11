@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/euclid/left.html",
   "rightProse": "prose/missions/euclid/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "euclid"
 }

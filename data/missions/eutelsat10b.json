@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/eutelsat10b/left.html",
   "rightProse": "prose/missions/eutelsat10b/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "eutelsat10b"
 }

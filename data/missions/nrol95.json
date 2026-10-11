@@ -217,5 +217,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/nrol95/left.html",
   "rightProse": "prose/missions/nrol95/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "nrol95"
 }

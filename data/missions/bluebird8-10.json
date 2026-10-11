@@ -175,5 +175,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/bluebird8-10/left.html",
   "rightProse": "prose/missions/bluebird8-10/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "bluebird8-10"
 }

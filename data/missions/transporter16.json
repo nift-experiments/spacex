@@ -594,5 +594,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/transporter16/left.html",
   "rightProse": "prose/missions/transporter16/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "transporter16"
 }

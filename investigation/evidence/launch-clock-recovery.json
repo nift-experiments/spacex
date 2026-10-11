@@ -1,0 +1,26 @@
+{
+  "records": 732,
+  "sourceBundle": "main.38aaaafc31bc4ec8.js",
+  "sourceBundleSha256": "e8748c9d512f76be7677c7074987010e9f71e04c11fda41c198b83f6972b72bf",
+  "countdownCapture": "launches.1280x720.3193502e2b42.json",
+  "normalBuild": "Maintained metadata and native composition; no timing acquisition",
+  "productionTimingGet": "https://content.spacex.com/cms-assets/future_missions.json",
+  "offlinePreview": "Pinned metadata; original clock advances locally; no remote timing GET",
+  "browserChecks": {
+    "authoredDesktop": {
+      "referenceRollingDigitsMatchWithinOneSecond": true,
+      "crew13Prefix": "T+",
+      "sl1525Prefix": "T-"
+    },
+    "renderedMobile": {
+      "viewport": [
+        390,
+        844
+      ],
+      "bothCountdownsInitialized": true,
+      "windowLabelsMatchReference": true
+    },
+    "archivedDemo2DateRange": "May 30, 2020 - August 2, 2020"
+  },
+  "fullBrowserParityAccepted": false
+}

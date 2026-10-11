@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/echostarxxiii/left.html",
   "rightProse": "prose/missions/echostarxxiii/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "echostarxxiii"
 }

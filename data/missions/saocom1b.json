@@ -17,5 +17,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/saocom1b/left.html",
   "rightProse": "prose/missions/saocom1b/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "saocom1b"
 }

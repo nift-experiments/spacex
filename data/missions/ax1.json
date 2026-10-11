@@ -936,5 +936,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/ax1/left.html",
   "rightProse": "prose/missions/ax1/right.html",
-  "toTheIssEnabled": true
+  "toTheIssEnabled": true,
+  "timingKey": "ax1"
 }

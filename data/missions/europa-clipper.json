@@ -17,5 +17,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/europa-clipper/left.html",
   "rightProse": "prose/missions/europa-clipper/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "europa-clipper"
 }

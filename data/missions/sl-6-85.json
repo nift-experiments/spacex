@@ -206,5 +206,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/sl-6-85/left.html",
   "rightProse": "prose/missions/sl-6-85/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "sl-6-85"
 }

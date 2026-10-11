@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/eutelsathotbird13g/left.html",
   "rightProse": "prose/missions/eutelsathotbird13g/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "eutelsathotbird13g"
 }

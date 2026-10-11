@@ -658,5 +658,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/inspiration4/left.html",
   "rightProse": "prose/missions/inspiration4/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "inspiration4"
 }

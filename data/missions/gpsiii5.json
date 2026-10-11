@@ -17,5 +17,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/gpsiii5/left.html",
   "rightProse": "prose/missions/gpsiii5/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "gpsiii5"
 }

@@ -255,5 +255,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/tracers/left.html",
   "rightProse": "prose/missions/tracers/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "tracers"
 }

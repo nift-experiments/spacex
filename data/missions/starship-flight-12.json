@@ -210,5 +210,6 @@
   "vehicleTrackerEnabled": true,
   "leftProse": "prose/missions/starship-flight-12/left.html",
   "rightProse": "prose/missions/starship-flight-12/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "starship-flight-12"
 }

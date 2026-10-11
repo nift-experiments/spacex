@@ -109,5 +109,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/starship-flight-8/left.html",
   "rightProse": "prose/missions/starship-flight-8/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "starship-flight-8"
 }

@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/bandwagon-3/left.html",
   "rightProse": "prose/missions/bandwagon-3/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "bandwagon-3"
 }

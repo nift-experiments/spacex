@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/koreasat-5a/left.html",
   "rightProse": "prose/missions/koreasat-5a/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "koreasat-5a"
 }

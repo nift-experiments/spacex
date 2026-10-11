@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/intelsat-IS40e/left.html",
   "rightProse": "prose/missions/intelsat-IS40e/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "intelsat-IS40e"
 }

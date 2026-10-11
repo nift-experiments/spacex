@@ -37,5 +37,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/crs19/left.html",
   "rightProse": "prose/missions/crs19/right.html",
-  "toTheIssEnabled": true
+  "toTheIssEnabled": true,
+  "timingKey": "crs19"
 }

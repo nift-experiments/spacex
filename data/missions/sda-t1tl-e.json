@@ -183,5 +183,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/sda-t1tl-e/left.html",
   "rightProse": "prose/missions/sda-t1tl-e/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "sda-t1tl-e"
 }

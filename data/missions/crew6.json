@@ -919,5 +919,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/crew6/left.html",
   "rightProse": "prose/missions/crew6/right.html",
-  "toTheIssEnabled": true
+  "toTheIssEnabled": true,
+  "timingKey": "crew6"
 }

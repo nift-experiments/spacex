@@ -1769,6 +1769,9 @@ body.menu-open{
 \@media(max-width:961px){.homepage-upcoming{display:inline}.featured-mission .countdown{display:none}.sx-section .buttons .sx-button a{margin-top:10px!important}}
 [hidden]{display:none!important}
 body.media-overlay-open{overflow:hidden}
+
+.counter[data-sx="launch-countdown"]{display:inline-flex;align-items:center}
+.digit-container[data-sx="launch-countdown-digit"]{position:relative;height:13px;overflow:hidden;width:var(--countdown-digit-width)}.digit-values[data-sx="launch-countdown-digit"]{position:absolute;width:100%;transition:top .3s}.digit[data-sx="launch-countdown-digit"]{height:13px;display:flex;justify-content:center;align-items:center}
 </style>
 
 @input('templates/carousel-pagination.html')

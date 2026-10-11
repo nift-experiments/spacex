@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/oneweb-1/left.html",
   "rightProse": "prose/missions/oneweb-1/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "oneweb-1"
 }

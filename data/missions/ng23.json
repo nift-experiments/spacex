@@ -214,5 +214,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/ng23/left.html",
   "rightProse": "prose/missions/ng23/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "ng23"
 }

@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/gsat-n2/left.html",
   "rightProse": "prose/missions/gsat-n2/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "gsat-n2"
 }

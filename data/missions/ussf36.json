@@ -212,5 +212,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/ussf36/left.html",
   "rightProse": "prose/missions/ussf36/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "ussf36"
 }

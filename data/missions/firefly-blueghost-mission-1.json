@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/firefly-blueghost-mission-1/left.html",
   "rightProse": "prose/missions/firefly-blueghost-mission-1/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "firefly-blueghost-mission-1"
 }

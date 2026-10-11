@@ -4,13 +4,15 @@
       "title": "Starlink Mission",
       "route": "launches/sl-15-25/",
       "image": "public/assets/images/SLC_4_E_600x600_24dd9e969c.jpg",
-      "timeLabel": "October 13, 2026 10:00 - 14:00 Melbourne Time"
+      "timeLabel": "October 13, 2026 10:00 - 14:00 Melbourne Time",
+      "timingKey": "sl-15-25"
     },
     {
       "title": "CRS-35 Mission",
       "route": "launches/crs35/",
       "image": "public/assets/images/crew_12_MOBILE_template1_f0071d661e.jpg",
-      "timeLabel": "October 13, 2026 21:33 Melbourne Time"
+      "timeLabel": "October 13, 2026 21:33 Melbourne Time",
+      "timingKey": "crs35"
     }
   ]
 }

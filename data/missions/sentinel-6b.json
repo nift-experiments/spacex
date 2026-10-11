@@ -197,5 +197,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/sentinel-6b/left.html",
   "rightProse": "prose/missions/sentinel-6b/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "sentinel-6b"
 }

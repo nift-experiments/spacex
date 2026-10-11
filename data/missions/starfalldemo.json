@@ -162,5 +162,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/starfalldemo/left.html",
   "rightProse": "prose/missions/starfalldemo/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "starfalldemo"
 }

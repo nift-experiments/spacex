@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/SES-O3b-mPOWER-e/left.html",
   "rightProse": "prose/missions/SES-O3b-mPOWER-e/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "SES-O3b-mPOWER-e"
 }

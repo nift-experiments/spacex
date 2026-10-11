@@ -37,5 +37,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/SDA-Tranche0A/left.html",
   "rightProse": "prose/missions/SDA-Tranche0A/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "SDA-Tranche0A"
 }

@@ -268,5 +268,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/roman/left.html",
   "rightProse": "prose/missions/roman/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "roman"
 }

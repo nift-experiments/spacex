@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/radarsatconstellation/left.html",
   "rightProse": "prose/missions/radarsatconstellation/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "radarsatconstellation"
 }

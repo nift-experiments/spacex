@@ -208,5 +208,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/mpower-f/left.html",
   "rightProse": "prose/missions/mpower-f/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "mpower-f"
 }

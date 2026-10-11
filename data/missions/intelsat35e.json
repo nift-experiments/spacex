@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/intelsat35e/left.html",
   "rightProse": "prose/missions/intelsat35e/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "intelsat35e"
 }

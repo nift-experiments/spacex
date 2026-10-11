@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/cosmoskymed/left.html",
   "rightProse": "prose/missions/cosmoskymed/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "cosmoskymed"
 }

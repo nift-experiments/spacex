@@ -607,5 +607,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/demo1/left.html",
   "rightProse": "prose/missions/demo1/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "demo1"
 }

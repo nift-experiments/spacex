@@ -17,5 +17,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/falcon9demo/left.html",
   "rightProse": "prose/missions/falcon9demo/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "falcon9demo"
 }

@@ -37,5 +37,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/turksat5a/left.html",
   "rightProse": "prose/missions/turksat5a/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "turksat5a"
 }

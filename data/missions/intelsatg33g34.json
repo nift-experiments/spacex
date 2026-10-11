@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/intelsatg33g34/left.html",
   "rightProse": "prose/missions/intelsatg33g34/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "intelsatg33g34"
 }

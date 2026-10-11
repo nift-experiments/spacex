@@ -37,5 +37,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/iridium5/left.html",
   "rightProse": "prose/missions/iridium5/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "iridium5"
 }

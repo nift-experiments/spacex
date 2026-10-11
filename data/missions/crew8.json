@@ -943,5 +943,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/crew8/left.html",
   "rightProse": "prose/missions/crew8/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "crew8"
 }

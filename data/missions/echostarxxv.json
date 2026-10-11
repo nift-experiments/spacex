@@ -182,5 +182,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/echostarxxv/left.html",
   "rightProse": "prose/missions/echostarxxv/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "echostarxxv"
 }

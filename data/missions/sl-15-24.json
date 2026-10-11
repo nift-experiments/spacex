@@ -190,5 +190,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/sl-15-24/left.html",
   "rightProse": "prose/missions/sl-15-24/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "sl-15-24"
 }

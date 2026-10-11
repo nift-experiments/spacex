@@ -37,5 +37,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/sentinel6/left.html",
   "rightProse": "prose/missions/sentinel6/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "sentinel6"
 }

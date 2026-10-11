@@ -1024,5 +1024,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/ax4/left.html",
   "rightProse": "prose/missions/ax4/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "ax4"
 }

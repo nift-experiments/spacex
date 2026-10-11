@@ -176,5 +176,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/kf-03/left.html",
   "rightProse": "prose/missions/kf-03/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "kf-03"
 }

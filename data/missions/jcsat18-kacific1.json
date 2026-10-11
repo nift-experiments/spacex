@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/jcsat18-kacific1/left.html",
   "rightProse": "prose/missions/jcsat18-kacific1/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "jcsat18-kacific1"
 }

@@ -28,5 +28,6 @@
   "vehicleTrackerEnabled": false,
   "leftProse": "prose/missions/jcsat-16/left.html",
   "rightProse": "prose/missions/jcsat-16/right.html",
-  "toTheIssEnabled": false
+  "toTheIssEnabled": false,
+  "timingKey": "jcsat-16"
 }
