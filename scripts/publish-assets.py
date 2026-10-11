@@ -1,7 +1,7 @@
 """Explicit release maintenance only; never called by a site build."""
 from pathlib import Path
 import argparse,json,subprocess,time,concurrent.futures,threading
-p=argparse.ArgumentParser();p.add_argument('--bundle-dir',type=Path,required=True);a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--bundle-dir',type=Path,required=True);p.add_argument('--workers',type=int,default=2,choices=[1,2]);a=p.parse_args()
 m=json.loads((a.bundle_dir/'asset-manifest.json').read_text());repo=m['releaseRepository'];tag=m['releaseTag']
 lock=threading.Lock();progress={};receipt=a.bundle_dir/'upload-progress.json'
 def save():
@@ -23,6 +23,6 @@ def upload(part):
   time.sleep(5*attempt)
  progress[part['name']]['state']='failed';save()
 subprocess.run(['gh','release','upload',tag,str(a.bundle_dir/'asset-manifest.json'),'--repo',repo,'--clobber'],check=True,timeout=120)
-with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:list(pool.map(upload,m['parts']))
+with concurrent.futures.ThreadPoolExecutor(max_workers=a.workers) as pool:list(pool.map(upload,m['parts']))
 if any(x['state']=='failed' for x in progress.values()):raise SystemExit('Asset upload has failed parts; inspect upload-progress.json and resume explicitly')
 print('All parts uploaded; independent remote hash verification remains required',flush=True)

@@ -1,0 +1,37 @@
+{
+  "scope": "Representative observed public supplier conditions; complete form validation and private services remain separate",
+  "publicBundle": "3281.3e3e1cd8dab2f5a8.js",
+  "bundleSha256": "6d9d36554203dbee4273c5d610c0eb4380522381e25d0e9f6c6853346285f635",
+  "authored": {
+    "naicsYesInitialRows": 1,
+    "addRowCount": 2,
+    "deleteRowCount": 1,
+    "lastRowRetained": true,
+    "naicsNoRows": 0,
+    "industryRequired": true,
+    "industryEnabled": true,
+    "constructionNoCsiHidden": true,
+    "hiddenControlsDisabled": true,
+    "acknowledgementsChecked": [
+      false,
+      false
+    ],
+    "submitDisabled": true
+  },
+  "renderedMobile": {
+    "viewport": [
+      390,
+      844
+    ],
+    "naicsYesInitialRows": 1,
+    "addRowCount": 2,
+    "constructionEquipmentShowsCsi": true,
+    "addCsiRowWorks": true
+  },
+  "sourceRules": {
+    "naics": "At least one row while Yes; each code nonempty; final row cannot be deleted",
+    "csi": "Each added row requires a master code; subcode empty or six digits; zero rows accepted by public every() check"
+  },
+  "noSubmissionPerformed": true,
+  "browserParityAccepted": false
+}
