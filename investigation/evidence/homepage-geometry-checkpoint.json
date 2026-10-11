@@ -12,9 +12,14 @@
       390,
       844
     ],
+    "initialFeaturedHeadingOffsetPx": 6,
+    "initialUpcomingHeightDeltaPx": 3,
     "featuredDateRestoredBoth": true,
-    "remainingFeaturedHeadingOffsetPx": 6,
-    "remainingUpcomingHeightDeltaPx": 3
+    "authoredHeadingFooterGeometryExact": true,
+    "renderedHeadingFooterGeometryExact": true,
+    "bodyHeightSourceAndBoth": 6417,
+    "remainingComparedGeometryDifferences": 0
   },
-  "fullVisualParityAccepted": false
+  "fullVisualParityAccepted": false,
+  "correction": "Retain observed 30px mobile featured CTA margin; scope widget title styles to its direct child; retain three actual divider elements."
 }
