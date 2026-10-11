@@ -1,0 +1,40 @@
+{
+  "manifests": [
+    {
+      "identity": "422bec034f684306cb577b08a1d88d3dc0a69cd2afbbd1be77386adf25ca5463",
+      "release": "maintained-assets-422bec034f684306",
+      "files": 2718,
+      "bytes": 3351182819
+    },
+    {
+      "identity": "475f33c99faf2ee3c009fff3646c4ce6f6399b0d434d7188aa75481119e99dcb",
+      "release": "maintained-mobile-475f33c99faf2ee3",
+      "files": 108,
+      "bytes": 329265903
+    },
+    {
+      "identity": "7de441480ddb8b4d4a26abcbbed98a029c818de15d90c9e37e7e47179545e660",
+      "release": "maintained-responsive-7de441480ddb8b4d",
+      "files": 1,
+      "bytes": 3748368
+    },
+    {
+      "identity": "2de0b178f6b00ac89624703b7cb856ec31dce672155c78870695a49c1513d376",
+      "release": "maintained-tab-media-2de0b178f6b00ac8",
+      "files": 1,
+      "bytes": 5809108
+    },
+    {
+      "identity": "9fe6b1abc87777abed039d9c03d2a45583859334b2df9f51f08587e097e3cdb3",
+      "release": "maintained-runtime-9fe6b1abc87777ab",
+      "files": 40,
+      "bytes": 61542940
+    }
+  ],
+  "remoteAssetSizesAndDigestsVerified": true,
+  "emptyCacheNetworkBaseMobileResponsivePassed": true,
+  "storageFailureRetained": true,
+  "allSupplementNetworkAcquisitionPending": true,
+  "downloadOnlyCatalogueExcluded": true,
+  "browserParityAccepted": false
+}

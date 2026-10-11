@@ -149,5 +149,48 @@
       "0f21a41c7691",
       "fa6f00b105ef"
     ]
+  },
+  {
+    "route": "Mid-South",
+    "key": "campus",
+    "rootSelector": "#site-plan",
+    "labels": [
+      "Colossus I",
+      "Colossus II"
+    ],
+    "captures": [
+      "4e5f7976d997",
+      "5c9c53c3c12c"
+    ]
+  },
+  {
+    "route": "Mid-South",
+    "key": "environment",
+    "rootSelector": "#environment",
+    "labels": [
+      "Water",
+      "Power",
+      "Air"
+    ],
+    "captures": [
+      "4e5f7976d997",
+      "ff61715bb22c",
+      "a3e213864c78"
+    ]
+  },
+  {
+    "route": "launches",
+    "key": "florida",
+    "rootSelector": "launch-tile",
+    "labels": [
+      "LC-39A",
+      "SLC-40",
+      "SLC-37"
+    ],
+    "captures": [
+      "2e42bb3ec1e8",
+      "9829be4aa35f",
+      "9628cba349f4"
+    ]
   }
 ]

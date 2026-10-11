@@ -5,6 +5,7 @@ project=Path(__file__).resolve().parents[1]
 parser=argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--manifest',type=Path,default=project/'asset-manifest.json')
 parser.add_argument('--bundle-dir',type=Path,help='Use already-acquired bundle parts, without network access')
+parser.add_argument('--keep-downloaded-parts',action='store_true',help='Retain redundant release transport parts after verified extraction')
 parser.add_argument('--cache',type=Path,default=Path.home()/'.cache/nift-spacex-assets')
 args=parser.parse_args();manifest=json.loads(args.manifest.read_text())
 cache=args.cache/manifest['identity'];cache.mkdir(parents=True,exist_ok=True)
@@ -56,6 +57,9 @@ if missing:
     if h.hexdigest()!=key:raise SystemExit('Object hash verification failed')
     temporary.chmod(0o444);temporary.replace(target)
  finally:stream.close()
+ if not args.bundle_dir and not args.keep_downloaded_parts:
+  # Canonical local bundles are untouched; downloaded transport copies are reproducible.
+  for part in parts:part.resolve().relative_to(cache.resolve());part.unlink()
 for row in manifest['files']:
  destination=project/row['path'];destination.resolve().relative_to(project.resolve())
  source=objects/row['sha256']

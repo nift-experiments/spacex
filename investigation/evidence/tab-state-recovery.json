@@ -222,5 +222,69 @@
     "capture": "spacexai-starmind.1280x720.fa6f00b105ef.json",
     "captureSha256": "fa6f00b105ef1d73771924e889f9f7b8fc59d71e97b5ab473f25b400865fbcde",
     "browserParityAccepted": false
+  },
+  {
+    "route": "Mid-South",
+    "family": "Mid-South-campus",
+    "state": "Colossus I",
+    "capture": "Mid-South.1280x720.4e5f7976d997.json",
+    "captureSha256": "4e5f7976d9976d247d708aa56b98cde49af08e8d6006a3df4956a82517abf508",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "Mid-South",
+    "family": "Mid-South-campus",
+    "state": "Colossus II",
+    "capture": "Mid-South.1280x720.5c9c53c3c12c.json",
+    "captureSha256": "5c9c53c3c12cab2f4d2d30b436c74f22747b5cd57e043a72938b2c99bf26c477",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "Mid-South",
+    "family": "Mid-South-environment",
+    "state": "Water",
+    "capture": "Mid-South.1280x720.4e5f7976d997.json",
+    "captureSha256": "4e5f7976d9976d247d708aa56b98cde49af08e8d6006a3df4956a82517abf508",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "Mid-South",
+    "family": "Mid-South-environment",
+    "state": "Power",
+    "capture": "Mid-South.1280x720.ff61715bb22c.json",
+    "captureSha256": "ff61715bb22cd7b973c4695fddbc9c68ef0fdbad5659d0e570600bd01b3bd5c8",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "Mid-South",
+    "family": "Mid-South-environment",
+    "state": "Air",
+    "capture": "Mid-South.1280x720.a3e213864c78.json",
+    "captureSha256": "a3e213864c78cdcafe34e94ec6d5eab98945437591356eabf7480c0b585bcb25",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "launches",
+    "family": "launches-florida",
+    "state": "LC-39A",
+    "capture": "launches.1280x720.2e42bb3ec1e8.json",
+    "captureSha256": "2e42bb3ec1e8cadf9a4e88ee44fb5d7cf6b61048ecb0da3f1aa7837fe22e1606",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "launches",
+    "family": "launches-florida",
+    "state": "SLC-40",
+    "capture": "launches.1280x720.9829be4aa35f.json",
+    "captureSha256": "9829be4aa35f7b5c3411145dc37f0a07f4991d68c196320e8a8bb3591f190e6e",
+    "browserParityAccepted": false
+  },
+  {
+    "route": "launches",
+    "family": "launches-florida",
+    "state": "SLC-37",
+    "capture": "launches.1280x720.9628cba349f4.json",
+    "captureSha256": "9628cba349f404c0a0a0431ce0f7d8b77699bd848d9ce184f0d88fd7b3a3b656",
+    "browserParityAccepted": false
   }
 ]

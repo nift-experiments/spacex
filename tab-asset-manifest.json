@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "identity": "2de0b178f6b00ac89624703b7cb856ec31dce672155c78870695a49c1513d376",
+  "scope": "Maintained playback, image and document assets only; download-only MP4 catalogue excluded",
+  "releaseRepository": "nift-experiments/spacex",
+  "releaseTag": "maintained-tab-media-2de0b178f6b00ac8",
+  "files": [
+    {
+      "path": "public/assets/recovered/www.spacex.com/assets/images/launch-sites/SPACEX_Launch_Locations_pad37_desktop.png",
+      "bytes": 5809108,
+      "sha256": "2adb739dd1bc17a8d869774974ae04fd50dc079d88a300e63134125c65c79f83"
+    }
+  ],
+  "parts": [
+    {
+      "name": "assets-64m-000.tar.part",
+      "bytes": 5816320,
+      "sha256": "5eafbddbd32f04afc20f266dac5846af729031b888ddc322f67136aad98f6076",
+      "url": "https://github.com/nift-experiments/spacex/releases/download/maintained-tab-media-2de0b178f6b00ac8/assets-64m-000.tar.part"
+    }
+  ]
+}

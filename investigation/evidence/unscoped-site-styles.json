@@ -1,0 +1,31 @@
+{
+  "reason": "Public unscoped page styles omitted by scoped-only migration recipe",
+  "families": [
+    {
+      "route": "sites",
+      "capture": "sites.1280x720.f325edc8dfc3.json",
+      "stylesSha256": [
+        "34fda825e0e031b9b8729110389ce902a3e9a7a1c857fb4140ef77aa51ab3b3b",
+        "3706ac2edc477ec95322bfd7e494fe28ed1b5722db63e60f849dd22b43a24f24"
+      ]
+    },
+    {
+      "route": "sites/starbase-tx",
+      "capture": "sites-starbase-tx.1280x720.2fba9e8f6b1c.json",
+      "stylesSha256": [
+        "34fda825e0e031b9b8729110389ce902a3e9a7a1c857fb4140ef77aa51ab3b3b",
+        "3706ac2edc477ec95322bfd7e494fe28ed1b5722db63e60f849dd22b43a24f24"
+      ]
+    },
+    {
+      "route": "Mid-South",
+      "capture": "Mid-South.1280x720.ff61715bb22c.json",
+      "stylesSha256": [
+        "34fda825e0e031b9b8729110389ce902a3e9a7a1c857fb4140ef77aa51ab3b3b",
+        "3706ac2edc477ec95322bfd7e494fe28ed1b5722db63e60f849dd22b43a24f24"
+      ]
+    }
+  ],
+  "maintainedCopiesPerProject": 1,
+  "browserParityAccepted": false
+}

@@ -1,0 +1,39 @@
+{
+  "choices": [
+    {
+      "dialog": "partner",
+      "choicesCapture": "Mid-South.1280x720.99dac9bd9cab.json",
+      "choices": 11
+    },
+    {
+      "dialog": "partner",
+      "choicesCapture": "Mid-South.1280x720.5a5298e01205.json",
+      "choices": 10
+    },
+    {
+      "dialog": "partner",
+      "choicesCapture": "Mid-South.1280x720.19bc6b6591de.json",
+      "choices": 4
+    },
+    {
+      "dialog": "feedback",
+      "choicesCapture": "Mid-South.1280x720.517c810ce2e5.json",
+      "choices": 3
+    },
+    {
+      "dialog": "feedback",
+      "choicesCapture": "Mid-South.1280x720.a8a31bbacd0c.json",
+      "choices": 2
+    }
+  ],
+  "service": "Explicitly unavailable; no private requests or simulated success",
+  "validationParity": "Public partner and Mid-South feedback rules maintained; final browser matrix remains open",
+  "browserParityAccepted": false,
+  "otherOrganizationCapture": "Mid-South.1280x720.5a713ba4f6f6.json",
+  "otherOrganizationCaptureSha256": "5a713ba4f6f63e0ce3c2f0e0b53e8bb4f0489a4bd9f6a84fb0cf7c926d1e4706",
+  "validationSource": {
+    "bundle": "4646.234dfcf044c04d03.js",
+    "sha256": "91ecf6eec15f9cba1c62dc30b7debfc44a3f5d78750c23a51cf33ba226031031",
+    "invalidPartnerCapture": "Mid-South.1280x720.ecde32c8a6c6.json"
+  }
+}

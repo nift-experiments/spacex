@@ -1,0 +1,543 @@
+{
+  "scope": "Captured runtime images/audio/video only; downloadable archive remains remote",
+  "assets": [
+    {
+      "url": "https://content.spacex.com/cms-assets/sites-assets/palo%20alto%20office.jpeg",
+      "rolesAndRoutes": [
+        {
+          "route": "sites/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 231341,
+      "sha256": "de60fc2279bf7dd30a20c3318a5838874808b450ef0c21c32c69adf7709aad59",
+      "maintainedPath": "public/assets/recovered/runtime/de60fc2279bf7dd30a20c3318a5838874808b450ef0c21c32c69adf7709aad59.jpeg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/vehicles/dragon/DRAGON_DRAGON+F9_3840x2560.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "vehicles/index.html",
+          "role": "img"
+        },
+        {
+          "route": "vehicles/dragon/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 658783,
+      "sha256": "4cdcd269058f5888ff9f0c2e877336c7f20451fbff578f49d878ff19b5918668",
+      "maintainedPath": "public/assets/recovered/runtime/4cdcd269058f5888ff9f0c2e877336c7f20451fbff578f49d878ff19b5918668.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/vehicles/dragon/DRAGON_DRAGON+ISS_3840x2025.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "vehicles/index.html",
+          "role": "img"
+        },
+        {
+          "route": "vehicles/dragon/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 191145,
+      "sha256": "9396a28894b8af5c1365e5474b65f098f7fb5fda5712ff0c6756b4f61111f4e8",
+      "maintainedPath": "public/assets/recovered/runtime/9396a28894b8af5c1365e5474b65f098f7fb5fda5712ff0c6756b4f61111f4e8.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/sites-assets/memphis-colossus-hall.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "Mid-South/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 719382,
+      "sha256": "0fc7c710869db7cf434fb462697483264896efa0317a37221ae9494da59fe899",
+      "maintainedPath": "public/assets/recovered/runtime/0fc7c710869db7cf434fb462697483264896efa0317a37221ae9494da59fe899.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/sites-assets/20260908_MEMPHIS_XAI_Header_02.webm",
+      "rolesAndRoutes": [
+        {
+          "route": "Mid-South/index.html",
+          "role": "source"
+        }
+      ],
+      "bytes": 24197832,
+      "sha256": "b64181eaa623e139f9e65f97883d42af5392fa6fe71b66f575a4fcda3fcc3532",
+      "maintainedPath": "public/assets/recovered/runtime/b64181eaa623e139f9e65f97883d42af5392fa6fe71b66f575a4fcda3fcc3532.webm",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/sites-assets/memphis-colossus-green-aisle.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "Mid-South/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 482027,
+      "sha256": "0fbf26c7dd5bb41783807568097365dd31d6f92cf754b2d2d7d5fe03b7288396",
+      "maintainedPath": "public/assets/recovered/runtime/0fbf26c7dd5bb41783807568097365dd31d6f92cf754b2d2d7d5fe03b7288396.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/sites-assets/memphis-economic-welder.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "Mid-South/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 190555,
+      "sha256": "a6953d6240ae9ffb32112482e710ed21c345a1a9731f3e7c0ff6e922339872ff",
+      "maintainedPath": "public/assets/recovered/runtime/a6953d6240ae9ffb32112482e710ed21c345a1a9731f3e7c0ff6e922339872ff.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/sites-assets/memphis-school-gym.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "Mid-South/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 9487781,
+      "sha256": "df286cb18a1a631650bf5e5bf9d68a32e6c714ea88f0477cf6f0d95d999b2401",
+      "maintainedPath": "public/assets/recovered/runtime/df286cb18a1a631650bf5e5bf9d68a32e6c714ea88f0477cf6f0d95d999b2401.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://content.spacex.com/cms-assets/sites-assets/memphis-community-partners.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "Mid-South/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 497164,
+      "sha256": "ecfa4144c2412b0445bcecf4854b532d8298a0dc9935e50fa898176eff1c3a9e",
+      "maintainedPath": "public/assets/recovered/runtime/ecfa4144c2412b0445bcecf4854b532d8298a0dc9935e50fa898176eff1c3a9e.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/sites/memphis-starlink-install.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "Mid-South/index.html",
+          "role": "img"
+        },
+        {
+          "route": "sites/starbase-tx/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 278559,
+      "sha256": "6b541601b89a48f1459f32f6428b5c9bb9783cecfeb1c0e69169f20ee39b25a1",
+      "maintainedPath": "public/assets/recovered/runtime/6b541601b89a48f1459f32f6428b5c9bb9783cecfeb1c0e69169f20ee39b25a1.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/2.14.22_PolarisAnnouncement_Starship_Desktop.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 334449,
+      "sha256": "aae4c0d7a8f154d881ee24e6720c7e12fe7c7ff4244d4fa5a26aee75eae7f3cd",
+      "maintainedPath": "public/assets/recovered/runtime/aae4c0d7a8f154d881ee24e6720c7e12fe7c7ff4244d4fa5a26aee75eae7f3cd.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/S20_Chopstick_Stack_Desktop.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 466376,
+      "sha256": "0cf63d6e4b8c7d88dcf9c451842c8aa56fb67df82072ef248aeed325d9f8656b",
+      "maintainedPath": "public/assets/recovered/runtime/0cf63d6e4b8c7d88dcf9c451842c8aa56fb67df82072ef248aeed325d9f8656b.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/sl_geo_image.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 95807,
+      "sha256": "9208b46d45611de0eab28f51be53b357daff3c0de8d853f00c59d75f5cb3721d",
+      "maintainedPath": "public/assets/recovered/runtime/9208b46d45611de0eab28f51be53b357daff3c0de8d853f00c59d75f5cb3721d.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/DART_LAUNCHES_DESKTOP.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 531020,
+      "sha256": "8a9da4d16db30f09273f3e266b50df979560c4dd83fc9b44c61f8efe09bbdcfe",
+      "maintainedPath": "public/assets/recovered/runtime/8a9da4d16db30f09273f3e266b50df979560c4dd83fc9b44c61f8efe09bbdcfe.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/Updates_Crew-3_Docking-03_desktop.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 135776,
+      "sha256": "799677d0862de2687b7ca82214834cbcad1d867cc2976481659d7c641f5a82bf",
+      "maintainedPath": "public/assets/recovered/runtime/799677d0862de2687b7ca82214834cbcad1d867cc2976481659d7c641f5a82bf.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/Update_Crew-2_Splashdown_Crew_Desktop.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 1175868,
+      "sha256": "59048bb03c3de4f360ef7d7d81424bf90aaf4a1143fd3d7ad390620dd19fae68",
+      "maintainedPath": "public/assets/recovered/runtime/59048bb03c3de4f360ef7d7d81424bf90aaf4a1143fd3d7ad390620dd19fae68.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/I4_Splashdown_Desktop.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 1608390,
+      "sha256": "f4ee9e62a4c7a32ea341b211cdbae6ad0be2f6295f169591a3effd1a60420832",
+      "maintainedPath": "public/assets/recovered/runtime/f4ee9e62a4c7a32ea341b211cdbae6ad0be2f6295f169591a3effd1a60420832.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/iss063e021379-SMF_Desktop.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 707896,
+      "sha256": "105c204a743f876cfbb420a576903cb6e236e4718a870bd8cab30225c88c4cbe",
+      "maintainedPath": "public/assets/recovered/runtime/105c204a743f876cfbb420a576903cb6e236e4718a870bd8cab30225c88c4cbe.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/HP_SN15_Desktop.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 1578035,
+      "sha256": "2bea3a9563847ad5cdeca2dc54b0d862b86a9a32a2ebb4e1223dad2b0a2326c5",
+      "maintainedPath": "public/assets/recovered/runtime/2bea3a9563847ad5cdeca2dc54b0d862b86a9a32a2ebb4e1223dad2b0a2326c5.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/Launches_Crew-1_Approach_Desktop.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 508106,
+      "sha256": "9702fa3c3c73a290c2edc4bd02c8f1cfc67f8a33463a45c70e23209e566173ba",
+      "maintainedPath": "public/assets/recovered/runtime/9702fa3c3c73a290c2edc4bd02c8f1cfc67f8a33463a45c70e23209e566173ba.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/Launches_Dragon_Docking_ISS_Desktop.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 574678,
+      "sha256": "d90696c4a35f8b829b898415e175bbe7ae7173b466b7c21a8258b5c8ab2db29a",
+      "maintainedPath": "public/assets/recovered/runtime/d90696c4a35f8b829b898415e175bbe7ae7173b466b7c21a8258b5c8ab2db29a.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/hls-resized-2.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 3722056,
+      "sha256": "1b478571e33e82b4c96153c1e0a148af6a41cf923c1c1fb4941807f8172b7e2f",
+      "maintainedPath": "public/assets/recovered/runtime/1b478571e33e82b4c96153c1e0a148af6a41cf923c1c1fb4941807f8172b7e2f.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/Starlink_SN11_Vertical_20210311IMG_0119_v2.jpeg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 1415069,
+      "sha256": "ab7a2193c33633eab8b1c025d6bb29e65c6b5a571286566f6f551b878c995415",
+      "maintainedPath": "public/assets/recovered/runtime/ab7a2193c33633eab8b1c025d6bb29e65c6b5a571286566f6f551b878c995415.jpeg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/SN10-0F07.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 224406,
+      "sha256": "693946ece6520a8d19df810698e9578a0e761b6275ad9ee405baa142217919a7",
+      "maintainedPath": "public/assets/recovered/runtime/693946ece6520a8d19df810698e9578a0e761b6275ad9ee405baa142217919a7.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/SXpage_MZstill.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 161927,
+      "sha256": "16d55a31dfb5b47a87bc13a6af9e6aa6fd6690520e333b11debae0fb28486ca3",
+      "maintainedPath": "public/assets/recovered/runtime/16d55a31dfb5b47a87bc13a6af9e6aa6fd6690520e333b11debae0fb28486ca3.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/SN9_Desktop_v2.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 140331,
+      "sha256": "f0bb6138af10dffc6a5b360382225159ef311fb8731b3c640ce699d94ce839d3",
+      "maintainedPath": "public/assets/recovered/runtime/f0bb6138af10dffc6a5b360382225159ef311fb8731b3c640ce699d94ce839d3.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/FF01_20201209-BI0I1927.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 669430,
+      "sha256": "0af8963104bdb0bd1a36de57f145f2941ab59084b123f82ead9b4559afb522ee",
+      "maintainedPath": "public/assets/recovered/runtime/0af8963104bdb0bd1a36de57f145f2941ab59084b123f82ead9b4559afb522ee.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/SN8_Launch-Checkpoint_20201209-BI0I2210.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 93750,
+      "sha256": "68891e0b2eccd413ced95135bc0ef4d5dbfa6713dd69534359c984ba115741dd",
+      "maintainedPath": "public/assets/recovered/runtime/68891e0b2eccd413ced95135bc0ef4d5dbfa6713dd69534359c984ba115741dd.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/update-1.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 1307064,
+      "sha256": "b7da1ca2302b713c694cc5e10805ac23132de567807a043fd1089896c0b85a4d",
+      "maintainedPath": "public/assets/recovered/runtime/b7da1ca2302b713c694cc5e10805ac23132de567807a043fd1089896c0b85a4d.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/dm2_cockpit_desktop.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 2281392,
+      "sha256": "fabd4fdfc42ec832db02d563adacaa8c8812a85c169519c071574cf4db01952e",
+      "maintainedPath": "public/assets/recovered/runtime/fabd4fdfc42ec832db02d563adacaa8c8812a85c169519c071574cf4db01952e.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/Star14_DSC_2409.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 376909,
+      "sha256": "d21d70d5fe4df3a76e8844744e76e91c18ad7d12007fa8a5b674ce8d0c2a7466",
+      "maintainedPath": "public/assets/recovered/runtime/d21d70d5fe4df3a76e8844744e76e91c18ad7d12007fa8a5b674ce8d0c2a7466.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/CAROUSEL__0001s_0000_FH7.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 308587,
+      "sha256": "871f82700bbb44b2beae50cab230bdcef2bd833490ee8b485d9d9c1b5ea552a8",
+      "maintainedPath": "public/assets/recovered/runtime/871f82700bbb44b2beae50cab230bdcef2bd833490ee8b485d9d9c1b5ea552a8.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/starshipliftoff_desktop1.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 787317,
+      "sha256": "76387fae2e75a3fb455b863e711c70e95149905e528170b5e41c84178608105c",
+      "maintainedPath": "public/assets/recovered/runtime/76387fae2e75a3fb455b863e711c70e95149905e528170b5e41c84178608105c.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/dragonsplashdown_v2.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 2047711,
+      "sha256": "abc5bc37cd432039e3f5dac2980e7afda3a2a9af51a04a43d26278f950bd9624",
+      "maintainedPath": "public/assets/recovered/runtime/abc5bc37cd432039e3f5dac2980e7afda3a2a9af51a04a43d26278f950bd9624.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/demo-2_article.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 1531124,
+      "sha256": "32d06ff6b609c17b990eb28159fcd37836b9feddabee13af5c0c929edbe4c762",
+      "maintainedPath": "public/assets/recovered/runtime/32d06ff6b609c17b990eb28159fcd37836b9feddabee13af5c0c929edbe4c762.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/starlink0123.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 166497,
+      "sha256": "a2f2a1f909a14fde5a691304df95f7bf221135ff821c86fe667a62e711e1cb7f",
+      "maintainedPath": "public/assets/recovered/runtime/a2f2a1f909a14fde5a691304df95f7bf221135ff821c86fe667a62e711e1cb7f.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/website_astrotraining.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 177689,
+      "sha256": "8f7f5b0196fb84eda226ce2d3ad9c3af6b7caf3939b395ce214adb9664d82104",
+      "maintainedPath": "public/assets/recovered/runtime/8f7f5b0196fb84eda226ce2d3ad9c3af6b7caf3939b395ce214adb9664d82104.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/49399916862_804a949893_k.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 377031,
+      "sha256": "46bf7b46f03e708107d89680a302fb68dabebd76d14bf44cc199b93b18cdb0cd",
+      "maintainedPath": "public/assets/recovered/runtime/46bf7b46f03e708107d89680a302fb68dabebd76d14bf44cc199b93b18cdb0cd.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/updates/pre-strapi-updates/CAROUSEL__0002s_0009_STAR4.jpg",
+      "rolesAndRoutes": [
+        {
+          "route": "updates/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 631964,
+      "sha256": "f93f816bda7018245ec7013f7aff43e7bb10b1c44746b4053947c884592532db",
+      "maintainedPath": "public/assets/recovered/runtime/f93f816bda7018245ec7013f7aff43e7bb10b1c44746b4053947c884592532db.jpg",
+      "preservationMode": "offline-preserved"
+    },
+    {
+      "url": "https://www.spacex.com/assets/images/human-spaceflight/home/HS_TIMELINE_2012_View%20of%20Dragon%20From%20ISS%20Credit%20NASA%2052412%207.webp",
+      "rolesAndRoutes": [
+        {
+          "route": "humanspaceflight/index.html",
+          "role": "img"
+        },
+        {
+          "route": "humanspaceflight/overview/index.html",
+          "role": "img"
+        }
+      ],
+      "bytes": 471716,
+      "sha256": "1a2c936afbd3cd200c256e26d05b5aa823c5c8c139e07414727eff9e70556f23",
+      "maintainedPath": "public/assets/recovered/runtime/1a2c936afbd3cd200c256e26d05b5aa823c5c8c139e07414727eff9e70556f23.webp",
+      "preservationMode": "offline-preserved"
+    }
+  ],
+  "sourceBindingsUpdated": 44,
+  "browserParityAccepted": false
+}

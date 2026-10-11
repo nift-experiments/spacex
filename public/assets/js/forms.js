@@ -101,9 +101,9 @@ for (const host of document.querySelectorAll('supplier-submit-page, lead-submit-
 
 // Newsletter validation is local; the original private subscription API is unavailable.
 const initializeNewsletters = () => {
-for (const host of document.querySelectorAll('email-signup')) {
-  const root = host.shadowRoot || host;
-  const form = root.querySelector('[data-newsletter-form]');
+const forms = [...document.querySelectorAll('email-signup')].map(host => (host.shadowRoot || host).querySelector('[data-newsletter-form]')).concat([...document.querySelectorAll('form[data-newsletter-form]')]);
+for (const form of forms) {
+  const root = form?.parentElement;
   if (!form) continue;
   form.addEventListener('submit', event => {
     event.preventDefault();

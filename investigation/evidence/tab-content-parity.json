@@ -336,6 +336,102 @@
       "family": "spacexai-starmind-ai1",
       "state": "Solar",
       "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "Mid-South-campus",
+      "state": "Colossus I",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "Mid-South-campus",
+      "state": "Colossus I",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "Mid-South-campus",
+      "state": "Colossus II",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "Mid-South-campus",
+      "state": "Colossus II",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "Mid-South-environment",
+      "state": "Water",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "Mid-South-environment",
+      "state": "Water",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "Mid-South-environment",
+      "state": "Power",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "Mid-South-environment",
+      "state": "Power",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "Mid-South-environment",
+      "state": "Air",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "Mid-South-environment",
+      "state": "Air",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "launches-florida",
+      "state": "LC-39A",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "launches-florida",
+      "state": "LC-39A",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "launches-florida",
+      "state": "SLC-40",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "launches-florida",
+      "state": "SLC-40",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex",
+      "family": "launches-florida",
+      "state": "SLC-37",
+      "textAndValuesMatchReference": true
+    },
+    {
+      "project": "spacex-agent",
+      "family": "launches-florida",
+      "state": "SLC-37",
+      "textAndValuesMatchReference": true
     }
   ],
   "allPassed": true,

@@ -1,0 +1,8 @@
+{
+  "capture": "Mid-South.1280x720.ff61715bb22c.json",
+  "captureSha256": "ff61715bb22cd7b973c4695fddbc9c68ef0fdbad5659d0e570600bd01b3bd5c8",
+  "sourceStyleBlocks": 2,
+  "cssBytes": 296567,
+  "reason": "Unscoped public page CSS was omitted by the scoped-style-only recipe",
+  "browserParityAccepted": false
+}

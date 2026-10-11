@@ -1,0 +1,17 @@
+{
+  "authoredDesktop": {
+    "partnerOpen": true,
+    "skillsetsChoice": true,
+    "escapeFocusRestore": true,
+    "feedbackOpen": true,
+    "feedbackSyntheticUnavailableResponse": true,
+    "otherOrganizationRequiredField": true,
+    "sixInvalidOtherMessagesMatchPublicCapture": true
+  },
+  "renderedMobile": {
+    "partnerOpen": true,
+    "organizationChoices": true
+  },
+  "privateRequestsMade": false,
+  "browserParityAccepted": false
+}

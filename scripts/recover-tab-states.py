@@ -57,7 +57,7 @@ for plan in plans:
    f=project/'content'/target_route/'index.html';source=f.read_text();source=re.sub(r'<template data-native-state-template="'+re.escape(key)+r'"[\s\S]*?</template>\s*','',source);dom=BeautifulSoup(source,'html.parser');current=next(tag for tag in dom.select(plan.get('rootSelector','metric-tile')) if [e.get_text(' ',strip=True) for e in tag.select('[role="tab"]')]==plan['labels']);old=str(current);assert old in source
    current['data-native-state-key']=key
    for button in current.select('[role="tab"]'):button['data-native-state-value']=button.get_text(' ',strip=True)
-   source=source.replace(old,str(current),1)
+   source=source.replace(old,fragments[0][1],1)
    for index,(label,fragment) in enumerate(fragments):
     if project==H:
      relative='content/states/'+key+'/'+str(index)+'.html';out=project/relative;out.parent.mkdir(parents=True,exist_ok=True);out.write_text(fragment+'\n');body="@input('"+relative+"')"
