@@ -1,0 +1,46 @@
+{
+  "status": "User accepted current parity maturity for performance/evaluation and closeout; evidence is scoped, not exhaustive all-device/backend certification.",
+  "publishedPagesAndRedirects": 829,
+  "hlsOutputs": 89,
+  "trackedOutputs": 918,
+  "referenceRoutes": 805,
+  "unclassifiedMissingReferences": 0,
+  "responsiveFixtures": [
+    [
+      1440,
+      1000
+    ],
+    [
+      768,
+      1000
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      320,
+      844
+    ]
+  ],
+  "proven": "Homepage heading/footer/body geometry, vehicle and follow-Dragon geometry/telemetry; mobile scroll header hide/restore; menu/dropdown geometry; representative pointer and keyboard tracker response; source-derived lead/supplier validation; corpus and family inventories; incremental/forced equivalence.",
+  "qualifications": [
+    "Physical touch and exhaustive filter/form combinations not independently automated.",
+    "Geometry evidence is exact for compared settled boxes, not every animated pixel.",
+    "Private CAPTCHA/submissions/newsletter success unavailable and never fabricated.",
+    "External YouTube URLs retained; offline CSP blocks third-party playback.",
+    "Original HEVC bytes retained; one clip is unsupported by this test browser.",
+    "Only playback-critical initial HLS segments frozen; uncaptured tails keep original URLs.",
+    "Download-only 320.6+ GiB catalogue remotely referenced, not offline byte-preserved.",
+    "Two inherited malformed references remain documented."
+  ],
+  "evidence": [
+    "responsive-wrapper-checkpoint.json",
+    "follow-dragon-wrapper-checkpoint.json",
+    "header-menu-scope-checkpoint.json",
+    "pointer-scroll-checkpoint.json",
+    "lead-validation-recovery.json",
+    "supplier-validation-recovery.json",
+    "checkout-lifecycle-checkpoint.json"
+  ]
+}

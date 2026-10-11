@@ -1,0 +1,2183 @@
+{
+  "measurement": "GNU time maximum individual process RSS; no sampled tree RSS collected",
+  "samplesPerScenario": 5,
+  "serialized": true,
+  "osCaches": "uncontrolled",
+  "freshState": "Only generated .nift/public dependency state cleared; maintained publication assets and OS caches retained",
+  "excludedSetup": "Asset acquisition; route track/mv/rm commands; source mutations; correctness audits",
+  "includedPipeline": "Complete normal Nift publication: dependency checks, maintained source evaluation, @path resolution, template composition and output writes. No converter, bundler, backend build, search indexer or postprocessor exists in normal publication. Static maintained assets already under public.",
+  "host": {
+    "cpu": "Intel Core i7-12700H",
+    "logicalCpus": 20,
+    "nift": "4.10.0",
+    "platform": "Linux-7.0.0-29-generic-x86_64-with-glibc2.43"
+  },
+  "projects": {
+    "spacex": {
+      "commit": "5c94f5ea9e0539d5d516a5eeb478ced6e8e9e085",
+      "scenarios": {
+        "warm-full": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "warm-full",
+              "sample": 1,
+              "wallSeconds": 1.5290333859156817,
+              "maxProcessRssMiB": 102.62890625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build --all",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex",
+              "scenario": "warm-full",
+              "sample": 2,
+              "wallSeconds": 1.4388260878622532,
+              "maxProcessRssMiB": 102.359375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build --all",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex",
+              "scenario": "warm-full",
+              "sample": 3,
+              "wallSeconds": 1.336611681850627,
+              "maxProcessRssMiB": 102.12109375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build --all",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex",
+              "scenario": "warm-full",
+              "sample": 4,
+              "wallSeconds": 1.3813613378442824,
+              "maxProcessRssMiB": 104.07421875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build --all",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex",
+              "scenario": "warm-full",
+              "sample": 5,
+              "wallSeconds": 1.356895721051842,
+              "maxProcessRssMiB": 104.6328125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build --all",
+              "generatedOutputsBuilt": 918
+            }
+          ],
+          "generatedOutputsBuilt": [
+            918
+          ],
+          "wallSeconds": {
+            "median": 1.3813613378442824,
+            "min": 1.336611681850627,
+            "max": 1.5290333859156817
+          },
+          "maxProcessRssMiB": {
+            "median": 102.62890625,
+            "min": 102.12109375,
+            "max": 104.6328125
+          }
+        },
+        "fresh-application-state": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "fresh-application-state",
+              "sample": 1,
+              "wallSeconds": 1.3653219661209732,
+              "maxProcessRssMiB": 105.67578125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex",
+              "scenario": "fresh-application-state",
+              "sample": 2,
+              "wallSeconds": 1.3690850269049406,
+              "maxProcessRssMiB": 104.23828125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex",
+              "scenario": "fresh-application-state",
+              "sample": 3,
+              "wallSeconds": 1.3547609369270504,
+              "maxProcessRssMiB": 105.9609375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex",
+              "scenario": "fresh-application-state",
+              "sample": 4,
+              "wallSeconds": 1.28080048202537,
+              "maxProcessRssMiB": 104.359375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex",
+              "scenario": "fresh-application-state",
+              "sample": 5,
+              "wallSeconds": 1.3080311249941587,
+              "maxProcessRssMiB": 102.53515625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 918
+            }
+          ],
+          "generatedOutputsBuilt": [
+            918
+          ],
+          "wallSeconds": {
+            "median": 1.3547609369270504,
+            "min": 1.28080048202537,
+            "max": 1.3690850269049406
+          },
+          "maxProcessRssMiB": {
+            "median": 104.359375,
+            "min": 102.53515625,
+            "max": 105.9609375
+          }
+        },
+        "unchanged": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "unchanged",
+              "sample": 1,
+              "wallSeconds": 0.15456115896813571,
+              "maxProcessRssMiB": 7.18359375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "unchanged",
+              "sample": 2,
+              "wallSeconds": 0.1711031449958682,
+              "maxProcessRssMiB": 7.625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "unchanged",
+              "sample": 3,
+              "wallSeconds": 0.15706069907173514,
+              "maxProcessRssMiB": 7.33984375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "unchanged",
+              "sample": 4,
+              "wallSeconds": 0.16491298004984856,
+              "maxProcessRssMiB": 7.16015625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "unchanged",
+              "sample": 5,
+              "wallSeconds": 0.16368975304067135,
+              "maxProcessRssMiB": 7.4453125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            }
+          ],
+          "generatedOutputsBuilt": [
+            0
+          ],
+          "wallSeconds": {
+            "median": 0.16368975304067135,
+            "min": 0.15456115896813571,
+            "max": 0.1711031449958682
+          },
+          "maxProcessRssMiB": {
+            "median": 7.33984375,
+            "min": 7.16015625,
+            "max": 7.625
+          }
+        },
+        "ordinary-page-edit": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "ordinary-page-edit",
+              "sample": 1,
+              "wallSeconds": 0.1890144518110901,
+              "maxProcessRssMiB": 9.66796875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "ordinary-page-edit",
+              "sample": 2,
+              "wallSeconds": 0.1928598468657583,
+              "maxProcessRssMiB": 9.64453125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "ordinary-page-edit",
+              "sample": 3,
+              "wallSeconds": 0.20287459809333086,
+              "maxProcessRssMiB": 9.70703125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "ordinary-page-edit",
+              "sample": 4,
+              "wallSeconds": 0.19331771484576166,
+              "maxProcessRssMiB": 10.01953125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "ordinary-page-edit",
+              "sample": 5,
+              "wallSeconds": 0.19633294106461108,
+              "maxProcessRssMiB": 9.4296875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            }
+          ],
+          "generatedOutputsBuilt": [
+            1
+          ],
+          "wallSeconds": {
+            "median": 0.19331771484576166,
+            "min": 0.1890144518110901,
+            "max": 0.20287459809333086
+          },
+          "maxProcessRssMiB": {
+            "median": 9.66796875,
+            "min": 9.4296875,
+            "max": 10.01953125
+          }
+        },
+        "homepage-edit": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "homepage-edit",
+              "sample": 1,
+              "wallSeconds": 0.18884890899062157,
+              "maxProcessRssMiB": 9.05078125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex",
+              "scenario": "homepage-edit",
+              "sample": 2,
+              "wallSeconds": 0.1753914358559996,
+              "maxProcessRssMiB": 9.92578125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex",
+              "scenario": "homepage-edit",
+              "sample": 3,
+              "wallSeconds": 0.1772425640374422,
+              "maxProcessRssMiB": 9.74609375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex",
+              "scenario": "homepage-edit",
+              "sample": 4,
+              "wallSeconds": 0.20430724718607962,
+              "maxProcessRssMiB": 9.4609375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex",
+              "scenario": "homepage-edit",
+              "sample": 5,
+              "wallSeconds": 0.1927145249210298,
+              "maxProcessRssMiB": 9.70703125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            }
+          ],
+          "generatedOutputsBuilt": [
+            3
+          ],
+          "wallSeconds": {
+            "median": 0.18884890899062157,
+            "min": 0.1753914358559996,
+            "max": 0.20430724718607962
+          },
+          "maxProcessRssMiB": {
+            "median": 9.70703125,
+            "min": 9.05078125,
+            "max": 9.92578125
+          }
+        },
+        "shared-layout": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "shared-layout",
+              "sample": 1,
+              "wallSeconds": 1.5005775650497526,
+              "maxProcessRssMiB": 83.40234375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "shared-layout",
+              "sample": 2,
+              "wallSeconds": 1.4424722359981388,
+              "maxProcessRssMiB": 84.375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "shared-layout",
+              "sample": 3,
+              "wallSeconds": 1.538581175962463,
+              "maxProcessRssMiB": 82.23046875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "shared-layout",
+              "sample": 4,
+              "wallSeconds": 1.4699186028447002,
+              "maxProcessRssMiB": 82.46875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "shared-layout",
+              "sample": 5,
+              "wallSeconds": 1.4103322140872478,
+              "maxProcessRssMiB": 83.8828125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            }
+          ],
+          "generatedOutputsBuilt": [
+            783
+          ],
+          "wallSeconds": {
+            "median": 1.4699186028447002,
+            "min": 1.4103322140872478,
+            "max": 1.538581175962463
+          },
+          "maxProcessRssMiB": {
+            "median": 83.40234375,
+            "min": 82.23046875,
+            "max": 84.375
+          }
+        },
+        "navigation-edit": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "navigation-edit",
+              "sample": 1,
+              "wallSeconds": 1.4057560430373996,
+              "maxProcessRssMiB": 82.12890625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "navigation-edit",
+              "sample": 2,
+              "wallSeconds": 1.3860758088994771,
+              "maxProcessRssMiB": 83.36328125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "navigation-edit",
+              "sample": 3,
+              "wallSeconds": 1.499270313885063,
+              "maxProcessRssMiB": 82.140625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "navigation-edit",
+              "sample": 4,
+              "wallSeconds": 1.4834129868540913,
+              "maxProcessRssMiB": 82.9375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "navigation-edit",
+              "sample": 5,
+              "wallSeconds": 1.4410949018783867,
+              "maxProcessRssMiB": 84.671875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            }
+          ],
+          "generatedOutputsBuilt": [
+            783
+          ],
+          "wallSeconds": {
+            "median": 1.4410949018783867,
+            "min": 1.3860758088994771,
+            "max": 1.499270313885063
+          },
+          "maxProcessRssMiB": {
+            "median": 82.9375,
+            "min": 82.12890625,
+            "max": 84.671875
+          }
+        },
+        "css-edit": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "css-edit",
+              "sample": 1,
+              "wallSeconds": 1.6556412561330944,
+              "maxProcessRssMiB": 82.01953125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "css-edit",
+              "sample": 2,
+              "wallSeconds": 1.5353573290631175,
+              "maxProcessRssMiB": 82.3515625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "css-edit",
+              "sample": 3,
+              "wallSeconds": 1.5417615401092917,
+              "maxProcessRssMiB": 83.51953125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "css-edit",
+              "sample": 4,
+              "wallSeconds": 1.536744019947946,
+              "maxProcessRssMiB": 83.296875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "css-edit",
+              "sample": 5,
+              "wallSeconds": 1.5599884330295026,
+              "maxProcessRssMiB": 81.6015625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            }
+          ],
+          "generatedOutputsBuilt": [
+            783
+          ],
+          "wallSeconds": {
+            "median": 1.5417615401092917,
+            "min": 1.5353573290631175,
+            "max": 1.6556412561330944
+          },
+          "maxProcessRssMiB": {
+            "median": 82.3515625,
+            "min": 81.6015625,
+            "max": 83.51953125
+          }
+        },
+        "frontend-js-edit": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "frontend-js-edit",
+              "sample": 1,
+              "wallSeconds": 1.7317435250151902,
+              "maxProcessRssMiB": 81.546875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "frontend-js-edit",
+              "sample": 2,
+              "wallSeconds": 1.6062423021066934,
+              "maxProcessRssMiB": 81.84375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "frontend-js-edit",
+              "sample": 3,
+              "wallSeconds": 1.6051285827998072,
+              "maxProcessRssMiB": 82.8828125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "frontend-js-edit",
+              "sample": 4,
+              "wallSeconds": 1.6232318340335041,
+              "maxProcessRssMiB": 81.34375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex",
+              "scenario": "frontend-js-edit",
+              "sample": 5,
+              "wallSeconds": 1.7447243679780513,
+              "maxProcessRssMiB": 83.4375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            }
+          ],
+          "generatedOutputsBuilt": [
+            783
+          ],
+          "wallSeconds": {
+            "median": 1.6232318340335041,
+            "min": 1.6051285827998072,
+            "max": 1.7447243679780513
+          },
+          "maxProcessRssMiB": {
+            "median": 81.84375,
+            "min": 81.34375,
+            "max": 83.4375
+          }
+        },
+        "media-metadata-edit": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "media-metadata-edit",
+              "sample": 1,
+              "wallSeconds": 0.24608282116241753,
+              "maxProcessRssMiB": 6.734375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "media-metadata-edit",
+              "sample": 2,
+              "wallSeconds": 0.22354571800678968,
+              "maxProcessRssMiB": 7.55078125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "media-metadata-edit",
+              "sample": 3,
+              "wallSeconds": 0.21323235682211816,
+              "maxProcessRssMiB": 7.34375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "media-metadata-edit",
+              "sample": 4,
+              "wallSeconds": 0.2125191749073565,
+              "maxProcessRssMiB": 7.19140625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "media-metadata-edit",
+              "sample": 5,
+              "wallSeconds": 0.2109451920259744,
+              "maxProcessRssMiB": 6.8359375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            }
+          ],
+          "generatedOutputsBuilt": [
+            0
+          ],
+          "wallSeconds": {
+            "median": 0.21323235682211816,
+            "min": 0.2109451920259744,
+            "max": 0.24608282116241753
+          },
+          "maxProcessRssMiB": {
+            "median": 7.19140625,
+            "min": 6.734375,
+            "max": 7.55078125
+          }
+        },
+        "three-page-edit": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "three-page-edit",
+              "sample": 1,
+              "wallSeconds": 0.2790645509958267,
+              "maxProcessRssMiB": 12.18359375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex",
+              "scenario": "three-page-edit",
+              "sample": 2,
+              "wallSeconds": 0.2413298338651657,
+              "maxProcessRssMiB": 12.08984375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex",
+              "scenario": "three-page-edit",
+              "sample": 3,
+              "wallSeconds": 0.24442965909838676,
+              "maxProcessRssMiB": 12.1953125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex",
+              "scenario": "three-page-edit",
+              "sample": 4,
+              "wallSeconds": 0.2311662221327424,
+              "maxProcessRssMiB": 12.0625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex",
+              "scenario": "three-page-edit",
+              "sample": 5,
+              "wallSeconds": 0.24335065600462258,
+              "maxProcessRssMiB": 11.89453125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            }
+          ],
+          "generatedOutputsBuilt": [
+            3
+          ],
+          "wallSeconds": {
+            "median": 0.24335065600462258,
+            "min": 0.2311662221327424,
+            "max": 0.2790645509958267
+          },
+          "maxProcessRssMiB": {
+            "median": 12.08984375,
+            "min": 11.89453125,
+            "max": 12.1953125
+          }
+        },
+        "route-add": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "route-add",
+              "sample": 1,
+              "wallSeconds": 0.20906922104768455,
+              "maxProcessRssMiB": 9.140625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-add",
+              "sample": 2,
+              "wallSeconds": 0.21967478492297232,
+              "maxProcessRssMiB": 8.72265625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-add",
+              "sample": 3,
+              "wallSeconds": 0.22313642711378634,
+              "maxProcessRssMiB": 8.6328125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-add",
+              "sample": 4,
+              "wallSeconds": 0.2155489509459585,
+              "maxProcessRssMiB": 9.2890625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-add",
+              "sample": 5,
+              "wallSeconds": 0.20767718413844705,
+              "maxProcessRssMiB": 9.16015625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            }
+          ],
+          "generatedOutputsBuilt": [
+            1
+          ],
+          "wallSeconds": {
+            "median": 0.2155489509459585,
+            "min": 0.20767718413844705,
+            "max": 0.22313642711378634
+          },
+          "maxProcessRssMiB": {
+            "median": 9.140625,
+            "min": 8.6328125,
+            "max": 9.2890625
+          }
+        },
+        "route-rename": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "route-rename",
+              "sample": 1,
+              "wallSeconds": 0.22135681612417102,
+              "maxProcessRssMiB": 9.03515625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-rename",
+              "sample": 2,
+              "wallSeconds": 0.24578357208520174,
+              "maxProcessRssMiB": 9.1875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-rename",
+              "sample": 3,
+              "wallSeconds": 0.23239965783432126,
+              "maxProcessRssMiB": 8.56640625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-rename",
+              "sample": 4,
+              "wallSeconds": 0.19836383406072855,
+              "maxProcessRssMiB": 8.66796875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-rename",
+              "sample": 5,
+              "wallSeconds": 0.20813140692189336,
+              "maxProcessRssMiB": 8.703125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            }
+          ],
+          "generatedOutputsBuilt": [
+            1
+          ],
+          "wallSeconds": {
+            "median": 0.22135681612417102,
+            "min": 0.19836383406072855,
+            "max": 0.24578357208520174
+          },
+          "maxProcessRssMiB": {
+            "median": 8.703125,
+            "min": 8.56640625,
+            "max": 9.1875
+          }
+        },
+        "route-delete": {
+          "samples": [
+            {
+              "project": "spacex",
+              "scenario": "route-delete",
+              "sample": 1,
+              "wallSeconds": 0.21909213298931718,
+              "maxProcessRssMiB": 7.33984375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-delete",
+              "sample": 2,
+              "wallSeconds": 0.22126578516326845,
+              "maxProcessRssMiB": 7.7578125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-delete",
+              "sample": 3,
+              "wallSeconds": 0.20850834785960615,
+              "maxProcessRssMiB": 7.3046875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-delete",
+              "sample": 4,
+              "wallSeconds": 0.19485385389998555,
+              "maxProcessRssMiB": 6.95703125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex",
+              "scenario": "route-delete",
+              "sample": 5,
+              "wallSeconds": 0.18381693214178085,
+              "maxProcessRssMiB": 6.625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            }
+          ],
+          "generatedOutputsBuilt": [
+            0
+          ],
+          "wallSeconds": {
+            "median": 0.20850834785960615,
+            "min": 0.18381693214178085,
+            "max": 0.22126578516326845
+          },
+          "maxProcessRssMiB": {
+            "median": 7.3046875,
+            "min": 6.625,
+            "max": 7.7578125
+          }
+        }
+      }
+    },
+    "spacex-agent": {
+      "commit": "0691f432bb4a5851626f28765017e9067c682099",
+      "scenarios": {
+        "warm-full": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "warm-full",
+              "sample": 1,
+              "wallSeconds": 1.005099660018459,
+              "maxProcessRssMiB": 105.59765625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build --all",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "warm-full",
+              "sample": 2,
+              "wallSeconds": 0.9879420900251716,
+              "maxProcessRssMiB": 111.01953125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build --all",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "warm-full",
+              "sample": 3,
+              "wallSeconds": 1.0646173199638724,
+              "maxProcessRssMiB": 107.4375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build --all",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "warm-full",
+              "sample": 4,
+              "wallSeconds": 0.8743451540358365,
+              "maxProcessRssMiB": 105.09765625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build --all",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "warm-full",
+              "sample": 5,
+              "wallSeconds": 0.8401748300530016,
+              "maxProcessRssMiB": 105.1796875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build --all",
+              "generatedOutputsBuilt": 918
+            }
+          ],
+          "generatedOutputsBuilt": [
+            918
+          ],
+          "wallSeconds": {
+            "median": 0.9879420900251716,
+            "min": 0.8401748300530016,
+            "max": 1.0646173199638724
+          },
+          "maxProcessRssMiB": {
+            "median": 105.59765625,
+            "min": 105.09765625,
+            "max": 111.01953125
+          }
+        },
+        "fresh-application-state": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "fresh-application-state",
+              "sample": 1,
+              "wallSeconds": 0.8433845529798418,
+              "maxProcessRssMiB": 106.2265625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "fresh-application-state",
+              "sample": 2,
+              "wallSeconds": 0.8442921580281109,
+              "maxProcessRssMiB": 105.109375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "fresh-application-state",
+              "sample": 3,
+              "wallSeconds": 0.8292050140444189,
+              "maxProcessRssMiB": 102.87109375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "fresh-application-state",
+              "sample": 4,
+              "wallSeconds": 0.8530844978522509,
+              "maxProcessRssMiB": 111.33203125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 918
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "fresh-application-state",
+              "sample": 5,
+              "wallSeconds": 0.8754833480343223,
+              "maxProcessRssMiB": 101.1171875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 918
+            }
+          ],
+          "generatedOutputsBuilt": [
+            918
+          ],
+          "wallSeconds": {
+            "median": 0.8442921580281109,
+            "min": 0.8292050140444189,
+            "max": 0.8754833480343223
+          },
+          "maxProcessRssMiB": {
+            "median": 105.109375,
+            "min": 101.1171875,
+            "max": 111.33203125
+          }
+        },
+        "unchanged": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "unchanged",
+              "sample": 1,
+              "wallSeconds": 0.14697486301884055,
+              "maxProcessRssMiB": 7.21875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "unchanged",
+              "sample": 2,
+              "wallSeconds": 0.14702779683284461,
+              "maxProcessRssMiB": 7.0546875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "unchanged",
+              "sample": 3,
+              "wallSeconds": 0.14572599809616804,
+              "maxProcessRssMiB": 7.0859375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "unchanged",
+              "sample": 4,
+              "wallSeconds": 0.14014761103317142,
+              "maxProcessRssMiB": 6.8828125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "unchanged",
+              "sample": 5,
+              "wallSeconds": 0.14266071189194918,
+              "maxProcessRssMiB": 7.12890625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            }
+          ],
+          "generatedOutputsBuilt": [
+            0
+          ],
+          "wallSeconds": {
+            "median": 0.14572599809616804,
+            "min": 0.14014761103317142,
+            "max": 0.14702779683284461
+          },
+          "maxProcessRssMiB": {
+            "median": 7.0859375,
+            "min": 6.8828125,
+            "max": 7.21875
+          }
+        },
+        "ordinary-page-edit": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "ordinary-page-edit",
+              "sample": 1,
+              "wallSeconds": 0.16137279896065593,
+              "maxProcessRssMiB": 8.86328125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "ordinary-page-edit",
+              "sample": 2,
+              "wallSeconds": 0.1518796719610691,
+              "maxProcessRssMiB": 8.73046875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "ordinary-page-edit",
+              "sample": 3,
+              "wallSeconds": 0.14986220793798566,
+              "maxProcessRssMiB": 9.1171875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "ordinary-page-edit",
+              "sample": 4,
+              "wallSeconds": 0.1556049040518701,
+              "maxProcessRssMiB": 8.37890625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "ordinary-page-edit",
+              "sample": 5,
+              "wallSeconds": 0.16870886599645019,
+              "maxProcessRssMiB": 8.61328125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            }
+          ],
+          "generatedOutputsBuilt": [
+            1
+          ],
+          "wallSeconds": {
+            "median": 0.1556049040518701,
+            "min": 0.14986220793798566,
+            "max": 0.16870886599645019
+          },
+          "maxProcessRssMiB": {
+            "median": 8.73046875,
+            "min": 8.37890625,
+            "max": 9.1171875
+          }
+        },
+        "homepage-edit": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "homepage-edit",
+              "sample": 1,
+              "wallSeconds": 0.18284906190820038,
+              "maxProcessRssMiB": 9.8671875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "homepage-edit",
+              "sample": 2,
+              "wallSeconds": 0.1528531510848552,
+              "maxProcessRssMiB": 9.70703125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "homepage-edit",
+              "sample": 3,
+              "wallSeconds": 0.14895295910537243,
+              "maxProcessRssMiB": 9.390625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "homepage-edit",
+              "sample": 4,
+              "wallSeconds": 0.15317741502076387,
+              "maxProcessRssMiB": 9.04296875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "homepage-edit",
+              "sample": 5,
+              "wallSeconds": 0.15863606589846313,
+              "maxProcessRssMiB": 9.11328125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            }
+          ],
+          "generatedOutputsBuilt": [
+            3
+          ],
+          "wallSeconds": {
+            "median": 0.15317741502076387,
+            "min": 0.14895295910537243,
+            "max": 0.18284906190820038
+          },
+          "maxProcessRssMiB": {
+            "median": 9.390625,
+            "min": 9.04296875,
+            "max": 9.8671875
+          }
+        },
+        "shared-layout": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "shared-layout",
+              "sample": 1,
+              "wallSeconds": 0.9124902240000665,
+              "maxProcessRssMiB": 83.51171875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "shared-layout",
+              "sample": 2,
+              "wallSeconds": 0.9371177169959992,
+              "maxProcessRssMiB": 84.09765625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "shared-layout",
+              "sample": 3,
+              "wallSeconds": 0.9235708790365607,
+              "maxProcessRssMiB": 83.31640625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "shared-layout",
+              "sample": 4,
+              "wallSeconds": 0.8605962451547384,
+              "maxProcessRssMiB": 84.08984375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "shared-layout",
+              "sample": 5,
+              "wallSeconds": 0.9526449090335518,
+              "maxProcessRssMiB": 83.53515625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            }
+          ],
+          "generatedOutputsBuilt": [
+            783
+          ],
+          "wallSeconds": {
+            "median": 0.9235708790365607,
+            "min": 0.8605962451547384,
+            "max": 0.9526449090335518
+          },
+          "maxProcessRssMiB": {
+            "median": 83.53515625,
+            "min": 83.31640625,
+            "max": 84.09765625
+          }
+        },
+        "navigation-edit": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "navigation-edit",
+              "sample": 1,
+              "wallSeconds": 0.8730962299741805,
+              "maxProcessRssMiB": 82.5390625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "navigation-edit",
+              "sample": 2,
+              "wallSeconds": 0.920168146956712,
+              "maxProcessRssMiB": 82.3125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "navigation-edit",
+              "sample": 3,
+              "wallSeconds": 0.8800207530148327,
+              "maxProcessRssMiB": 82.56640625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "navigation-edit",
+              "sample": 4,
+              "wallSeconds": 0.8754691118374467,
+              "maxProcessRssMiB": 83.84375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "navigation-edit",
+              "sample": 5,
+              "wallSeconds": 0.9042799309827387,
+              "maxProcessRssMiB": 81.93359375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            }
+          ],
+          "generatedOutputsBuilt": [
+            783
+          ],
+          "wallSeconds": {
+            "median": 0.8800207530148327,
+            "min": 0.8730962299741805,
+            "max": 0.920168146956712
+          },
+          "maxProcessRssMiB": {
+            "median": 82.5390625,
+            "min": 81.93359375,
+            "max": 83.84375
+          }
+        },
+        "css-edit": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "css-edit",
+              "sample": 1,
+              "wallSeconds": 0.9514476479962468,
+              "maxProcessRssMiB": 83.76953125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "css-edit",
+              "sample": 2,
+              "wallSeconds": 0.913177884882316,
+              "maxProcessRssMiB": 82.28515625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "css-edit",
+              "sample": 3,
+              "wallSeconds": 0.9143808290828019,
+              "maxProcessRssMiB": 83.05078125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "css-edit",
+              "sample": 4,
+              "wallSeconds": 0.9975706860423088,
+              "maxProcessRssMiB": 84.8828125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "css-edit",
+              "sample": 5,
+              "wallSeconds": 0.9458853029645979,
+              "maxProcessRssMiB": 83.86328125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            }
+          ],
+          "generatedOutputsBuilt": [
+            783
+          ],
+          "wallSeconds": {
+            "median": 0.9458853029645979,
+            "min": 0.913177884882316,
+            "max": 0.9975706860423088
+          },
+          "maxProcessRssMiB": {
+            "median": 83.76953125,
+            "min": 82.28515625,
+            "max": 84.8828125
+          }
+        },
+        "frontend-js-edit": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "frontend-js-edit",
+              "sample": 1,
+              "wallSeconds": 0.962489154888317,
+              "maxProcessRssMiB": 83.95703125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "frontend-js-edit",
+              "sample": 2,
+              "wallSeconds": 0.8770522298291326,
+              "maxProcessRssMiB": 83.62109375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "frontend-js-edit",
+              "sample": 3,
+              "wallSeconds": 0.9523995250929147,
+              "maxProcessRssMiB": 79.45703125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "frontend-js-edit",
+              "sample": 4,
+              "wallSeconds": 0.8938108799047768,
+              "maxProcessRssMiB": 82.171875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "frontend-js-edit",
+              "sample": 5,
+              "wallSeconds": 0.8943569280672818,
+              "maxProcessRssMiB": 83.88671875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 783
+            }
+          ],
+          "generatedOutputsBuilt": [
+            783
+          ],
+          "wallSeconds": {
+            "median": 0.8943569280672818,
+            "min": 0.8770522298291326,
+            "max": 0.962489154888317
+          },
+          "maxProcessRssMiB": {
+            "median": 83.62109375,
+            "min": 79.45703125,
+            "max": 83.95703125
+          }
+        },
+        "media-metadata-edit": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "media-metadata-edit",
+              "sample": 1,
+              "wallSeconds": 0.15358379390090704,
+              "maxProcessRssMiB": 6.953125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "media-metadata-edit",
+              "sample": 2,
+              "wallSeconds": 0.1394664729014039,
+              "maxProcessRssMiB": 7.29296875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "media-metadata-edit",
+              "sample": 3,
+              "wallSeconds": 0.1439823100809008,
+              "maxProcessRssMiB": 7.0,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "media-metadata-edit",
+              "sample": 4,
+              "wallSeconds": 0.14095539692789316,
+              "maxProcessRssMiB": 7.5,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "media-metadata-edit",
+              "sample": 5,
+              "wallSeconds": 0.14114338206127286,
+              "maxProcessRssMiB": 7.12109375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            }
+          ],
+          "generatedOutputsBuilt": [
+            0
+          ],
+          "wallSeconds": {
+            "median": 0.14114338206127286,
+            "min": 0.1394664729014039,
+            "max": 0.15358379390090704
+          },
+          "maxProcessRssMiB": {
+            "median": 7.12109375,
+            "min": 6.953125,
+            "max": 7.5
+          }
+        },
+        "three-page-edit": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "three-page-edit",
+              "sample": 1,
+              "wallSeconds": 0.19421045598573983,
+              "maxProcessRssMiB": 10.57421875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "three-page-edit",
+              "sample": 2,
+              "wallSeconds": 0.17099679703824222,
+              "maxProcessRssMiB": 10.86328125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "three-page-edit",
+              "sample": 3,
+              "wallSeconds": 0.17231778497807682,
+              "maxProcessRssMiB": 10.93359375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "three-page-edit",
+              "sample": 4,
+              "wallSeconds": 0.18200063100084662,
+              "maxProcessRssMiB": 10.48046875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "three-page-edit",
+              "sample": 5,
+              "wallSeconds": 0.20035388693213463,
+              "maxProcessRssMiB": 10.671875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 3
+            }
+          ],
+          "generatedOutputsBuilt": [
+            3
+          ],
+          "wallSeconds": {
+            "median": 0.18200063100084662,
+            "min": 0.17099679703824222,
+            "max": 0.20035388693213463
+          },
+          "maxProcessRssMiB": {
+            "median": 10.671875,
+            "min": 10.48046875,
+            "max": 10.93359375
+          }
+        },
+        "route-add": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "route-add",
+              "sample": 1,
+              "wallSeconds": 0.18263142881914973,
+              "maxProcessRssMiB": 8.69921875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-add",
+              "sample": 2,
+              "wallSeconds": 0.18171612289734185,
+              "maxProcessRssMiB": 8.83203125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-add",
+              "sample": 3,
+              "wallSeconds": 0.1907879849895835,
+              "maxProcessRssMiB": 8.296875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-add",
+              "sample": 4,
+              "wallSeconds": 0.17565929586999118,
+              "maxProcessRssMiB": 8.46875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-add",
+              "sample": 5,
+              "wallSeconds": 0.16512529598549008,
+              "maxProcessRssMiB": 8.70703125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            }
+          ],
+          "generatedOutputsBuilt": [
+            1
+          ],
+          "wallSeconds": {
+            "median": 0.18171612289734185,
+            "min": 0.16512529598549008,
+            "max": 0.1907879849895835
+          },
+          "maxProcessRssMiB": {
+            "median": 8.69921875,
+            "min": 8.296875,
+            "max": 8.83203125
+          }
+        },
+        "route-rename": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "route-rename",
+              "sample": 1,
+              "wallSeconds": 0.17148917401209474,
+              "maxProcessRssMiB": 8.76953125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-rename",
+              "sample": 2,
+              "wallSeconds": 0.17014904995448887,
+              "maxProcessRssMiB": 8.45703125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-rename",
+              "sample": 3,
+              "wallSeconds": 0.17136629298329353,
+              "maxProcessRssMiB": 8.29296875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-rename",
+              "sample": 4,
+              "wallSeconds": 0.17743231379427016,
+              "maxProcessRssMiB": 9.04296875,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-rename",
+              "sample": 5,
+              "wallSeconds": 0.15352231613360345,
+              "maxProcessRssMiB": 8.74609375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 1
+            }
+          ],
+          "generatedOutputsBuilt": [
+            1
+          ],
+          "wallSeconds": {
+            "median": 0.17136629298329353,
+            "min": 0.15352231613360345,
+            "max": 0.17743231379427016
+          },
+          "maxProcessRssMiB": {
+            "median": 8.74609375,
+            "min": 8.29296875,
+            "max": 9.04296875
+          }
+        },
+        "route-delete": {
+          "samples": [
+            {
+              "project": "spacex-agent",
+              "scenario": "route-delete",
+              "sample": 1,
+              "wallSeconds": 0.17250696592964232,
+              "maxProcessRssMiB": 6.859375,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-delete",
+              "sample": 2,
+              "wallSeconds": 0.16826296201907098,
+              "maxProcessRssMiB": 6.8515625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-delete",
+              "sample": 3,
+              "wallSeconds": 0.16668486595153809,
+              "maxProcessRssMiB": 7.16015625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-delete",
+              "sample": 4,
+              "wallSeconds": 0.15441631595604122,
+              "maxProcessRssMiB": 6.7890625,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            },
+            {
+              "project": "spacex-agent",
+              "scenario": "route-delete",
+              "sample": 5,
+              "wallSeconds": 0.16170359193347394,
+              "maxProcessRssMiB": 6.828125,
+              "phase": "Nift composition and dependency evaluation",
+              "frontendBundle": false,
+              "backendBuild": false,
+              "command": "nift build",
+              "generatedOutputsBuilt": 0
+            }
+          ],
+          "generatedOutputsBuilt": [
+            0
+          ],
+          "wallSeconds": {
+            "median": 0.16668486595153809,
+            "min": 0.15441631595604122,
+            "max": 0.17250696592964232
+          },
+          "maxProcessRssMiB": {
+            "median": 6.8515625,
+            "min": 6.7890625,
+            "max": 7.16015625
+          }
+        }
+      }
+    }
+  }
+}

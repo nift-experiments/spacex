@@ -1,0 +1,26 @@
+# Performance campaign and maintenance judgment
+
+The public source/build pipeline is unavailable. No SpaceX incumbent build measurement is claimed. This compares two reconstructed Nift source models only.
+
+## Architecture and profile
+
+`spacex`: maintained structured JSON, prose and native HTML partials → Nift dependency evaluation/composition → publication.
+`spacex-agent`: maintained rendered HTML and shared partials → Nift dependency evaluation/composition → publication.
+
+Normal production command is `nift build`; force recomputation is `nift build --all`. There is no routine Markdown conversion, browser bundling, backend compilation, media acquisition/copy/hash, search indexing or postprocessing. Static assets already live under public. Their pinned acquisition is an explicit setup operation. Nift's internal source/data/template/path work is one measured phase, not independently timed internals. No sampled tree RSS was collected; GNU time maximum individual process RSS is reported. Builds use the existing automatic thread setting on an i7-12700H, 20 logical CPUs, Nift 4.10.0. OS caches were uncontrolled.
+
+Exact prebenchmark revisions, all five serialized samples per scenario, medians/ranges and command scopes are in [performance-summary.json](evidence/performance-summary.json). Raw logs remain outside these repositories in the frozen-reference verification workspace. Asset installation, source mutations and route tracking commands are outside timed publication. Fresh application state clears only generated `.nift/public` metadata; maintained assets are retained. Shared probes append harmless maintained source markup; CSS adds an unused rule; JS adds a source comment plus its correct cache key; metadata appends valid JSON whitespace. These measure dependency/publication work, not the business impact of changed content. Ordinary authored mission and homepage probes change titles; rendered probes change maintained HTML.
+
+All full/fresh samples built 918 outputs. Ordinary mission edits build one; homepage inputs build three (including aliases); three mission edits build three; shared shell/navigation/CSS/JS edits build 783. Static runtime JSON edits build zero HTML. Route addition and rename build one; deletion removes its output without recomposing unrelated pages. Incremental and forced bytes match in the ten-check lifecycle campaign and restoration is exact. See [correctness](evidence/final-incremental-correctness.json).
+
+The initial full profiles and repeated campaign identify shared inline CSS/shell emission and dependency scanning as the remaining costs. No conversion or large runtime build is concealed. Production publication is already about one second; no speculative cache, thread tuning or benchmark-only shortcut was introduced. No Nift core changes were made. Publication has approximately 102 MB HTML, of which approximately 81 MB is repeated inline CSS; [publication size](evidence/publication-size.json) records the duplication explicitly. Externalizing appropriate shared styles is a future production optimization requiring its own parity pass, not an omitted mandatory build step.
+
+## Maintenance judgment
+
+For mixed human/agent editing, prefer **Nift `spacex` — authored source**. Its mission/homepage/careers records keep repeatable content authoritative and use native shared templates. For agents implementing under human direction, also prefer **Nift `spacex` — authored source**: sub-second ordinary iteration is already sufficient, and structured authoritative records reduce coordinated edits across repeated markup. The rendered project wins full publication time and is useful when an agent must maintain recovered HTML directly; it does not win every memory scenario. Shared high-coverage style blocks remain cumbersome in both models.
+
+If reconstruction cost is already paid, the same source-model preference holds. This is a comparison between the reconstructed projects, not an assessment of SpaceX's unseen private repository. Nift is a strong fit for the demonstrated visual/media-heavy public surface: it composes static pages, paths and data while native browser JavaScript retains animation, trackers and playback. Nift does not replace those browser runtimes or unavailable private services. The evidence warrants that bounded architectural conclusion, not a recommendation that SpaceX migrate private code we have not inspected.
+
+## Reproduction
+
+Install pinned assets once with `python3 scripts/setup-assets.py`, then run `nift build` and `python3 scripts/serve-preview.py --port 4173`. Offline parity preview adds `--offline-services`. Build/serve do not read sibling reference directories. Run `python3 scripts/benchmark-publication.py /absolute/project /absolute/external/results` for serialized time/RSS workloads; it temporarily changes and restores maintained sources. Run `python3 scripts/verify-incremental.py /absolute/project` for forced-byte-equivalence and lifecycle verification. Acquire evidence dependencies separately for publication auditing (`beautifulsoup4`); they are not build dependencies. The generated intermediate dependency state is disposable; maintained assets and tracked/config JSON must remain intact.

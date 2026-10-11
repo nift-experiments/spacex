@@ -1,0 +1,28 @@
+{
+  "html": {
+    "files": 829,
+    "bytes": 102199858
+  },
+  "other": {
+    "files": 270,
+    "bytes": 155069601
+  },
+  "js": {
+    "files": 25,
+    "bytes": 2175422
+  },
+  "media": {
+    "files": 2942,
+    "bytes": 3734833269
+  },
+  "inlineCssWithinHtml": {
+    "bytes": 80991687,
+    "uniqueBlockBytes": 2616598,
+    "blocks": 2890,
+    "qualification": "Already included in HTML bytes; not additional files or transfer. No standalone CSS files."
+  },
+  "inlineJsWithinHtml": {
+    "bytes": 64663,
+    "qualification": "Already included in HTML bytes; external JS reported separately."
+  }
+}

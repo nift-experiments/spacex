@@ -1,0 +1,18 @@
+{
+  "project": "spacex",
+  "commit": "5c94f5ea9e0539d5d516a5eeb478ced6e8e9e085",
+  "freshGitHubClone": true,
+  "setup": "All seven release manifests verified through immutable SHA256 object cache; prior remote acquisition proof retained. Cache is setup-only, not used by normal build/serve.",
+  "normalBuild": "nift build",
+  "generatedOutputHashesEqualMaintainedProject": true,
+  "generatedOutputFiles": 918,
+  "publicationDigest": "499e2e9781fdb870162fdf6a1520c840788825d5f273310df2d3d4735fb9bab5",
+  "buildWallSeconds": 1.48,
+  "maxProcessRssMiB": 107.203125,
+  "normalPreview": {
+    "homepageStatus": 200,
+    "siteJsStatus": 200,
+    "offlineServices": true,
+    "siblingReferenceRequired": false
+  }
+}
