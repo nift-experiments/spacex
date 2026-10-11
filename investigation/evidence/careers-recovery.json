@@ -1,0 +1,21 @@
+{
+  "sourceUrl": "https://content.spacex.com/cms-assets/job_posts_new.json",
+  "sha256": "1d14370ee5e282e86c048424ff33f84172083141f42efdbc16364390d70c0e7a",
+  "bytes": 874048,
+  "jobs": 3059,
+  "uniqueJobIds": 3058,
+  "publicDuplicateRecordPreserved": true,
+  "groups": 57,
+  "publicationRecordsExact": true,
+  "browserChecks": {
+    "authoredRaptorCount": 78,
+    "authoredRaptorStarshipCount": 76,
+    "renderedMobileRaptorStarshipCount": 76,
+    "renderedMobileClearAllCount": 3059,
+    "authoredFilteredTextUrlOrderMatchesReference": true,
+    "authoredHomepageSearchNavigatesWithKeywordProgram": true,
+    "renderedMobileApplyClosesPanel": true
+  },
+  "fullParityAccepted": false,
+  "metadataProvenance": "Canonical acquisition receipts remain in spacex-baseline; lazy public careers GET inputs were added explicitly after initial capture omitted them."
+}

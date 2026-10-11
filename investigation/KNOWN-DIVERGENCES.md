@@ -8,8 +8,9 @@ No final parity claim is made. These are open verification/implementation items,
 | Playback streams | Bounded offline reference | Captured initial segments remain local; uncaptured tails retain canonical public URLs. Full-stream offline archival is not claimed. |
 | Private form submissions | Private service boundary | Public UI and confirmation routes recovered; no CAPTCHA success, credentials, real submissions or fabricated backend success. |
 | Form conditional fields and validation | Open behavioral parity | Basic native fields, checkboxes, radios and contact/website conditions work; full conditional/validation matrix remains open. |
-| Mission gallery, watch, crew, tracker | Open behavioral parity | Source-backed pages are present; remaining controllers and browser states require closure. |
+| Mission gallery, watch, crew, tracker | Open behavioral parity | 143 galleries/411 slides, 21 crew missions/80 portraits, 22 multi-webcast lists and native trackers have representative evidence. Complete responsive/runtime states remain open. |
 | Marketing tabs and carousels | Open behavioral parity | Native carousel foundation exists; complete family/state coverage remains open. |
+| Careers | Open final behavioral/visual parity | All 3,059 records and representative keyword/program/mobile reset states pass; full filter combinations and viewport matrix remain open. |
 | Responsive layout/media | Open visual parity | Desktop source capture exists; viewport matrix and asset switching remain open. |
 | Legacy links and malformed public content | Inherited defects documented | Legacy destinations reconciled; the 34,500-reference audit leaves the public DemoSat malformed href and Earth undefined iframe. See evidence/inherited-source-defects.json. |
 | External YouTube/service embeds | External service boundary | Original public URLs preserved; offline CSP blocks third-party activity. Embedded playback is not represented as an offline preservation claim. |

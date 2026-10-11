@@ -1,0 +1,160 @@
+{
+  "programs": [
+    "Starlink",
+    "Starship",
+    "Corporate",
+    "Starshield",
+    "Falcon",
+    "Dragon",
+    "SpaceXAI"
+  ],
+  "locations": [
+    "Hawthorne, CA",
+    "Bastrop, TX",
+    "Starbase, TX",
+    "Redmond, WA",
+    "Cape Canaveral, FL",
+    "Palo Alto, CA",
+    "McGregor, TX",
+    "Woodinville, WA",
+    "Washington, DC",
+    "Memphis, TN",
+    "Austin, TX",
+    "Vandenberg, CA",
+    "College Station, TX",
+    "Irvine, CA",
+    "Remote",
+    "Canandaigua, NY ",
+    "Flexible - Any SpaceX Site",
+    "Dublin, Ireland",
+    "Sunnyvale, CA",
+    "Sao Paulo, Brazil",
+    "Bloomfield, CT",
+    "Pecan Island, LA",
+    "Singapore",
+    "Bangalore, India",
+    "Westminster, MD",
+    "New York City, NY",
+    "Anderson, TX",
+    "Long Beach, CA",
+    "Bellevue, WA",
+    "Toronto, Canada",
+    "Tokyo, Japan",
+    "Hanoi, Vietnam",
+    "Nairobi, Kenya",
+    "New York, NY",
+    "Remote US",
+    "Remote International",
+    "Southaven, MS",
+    "London, England, United Kingdom",
+    "Los Angeles, CA",
+    "Hillsboro, OR",
+    "Asia",
+    "Australia",
+    "Canada",
+    "Europe",
+    "US",
+    "Seattle, WA",
+    "Madrid, Spain"
+  ],
+  "disciplines": {
+    "Corporate": {
+      "disciplines": [
+        "Customer Support",
+        "Environmental Health & Safety",
+        "Finance & Accounting",
+        "Government Affairs",
+        "Human Resources",
+        "Legal",
+        "Marketing & Communications",
+        "Sales & Business Operations"
+      ]
+    },
+    "Engineering": {
+      "disciplines": [
+        "Aerospace & Mechanical",
+        "Automation & Controls",
+        "Civil",
+        "Electrical",
+        "Industrial & Operations",
+        "Information Technology",
+        "Materials",
+        "Network",
+        "Security",
+        "Silicon",
+        "Software & Analytics",
+        "Engineering",
+        "Information Security",
+        "Product",
+        "Model",
+        "Infrastructure"
+      ]
+    },
+    "Manufacturing": {
+      "disciplines": [
+        "Assembly & Integration",
+        "Automation & Controls and Maintenance",
+        "Electronics",
+        "Entry Level Manufacturing",
+        "Leadership",
+        "Machining",
+        "NonDestructive Evaluation",
+        "Other Manufacturing",
+        "PCB, Silicon, and Solar",
+        "Quality",
+        "Welding"
+      ]
+    },
+    "Operations": {
+      "disciplines": [
+        "Construction",
+        "Facilities",
+        "Food Services",
+        "Physical Security"
+      ]
+    },
+    "Other": {
+      "disciplines": [
+        "Other"
+      ]
+    },
+    "Supply Chain & Logistics": {
+      "disciplines": [
+        "Materials Management & Warehouse",
+        "Sourcing & Planning",
+        "Supply Chain Engineering"
+      ]
+    },
+    "G&A": {
+      "disciplines": [
+        "G&A",
+        "Information Technology",
+        "Operations",
+        "Legal",
+        "Safety",
+        "People"
+      ]
+    },
+    "Human Data": {
+      "disciplines": [
+        "Human Data",
+        "Post-Training",
+        "Legal & Compliance",
+        "Software Engineering",
+        "Vision"
+      ]
+    },
+    "Data Center": {
+      "disciplines": [
+        "Data Center"
+      ]
+    },
+    "GTM": {
+      "disciplines": [
+        "Sales",
+        "Marketing"
+      ]
+    }
+  },
+  "employmentTypes": []
+}
