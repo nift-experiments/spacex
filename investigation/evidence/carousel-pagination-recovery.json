@@ -62,5 +62,53 @@
     "buttons": 3,
     "capture": "vehicles-starship.1280x720.10903ce02148.json",
     "captureSha256": "10903ce02148fd8b51dc7b293afd9b6184e2475ae09a77d24fcc6c3767dac3d2"
+  },
+  {
+    "project": "spacex",
+    "route": "/humanspaceflight",
+    "carousel": 0,
+    "buttons": 4,
+    "capture": "humanspaceflight.1280x720.706104c70828.json",
+    "captureSha256": "706104c7082848303090b4b55c1c170bda991540b8c91e5d90887ea78116ad13"
+  },
+  {
+    "project": "spacex",
+    "route": "/humanspaceflight",
+    "carousel": 1,
+    "buttons": 12,
+    "capture": "humanspaceflight.1280x720.706104c70828.json",
+    "captureSha256": "706104c7082848303090b4b55c1c170bda991540b8c91e5d90887ea78116ad13"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/humanspaceflight",
+    "carousel": 0,
+    "buttons": 4,
+    "capture": "humanspaceflight.1280x720.706104c70828.json",
+    "captureSha256": "706104c7082848303090b4b55c1c170bda991540b8c91e5d90887ea78116ad13"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/humanspaceflight",
+    "carousel": 1,
+    "buttons": 12,
+    "capture": "humanspaceflight.1280x720.706104c70828.json",
+    "captureSha256": "706104c7082848303090b4b55c1c170bda991540b8c91e5d90887ea78116ad13"
+  },
+  {
+    "project": "spacex",
+    "route": "/mission",
+    "carousel": 0,
+    "buttons": 9,
+    "capture": "mission.1280x720.0032eeec494c.json",
+    "captureSha256": "0032eeec494c9311d9972d10d0096b6d627f6c90764db28b341e6368087c3c84"
+  },
+  {
+    "project": "spacex-agent",
+    "route": "/mission",
+    "carousel": 0,
+    "buttons": 9,
+    "capture": "mission.1280x720.0032eeec494c.json",
+    "captureSha256": "0032eeec494c9311d9972d10d0096b6d627f6c90764db28b341e6368087c3c84"
   }
 ]

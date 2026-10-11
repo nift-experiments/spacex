@@ -1,0 +1,13 @@
+{
+  "sourceSha256": "9bb00061f5a28d2ea6f696fb216869293bc7fc843ede55d167e06500f508dd34",
+  "routes": {
+    "USSF-481 Mission": "launches/ussf481/",
+    "Starlink Mission": "launches/sl-15-25/",
+    "Crew-13 Mission": "launches/crew13/",
+    "CRS-35 Mission": "launches/crs35/"
+  },
+  "referenceCrew13ClickConfirmed": true,
+  "referenceCrew13EnterNoNavigationObserved": true,
+  "nativeEnterAlsoSupported": true,
+  "countdownParityOpen": true
+}

@@ -389,3 +389,9 @@ The two public Sites reveal observers now retain their captured thresholds, root
 ### Mid-South environment scroll controller
 
 The public 5789 bundle supplies the exact chapter hysteresis, 340 ms departure transition, reduced-motion branch, mobile cutoff, and wheel/touch click-lock release. These are maintained in a bounded native controller. Authored browser checks verify manual Power selection/focus and automatic Air selection without focus transfer; programmatic scrolling correctly retains the manual click lock. Complete touch/viewport transition parity remains open.
+
+### Carousel controls, active launch navigation, and checkout verification
+
+Human Spaceflight has recovered 4-slide and 12-slide pagination groups; Mission has its captured 9-slide group. Authored browser direct selection of timeline slide 12 displays the 2023 Starship test and disables Next. Four ongoing/upcoming rows now resolve their frozen CMS destinations using @path; Crew-13 navigation is confirmed in the reference by click and in authored output by Enter (the public row did not navigate on Enter). Dynamic countdowns remain open.
+
+Fresh verification checkouts at authored aa9c5b9 and rendered 2e4e439 acquire all five pinned bundles, build all 918 outputs, and pass publication audits. Their only generated audit-file changes were preserved outside the checkout then restored, leaving both verification trees clean. Raw logs and acquisition data remain under spacex-baseline/verification. This verifies that checkpoint, not final parity acceptance.

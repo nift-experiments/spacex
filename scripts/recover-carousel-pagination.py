@@ -7,6 +7,8 @@ plans=json.loads((H/'investigation/evidence/page-family-recovery.json').read_tex
 for plan in plans:
  route=plan['route'].strip('/');capture=B/'browser-captures'/plan['capture']
  if route=='vehicles/starship':capture=B/'browser-captures/vehicles-starship.1280x720.10903ce02148.json'
+ if route=='humanspaceflight':capture=B/'browser-captures/humanspaceflight.1280x720.706104c70828.json'
+ if route=='mission':capture=B/'browser-captures/mission.1280x720.0032eeec494c.json'
  record=json.loads(capture.read_text());shadows=[BeautifulSoup(x['html'],'html.parser') for x in record.get('shadowRoots',[]) if x['tag']=='swiper-container']
  if not shadows:continue
  for project in (H,A):

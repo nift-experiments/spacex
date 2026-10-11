@@ -58,3 +58,11 @@ if (completed) {
   rows.forEach(row=>{row.addEventListener('click',()=>location.assign(row.dataset.route));row.addEventListener('keydown',event=>{if(event.key==='Enter')location.assign(row.dataset.route);});});
   updateSizes();render();
 }
+
+// Ongoing and upcoming rows preserve their public mission destination.
+for (const row of document.querySelectorAll('tr[data-active-launch]')) {
+  row.addEventListener('click', () => location.assign(row.dataset.route));
+  row.addEventListener('keydown', event => {
+    if (event.key === 'Enter') location.assign(row.dataset.route);
+  });
+}
