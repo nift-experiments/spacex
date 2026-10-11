@@ -1,0 +1,20 @@
+{
+  "desktop": {
+    "viewport": [
+      1280,
+      720
+    ],
+    "authoredHeadingFooterGeometryExact": true,
+    "comparedElements": 8
+  },
+  "mobile": {
+    "viewport": [
+      390,
+      844
+    ],
+    "featuredDateRestoredBoth": true,
+    "remainingFeaturedHeadingOffsetPx": 6,
+    "remainingUpcomingHeightDeltaPx": 3
+  },
+  "fullVisualParityAccepted": false
+}

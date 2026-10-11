@@ -1,0 +1,137 @@
+{
+  "projects": {
+    "spacex": {
+      "commit": "82352a104e2baf51b215f17e171e924e95bd01fa",
+      "checks": [
+        {
+          "scenario": "unchanged",
+          "noGeneratedWrites": true
+        },
+        {
+          "scenario": "ordinary-content",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 1,
+          "changedGeneratedFiles": 1
+        },
+        {
+          "scenario": "shared-layout",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 783,
+          "changedGeneratedFiles": 783
+        },
+        {
+          "scenario": "shared-navigation",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 783,
+          "changedGeneratedFiles": 783
+        },
+        {
+          "scenario": "shared-css",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 783,
+          "changedGeneratedFiles": 783
+        },
+        {
+          "scenario": "frontend-js-with-cache-key",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 784,
+          "changedGeneratedFiles": 783
+        },
+        {
+          "scenario": "maintained-media-metadata",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 1,
+          "changedGeneratedFiles": 0
+        },
+        {
+          "scenario": "route-add",
+          "incrementalEqualsForcedFull": true
+        },
+        {
+          "scenario": "route-rename",
+          "incrementalEqualsForcedFull": true,
+          "oldOutputAbsent": true
+        },
+        {
+          "scenario": "route-delete",
+          "incrementalEqualsForcedFull": true,
+          "removedOutputAbsent": true
+        }
+      ],
+      "restoredPublicationExact": true,
+      "freshGitHubClone": true,
+      "allSevenMaintainedAssetBundlesVerified": true,
+      "fullBuildOutputs": 918,
+      "unclassifiedMissingReferences": 0,
+      "documentedInheritedDefects": 2
+    },
+    "spacex-agent": {
+      "commit": "082af850dbc2b91fca670c292f56f089e471ac49",
+      "checks": [
+        {
+          "scenario": "unchanged",
+          "noGeneratedWrites": true
+        },
+        {
+          "scenario": "ordinary-content",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 1,
+          "changedGeneratedFiles": 1
+        },
+        {
+          "scenario": "shared-layout",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 783,
+          "changedGeneratedFiles": 783
+        },
+        {
+          "scenario": "shared-navigation",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 783,
+          "changedGeneratedFiles": 783
+        },
+        {
+          "scenario": "shared-css",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 783,
+          "changedGeneratedFiles": 783
+        },
+        {
+          "scenario": "frontend-js-with-cache-key",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 784,
+          "changedGeneratedFiles": 783
+        },
+        {
+          "scenario": "maintained-media-metadata",
+          "incrementalEqualsForcedFull": true,
+          "changedPublicationFiles": 1,
+          "changedGeneratedFiles": 0
+        },
+        {
+          "scenario": "route-add",
+          "incrementalEqualsForcedFull": true
+        },
+        {
+          "scenario": "route-rename",
+          "incrementalEqualsForcedFull": true,
+          "oldOutputAbsent": true
+        },
+        {
+          "scenario": "route-delete",
+          "incrementalEqualsForcedFull": true,
+          "removedOutputAbsent": true
+        }
+      ],
+      "restoredPublicationExact": true,
+      "freshGitHubClone": true,
+      "allSevenMaintainedAssetBundlesVerified": true,
+      "fullBuildOutputs": 918,
+      "unclassifiedMissingReferences": 0,
+      "documentedInheritedDefects": 2
+    }
+  },
+  "canonicalEvidence": "spacex-baseline/verification/*-20261012-{build,audit,incremental}.{log,json}",
+  "finalParityAccepted": false,
+  "storageQualification": "Authored temporary asset copies retired only after digest verification and completed checks; maintained project/cache/reference/bundles untouched. Temporary rendered checkout currently retains its verified assets."
+}
