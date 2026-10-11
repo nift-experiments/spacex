@@ -8,6 +8,8 @@
 <div class="bottom"><div>@input('$[mission.leftProse]')</div><div>@input('$[mission.rightProse]')</div></div>
 @input('templates/mission-crew.html')
 @input('templates/webcast-list.html')
+@if(mission.vehicleTrackerEnabled){<div class="section"><div class="section-inner tracker-section-inner">@input('templates/families/vehicle-tracker.html')@input('templates/trackers/vehicle-tracker.html')</div></div>}
+@if(mission.followDragonEnabled){<div class="section"><div class="section-inner dragon-section-inner">@input('templates/families/follow-dragon.html')@input('templates/trackers/follow-dragon.html')</div></div>}
 @if(mission.preTimeline){@input('templates/pre-timeline.html')}
 @if(mission.infographicDesktop){<div class="launch-infographic"><picture><source media="(max-width:961px)" srcset="@path('$[mission.infographicMobile]')"><img loading="lazy" src="@path('$[mission.infographicDesktop]')" alt=""></picture></div>}
 @if(mission.postTimeline){@input('templates/post-timeline.html')}

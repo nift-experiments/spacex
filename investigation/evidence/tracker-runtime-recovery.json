@@ -1,0 +1,63 @@
+{
+  "families": [
+    {
+      "family": "vehicle-tracker",
+      "sourceSha256": "ca2c6879275ff8085d457f37aa5b050a4f9e101f7a7338c7facb2c7f866ee899",
+      "textures": 10,
+      "snapshotEndpoints": [
+        "dragon_tracker_public.json",
+        "starship_tracker_public.json"
+      ],
+      "productionTelemetry": "Original public URLs",
+      "offlineTelemetry": "Explicit frozen public JSON snapshots"
+    },
+    {
+      "family": "follow-dragon",
+      "sourceSha256": "84edb9d55b4b45a53f84736e96f17c2a58ae7ad3b5ac7c44f53e85dfbeabdf2e",
+      "textures": 7,
+      "snapshotEndpoints": [
+        "dragon_public.json"
+      ],
+      "productionTelemetry": "Original public URLs",
+      "offlineTelemetry": "Explicit frozen public JSON snapshots"
+    }
+  ],
+  "sourceWrapperCorrection": "nested body becomes a scoped div",
+  "browserParityAccepted": false,
+  "embeddedMissions": [
+    {
+      "mission": "starship-flight-12",
+      "family": "vehicle-tracker"
+    },
+    {
+      "mission": "crew13",
+      "family": "vehicle-tracker"
+    },
+    {
+      "mission": "crew10",
+      "family": "follow-dragon"
+    },
+    {
+      "mission": "crew11",
+      "family": "follow-dragon"
+    }
+  ],
+  "representativeBrowserChecks": {
+    "followDragon": {
+      "reference": "MISSION TIME28:13:34DAY/HR/MINSPEED26,517KM/HALTITUDE418KM",
+      "nativeMatches": true,
+      "referenceCanvasCount": 1,
+      "nativeCanvasCount": 1
+    },
+    "vehicleTracker": {
+      "missionTime": "T+ 9D 22:52",
+      "speed": "26,474 KM/H",
+      "altitude": "427 KM",
+      "nativeMatches": true
+    },
+    "renderedCrew13": {
+      "embeddedCanvasCount": 1,
+      "frozenMode": true
+    }
+  }
+}

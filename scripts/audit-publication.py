@@ -9,6 +9,7 @@ for name in (project.name,):
  for page in pages:
   output=p/'public'/page['name'].strip('/')/'index.html';assert output.is_file(),output
   text=output.read_text();assert '@path(' not in text and '@input(' not in text,output
+  assert not re.search(r'(?:127\.0\.0\.1|localhost):4201',text),('Reference origin in published inline content',output)
   dom=BeautifulSoup(text,'html.parser');urls=[]
   for node in dom.find_all(True):
    for attr in ('href','src','poster','data-mobile','data-media-stream','data-hls-runtime','data-route'):
