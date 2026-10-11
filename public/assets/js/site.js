@@ -75,6 +75,8 @@ for (const counter of document.querySelectorAll('[data-count-target]')) {
 
 // Native carousel boundary; no Angular or Swiper runtime is retained.
 for (const carousel of document.querySelectorAll('.sx-carousel')) {
+  // Delivered swiperControlsAtBottom adds the public bottom-padding class.
+  carousel.classList.toggle('bottom-padding', carousel.nextElementSibling?.classList.contains('bottom-swiper-controls') === true);
   const wrapper = carousel.querySelector(':scope > .swiper-wrapper');
   const slides = Array.from(wrapper.children);
   const family = carousel.closest('[data-sx-host]');

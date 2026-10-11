@@ -1,0 +1,50 @@
+{
+  "sourceModule": "3021.b79b508566ce1ead.js",
+  "sha256": "e8d48552f69cc9708059e6abc55567ee892850e54dd33f1584b52cb20bc9b6ac",
+  "publicRule": "swiperControlsAtBottom adds bottom-padding to the container; desktop padding-bottom is 60px, captured mobile rule sets it to zero.",
+  "applicablePublicationInstances": [
+    {
+      "route": "vehicles",
+      "carouselGroups": 1
+    },
+    {
+      "route": "updates",
+      "carouselGroups": 1
+    },
+    {
+      "route": "humanspaceflight",
+      "carouselGroups": 2
+    },
+    {
+      "route": "humanspaceflight/overview",
+      "carouselGroups": 2
+    },
+    {
+      "route": "updates/nasa-certification-11-10-2020",
+      "carouselGroups": 1
+    },
+    {
+      "route": "vehicles/falcon-heavy",
+      "carouselGroups": 1
+    },
+    {
+      "route": "vehicles/falcon-9",
+      "carouselGroups": 1
+    },
+    {
+      "route": "vehicles/dragon",
+      "carouselGroups": 1
+    }
+  ],
+  "browserChecks": {
+    "authoredFalconHeavyDesktopBottomPaddingPx": 60,
+    "authoredFalconHeavyFooterDocumentTopMatchesReference": true,
+    "fourVehicleHeroLayoutGeometryExactAt1280x720": true,
+    "renderedFalconHeavyDesktopBottomPaddingPx": 60,
+    "renderedFalconHeavyFooterDocumentTopMatchesReference": true,
+    "renderedFalconHeavyMobileAt390x844LayoutAndPaddingExact": true,
+    "mobileBottomPaddingPx": 0
+  },
+  "geometryMethod": "Document layout position from parent rectangle + scroll offset + heading offsetTop; reveal animation phase is excluded, not asserted equal by this check.",
+  "fullParityAccepted": false
+}
